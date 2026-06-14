@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Pipeline run artifacts
+last_run_state.json
+exports/
+auto_assets/
+segments/
+segments_cricket/
+capcut_build/
+drafts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep example MP4s in examples/ but ignore stray renders elsewhere
+/*.mp4

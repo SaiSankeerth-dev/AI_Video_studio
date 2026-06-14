@@ -1,0 +1,16 @@
+# Core pipeline runs with the standard library only (mock mode, zero deps).
+# Install extras only for the live paths you want:
+
+# Live LLMs (pick what you use):
+# openai            # python main.py "Topic" --real   (needs OPENAI_API_KEY)
+# google-genai      # python main.py "Topic" --gemini (needs GEMINI_API_KEY)
+# ollama            # python main.py "Topic" --ollama (local, no key)
+
+# Real MP4 rendering via the render.py seam:
+# moviepy           # plus a system ffmpeg install
+
+# Autonomous/Hybrid real stock footage:
+#   set PEXELS_API_KEY=...   (no key -> offline generated B-roll)
+
+# The ffmpeg teaser tools (tools/build_teaser.py, build_cricket.py) require a
+# system `ffmpeg` binary and a bold .ttf font (set HYPE_FONT to override the path).
