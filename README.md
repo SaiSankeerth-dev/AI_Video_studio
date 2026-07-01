@@ -1,5 +1,7 @@
 # AI Shorts Studio — top-level multi-agent system
 
+![License](https://img.shields.io/github/license/SaiSankeerth-dev/AI_Video_studio) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![Mock mode](https://img.shields.io/badge/runs-offline%20mock%20mode-brightgreen)
+
 A runnable multi-agent pipeline that takes a **topic** and produces an **edit-ready
 timeline + platform exports** for YouTube Shorts / Reels / TikTok.
 
