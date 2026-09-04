@@ -1,0 +1,17 @@
+{
+  "entity_id": "researcher_01",
+  "primary_outfit": {
+    "jacket": "Dark charcoal technical softshell zip jacket with low-profile collar",
+    "base_layer": "Solid black matte crewneck shirt",
+    "pants": "Tailored dark slate industrial trousers",
+    "accessories": [
+      "Lanyard with cryptographic smartcard badge reading 'HELIX SAFETY RESEARCH - LEVEL 4'",
+      "Matte black smart ring on right index finger"
+    ]
+  },
+  "color_invariants": {
+    "jacket_hex": "#1E2024",
+    "shirt_hex": "#0D0E11",
+    "lanyard_accent": "#00F0FF"
+  }
+}

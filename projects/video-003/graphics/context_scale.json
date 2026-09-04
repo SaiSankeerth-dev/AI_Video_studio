@@ -1,0 +1,24 @@
+{
+  "graphic_id": "GFX-CS01",
+  "title": "1,050,000 Token Working Memory Scale Comparison",
+  "context_tokens": 1050000,
+  "output_tokens": 128000,
+  "equivalencies": [
+    {
+      "domain": "Software Repositories",
+      "amount": "150 Full Repositories (AST + history)"
+    },
+    {
+      "domain": "Technical Literature",
+      "amount": "3,500 Full-Length Academic Papers"
+    },
+    {
+      "domain": "Operational Logs",
+      "amount": "48 Hours Continuous Server Audit Telemetry"
+    },
+    {
+      "domain": "Financial Filings",
+      "amount": "45 Annual 10-K Comprehensive Filings"
+    }
+  ]
+}

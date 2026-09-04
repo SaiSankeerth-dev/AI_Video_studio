@@ -1,0 +1,249 @@
+{
+  "title": "The Teenager Who Hacked the CIA",
+  "episode_id": "video-003",
+  "total_frames": 5383,
+  "total_seconds": 179.43333333333334,
+  "fps": 30,
+  "sentences": [
+    {
+      "id": "c01",
+      "text": "Deep inside the American intelligence community, security protocols are designed to repel sovereign nations.",
+      "audio_file": "audio/v03_sentences/c01.mp3",
+      "duration_seconds": 7.104,
+      "startFrame": 0,
+      "durationFrames": 219,
+      "visual_mode": "CIA_LANGLEY_EXTERIOR",
+      "sfx": "ambient-drone"
+    },
+    {
+      "id": "c02",
+      "text": "Encrypted networks, air-gapped mainframes, and billions of dollars in cryptographic defense.",
+      "audio_file": "audio/v03_sentences/c02.mp3",
+      "duration_seconds": 6.504,
+      "startFrame": 219,
+      "durationFrames": 201,
+      "visual_mode": "SECURITY_DASHBOARD",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c03",
+      "text": "Yet in October twenty-fifteen, the personal communications of the CIA Director were quietly penetrated.",
+      "audio_file": "audio/v03_sentences/c03.mp3",
+      "duration_seconds": 6.648,
+      "startFrame": 420,
+      "durationFrames": 205,
+      "visual_mode": "BREACH_ALERT_CARD",
+      "sfx": "alert"
+    },
+    {
+      "id": "c04",
+      "text": "The intruder was not a foreign intelligence agency or a team of elite cyber operatives.",
+      "audio_file": "audio/v03_sentences/c04.mp3",
+      "duration_seconds": 6.144,
+      "startFrame": 625,
+      "durationFrames": 190,
+      "visual_mode": "TERMINAL_PROMPT",
+      "sfx": null
+    },
+    {
+      "id": "c05",
+      "text": "He was a fifteen-year-old schoolboy sitting in a bedroom in the English Midlands.",
+      "audio_file": "audio/v03_sentences/c05.mp3",
+      "duration_seconds": 5.064,
+      "startFrame": 815,
+      "durationFrames": 158,
+      "visual_mode": "BEDROOM_WORKSTATION",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "c06",
+      "text": "Operating under the pseudonym Cracka, Kane Gamble led a loosely organized teenage collective called CWA.",
+      "audio_file": "audio/v03_sentences/c06.mp3",
+      "duration_seconds": 7.296,
+      "startFrame": 973,
+      "durationFrames": 225,
+      "visual_mode": "TITLE_CARD_CIA",
+      "sfx": "impact"
+    },
+    {
+      "id": "c07",
+      "text": "They possessed no advanced zero-day exploits and wrote no custom weaponized malware.",
+      "audio_file": "audio/v03_sentences/c07.mp3",
+      "duration_seconds": 6.216,
+      "startFrame": 1198,
+      "durationFrames": 192,
+      "visual_mode": "CODE_VS_PHONE_DIAGRAM",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c08",
+      "text": "Their weapon was far simpler: an encyclopedic mastery of social engineering over customer support telephone lines.",
+      "audio_file": "audio/v03_sentences/c08.mp3",
+      "duration_seconds": 7.944,
+      "startFrame": 1390,
+      "durationFrames": 244,
+      "visual_mode": "TELEPHONE_CLOSEUP",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "c09",
+      "text": "The breach began with a phone call to a major telecommunications provider.",
+      "audio_file": "audio/v03_sentences/c09.mp3",
+      "duration_seconds": 4.656,
+      "startFrame": 1634,
+      "durationFrames": 146,
+      "visual_mode": "CALL_CENTER_REENACTMENT",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "c10",
+      "text": "Posing as an internal field technician, Gamble claimed his employee portal was down and needed urgent account verification.",
+      "audio_file": "audio/v03_sentences/c10.mp3",
+      "duration_seconds": 7.848,
+      "startFrame": 1780,
+      "durationFrames": 241,
+      "visual_mode": "PRETEXTING_STEP_DIAGRAM",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "c11",
+      "text": "By projecting calm confidence and providing basic public details, he tricked the operator into resetting the security PIN.",
+      "audio_file": "audio/v03_sentences/c11.mp3",
+      "duration_seconds": 8.256,
+      "startFrame": 2021,
+      "durationFrames": 254,
+      "visual_mode": "OPERATOR_CONVERSATION",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c12",
+      "text": "With the mobile account compromised, the teenagers triggered password resets across private email and cloud storage.",
+      "audio_file": "audio/v03_sentences/c12.mp3",
+      "duration_seconds": 7.824,
+      "startFrame": 2275,
+      "durationFrames": 241,
+      "visual_mode": "CREDENTIAL_CASCADE_MAP",
+      "sfx": "impact"
+    },
+    {
+      "id": "c13",
+      "text": "Inside the private inbox lay a forty-seven-page top-secret security clearance questionnaire.",
+      "audio_file": "audio/v03_sentences/c13.mp3",
+      "duration_seconds": 7.224,
+      "startFrame": 2516,
+      "durationFrames": 223,
+      "visual_mode": "SF86_DOCUMENT_EVIDENCE",
+      "sfx": "alert"
+    },
+    {
+      "id": "c14",
+      "text": "The document contained personal identification numbers, family backgrounds, and sensitive intelligence contacts.",
+      "audio_file": "audio/v03_sentences/c14.mp3",
+      "duration_seconds": 6.984,
+      "startFrame": 2739,
+      "durationFrames": 216,
+      "visual_mode": "DOCUMENT_REDACTED_SCAN",
+      "sfx": null
+    },
+    {
+      "id": "c15",
+      "text": "Within weeks, the group escalated further, targeting the FBI Deputy Director and Department of Homeland Security.",
+      "audio_file": "audio/v03_sentences/c15.mp3",
+      "duration_seconds": 7.752,
+      "startFrame": 2955,
+      "durationFrames": 239,
+      "visual_mode": "GOVERNMENT_SEAL_CASCADE",
+      "sfx": "impact"
+    },
+    {
+      "id": "c16",
+      "text": "They even breached law enforcement portals, accessing thousands of internal arrest records and agent dossiers.",
+      "audio_file": "audio/v03_sentences/c16.mp3",
+      "duration_seconds": 8.04,
+      "startFrame": 3194,
+      "durationFrames": 247,
+      "visual_mode": "JABS_PORTAL_TERMINAL",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c17",
+      "text": "As federal agencies launched an international manhunt, the teenagers grew increasingly reckless.",
+      "audio_file": "audio/v03_sentences/c17.mp3",
+      "duration_seconds": 6.864,
+      "startFrame": 3441,
+      "durationFrames": 212,
+      "visual_mode": "FBI_INVESTIGATION_TABLE",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c18",
+      "text": "Taunting officials online and speaking to journalists, they committed the cardinal sin of operational security.",
+      "audio_file": "audio/v03_sentences/c18.mp3",
+      "duration_seconds": 7.68,
+      "startFrame": 3653,
+      "durationFrames": 236,
+      "visual_mode": "SOCIAL_MEDIA_TAUNT_CARD",
+      "sfx": "alert"
+    },
+    {
+      "id": "c19",
+      "text": "A single unproxied network connection and telephone record allowed British cybercrime investigators to triangulate the home address.",
+      "audio_file": "audio/v03_sentences/c19.mp3",
+      "duration_seconds": 9.744,
+      "startFrame": 3889,
+      "durationFrames": 298,
+      "visual_mode": "GEOGRAPHIC_IP_TRACKER",
+      "sfx": "impact"
+    },
+    {
+      "id": "c20",
+      "text": "On February ninth, twenty-sixteen, British counter-terror officers raided the Leicestershire home and seized all digital hardware.",
+      "audio_file": "audio/v03_sentences/c20.mp3",
+      "duration_seconds": 8.64,
+      "startFrame": 4187,
+      "durationFrames": 265,
+      "visual_mode": "ARREST_WARRANT_DOJ",
+      "sfx": "impact"
+    },
+    {
+      "id": "c21",
+      "text": "At London's Old Bailey, the court heard that Gamble had caused unprecedented disruption to national security infrastructure.",
+      "audio_file": "audio/v03_sentences/c21.mp3",
+      "duration_seconds": 8.136,
+      "startFrame": 4452,
+      "durationFrames": 250,
+      "visual_mode": "OLD_BAILEY_COURT_EVIDENCE",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c22",
+      "text": "He pleaded guilty to ten computer misuse offenses and was sentenced to two years in youth custody.",
+      "audio_file": "audio/v03_sentences/c22.mp3",
+      "duration_seconds": 6.336,
+      "startFrame": 4702,
+      "durationFrames": 196,
+      "visual_mode": "SENTENCING_JUDGMENT_CARD",
+      "sfx": "impact"
+    },
+    {
+      "id": "c23",
+      "text": "The CWA campaign exposed a fundamental vulnerability that millions in defense spending had failed to solve.",
+      "audio_file": "audio/v03_sentences/c23.mp3",
+      "duration_seconds": 8.352,
+      "startFrame": 4898,
+      "durationFrames": 257,
+      "visual_mode": "ZERO_TRUST_DEFENSE_DIAGRAM",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c24",
+      "text": "No matter how strong the cryptographic lock, an entire fortress can fall when someone simply asks for the key.",
+      "audio_file": "audio/v03_sentences/c24.mp3",
+      "duration_seconds": 7.416,
+      "startFrame": 5155,
+      "durationFrames": 228,
+      "visual_mode": "FINAL_EPILOGUE_QUOTE_CIA",
+      "sfx": "impact"
+    }
+  ]
+}

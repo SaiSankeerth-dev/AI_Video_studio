@@ -1,0 +1,175 @@
+{
+  "title": "The Teenager Who Hacked the CIA",
+  "episode_id": "video-003",
+  "fps": 30,
+  "sentences": [
+    {
+      "id": "c01",
+      "chapter": 1,
+      "text": "Deep inside the American intelligence community, security protocols are designed to repel sovereign nations.",
+      "visual_mode": "CIA_LANGLEY_EXTERIOR",
+      "sfx": "ambient-drone"
+    },
+    {
+      "id": "c02",
+      "chapter": 1,
+      "text": "Encrypted networks, air-gapped mainframes, and billions of dollars in cryptographic defense.",
+      "visual_mode": "SECURITY_DASHBOARD",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c03",
+      "chapter": 1,
+      "text": "Yet in October twenty-fifteen, the personal communications of the CIA Director were quietly penetrated.",
+      "visual_mode": "BREACH_ALERT_CARD",
+      "sfx": "alert"
+    },
+    {
+      "id": "c04",
+      "chapter": 1,
+      "text": "The intruder was not a foreign intelligence agency or a team of elite cyber operatives.",
+      "visual_mode": "TERMINAL_PROMPT",
+      "sfx": null
+    },
+    {
+      "id": "c05",
+      "chapter": 1,
+      "text": "He was a fifteen-year-old schoolboy sitting in a bedroom in the English Midlands.",
+      "visual_mode": "BEDROOM_WORKSTATION",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "c06",
+      "chapter": 2,
+      "text": "Operating under the pseudonym Cracka, Kane Gamble led a loosely organized teenage collective called CWA.",
+      "visual_mode": "TITLE_CARD_CIA",
+      "sfx": "impact"
+    },
+    {
+      "id": "c07",
+      "chapter": 2,
+      "text": "They possessed no advanced zero-day exploits and wrote no custom weaponized malware.",
+      "visual_mode": "CODE_VS_PHONE_DIAGRAM",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c08",
+      "chapter": 2,
+      "text": "Their weapon was far simpler: an encyclopedic mastery of social engineering over customer support telephone lines.",
+      "visual_mode": "TELEPHONE_CLOSEUP",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "c09",
+      "chapter": 3,
+      "text": "The breach began with a phone call to a major telecommunications provider.",
+      "visual_mode": "CALL_CENTER_REENACTMENT",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "c10",
+      "chapter": 3,
+      "text": "Posing as an internal field technician, Gamble claimed his employee portal was down and needed urgent account verification.",
+      "visual_mode": "PRETEXTING_STEP_DIAGRAM",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "c11",
+      "chapter": 3,
+      "text": "By projecting calm confidence and providing basic public details, he tricked the operator into resetting the security PIN.",
+      "visual_mode": "OPERATOR_CONVERSATION",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c12",
+      "chapter": 3,
+      "text": "With the mobile account compromised, the teenagers triggered password resets across private email and cloud storage.",
+      "visual_mode": "CREDENTIAL_CASCADE_MAP",
+      "sfx": "impact"
+    },
+    {
+      "id": "c13",
+      "chapter": 4,
+      "text": "Inside the private inbox lay a forty-seven-page top-secret security clearance questionnaire.",
+      "visual_mode": "SF86_DOCUMENT_EVIDENCE",
+      "sfx": "alert"
+    },
+    {
+      "id": "c14",
+      "chapter": 4,
+      "text": "The document contained personal identification numbers, family backgrounds, and sensitive intelligence contacts.",
+      "visual_mode": "DOCUMENT_REDACTED_SCAN",
+      "sfx": null
+    },
+    {
+      "id": "c15",
+      "chapter": 4,
+      "text": "Within weeks, the group escalated further, targeting the FBI Deputy Director and Department of Homeland Security.",
+      "visual_mode": "GOVERNMENT_SEAL_CASCADE",
+      "sfx": "impact"
+    },
+    {
+      "id": "c16",
+      "chapter": 4,
+      "text": "They even breached law enforcement portals, accessing thousands of internal arrest records and agent dossiers.",
+      "visual_mode": "JABS_PORTAL_TERMINAL",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c17",
+      "chapter": 5,
+      "text": "As federal agencies launched an international manhunt, the teenagers grew increasingly reckless.",
+      "visual_mode": "FBI_INVESTIGATION_TABLE",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c18",
+      "chapter": 5,
+      "text": "Taunting officials online and speaking to journalists, they committed the cardinal sin of operational security.",
+      "visual_mode": "SOCIAL_MEDIA_TAUNT_CARD",
+      "sfx": "alert"
+    },
+    {
+      "id": "c19",
+      "chapter": 5,
+      "text": "A single unproxied network connection and telephone record allowed British cybercrime investigators to triangulate the home address.",
+      "visual_mode": "GEOGRAPHIC_IP_TRACKER",
+      "sfx": "impact"
+    },
+    {
+      "id": "c20",
+      "chapter": 5,
+      "text": "On February ninth, twenty-sixteen, British counter-terror officers raided the Leicestershire home and seized all digital hardware.",
+      "visual_mode": "ARREST_WARRANT_DOJ",
+      "sfx": "impact"
+    },
+    {
+      "id": "c21",
+      "chapter": 6,
+      "text": "At London's Old Bailey, the court heard that Gamble had caused unprecedented disruption to national security infrastructure.",
+      "visual_mode": "OLD_BAILEY_COURT_EVIDENCE",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "c22",
+      "chapter": 6,
+      "text": "He pleaded guilty to ten computer misuse offenses and was sentenced to two years in youth custody.",
+      "visual_mode": "SENTENCING_JUDGMENT_CARD",
+      "sfx": "impact"
+    },
+    {
+      "id": "c23",
+      "chapter": 6,
+      "text": "The CWA campaign exposed a fundamental vulnerability that millions in defense spending had failed to solve.",
+      "visual_mode": "ZERO_TRUST_DEFENSE_DIAGRAM",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "c24",
+      "chapter": 6,
+      "text": "No matter how strong the cryptographic lock, an entire fortress can fall when someone simply asks for the key.",
+      "visual_mode": "FINAL_EPILOGUE_QUOTE_CIA",
+      "sfx": "impact"
+    }
+  ]
+}

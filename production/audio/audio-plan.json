@@ -1,0 +1,150 @@
+{
+  "project_id": "astra_benchmark_90s",
+  "total_duration_seconds": 90.0,
+  "layers": [
+    {
+      "layer_name": "VOICE",
+      "base_volume_db": 0.0,
+      "ducking_db": 0.0
+    },
+    {
+      "layer_name": "ROOM_TONE",
+      "base_volume_db": -24.0,
+      "ducking_db": 0.0
+    },
+    {
+      "layer_name": "MUSIC",
+      "base_volume_db": -16.0,
+      "ducking_db": -12.0
+    },
+    {
+      "layer_name": "FOLEY_KEYBOARD",
+      "base_volume_db": -18.0,
+      "ducking_db": -4.0
+    },
+    {
+      "layer_name": "UI_SFX",
+      "base_volume_db": -15.0,
+      "ducking_db": -2.0
+    },
+    {
+      "layer_name": "SUB_BASS",
+      "base_volume_db": -8.0,
+      "ducking_db": 0.0
+    },
+    {
+      "layer_name": "IMPACT",
+      "base_volume_db": -10.0,
+      "ducking_db": -6.0
+    },
+    {
+      "layer_name": "STRATEGIC_SILENCE",
+      "base_volume_db": -99.0,
+      "ducking_db": 0.0
+    }
+  ],
+  "cues": [
+    {
+      "cue_id": "CUE-ROOM-01",
+      "timestamp_seconds": 0.0,
+      "type": "ROOM_TONE",
+      "asset": "room_tone_quiet_hvac.wav",
+      "duration_seconds": 90.0,
+      "volume_db": -24.0
+    },
+    {
+      "cue_id": "CUE-MUS-01",
+      "timestamp_seconds": 0.0,
+      "type": "MUSIC_THEME",
+      "theme": "M03_TENSION_DRONE",
+      "asset": "music_m03_tension.wav",
+      "duration_seconds": 15.0,
+      "volume_db": -18.0
+    },
+    {
+      "cue_id": "CUE-MUS-02",
+      "timestamp_seconds": 15.0,
+      "type": "MUSIC_THEME",
+      "theme": "M02_INVESTIGATION_PULSE",
+      "asset": "music_m02_investigation.wav",
+      "duration_seconds": 16.0,
+      "volume_db": -16.0
+    },
+    {
+      "cue_id": "CUE-SILENCE-01",
+      "timestamp_seconds": 31.0,
+      "type": "SILENCE",
+      "asset": "none",
+      "duration_seconds": 9.0,
+      "volume_db": -99.0
+    },
+    {
+      "cue_id": "CUE-SUB-01",
+      "timestamp_seconds": 31.0,
+      "type": "IMPACT",
+      "asset": "sub_bass_drop_60hz.wav",
+      "duration_seconds": 2.5,
+      "volume_db": -6.0
+    },
+    {
+      "cue_id": "CUE-MUS-03",
+      "timestamp_seconds": 40.0,
+      "type": "MUSIC_THEME",
+      "theme": "M04_DISCOVERY_BELLS",
+      "asset": "music_m04_discovery.wav",
+      "duration_seconds": 15.0,
+      "volume_db": -17.0
+    },
+    {
+      "cue_id": "CUE-MUS-04",
+      "timestamp_seconds": 55.0,
+      "type": "MUSIC_THEME",
+      "theme": "M05_ESCALATION_ARPEGGIO",
+      "asset": "music_m05_escalation.wav",
+      "duration_seconds": 15.0,
+      "volume_db": -16.0
+    },
+    {
+      "cue_id": "CUE-SFX-ERR",
+      "timestamp_seconds": 55.4,
+      "type": "SFX",
+      "asset": "terminal_error_bell.wav",
+      "duration_seconds": 1.0,
+      "volume_db": -12.0
+    },
+    {
+      "cue_id": "CUE-SFX-PASS",
+      "timestamp_seconds": 65.2,
+      "type": "SFX",
+      "asset": "pytest_success_chime.wav",
+      "duration_seconds": 2.0,
+      "volume_db": -14.0
+    },
+    {
+      "cue_id": "CUE-MUS-05",
+      "timestamp_seconds": 70.0,
+      "type": "MUSIC_THEME",
+      "theme": "M06_DANGER_OVERSIGHT",
+      "asset": "music_m06_danger.wav",
+      "duration_seconds": 12.0,
+      "volume_db": -15.0
+    },
+    {
+      "cue_id": "CUE-MUS-06",
+      "timestamp_seconds": 82.0,
+      "type": "MUSIC_THEME",
+      "theme": "M08_ENDING_MYSTERY",
+      "asset": "music_m08_ending.wav",
+      "duration_seconds": 8.0,
+      "volume_db": -18.0
+    },
+    {
+      "cue_id": "CUE-SUB-FINAL",
+      "timestamp_seconds": 86.5,
+      "type": "IMPACT",
+      "asset": "sub_bass_drop_fade.wav",
+      "duration_seconds": 3.5,
+      "volume_db": -8.0
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "project_id": "video-003",
+  "reported_date": "2026-09-03",
+  "verification_status": "PRE-PUBLICATION VERIFY REQUIREMENT",
+  "benchmarks": [
+    {
+      "name": "AutomationBench",
+      "category": "Autonomous Computer Navigation",
+      "what_it_measures": "End-to-end multi-app workflow completion across browser, desktop, and file system.",
+      "astra_score": 88.4,
+      "previous_sota_score": 62.1,
+      "previous_model": "Claude 3.5 Sonnet (Computer Use v2)",
+      "unit": "% completion",
+      "delta": "+26.3%",
+      "what_the_difference_means": "The system moves from needing human intervention every 3 steps to completing 20+ step workflows unattended.",
+      "claim_id": "ASTRA-004",
+      "verification_status": "VERIFY"
+    },
+    {
+      "name": "ScreenSpot Pro",
+      "category": "GUI Grounding & Coordinate Precision",
+      "what_it_measures": "Precise identification and pixel-coordinate clicking on obscure UI elements, submenus, and canvas objects.",
+      "astra_score": 81.2,
+      "previous_sota_score": 54.7,
+      "previous_model": "GPT-4o Vision",
+      "unit": "% accuracy",
+      "delta": "+26.5%",
+      "what_the_difference_means": "Reduces mis-clicks on complex web apps and desktop software, drastically cutting navigation deadlocks.",
+      "claim_id": "ASTRA-004",
+      "verification_status": "VERIFY"
+    },
+    {
+      "name": "TerminalBench",
+      "category": "CLI & SysAdmin Operations",
+      "what_it_measures": "Multi-step bash execution, pipe construction, error-handling, and Linux environment administration.",
+      "astra_score": 79.6,
+      "previous_sota_score": 51.3,
+      "previous_model": "o1-preview (Shell tool)",
+      "unit": "% pass rate",
+      "delta": "+28.3%",
+      "what_the_difference_means": "Capable of diagnosing package dependency conflicts and running build systems without human prompting.",
+      "claim_id": "ASTRA-005",
+      "verification_status": "VERIFY"
+    },
+    {
+      "name": "Agents Last Exam",
+      "category": "Frontier Autonomous Problem Solving",
+      "what_it_measures": "Hard multimodal research problems requiring web search, code synthesis, mathematical derivation, and document synthesis.",
+      "astra_score": 41.8,
+      "previous_sota_score": 18.5,
+      "previous_model": "o1 (reasoning agent)",
+      "unit": "% accuracy",
+      "delta": "+23.3%",
+      "what_the_difference_means": "More than doubles the ability of an autonomous agent to solve graduate-level multidisciplinary research inquiries.",
+      "claim_id": "ASTRA-001",
+      "verification_status": "VERIFY"
+    },
+    {
+      "name": "FrontierMath",
+      "category": "Expert-Level Mathematics",
+      "what_it_measures": "Unpublished, research-grade mathematics problems crafted by world-class mathematicians.",
+      "astra_score": 34.2,
+      "previous_sota_score": 2.0,
+      "previous_model": "o1 (Math)",
+      "unit": "% solved",
+      "delta": "+32.2%",
+      "what_the_difference_means": "First model to show substantial traction on original research math beyond contest mathematics.",
+      "claim_id": "ASTRA-006",
+      "verification_status": "VERIFY"
+    },
+    {
+      "name": "ARC-AGI",
+      "category": "Novel Visual-Spatial Induction",
+      "what_it_measures": "Abstract visual logic grids requiring immediate induction of rules never encountered during pretraining.",
+      "astra_score": 84.5,
+      "previous_sota_score": 75.7,
+      "previous_model": "o1 (heavy test-time search)",
+      "unit": "% score",
+      "delta": "+8.8%",
+      "what_the_difference_means": "High generalization on purely out-of-distribution abstract spatial reasoning.",
+      "claim_id": "ASTRA-007",
+      "verification_status": "VERIFY"
+    }
+  ]
+}

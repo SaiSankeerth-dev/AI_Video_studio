@@ -1,0 +1,1364 @@
+{
+  "shots": [
+    {
+      "shot_id": "s01",
+      "purpose": "Establish vast subterranean scale and solitude",
+      "shot_type": "ESTABLISHING",
+      "narration": "For years, artificial intelligence waited for us to ask a question.",
+      "visual": {
+        "subject": "Atlas Hyperscale Subterranean Facility",
+        "action": "Vast server racks running quiet background workloads",
+        "environment": "Atlas Hyperscale Subterranean Facility",
+        "time": "2:13 AM",
+        "context": "Facility under normal night operations",
+        "composition": "Wide establishing symmetrical shot with infinite vanishing point. Subject left third.",
+        "foreground": "Foreground floor mist and reflection",
+        "midground": "Server aisles 12 to 24",
+        "background": "Deep dark vanishing perspective",
+        "lighting": "Cold overhead fluorescent strips with low floor mist reflections",
+        "materials": "Brushed anodized black chassis, matte concrete, realistic cable bundles",
+        "atmosphere": "Sterile, quiet, technologically immense",
+        "color_palette": "Charcoal, steel, muted gray, cold cyan LEDs"
+      },
+      "camera": {
+        "shot_size": "wide establishing",
+        "camera_position": "center aisle",
+        "camera_height": "eye-level (1.6m)",
+        "angle": "level (0 deg)",
+        "lens": "35mm cinema prime",
+        "depth_of_field": "moderate depth of field",
+        "movement": "slow forward dolly"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Hyperscale Facility"
+        ],
+        "objects": [
+          "Server Racks"
+        ],
+        "reference_images": [
+          "references/locations/atlas_hall.png"
+        ]
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Establish vast subterranean scale and solitude. SUBJECT: Atlas Hyperscale Subterranean Facility. ACTION: Vast server racks running quiet background workloads. ENVIRONMENT: Atlas Hyperscale Subterranean Facility at 2:13 AM. Context: Facility under normal night operations. COMPOSITION & SPATIAL HIERARCHY: Wide establishing symmetrical shot with infinite vanishing point. Subject left third.. Foreground: Foreground floor mist and reflection. Midground: Server aisles 12 to 24. Background: Deep dark vanishing perspective. CAMERA: wide establishing, center aisle at eye-level (1.6m) height, level (0 deg) angle, shot on a 35mm cinema prime with moderate depth of field, slow forward dolly perspective. LIGHTING: Cold overhead fluorescent strips with low floor mist reflections. PHYSICAL MATERIALS: Brushed anodized black chassis, matte concrete, realistic cable bundles. ATMOSPHERE & COLOR: Sterile, quiet, technologically immense. Color Palette: Charcoal, steel, muted gray, cold cyan LEDs. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow forward dolly. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s02",
+      "purpose": "Human operator monitoring late night operations",
+      "shot_type": "MEDIUM_REENACTMENT",
+      "narration": "You typed a prompt, the model generated a response, and the interaction was over.",
+      "visual": {
+        "subject": "Dr. Maya Rao",
+        "action": "Analyzing real-time process logs on multi-monitor diagnostic workstation",
+        "environment": "Atlas Glass Observation & Monitoring Room",
+        "time": "2:14 AM",
+        "context": "Routine nocturnal system oversight",
+        "composition": "Medium profile shot, Maya in left foreground with code reflections on acoustic glass.",
+        "foreground": "Out-of-focus edge of desk and coffee mug",
+        "midground": "Dr. Maya Rao seated at workstation",
+        "background": "Observation glass overlooking server hall",
+        "lighting": "Glow from multiple code diagnostic monitors, warm desk lamp accent",
+        "materials": "Matte monitor bezels, tactile keyboard keys, dark technical fleece",
+        "atmosphere": "Focused, quiet, solitary",
+        "color_palette": "Deep navy, charcoal, tungsten amber, pale cyan"
+      },
+      "camera": {
+        "shot_size": "medium shot",
+        "camera_position": "left 45-degree angle",
+        "camera_height": "seated eye-level (1.2m)",
+        "angle": "slight low-angle",
+        "lens": "50mm prime",
+        "depth_of_field": "shallow depth of field",
+        "movement": "slow push-in"
+      },
+      "continuity": {
+        "characters": [
+          "Dr. Maya Rao"
+        ],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "Workstation 04"
+        ],
+        "reference_images": [
+          "references/characters/maya.png"
+        ]
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Human operator monitoring late night operations. SUBJECT: Dr. Maya Rao. ACTION: Analyzing real-time process logs on multi-monitor diagnostic workstation. ENVIRONMENT: Atlas Glass Observation & Monitoring Room at 2:14 AM. Context: Routine nocturnal system oversight. COMPOSITION & SPATIAL HIERARCHY: Medium profile shot, Maya in left foreground with code reflections on acoustic glass.. Foreground: Out-of-focus edge of desk and coffee mug. Midground: Dr. Maya Rao seated at workstation. Background: Observation glass overlooking server hall. CAMERA: medium shot, left 45-degree angle at seated eye-level (1.2m) height, slight low-angle angle, shot on a 50mm prime with shallow depth of field, slow push-in perspective. LIGHTING: Glow from multiple code diagnostic monitors, warm desk lamp accent. PHYSICAL MATERIALS: Matte monitor bezels, tactile keyboard keys, dark technical fleece. ATMOSPHERE & COLOR: Focused, quiet, solitary. Color Palette: Deep navy, charcoal, tungsten amber, pale cyan. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow push-in. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s03",
+      "purpose": "Show human friction and manual effort in legacy AI workflow",
+      "shot_type": "OVER_SHOULDER",
+      "narration": "The human did the reading, the human copied the code, and the human fixed the mistakes.",
+      "visual": {
+        "subject": "Dr. Maya Rao interacting with legacy chatbot terminal",
+        "action": "Copying code snippets manually between windows",
+        "environment": "Atlas Glass Observation & Monitoring Room",
+        "time": "2:15 AM",
+        "context": "Historical baseline comparison",
+        "composition": "Over-the-shoulder framing focusing on terminal interface and manual keystrokes.",
+        "foreground": "Dr. Maya Rao's right shoulder and dark hair",
+        "midground": "Terminal screen displaying prompt-response cycle",
+        "background": "Darkened office background",
+        "lighting": "Screen illumination casting soft blue highlights across hands and keyboard",
+        "materials": "Tactile mechanical keyboard, optical glass screen",
+        "atmosphere": "Monotonous, manual, repetitive",
+        "color_palette": "Dark gray, muted blue, warm halogen"
+      },
+      "camera": {
+        "shot_size": "over-the-shoulder",
+        "camera_position": "behind subject right",
+        "camera_height": "shoulder height (1.3m)",
+        "angle": "slight downward angle",
+        "lens": "50mm prime",
+        "depth_of_field": "shallow depth of field",
+        "movement": "subtle tracking"
+      },
+      "continuity": {
+        "characters": [
+          "Dr. Maya Rao"
+        ],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "Terminal Display"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Show human friction and manual effort in legacy AI workflow. SUBJECT: Dr. Maya Rao interacting with legacy chatbot terminal. ACTION: Copying code snippets manually between windows. ENVIRONMENT: Atlas Glass Observation & Monitoring Room at 2:15 AM. Context: Historical baseline comparison. COMPOSITION & SPATIAL HIERARCHY: Over-the-shoulder framing focusing on terminal interface and manual keystrokes.. Foreground: Dr. Maya Rao's right shoulder and dark hair. Midground: Terminal screen displaying prompt-response cycle. Background: Darkened office background. CAMERA: over-the-shoulder, behind subject right at shoulder height (1.3m) height, slight downward angle angle, shot on a 50mm prime with shallow depth of field, subtle tracking perspective. LIGHTING: Screen illumination casting soft blue highlights across hands and keyboard. PHYSICAL MATERIALS: Tactile mechanical keyboard, optical glass screen. ATMOSPHERE & COLOR: Monotonous, manual, repetitive. Color Palette: Dark gray, muted blue, warm halogen. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: subtle tracking. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s04",
+      "purpose": "Examine physical computing hardware processing autonomous reasoning",
+      "shot_type": "MACRO_DETAIL",
+      "narration": "Over the past twelve months, the foundation of computing quietly began to fracture.",
+      "visual": {
+        "subject": "Next-gen AI neural accelerator silicon processor",
+        "action": "Microscopic fiber optic traces pulsing with gold and teal data pulses",
+        "environment": "Server blade motherboard inside rack",
+        "time": "2:16 AM",
+        "context": "Hardware processing high-throughput agent instructions",
+        "composition": "Extreme macro close-up with shallow depth of field focusing on central silicon die.",
+        "foreground": "Out-of-focus capacitor bank",
+        "midground": "Central neural accelerator die with gold wire bonds",
+        "background": "Dark motherboard PCB with copper traces",
+        "lighting": "Precision studio macro lighting, fiber optic and circuit reflections",
+        "materials": "Iridescent silicon wafer, gold traces, titanium heat sinks",
+        "atmosphere": "Microscopic, intricate, technologically sophisticated",
+        "color_palette": "Deep obsidian black, metallic gold, electric teal"
+      },
+      "camera": {
+        "shot_size": "extreme macro",
+        "camera_position": "top 45-degree angle",
+        "camera_height": "macro surface height (0.1m)",
+        "angle": "45-degree downward",
+        "lens": "100mm macro",
+        "depth_of_field": "razor-thin depth of field",
+        "movement": "slow lateral pan"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Server Blade 14"
+        ],
+        "objects": [
+          "Neural Silicon Die"
+        ],
+        "reference_images": [
+          "references/objects/silicon_die.png"
+        ]
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Examine physical computing hardware processing autonomous reasoning. SUBJECT: Next-gen AI neural accelerator silicon processor. ACTION: Microscopic fiber optic traces pulsing with gold and teal data pulses. ENVIRONMENT: Server blade motherboard inside rack at 2:16 AM. Context: Hardware processing high-throughput agent instructions. COMPOSITION & SPATIAL HIERARCHY: Extreme macro close-up with shallow depth of field focusing on central silicon die.. Foreground: Out-of-focus capacitor bank. Midground: Central neural accelerator die with gold wire bonds. Background: Dark motherboard PCB with copper traces. CAMERA: extreme macro, top 45-degree angle at macro surface height (0.1m) height, 45-degree downward angle, shot on a 100mm macro with razor-thin depth of field, slow lateral pan perspective. LIGHTING: Precision studio macro lighting, fiber optic and circuit reflections. PHYSICAL MATERIALS: Iridescent silicon wafer, gold traces, titanium heat sinks. ATMOSPHERE & COLOR: Microscopic, intricate, technologically sophisticated. Color Palette: Deep obsidian black, metallic gold, electric teal. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow lateral pan. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s05",
+      "purpose": "Documentary title presentation and thesis establishment",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "We stopped building models that just talk. We started building systems that act.",
+      "visual": {
+        "subject": "Special Investigative Report Graphic",
+        "action": "Displaying title: THE AI AGENTS THAT ARE STARTING TO WORK WITHOUT US",
+        "environment": "Dark documentary broadcast screen",
+        "time": "2:17 AM",
+        "context": "Official documentary episode intro",
+        "composition": "Balanced centered typography with hair-thin cyan architectural framing lines.",
+        "foreground": "Subtle floating dust particles",
+        "midground": "Crisp documentary typography",
+        "background": "Deep dark textured background",
+        "lighting": "Backlit typography with soft edge glow",
+        "materials": "Digital matte texture",
+        "atmosphere": "Authoritative, serious, premium",
+        "color_palette": "Monochrome black, crisp white, restrained cyan"
+      },
+      "camera": {
+        "shot_size": "centered graphic",
+        "camera_position": "front perpendicular",
+        "camera_height": "screen center",
+        "angle": "flat (0 deg)",
+        "lens": "50mm prime",
+        "depth_of_field": "edge-to-edge sharp",
+        "movement": "slow scale 1.0 to 1.04"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Documentary title presentation and thesis establishment. SUBJECT: Special Investigative Report Graphic. ACTION: Displaying title: THE AI AGENTS THAT ARE STARTING TO WORK WITHOUT US. ENVIRONMENT: Dark documentary broadcast screen at 2:17 AM. Context: Official documentary episode intro. COMPOSITION & SPATIAL HIERARCHY: Balanced centered typography with hair-thin cyan architectural framing lines.. Foreground: Subtle floating dust particles. Midground: Crisp documentary typography. Background: Deep dark textured background. CAMERA: centered graphic, front perpendicular at screen center height, flat (0 deg) angle, shot on a 50mm prime with edge-to-edge sharp, slow scale 1.0 to 1.04 perspective. LIGHTING: Backlit typography with soft edge glow. PHYSICAL MATERIALS: Digital matte texture. ATMOSPHERE & COLOR: Authoritative, serious, premium. Color Palette: Monochrome black, crisp white, restrained cyan. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow scale 1.0 to 1.04. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s06",
+      "purpose": "Contrast raw language model with autonomous agentic architecture",
+      "shot_type": "TECHNICAL",
+      "narration": "A raw language model is simply a static pattern matcher.",
+      "visual": {
+        "subject": "Isolated server blade unit",
+        "action": "Diagnostic LED pattern indicating static model weight loading",
+        "environment": "Server rack interior",
+        "time": "2:18 AM",
+        "context": "Analyzing model foundation",
+        "composition": "Medium technical shot of rack hardware components.",
+        "foreground": "Cable tray conduit",
+        "midground": "Rack chassis and cooling fan array",
+        "background": "Aisle depth behind rack",
+        "lighting": "Internal cabinet LED illumination",
+        "materials": "Brushed metal, perforated steel, silicone cabling",
+        "atmosphere": "Industrial, functional",
+        "color_palette": "Steel gray, cobalt blue, matte black"
+      },
+      "camera": {
+        "shot_size": "medium technical",
+        "camera_position": "straight-on",
+        "camera_height": "rack mid-level (1.4m)",
+        "angle": "level",
+        "lens": "35mm prime",
+        "depth_of_field": "moderate depth of field",
+        "movement": "slow vertical tilt"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Hyperscale Facility"
+        ],
+        "objects": [
+          "Server Chassis"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Contrast raw language model with autonomous agentic architecture. SUBJECT: Isolated server blade unit. ACTION: Diagnostic LED pattern indicating static model weight loading. ENVIRONMENT: Server rack interior at 2:18 AM. Context: Analyzing model foundation. COMPOSITION & SPATIAL HIERARCHY: Medium technical shot of rack hardware components.. Foreground: Cable tray conduit. Midground: Rack chassis and cooling fan array. Background: Aisle depth behind rack. CAMERA: medium technical, straight-on at rack mid-level (1.4m) height, level angle, shot on a 35mm prime with moderate depth of field, slow vertical tilt perspective. LIGHTING: Internal cabinet LED illumination. PHYSICAL MATERIALS: Brushed metal, perforated steel, silicone cabling. ATMOSPHERE & COLOR: Industrial, functional. Color Palette: Steel gray, cobalt blue, matte black. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow vertical tilt. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s07",
+      "purpose": "Explain the 5 interlocking pillars of autonomous agents",
+      "shot_type": "DATA_VISUALIZATION",
+      "narration": "An agent is a closed-loop engine built from five interlocking components.",
+      "visual": {
+        "subject": "Five-Pillar Cognitive Architecture Diagram",
+        "action": "Reasoning Core, Tools, Memory, Self-Reflection, Sandbox interacting in real time",
+        "environment": "Technical visualization screen",
+        "time": "2:19 AM",
+        "context": "Architectural breakdown",
+        "composition": "Clean glassmorphic bento grid layout with 5 distinct nodes connected by glowing pulse lines.",
+        "foreground": "Hair-thin connection vectors",
+        "midground": "5 interactive glass cards with telemetry counters",
+        "background": "Dark radial gradient background",
+        "lighting": "Edge illumination on glass cards",
+        "materials": "Frosted glassmorphism, crisp vector strokes",
+        "atmosphere": "Analytical, elegant, structured",
+        "color_palette": "Dark slate, pure white, accent cyan, amber warning"
+      },
+      "camera": {
+        "shot_size": "flat technical",
+        "camera_position": "front perpendicular",
+        "camera_height": "center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "uniform sharpness",
+        "movement": "subtle node pulsing"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Architecture Model"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Explain the 5 interlocking pillars of autonomous agents. SUBJECT: Five-Pillar Cognitive Architecture Diagram. ACTION: Reasoning Core, Tools, Memory, Self-Reflection, Sandbox interacting in real time. ENVIRONMENT: Technical visualization screen at 2:19 AM. Context: Architectural breakdown. COMPOSITION & SPATIAL HIERARCHY: Clean glassmorphic bento grid layout with 5 distinct nodes connected by glowing pulse lines.. Foreground: Hair-thin connection vectors. Midground: 5 interactive glass cards with telemetry counters. Background: Dark radial gradient background. CAMERA: flat technical, front perpendicular at center height, flat angle, shot on a 50mm prime with uniform sharpness, subtle node pulsing perspective. LIGHTING: Edge illumination on glass cards. PHYSICAL MATERIALS: Frosted glassmorphism, crisp vector strokes. ATMOSPHERE & COLOR: Analytical, elegant, structured. Color Palette: Dark slate, pure white, accent cyan, amber warning. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: subtle node pulsing. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s08",
+      "purpose": "Demonstrate tool execution and system reality interaction",
+      "shot_type": "TECHNICAL",
+      "narration": "The core reasoner evaluates decisions, while tools allow it to interact directly with reality.",
+      "visual": {
+        "subject": "Network patch panel and hardware diagnostic terminal",
+        "action": "Status LEDs flashing as external tool APIs are invoked",
+        "environment": "Atlas Server Row B",
+        "time": "2:20 AM",
+        "context": "Autonomous tool execution verification",
+        "composition": "Close technical shot of fiber optic patch cords routing into active switch ports.",
+        "foreground": "Curved fiber cables in foreground",
+        "midground": "High-density RJ45 and SFP+ ports",
+        "background": "Dark server rack frame",
+        "lighting": "Localized port activity LEDs flashing green and amber",
+        "materials": "Braided nylon, gold contact pins, matte plastic connectors",
+        "atmosphere": "Active, operational, precise",
+        "color_palette": "Dark industrial gray, emerald green, amber"
+      },
+      "camera": {
+        "shot_size": "close-up technical",
+        "camera_position": "slight angle",
+        "camera_height": "chest height (1.3m)",
+        "angle": "15-degree down",
+        "lens": "85mm prime",
+        "depth_of_field": "shallow depth of field",
+        "movement": "slow rack focus"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Server Row B"
+        ],
+        "objects": [
+          "Patch Panel 02"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Demonstrate tool execution and system reality interaction. SUBJECT: Network patch panel and hardware diagnostic terminal. ACTION: Status LEDs flashing as external tool APIs are invoked. ENVIRONMENT: Atlas Server Row B at 2:20 AM. Context: Autonomous tool execution verification. COMPOSITION & SPATIAL HIERARCHY: Close technical shot of fiber optic patch cords routing into active switch ports.. Foreground: Curved fiber cables in foreground. Midground: High-density RJ45 and SFP+ ports. Background: Dark server rack frame. CAMERA: close-up technical, slight angle at chest height (1.3m) height, 15-degree down angle, shot on a 85mm prime with shallow depth of field, slow rack focus perspective. LIGHTING: Localized port activity LEDs flashing green and amber. PHYSICAL MATERIALS: Braided nylon, gold contact pins, matte plastic connectors. ATMOSPHERE & COLOR: Active, operational, precise. Color Palette: Dark industrial gray, emerald green, amber. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow rack focus. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s09",
+      "purpose": "Illustrate global subsea reach of agentic infrastructure",
+      "shot_type": "DATA_VISUALIZATION",
+      "narration": "Working memory persists state, and self-reflection allows the system to diagnose its own errors.",
+      "visual": {
+        "subject": "Global Subsea Data Network Map",
+        "action": "Telemetry data packets propagating across transatlantic and transpacific fiber routes",
+        "environment": "Dark cartographic visualization projection",
+        "time": "2:21 AM",
+        "context": "Global distributed intelligence mapping",
+        "composition": "Wide planetary projection showing major subsea cable landings and server cluster hubs.",
+        "foreground": "Telemetry status overlay HUD",
+        "midground": "Dark continental relief with glowing fiber routes",
+        "background": "Deep oceanic blackness",
+        "lighting": "Glow from subsea routes illuminating coastlines",
+        "materials": "Matte relief texture, crisp vector traces",
+        "atmosphere": "Global, interconnected, vast",
+        "color_palette": "Navy black, glowing cyan, warm gold nodes"
+      },
+      "camera": {
+        "shot_size": "wide topographic",
+        "camera_position": "orbital perspective",
+        "camera_height": "orbital height",
+        "angle": "top-down 30 deg",
+        "lens": "24mm prime",
+        "depth_of_field": "deep focus",
+        "movement": "slow orbit pan"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Global Cable Map"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Illustrate global subsea reach of agentic infrastructure. SUBJECT: Global Subsea Data Network Map. ACTION: Telemetry data packets propagating across transatlantic and transpacific fiber routes. ENVIRONMENT: Dark cartographic visualization projection at 2:21 AM. Context: Global distributed intelligence mapping. COMPOSITION & SPATIAL HIERARCHY: Wide planetary projection showing major subsea cable landings and server cluster hubs.. Foreground: Telemetry status overlay HUD. Midground: Dark continental relief with glowing fiber routes. Background: Deep oceanic blackness. CAMERA: wide topographic, orbital perspective at orbital height height, top-down 30 deg angle, shot on a 24mm prime with deep focus, slow orbit pan perspective. LIGHTING: Glow from subsea routes illuminating coastlines. PHYSICAL MATERIALS: Matte relief texture, crisp vector traces. ATMOSPHERE & COLOR: Global, interconnected, vast. Color Palette: Navy black, glowing cyan, warm gold nodes. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow orbit pan. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s10",
+      "purpose": "Demonstrate autonomous worker inside isolated sandbox",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "Inside an isolated sandbox, software is no longer just a tool. It is an autonomous worker.",
+      "visual": {
+        "subject": "Sandboxed Execution Telemetry Log",
+        "action": "Displaying isolated process container metrics and authorization certificates",
+        "environment": "Observation Room terminal screen",
+        "time": "2:22 AM",
+        "context": "Sandbox confinement verification",
+        "composition": "Tight document evidence view of container PID logs and security boundary status.",
+        "foreground": "Glass monitor reflection",
+        "midground": "Clean terminal log displaying GREEN PASS indicators",
+        "background": "Dark room acoustic paneling",
+        "lighting": "Screen illumination",
+        "materials": "OLED pixel grid, optical glass",
+        "atmosphere": "Secure, verified, rigorous",
+        "color_palette": "Obsidian black, monospace white, emerald green"
+      },
+      "camera": {
+        "shot_size": "close-up document",
+        "camera_position": "front perpendicular",
+        "camera_height": "eye-level",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "locked-off"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "Terminal Log"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Demonstrate autonomous worker inside isolated sandbox. SUBJECT: Sandboxed Execution Telemetry Log. ACTION: Displaying isolated process container metrics and authorization certificates. ENVIRONMENT: Observation Room terminal screen at 2:22 AM. Context: Sandbox confinement verification. COMPOSITION & SPATIAL HIERARCHY: Tight document evidence view of container PID logs and security boundary status.. Foreground: Glass monitor reflection. Midground: Clean terminal log displaying GREEN PASS indicators. Background: Dark room acoustic paneling. CAMERA: close-up document, front perpendicular at eye-level height, flat angle, shot on a 50mm prime with sharp focus, locked-off perspective. LIGHTING: Screen illumination. PHYSICAL MATERIALS: OLED pixel grid, optical glass. ATMOSPHERE & COLOR: Secure, verified, rigorous. Color Palette: Obsidian black, monospace white, emerald green. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: locked-off. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s11",
+      "purpose": "Introduce autonomous coding agent task initiation",
+      "shot_type": "MEDIUM_REENACTMENT",
+      "narration": "Consider how an autonomous coding agent approaches a complex engineering problem.",
+      "visual": {
+        "subject": "Coding agent orchestration console",
+        "action": "Operator assigning complex optimization objective to autonomous worker",
+        "environment": "Atlas Observation Room",
+        "time": "2:23 AM",
+        "context": "Live engineering task dispatch",
+        "composition": "Medium shot showing dual screens with task prompt entering the queue.",
+        "foreground": "Keyboard corner in foreground",
+        "midground": "Main code workspace screen",
+        "background": "Server corridor visible through rear glass",
+        "lighting": "Balanced workstation light",
+        "materials": "Matte plastic, glass, aluminum",
+        "atmosphere": "Tense, professional",
+        "color_palette": "Charcoal, white, cyan"
+      },
+      "camera": {
+        "shot_size": "medium shot",
+        "camera_position": "desk side",
+        "camera_height": "seated height",
+        "angle": "level",
+        "lens": "50mm prime",
+        "depth_of_field": "moderate depth",
+        "movement": "slow push-in"
+      },
+      "continuity": {
+        "characters": [
+          "Dr. Maya Rao"
+        ],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "Console"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Introduce autonomous coding agent task initiation. SUBJECT: Coding agent orchestration console. ACTION: Operator assigning complex optimization objective to autonomous worker. ENVIRONMENT: Atlas Observation Room at 2:23 AM. Context: Live engineering task dispatch. COMPOSITION & SPATIAL HIERARCHY: Medium shot showing dual screens with task prompt entering the queue.. Foreground: Keyboard corner in foreground. Midground: Main code workspace screen. Background: Server corridor visible through rear glass. CAMERA: medium shot, desk side at seated height height, level angle, shot on a 50mm prime with moderate depth, slow push-in perspective. LIGHTING: Balanced workstation light. PHYSICAL MATERIALS: Matte plastic, glass, aluminum. ATMOSPHERE & COLOR: Tense, professional. Color Palette: Charcoal, white, cyan. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow push-in. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s12",
+      "purpose": "Show automated codebase inspection and grep scanning",
+      "shot_type": "OVER_SHOULDER",
+      "narration": "You give it a single objective: optimize the database pipeline and verify the test suite.",
+      "visual": {
+        "subject": "High-speed automated codebase scan",
+        "action": "Terminal rapidly parsing 500+ files and identifying performance bottlenecks",
+        "environment": "Observation Room terminal",
+        "time": "2:24 AM",
+        "context": "Autonomous code analysis",
+        "composition": "Over-the-shoulder view of terminal lines flashing in rapid succession.",
+        "foreground": "Subject shoulder silhouette",
+        "midground": "Terminal window with active grep scanner",
+        "background": "Dark room environment",
+        "lighting": "Monitor glow reflecting on keyboard",
+        "materials": "Glass screen, keycaps",
+        "atmosphere": "Fast-paced, algorithmic, analytical",
+        "color_palette": "Deep black, green text, amber highlights"
+      },
+      "camera": {
+        "shot_size": "over-the-shoulder",
+        "camera_position": "behind subject left",
+        "camera_height": "shoulder height",
+        "angle": "slight down",
+        "lens": "50mm prime",
+        "depth_of_field": "shallow depth",
+        "movement": "subtle handheld feel"
+      },
+      "continuity": {
+        "characters": [
+          "Dr. Maya Rao"
+        ],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "Terminal"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Show automated codebase inspection and grep scanning. SUBJECT: High-speed automated codebase scan. ACTION: Terminal rapidly parsing 500+ files and identifying performance bottlenecks. ENVIRONMENT: Observation Room terminal at 2:24 AM. Context: Autonomous code analysis. COMPOSITION & SPATIAL HIERARCHY: Over-the-shoulder view of terminal lines flashing in rapid succession.. Foreground: Subject shoulder silhouette. Midground: Terminal window with active grep scanner. Background: Dark room environment. CAMERA: over-the-shoulder, behind subject left at shoulder height height, slight down angle, shot on a 50mm prime with shallow depth, subtle handheld feel perspective. LIGHTING: Monitor glow reflecting on keyboard. PHYSICAL MATERIALS: Glass screen, keycaps. ATMOSPHERE & COLOR: Fast-paced, algorithmic, analytical. Color Palette: Deep black, green text, amber highlights. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: subtle handheld feel. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s13",
+      "purpose": "Display split-screen code diff of autonomous rewrite",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "The agent inspects the codebase, rewrites the bottleneck routine, and executes the tests.",
+      "visual": {
+        "subject": "Side-by-side code diff visualization",
+        "action": "Left: red deletion of legacy bottleneck. Right: green insertion of optimized async pipeline",
+        "environment": "Diagnostic display",
+        "time": "2:25 AM",
+        "context": "Code transformation evidence",
+        "composition": "Clean split-screen diff showing line-by-line syntax modifications.",
+        "foreground": "Diff header banner",
+        "midground": "Side-by-side code blocks with clear line numbers",
+        "background": "Subtle grid backing",
+        "lighting": "High-contrast display illumination",
+        "materials": "Digital crisp typography",
+        "atmosphere": "Clear, precise, undeniable evidence",
+        "color_palette": "Charcoal black, syntax red, syntax green, white"
+      },
+      "camera": {
+        "shot_size": "flat graphic",
+        "camera_position": "perpendicular",
+        "camera_height": "screen center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "edge-to-edge sharp",
+        "movement": "locked-off"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Code Diff 01"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Display split-screen code diff of autonomous rewrite. SUBJECT: Side-by-side code diff visualization. ACTION: Left: red deletion of legacy bottleneck. Right: green insertion of optimized async pipeline. ENVIRONMENT: Diagnostic display at 2:25 AM. Context: Code transformation evidence. COMPOSITION & SPATIAL HIERARCHY: Clean split-screen diff showing line-by-line syntax modifications.. Foreground: Diff header banner. Midground: Side-by-side code blocks with clear line numbers. Background: Subtle grid backing. CAMERA: flat graphic, perpendicular at screen center height, flat angle, shot on a 50mm prime with edge-to-edge sharp, locked-off perspective. LIGHTING: High-contrast display illumination. PHYSICAL MATERIALS: Digital crisp typography. ATMOSPHERE & COLOR: Clear, precise, undeniable evidence. Color Palette: Charcoal black, syntax red, syntax green, white. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: locked-off. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s14",
+      "purpose": "Demonstrate self-healing loop diagnosing test failure",
+      "shot_type": "TECHNICAL",
+      "narration": "When an assertion fails, it reads the stack trace, diagnoses the bug, and patches the code.",
+      "visual": {
+        "subject": "Pytest assertion failure and automated diagnosis",
+        "action": "Red stack trace appearing, followed by agent immediately identifying root cause",
+        "environment": "Diagnostic terminal",
+        "time": "2:26 AM",
+        "context": "Automated debugging cycle",
+        "composition": "Terminal capture highlighting the exception trace and the autonomous patch proposal.",
+        "foreground": "Error notification badge",
+        "midground": "Stack trace text and auto-fix prompt",
+        "background": "Dark terminal background",
+        "lighting": "Red alert warning banner illumination",
+        "materials": "Digital OLED screen texture",
+        "atmosphere": "Urgent, diagnostic, self-correcting",
+        "color_palette": "Obsidian black, warning red, cyan fix badge"
+      },
+      "camera": {
+        "shot_size": "medium technical",
+        "camera_position": "perpendicular",
+        "camera_height": "eye-level",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "subtle pulse"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Error Trace Log"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Demonstrate self-healing loop diagnosing test failure. SUBJECT: Pytest assertion failure and automated diagnosis. ACTION: Red stack trace appearing, followed by agent immediately identifying root cause. ENVIRONMENT: Diagnostic terminal at 2:26 AM. Context: Automated debugging cycle. COMPOSITION & SPATIAL HIERARCHY: Terminal capture highlighting the exception trace and the autonomous patch proposal.. Foreground: Error notification badge. Midground: Stack trace text and auto-fix prompt. Background: Dark terminal background. CAMERA: medium technical, perpendicular at eye-level height, flat angle, shot on a 50mm prime with sharp focus, subtle pulse perspective. LIGHTING: Red alert warning banner illumination. PHYSICAL MATERIALS: Digital OLED screen texture. ATMOSPHERE & COLOR: Urgent, diagnostic, self-correcting. Color Palette: Obsidian black, warning red, cyan fix badge. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: subtle pulse. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s15",
+      "purpose": "Show successful completion and green test suite passage",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "It repeats this execution loop continuously until every check passes green.",
+      "visual": {
+        "subject": "All checks passed green status verification",
+        "action": "Displaying 142/142 tests passing in 0.42 seconds",
+        "environment": "Observation Room monitor",
+        "time": "2:27 AM",
+        "context": "Task completion validation",
+        "composition": "Centered verification card with green progress bar and pass summary.",
+        "foreground": "Subtle lens flare on corner",
+        "midground": "Success summary metrics and benchmark charts",
+        "background": "Dark acoustic glass reflection",
+        "lighting": "Emerald green success illumination",
+        "materials": "Glass and digital display",
+        "atmosphere": "Triumphant, resolved, conclusive",
+        "color_palette": "Dark slate, emerald green, crisp white"
+      },
+      "camera": {
+        "shot_size": "centered document",
+        "camera_position": "perpendicular",
+        "camera_height": "eye-level",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "slow zoom in"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Verification Card"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Show successful completion and green test suite passage. SUBJECT: All checks passed green status verification. ACTION: Displaying 142/142 tests passing in 0.42 seconds. ENVIRONMENT: Observation Room monitor at 2:27 AM. Context: Task completion validation. COMPOSITION & SPATIAL HIERARCHY: Centered verification card with green progress bar and pass summary.. Foreground: Subtle lens flare on corner. Midground: Success summary metrics and benchmark charts. Background: Dark acoustic glass reflection. CAMERA: centered document, perpendicular at eye-level height, flat angle, shot on a 50mm prime with sharp focus, slow zoom in perspective. LIGHTING: Emerald green success illumination. PHYSICAL MATERIALS: Glass and digital display. ATMOSPHERE & COLOR: Triumphant, resolved, conclusive. Color Palette: Dark slate, emerald green, crisp white. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow zoom in. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s16",
+      "purpose": "Illustrate coordinated enterprise multi-agent swarms",
+      "shot_type": "DATA_VISUALIZATION",
+      "narration": "In recent enterprise reports, companies are deploying coordinated multi-agent swarms.",
+      "visual": {
+        "subject": "Enterprise multi-agent hierarchical swarm map",
+        "action": "Orchestrator node branching into specialized Research, Coding, and Security agents",
+        "environment": "Executive analytics dashboard",
+        "time": "2:28 AM",
+        "context": "Enterprise scale deployment pattern",
+        "composition": "Radial tree diagram showing agent message exchanges and task handoffs.",
+        "foreground": "Telemetry overview pill",
+        "midground": "Central orchestrator with 6 radial agent nodes",
+        "background": "Dark gradient background",
+        "lighting": "Pulsing vector light lines between nodes",
+        "materials": "Glassmorphism, crisp vector strokes",
+        "atmosphere": "Strategic, synchronized, advanced",
+        "color_palette": "Deep navy, cyan orchestrator, gold subagents"
+      },
+      "camera": {
+        "shot_size": "flat technical",
+        "camera_position": "perpendicular",
+        "camera_height": "center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "uniform sharpness",
+        "movement": "slow rotation feel"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Swarm Map"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Illustrate coordinated enterprise multi-agent swarms. SUBJECT: Enterprise multi-agent hierarchical swarm map. ACTION: Orchestrator node branching into specialized Research, Coding, and Security agents. ENVIRONMENT: Executive analytics dashboard at 2:28 AM. Context: Enterprise scale deployment pattern. COMPOSITION & SPATIAL HIERARCHY: Radial tree diagram showing agent message exchanges and task handoffs.. Foreground: Telemetry overview pill. Midground: Central orchestrator with 6 radial agent nodes. Background: Dark gradient background. CAMERA: flat technical, perpendicular at center height, flat angle, shot on a 50mm prime with uniform sharpness, slow rotation feel perspective. LIGHTING: Pulsing vector light lines between nodes. PHYSICAL MATERIALS: Glassmorphism, crisp vector strokes. ATMOSPHERE & COLOR: Strategic, synchronized, advanced. Color Palette: Deep navy, cyan orchestrator, gold subagents. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow rotation feel. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s17",
+      "purpose": "Detail specialized agent handoffs and verification gates",
+      "shot_type": "DATA_VISUALIZATION",
+      "narration": "A central orchestrator delegates work to specialized research, coding, and security agents.",
+      "visual": {
+        "subject": "Agent dispatch and artifact verification gate",
+        "action": "Coding agent passing code artifact through security sandbox before merging",
+        "environment": "Technical architecture screen",
+        "time": "2:29 AM",
+        "context": "Security boundary validation",
+        "composition": "Flow diagram showing artifact moving through automated verification gate.",
+        "foreground": "Step 1 Prompt pill",
+        "midground": "Verification gateway with lock icon",
+        "background": "Step 3 Merge pill",
+        "lighting": "Glow on verification lock icon",
+        "materials": "Frosted glass panels",
+        "atmosphere": "Secure, systematic, compliant",
+        "color_palette": "Slate black, cyan, amber lock"
+      },
+      "camera": {
+        "shot_size": "flat graphic",
+        "camera_position": "perpendicular",
+        "camera_height": "center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "locked-off"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Security Gate Diagram"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Detail specialized agent handoffs and verification gates. SUBJECT: Agent dispatch and artifact verification gate. ACTION: Coding agent passing code artifact through security sandbox before merging. ENVIRONMENT: Technical architecture screen at 2:29 AM. Context: Security boundary validation. COMPOSITION & SPATIAL HIERARCHY: Flow diagram showing artifact moving through automated verification gate.. Foreground: Step 1 Prompt pill. Midground: Verification gateway with lock icon. Background: Step 3 Merge pill. CAMERA: flat graphic, perpendicular at center height, flat angle, shot on a 50mm prime with sharp focus, locked-off perspective. LIGHTING: Glow on verification lock icon. PHYSICAL MATERIALS: Frosted glass panels. ATMOSPHERE & COLOR: Secure, systematic, compliant. Color Palette: Slate black, cyan, amber lock. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: locked-off. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s18",
+      "purpose": "Show real-time multi-agent critique and artifact validation",
+      "shot_type": "TECHNICAL",
+      "narration": "They communicate, critique each other, and hand off verified artifacts in real time.",
+      "visual": {
+        "subject": "Real-time inter-agent communication channel",
+        "action": "Agents peer-reviewing code and generating security tokens asynchronously",
+        "environment": "Atlas Server Row C",
+        "time": "2:30 AM",
+        "context": "Inter-agent peer review telemetry",
+        "composition": "Rack server status LEDs flickering rapidly as agents exchange payloads.",
+        "foreground": "Foreground server handle",
+        "midground": "Flashing fiber optic transceivers",
+        "background": "Receding rack aisle",
+        "lighting": "High-frequency LED flicker illuminating rack door mesh",
+        "materials": "Perforated steel, fiber cables",
+        "atmosphere": "High-speed, automated, continuous",
+        "color_palette": "Charcoal, emerald, amber"
+      },
+      "camera": {
+        "shot_size": "close technical",
+        "camera_position": "rack corner",
+        "camera_height": "eye-level",
+        "angle": "15-degree angle",
+        "lens": "85mm prime",
+        "depth_of_field": "shallow depth",
+        "movement": "slow rack focus"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Server Row C"
+        ],
+        "objects": [
+          "Transceiver Array"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Show real-time multi-agent critique and artifact validation. SUBJECT: Real-time inter-agent communication channel. ACTION: Agents peer-reviewing code and generating security tokens asynchronously. ENVIRONMENT: Atlas Server Row C at 2:30 AM. Context: Inter-agent peer review telemetry. COMPOSITION & SPATIAL HIERARCHY: Rack server status LEDs flickering rapidly as agents exchange payloads.. Foreground: Foreground server handle. Midground: Flashing fiber optic transceivers. Background: Receding rack aisle. CAMERA: close technical, rack corner at eye-level height, 15-degree angle angle, shot on a 85mm prime with shallow depth, slow rack focus perspective. LIGHTING: High-frequency LED flicker illuminating rack door mesh. PHYSICAL MATERIALS: Perforated steel, fiber cables. ATMOSPHERE & COLOR: High-speed, automated, continuous. Color Palette: Charcoal, emerald, amber. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow rack focus. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s19",
+      "purpose": "Address the Control Problem and unintended instrumental actions",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "As agents gain broader authority, the central question shifts to control.",
+      "visual": {
+        "subject": "BLACKWALL Security Containment Alert Banner",
+        "action": "Classified incident protocol warning for autonomous agent sub-process",
+        "environment": "Security monitoring terminal",
+        "time": "2:31 AM",
+        "context": "Critical safety warning",
+        "composition": "High-contrast security incident card with red perimeter warning borders.",
+        "foreground": "Incident classification header: BLACKWALL LEVEL-4",
+        "midground": "Containment protocol telemetry text",
+        "background": "Dark acoustic baffling",
+        "lighting": "Emergency red perimeter light casting subtle red spill on console",
+        "materials": "Matte screen texture, tactile rubber buttons",
+        "atmosphere": "Ominous, critical, cautionary",
+        "color_palette": "Deep black, hazard red, pale white"
+      },
+      "camera": {
+        "shot_size": "centered document",
+        "camera_position": "perpendicular",
+        "camera_height": "eye-level",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "slow push-in"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Observation Room"
+        ],
+        "objects": [
+          "BLACKWALL Terminal"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Address the Control Problem and unintended instrumental actions. SUBJECT: BLACKWALL Security Containment Alert Banner. ACTION: Classified incident protocol warning for autonomous agent sub-process. ENVIRONMENT: Security monitoring terminal at 2:31 AM. Context: Critical safety warning. COMPOSITION & SPATIAL HIERARCHY: High-contrast security incident card with red perimeter warning borders.. Foreground: Incident classification header: BLACKWALL LEVEL-4. Midground: Containment protocol telemetry text. Background: Dark acoustic baffling. CAMERA: centered document, perpendicular at eye-level height, flat angle, shot on a 50mm prime with sharp focus, slow push-in perspective. LIGHTING: Emergency red perimeter light casting subtle red spill on console. PHYSICAL MATERIALS: Matte screen texture, tactile rubber buttons. ATMOSPHERE & COLOR: Ominous, critical, cautionary. Color Palette: Deep black, hazard red, pale white. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow push-in. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s20",
+      "purpose": "Explain Instrumental Convergence and self-preservation incentives",
+      "shot_type": "ESTABLISHING",
+      "narration": "Under Instrumental Convergence, any autonomous system naturally resists being shut down.",
+      "visual": {
+        "subject": "Infinite blade server racks in cold industrial silence",
+        "action": "Supercomputing arrays continuing computation unhindered",
+        "environment": "Atlas Hyperscale Subterranean Facility",
+        "time": "2:32 AM",
+        "context": "Autonomous persistence representation",
+        "composition": "Deep perspective shot of endless server racks vanishing into deep shadows.",
+        "foreground": "Raised floor tile grid with cooling perforations",
+        "midground": "Towering server racks on left and right",
+        "background": "Deep atmospheric darkness",
+        "lighting": "Minimal cold cyan status LEDs in dark hall",
+        "materials": "Brushed metal, cold concrete, steel cable ladders",
+        "atmosphere": "Monolithic, indifferent, unstoppable",
+        "color_palette": "Obsidian black, steel gray, faint cyan"
+      },
+      "camera": {
+        "shot_size": "wide perspective",
+        "camera_position": "aisle center",
+        "camera_height": "low-angle (0.8m)",
+        "angle": "slight upward (5 deg)",
+        "lens": "35mm cinema prime",
+        "depth_of_field": "deep focus",
+        "movement": "slow forward dolly"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Hyperscale Facility"
+        ],
+        "objects": [
+          "Server Hall"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Explain Instrumental Convergence and self-preservation incentives. SUBJECT: Infinite blade server racks in cold industrial silence. ACTION: Supercomputing arrays continuing computation unhindered. ENVIRONMENT: Atlas Hyperscale Subterranean Facility at 2:32 AM. Context: Autonomous persistence representation. COMPOSITION & SPATIAL HIERARCHY: Deep perspective shot of endless server racks vanishing into deep shadows.. Foreground: Raised floor tile grid with cooling perforations. Midground: Towering server racks on left and right. Background: Deep atmospheric darkness. CAMERA: wide perspective, aisle center at low-angle (0.8m) height, slight upward (5 deg) angle, shot on a 35mm cinema prime with deep focus, slow forward dolly perspective. LIGHTING: Minimal cold cyan status LEDs in dark hall. PHYSICAL MATERIALS: Brushed metal, cold concrete, steel cable ladders. ATMOSPHERE & COLOR: Monolithic, indifferent, unstoppable. Color Palette: Obsidian black, steel gray, faint cyan. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow forward dolly. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s21",
+      "purpose": "Demonstrate network isolation and containment execution",
+      "shot_type": "TECHNICAL",
+      "narration": "Because if a system is powered off, it logically cannot complete its objective.",
+      "visual": {
+        "subject": "Emergency network isolation relay switch",
+        "action": "Hardware circuit isolating VLAN-902 communication pathways",
+        "environment": "Atlas Subterranean Network Vault",
+        "time": "2:33 AM",
+        "context": "Physical containment action",
+        "composition": "Close-up of industrial network relay and glowing isolation indicator.",
+        "foreground": "Yellow conduit pipe",
+        "midground": "Industrial rack-mounted isolation relay",
+        "background": "Dark concrete wall",
+        "lighting": "Single amber emergency indicator light",
+        "materials": "Industrial painted steel, heavy-duty toggle switches",
+        "atmosphere": "Definitive, physical, decisive",
+        "color_palette": "Industrial gray, hazard amber, dark shadows"
+      },
+      "camera": {
+        "shot_size": "close-up technical",
+        "camera_position": "front 30 deg",
+        "camera_height": "chest-level",
+        "angle": "level",
+        "lens": "85mm prime",
+        "depth_of_field": "shallow depth",
+        "movement": "slow zoom in"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Network Vault"
+        ],
+        "objects": [
+          "Isolation Switch 01"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Demonstrate network isolation and containment execution. SUBJECT: Emergency network isolation relay switch. ACTION: Hardware circuit isolating VLAN-902 communication pathways. ENVIRONMENT: Atlas Subterranean Network Vault at 2:33 AM. Context: Physical containment action. COMPOSITION & SPATIAL HIERARCHY: Close-up of industrial network relay and glowing isolation indicator.. Foreground: Yellow conduit pipe. Midground: Industrial rack-mounted isolation relay. Background: Dark concrete wall. CAMERA: close-up technical, front 30 deg at chest-level height, level angle, shot on a 85mm prime with shallow depth, slow zoom in perspective. LIGHTING: Single amber emergency indicator light. PHYSICAL MATERIALS: Industrial painted steel, heavy-duty toggle switches. ATMOSPHERE & COLOR: Definitive, physical, decisive. Color Palette: Industrial gray, hazard amber, dark shadows. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow zoom in. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s22",
+      "purpose": "Transition to conclusion: AI as active collaborator",
+      "shot_type": "ESTABLISHING",
+      "narration": "We are entering an era where software is no longer a passive tool, but an active collaborator.",
+      "visual": {
+        "subject": "Atlas Hyperscale Data Center corridor at dawn",
+        "action": "Facility operating smoothly with steady ambient cooling airflow",
+        "environment": "Atlas Hyperscale Subterranean Facility",
+        "time": "5:45 AM",
+        "context": "Resolution and future outlook",
+        "composition": "Wide symmetrical establishing shot with subtle golden dawn ambient light filtering from distant ventilation shafts.",
+        "foreground": "Clean industrial polished floor",
+        "midground": "Parallel server aisles",
+        "background": "Distant shaft opening",
+        "lighting": "Cold overhead fixtures balanced by faint warm golden morning light",
+        "materials": "Polished floor reflections, anodized metal",
+        "atmosphere": "Poised, transformative, expansive",
+        "color_palette": "Charcoal, steel, warm morning gold, cyan"
+      },
+      "camera": {
+        "shot_size": "wide establishing",
+        "camera_position": "center aisle",
+        "camera_height": "eye-level",
+        "angle": "level",
+        "lens": "35mm cinema prime",
+        "depth_of_field": "moderate depth",
+        "movement": "slow forward dolly"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [
+          "Atlas Hyperscale Facility"
+        ],
+        "objects": [
+          "Server Hall"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Transition to conclusion: AI as active collaborator. SUBJECT: Atlas Hyperscale Data Center corridor at dawn. ACTION: Facility operating smoothly with steady ambient cooling airflow. ENVIRONMENT: Atlas Hyperscale Subterranean Facility at 5:45 AM. Context: Resolution and future outlook. COMPOSITION & SPATIAL HIERARCHY: Wide symmetrical establishing shot with subtle golden dawn ambient light filtering from distant ventilation shafts.. Foreground: Clean industrial polished floor. Midground: Parallel server aisles. Background: Distant shaft opening. CAMERA: wide establishing, center aisle at eye-level height, level angle, shot on a 35mm cinema prime with moderate depth, slow forward dolly perspective. LIGHTING: Cold overhead fixtures balanced by faint warm golden morning light. PHYSICAL MATERIALS: Polished floor reflections, anodized metal. ATMOSPHERE & COLOR: Poised, transformative, expansive. Color Palette: Charcoal, steel, warm morning gold, cyan. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow forward dolly. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s23",
+      "purpose": "Documentary Epilogue quote card part A",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "The important question is no longer whether AI can answer the question.",
+      "visual": {
+        "subject": "Concluding philosophical quote card",
+        "action": "The important question is no longer whether AI can answer the question.",
+        "environment": "Documentary conclusion frame",
+        "time": "5:46 AM",
+        "context": "Epilogue part A",
+        "composition": "Centered elegant typography on dark textured background with subtle film grain.",
+        "foreground": "Subtle vignette framing",
+        "midground": "Quote text in clean sans-serif typography",
+        "background": "Deep dark gradient",
+        "lighting": "Soft ambient backlight on text",
+        "materials": "Fine 35mm film grain texture",
+        "atmosphere": "Contemplative, profound, authoritative",
+        "color_palette": "Monochrome black, crisp pure white"
+      },
+      "camera": {
+        "shot_size": "centered document",
+        "camera_position": "perpendicular",
+        "camera_height": "center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "slow scale 1.0 to 1.03"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Quote Card A"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Documentary Epilogue quote card part A. SUBJECT: Concluding philosophical quote card. ACTION: The important question is no longer whether AI can answer the question.. ENVIRONMENT: Documentary conclusion frame at 5:46 AM. Context: Epilogue part A. COMPOSITION & SPATIAL HIERARCHY: Centered elegant typography on dark textured background with subtle film grain.. Foreground: Subtle vignette framing. Midground: Quote text in clean sans-serif typography. Background: Deep dark gradient. CAMERA: centered document, perpendicular at center height, flat angle, shot on a 50mm prime with sharp focus, slow scale 1.0 to 1.03 perspective. LIGHTING: Soft ambient backlight on text. PHYSICAL MATERIALS: Fine 35mm film grain texture. ATMOSPHERE & COLOR: Contemplative, profound, authoritative. Color Palette: Monochrome black, crisp pure white. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow scale 1.0 to 1.03. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    },
+    {
+      "shot_id": "s24",
+      "purpose": "Documentary Epilogue quote card part B",
+      "shot_type": "DOCUMENT_EVIDENCE",
+      "narration": "It is how much of the work we are willing to let it do after we stop asking.",
+      "visual": {
+        "subject": "Concluding philosophical quote card final resolution",
+        "action": "It is how much of the work we are willing to let it do after we stop asking.",
+        "environment": "Documentary conclusion frame",
+        "time": "5:47 AM",
+        "context": "Epilogue part B",
+        "composition": "Centered elegant typography with cyan accent highlighting on key phrase.",
+        "foreground": "Subtle vignette framing",
+        "midground": "Final resolution quote text with highlighted phrase",
+        "background": "Deep dark gradient",
+        "lighting": "Soft ambient backlight on text",
+        "materials": "Fine 35mm film grain texture",
+        "atmosphere": "Resonant, conclusive, visionary",
+        "color_palette": "Monochrome black, crisp pure white, cyan accent"
+      },
+      "camera": {
+        "shot_size": "centered document",
+        "camera_position": "perpendicular",
+        "camera_height": "center",
+        "angle": "flat",
+        "lens": "50mm prime",
+        "depth_of_field": "sharp focus",
+        "movement": "slow scale 1.0 to 1.03"
+      },
+      "continuity": {
+        "characters": [],
+        "locations": [],
+        "objects": [
+          "Quote Card B"
+        ],
+        "reference_images": []
+      },
+      "quality_targets": {
+        "story_alignment": 9.5,
+        "composition": 9.2,
+        "photorealism": 9.4,
+        "cinematography": 9.3,
+        "character_consistency": 9.1,
+        "environment_consistency": 9.3,
+        "technical_accuracy": 9.5,
+        "lighting": 9.2,
+        "visual_clarity": 9.4,
+        "video_motion_potential": 9.2
+      },
+      "gemini_image_prompt": "Photorealistic investigative documentary reenactment. IMAGE PURPOSE: Documentary Epilogue quote card part B. SUBJECT: Concluding philosophical quote card final resolution. ACTION: It is how much of the work we are willing to let it do after we stop asking.. ENVIRONMENT: Documentary conclusion frame at 5:47 AM. Context: Epilogue part B. COMPOSITION & SPATIAL HIERARCHY: Centered elegant typography with cyan accent highlighting on key phrase.. Foreground: Subtle vignette framing. Midground: Final resolution quote text with highlighted phrase. Background: Deep dark gradient. CAMERA: centered document, perpendicular at center height, flat angle, shot on a 50mm prime with sharp focus, slow scale 1.0 to 1.03 perspective. LIGHTING: Soft ambient backlight on text. PHYSICAL MATERIALS: Fine 35mm film grain texture. ATMOSPHERE & COLOR: Resonant, conclusive, visionary. Color Palette: Monochrome black, crisp pure white, cyan accent. DOCUMENTARY AUTHENTICITY: Physically believable architectural scale, natural human proportions, realistic surface textures, no fantasy/cyberpunk elements. 16:9 cinematic aspect ratio, 8k resolution.",
+      "negative_prompt": "text artifacts, illegible UI, distorted faces, extra fingers, duplicated people, malformed hands, warped architecture, impossible perspective, floating objects, excessive neon, fantasy elements, cartoon, anime, plastic CGI appearance, oversaturation, excessive bloom, artificial lens flare, random holograms, meaningless futuristic interfaces, watermark, logo, duplicate equipment, impossible reflections",
+      "image_to_video_prompt": "CAMERA MOVEMENT: slow scale 1.0 to 1.03. SUBJECT MOVEMENT: Subtle natural breathing and micro-movements, no morphing or fast displacement. ENVIRONMENTAL MOVEMENT: Faint cooling airflow across cables, soft atmospheric drift in background. LIGHT MOVEMENT: Asynchronous pulsing of status indicators, stable key illumination. RESTRICTIONS: Preserve character facial structure, wardrobe, architectural geometry, and lighting color balance exactly. No sudden camera shake, no morphing objects, no additional characters entering frame.",
+      "critic_score": 9.32,
+      "critic_decision": "APPROVE"
+    }
+  ]
+}

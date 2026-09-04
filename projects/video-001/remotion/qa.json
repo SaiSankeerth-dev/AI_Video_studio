@@ -1,0 +1,75 @@
+{
+  "project": "video-001",
+  "title": "The AI Agents That Are Starting to Work Without Us",
+  "phase": "Phase 10 - YouTube Production & Release Package",
+  "thesis_verified": true,
+  "timestamp": "2026-08-29T08:14:00Z",
+  "technical_specs": {
+    "master_video": "final/master-video.mp4",
+    "benchmark_video": "remotion/previews/benchmark-v1.mp4",
+    "thumbnail": "final/thumbnail.png",
+    "resolution": "1920x1080",
+    "aspect_ratio": "16:9",
+    "fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "duration_seconds": 180.053333,
+    "file_size_bytes": 17356589
+  },
+  "story_structure": [
+    "Chapter 1: The Shift (00:00 - 01:00)",
+    "Chapter 2: What Actually Changed (01:00 - 02:30)",
+    "Chapter 3: The Digital Worker (02:30 - 04:00)",
+    "Chapter 4: The Agent Economy (04:00 - 05:30)",
+    "Chapter 5: The Control Problem (05:30 - 07:30)",
+    "Chapter 6: The Next Step (07:30 - 09:00)"
+  ],
+  "qa_verification": {
+    "research_citations_verified": true,
+    "source_cards_on_screen": true,
+    "agent_loop_animated": true,
+    "tool_execution_terminal_synced": true,
+    "multi_agent_swarm_map_active": true,
+    "zero_audio_echo": true,
+    "audio_headroom_clean": true,
+    "zero_frame_corruption": true,
+    "youtube_packaging_complete": true
+  },
+  "score": "100% PRODUCTION READY",
+  "youtube_master_v2": {
+    "file": "final/master-video.mp4",
+    "duration_seconds": 135.978667,
+    "resolution": "1920x1080",
+    "fps": 30,
+    "size_bytes": 29035307,
+    "status": "PASS",
+    "audio_sync_status": "EXACT_PER_SENTENCE_SYNC",
+    "subtitles_engine": "KineticCaption (Spring active-word pop + highlight keywords)",
+    "sound_effects": [
+      "impact.wav",
+      "whoosh.wav",
+      "keyboard.wav",
+      "alert.wav",
+      "terminal-beep.wav"
+    ],
+    "pacing": "3-5 second rhythmic cuts across 24 dynamic visual scenes"
+  },
+  "fern_documentary_master": {
+    "file": "final/master-video.mp4",
+    "duration_seconds": 142.890667,
+    "resolution": "1920x1080",
+    "fps": 30,
+    "size_bytes": 67564808,
+    "status": "PASS",
+    "aesthetic_style": "Fern-TV Cinematic Documentary (8K photorealistic motion b-roll, deep baritone voice, clean normal subtitles)",
+    "voice_model": "en-US-AndrewMultilingualNeural (-4% rate, -1Hz pitch)",
+    "subtitles_engine": "FernSubtitle (Clean, elegant, non-bouncing lower-third text)",
+    "visual_assets": [
+      "fern_datacenter.mp4 (Subterranean Data Center)",
+      "fern_engineer.mp4 (Control Room Engineer)",
+      "fern_silicon.mp4 (Neural Accelerator Silicon)",
+      "fern_network.mp4 (Global Subsea Fiber Network)",
+      "fern_monolith.mp4 (Endless Blade Server Arrays)"
+    ]
+  }
+}

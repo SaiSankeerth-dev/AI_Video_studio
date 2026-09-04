@@ -1,0 +1,49 @@
+{
+  "graphic_id": "GFX-BM01",
+  "title": "Frontier Computer-Use Benchmark Comparative Matrix",
+  "status": "VERIFY BEFORE PUBLICATION",
+  "metrics": [
+    {
+      "benchmark": "AutomationBench",
+      "category": "OS Automation",
+      "astra": 88.4,
+      "baseline": 62.1,
+      "delta": "+26.3%"
+    },
+    {
+      "benchmark": "ScreenSpot Pro",
+      "category": "GUI Grounding",
+      "astra": 81.2,
+      "baseline": 54.7,
+      "delta": "+26.5%"
+    },
+    {
+      "benchmark": "TerminalBench",
+      "category": "CLI SysAdmin",
+      "astra": 79.6,
+      "baseline": 51.3,
+      "delta": "+28.3%"
+    },
+    {
+      "benchmark": "Agents Last Exam",
+      "category": "Frontier Agency",
+      "astra": 41.8,
+      "baseline": 18.5,
+      "delta": "+23.3%"
+    },
+    {
+      "benchmark": "FrontierMath",
+      "category": "Expert Mathematics",
+      "astra": 34.2,
+      "baseline": 2.0,
+      "delta": "+32.2%"
+    },
+    {
+      "benchmark": "ARC-AGI",
+      "category": "Spatial Induction",
+      "astra": 84.5,
+      "baseline": 75.7,
+      "delta": "+8.8%"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "source_id": "SRC-01",
+      "title": "OpenAI Agents SDK Documentation",
+      "author": "OpenAI Systems & Safety Engineering",
+      "year": 2026,
+      "scope": "Sandbox execution environments, structured tool registries, persistent file state stores, and automated verification loops.",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/"
+    },
+    {
+      "source_id": "SRC-02",
+      "title": "Google Cloud AI Business Trends Report",
+      "author": "Google Cloud Enterprise Research",
+      "year": 2026,
+      "scope": "Enterprise multi-agent orchestration architectures, token velocity economics, and Fortune 500 adoption statistics.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/"
+    },
+    {
+      "source_id": "SRC-03",
+      "title": "The Anatomy of Agentic Workflows",
+      "author": "DeepLearning.AI (Andrew Ng et al.)",
+      "year": 2025,
+      "scope": "ReAct feedback loops, task decomposition, reflection patterns, and empirical performance comparisons between single-turn and iterative LLM execution.",
+      "url": "https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/"
+    },
+    {
+      "source_id": "SRC-04",
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "author": "Nick Bostrom (Oxford University Press)",
+      "year": 2014,
+      "scope": "Mathematical formulation of Instrumental Convergence, orthogonal thesis, and emergent self-preservation / resource acquisition sub-goals in goal-seeking systems.",
+      "url": "https://global.oup.com/academic/product/superintelligence-9780198739838"
+    },
+    {
+      "source_id": "SRC-05",
+      "title": "Autonomous Agent Containment and Operational Security in Enterprise Networks",
+      "author": "Reuters Cyber & Technology Investigative Desk",
+      "year": 2026,
+      "scope": "Empirical case studies on containment incidents, kernel namespace isolation, sandbox breakout prevention, and immutable filesystem enforcement.",
+      "url": "https://www.reuters.com/technology/cybersecurity-ai-agents-containment-2026/"
+    }
+  ]
+}

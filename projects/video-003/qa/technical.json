@@ -1,0 +1,17 @@
+{
+  "project_id": "video-003",
+  "audit_date": "2026-09-04",
+  "verdict": "PASS",
+  "specifications": {
+    "resolution": "1920x1080",
+    "fps": 30,
+    "target_frames": 1800,
+    "target_duration_seconds": 60.0,
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "audio_sync_drift_ms": 0.0,
+    "container": "mp4",
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  }
+}

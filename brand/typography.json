@@ -1,0 +1,42 @@
+{
+  "name": "ContentFactory Typography System",
+  "editorial_heading": {
+    "family": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "weights": {
+      "bold": 700,
+      "extrabold": 800,
+      "black": 900
+    },
+    "letter_spacing": "-0.03em",
+    "case": "uppercase"
+  },
+  "technical_mono": {
+    "family": "'JetBrains Mono', 'Fira Code', 'Consolas', monospace",
+    "weights": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600
+    },
+    "letter_spacing": "-0.01em"
+  },
+  "narrative_subtitles": {
+    "family": "Inter, sans-serif",
+    "weights": {
+      "medium": 500,
+      "semibold": 600
+    },
+    "font_size_px": 44,
+    "line_height": 1.25,
+    "color": "#f8fafc",
+    "highlight_color": "#38bdf8",
+    "background": "rgba(0, 0, 0, 0.75)",
+    "border_radius_px": 6,
+    "padding": "6px 16px"
+  },
+  "evidence_annotation": {
+    "family": "'JetBrains Mono', monospace",
+    "font_size_px": 24,
+    "color": "#e2e8f0",
+    "stamp_case": "uppercase"
+  }
+}

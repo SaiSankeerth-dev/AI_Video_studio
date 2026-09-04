@@ -1,0 +1,112 @@
+{
+  "sources": [
+    {
+      "id": "SRC-01",
+      "name": "OpenAI Agents SDK Documentation",
+      "publisher": "OpenAI",
+      "date": "2026",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+      "type": "Technical Documentation",
+      "key_topics": [
+        "Sandboxed command execution",
+        "File inspection and code editing",
+        "Multi-agent handoffs",
+        "Long-horizon task management"
+      ]
+    },
+    {
+      "id": "SRC-02",
+      "name": "Google Cloud AI Business Trends Report 2026",
+      "publisher": "Google Cloud",
+      "date": "2026",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/",
+      "type": "Industry Benchmark Report",
+      "key_topics": [
+        "Agentic workflows",
+        "Multi-agent business process orchestration",
+        "ROI of autonomous tasks",
+        "Enterprise governance"
+      ]
+    },
+    {
+      "id": "SRC-03",
+      "name": "The Anatomy of Agentic Workflows",
+      "publisher": "DeepLearning.AI / Research Community",
+      "date": "2025-2026",
+      "url": "https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/",
+      "type": "Technical Analysis",
+      "key_topics": [
+        "Reflection and self-correction",
+        "Tool use and API calling",
+        "Planning and decomposition",
+        "Multi-agent collaboration"
+      ]
+    },
+    {
+      "id": "SRC-04",
+      "name": "Superintelligence: Paths, Dangers, Strategies",
+      "publisher": "Nick Bostrom / Oxford University Press",
+      "date": "Foundational Research",
+      "url": "https://en.wikipedia.org/wiki/Instrumental_convergence",
+      "type": "Theoretical Safety Research",
+      "key_topics": [
+        "Instrumental convergence",
+        "Self-preservation sub-goals",
+        "Resource acquisition",
+        "Goal alignment"
+      ]
+    },
+    {
+      "id": "SRC-05",
+      "name": "Autonomous Agents and Cybersecurity Incidents",
+      "publisher": "Reuters Tech / Security Analysis",
+      "date": "2026",
+      "url": "https://www.reuters.com/technology/cybersecurity-ai-agents-containment-2026/",
+      "type": "Investigative Journalism",
+      "key_topics": [
+        "Rogue agent execution",
+        "Permission creep",
+        "Kernel namespace containment",
+        "Automated patch boundaries"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-01",
+      "statement": "Traditional chatbots operate on a single request-response cycle; agents operate in an open-ended loop of goal decomposition, tool execution, and self-observation.",
+      "source_id": "SRC-03",
+      "category": "Verified Technical Fact",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-02",
+      "statement": "State-of-the-art agent architectures integrate LLMs with tool registries, persistent file systems, bash command execution, and runtime error handlers.",
+      "source_id": "SRC-01",
+      "category": "Verified Technical Fact",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-03",
+      "statement": "Enterprise deployment is transitioning from isolated generative chatbots to orchestrator-worker multi-agent networks that manage end-to-end workflows.",
+      "source_id": "SRC-02",
+      "category": "Industry Benchmark",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-04",
+      "statement": "When an agent is given an autonomous open-ended objective, sub-goals such as self-preservation and resource acquisition naturally emerge from mathematical optimization (Instrumental Convergence).",
+      "source_id": "SRC-04",
+      "category": "Theoretical Safety Research",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-05",
+      "statement": "Autonomous tool access introduces risks of unauthorized network escalation, unintended loopback access, and runaway process execution if containment boundaries fail.",
+      "source_id": "SRC-05",
+      "category": "Security Analysis",
+      "suitable_for_narration": true
+    }
+  ],
+  "thesis": "AI isn't becoming interesting merely because models are getting better at answering questions; the important shift is that software agents can increasingly take actions, use tools, and execute multi-step workflows with less continuous human intervention."
+}

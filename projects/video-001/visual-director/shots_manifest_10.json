@@ -1,0 +1,372 @@
+[
+  {
+    "shot_id": "S001",
+    "archetype": "ESTABLISHING",
+    "purpose": "Establish vast subterranean scale and solitude",
+    "subject": "Atlas Hyperscale Subterranean Facility",
+    "camera": {
+      "shot_type": "wide establishing",
+      "angle": "eye-level",
+      "lens": "35mm cinema prime",
+      "movement": "slow forward dolly"
+    },
+    "compiled_prompt": "Create a photorealistic cinematic documentary establishing shot. ENVIRONMENT: Atlas Hyperscale Subterranean Facility. SCALE & ARCHITECTURE: Expansive architectural depth, receding geometry, atmospheric volumetric haze. TIME: 2:13 AM. LIGHTING: Cold overhead fluorescent lighting with low floor mist reflections. COMPOSITION: Wide establishing symmetrical shot with infinite vanishing point. CAMERA: wide establishing, eye-level, 35mm cinema prime, slow forward dolly feel. MATERIALS: Brushed anodized black chassis, matte concrete, realistic cable bundles. INTENT: Serious investigative technology documentary reenactment, natural human and architectural scale, no saturated sci-fi glow. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S001",
+      "archetype": "ESTABLISHING",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S001",
+      "motion_type": "slow forward dolly",
+      "motion_prompt": "Continuous slow 35mm forward dolly push-in (speed factor: 0.0006 per frame). Server status LEDs pulse asynchronously. Subtle atmospheric floor fog moves slowly from right to left. Keep camera horizontal axis perfectly level. Zero camera shake. Zero object warping.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S002",
+    "archetype": "CHARACTER",
+    "purpose": "Human operator discovering anomaly at late hour",
+    "subject": "Dr. Maya Rao",
+    "camera": {
+      "shot_type": "medium shot",
+      "angle": "slight low-angle",
+      "lens": "50mm prime",
+      "movement": "slow push-in"
+    },
+    "compiled_prompt": "Create a photorealistic cinematic documentary reenactment shot. SUBJECT: Dr. Maya Rao, 34-year-old Indian engineer, sharp focused expression, dark hair tied back in a neat professional ponytail, wearing dark charcoal technical zip jacket over a black crewneck, lanyard ID badge. ACTION: Analyzing real-time process logs on multi-monitor diagnostic workstation. ENVIRONMENT: dark subterranean glass control pod overlooking the server hall, wrap-around acoustic glass, constructed with dark acoustic felt panels, matte black consoles, tempered glass reflections. Lighting: glow from multiple 4K diagnostic monitors, single warm desktop task lamp. TIME: 2:14 AM. LIGHTING: Glow from multiple code diagnostic monitors, warm desk lamp accent. COMPOSITION: Medium profile shot, Maya in left foreground with code reflections on acoustic glass. CAMERA: medium shot, slight low-angle, 50mm prime, shallow depth of field, slow push-in feel. MOOD: tense, focused, urgent. MATERIALS: Acoustic wall felt, matte monitor bezels, tactile keyboard keys. INTENT: High-end investigative documentary reenactment, authentic human proportions, tactile textures. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S002",
+      "archetype": "CHARACTER",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 90.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 92.75,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S002",
+      "motion_type": "slow push-in",
+      "motion_prompt": "Slow 50mm push-in toward the subject (speed factor: 0.0008 per frame). Subject remains seated with subtle micro-movements of hands typing and head tracking the monitor. Screen diagnostic text softly scrolls in the reflection. Zero morphing of face or wardrobe.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S003",
+    "archetype": "ABSTRACT",
+    "purpose": "Conceptual representation of autonomous software actions",
+    "subject": "Autonomous Agent Execution: A newly deployed autonomous coding agent...",
+    "camera": {
+      "shot_type": "medium graphic",
+      "angle": "flat",
+      "lens": "50mm prime",
+      "movement": "subtle pulse"
+    },
+    "compiled_prompt": "Create a cinematic documentary conceptual visualization. CONCEPT & METAPHOR: Autonomous Agent Execution: A newly deployed autonomous coding agent... - Digital workflow orchestration. ENVIRONMENT: Minimalist high-tech interface. LIGHTING: Clean dark UI illumination. COMPOSITION: Balanced modular bento grid. CAMERA: medium graphic, 50mm prime. INTENT: Minimalist technical documentary concept visual. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S003",
+      "archetype": "ABSTRACT",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S003",
+      "motion_type": "subtle pulse",
+      "motion_prompt": "Subtle 2.5D parallax drift with slight scale increase from 1.0 to 1.05.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S004",
+    "archetype": "MACRO",
+    "purpose": "Examine physical computing hardware processing autonomous reasoning",
+    "subject": "Next-gen AI neural accelerator silicon processor",
+    "camera": {
+      "shot_type": "extreme macro",
+      "angle": "45-degree isometric",
+      "lens": "90mm macro prime",
+      "movement": "slow lateral pan"
+    },
+    "compiled_prompt": "Create an extreme macro cinematic photograph for a technology documentary. SUBJECT: Next-gen AI neural accelerator silicon processor. HARDWARE DETAILS: Microscopic fiber optic traces pulsing with gold and teal data pulses, Silicon wafer iridescent sheen, copper micro-traces, titanium heat sink fins. LIGHTING: Low-key precision studio lighting, fiber optic and circuit board reflections, Studio precision macro lighting, gold circuit trace reflections. COMPOSITION: Extreme macro close-up with shallow depth of field focusing on central silicon die, shallow depth of field, extreme micro detail. CAMERA: Macro 90mm lens, razor-sharp focus on primary component. INTENT: High-end technology documentary hardware examination, ultra-photorealistic silicon and copper traces. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S004",
+      "archetype": "MACRO",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S004",
+      "motion_type": "slow lateral pan",
+      "motion_prompt": "Slow lateral camera slide along the silicon chip plane (speed factor: 0.0007 per frame). Gold micro-circuit traces shimmer under moving light angle. Extreme shallow depth of field maintained throughout.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S005",
+    "archetype": "SCALE",
+    "purpose": "Illustrate global subsea reach of autonomous agent deployments",
+    "subject": "Global subsea fiber optic data cables and distributed server nodes",
+    "camera": {
+      "shot_type": "wide topographic",
+      "angle": "top-down orbital",
+      "lens": "24mm cinema prime",
+      "movement": "slow global zoom"
+    },
+    "compiled_prompt": "Create a cinematic documentary scale visualization. GEOGRAPHY & NETWORK: Dark cartographic projection of Earth, Global subsea fiber optic data cables and distributed server nodes. DATA PATHWAYS: Telemetry pulses routing between continents across dark topographic map. LIGHTING: Dark cartographic illumination, glowing pulse lines, High-contrast dark cartography, glowing cyan and amber route paths. COMPOSITION: Wide cinematic topological projection with clear continental contours. CAMERA: Wide topological angle, 24mm cinema prime. INTENT: Serious global infrastructure visualization, clean matte graphic styling. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S005",
+      "archetype": "SCALE",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S005",
+      "motion_type": "slow global zoom",
+      "motion_prompt": "Slow orbit pan across the global data network map. Light pulses propagate along subsea fiber paths between major continents. Topographical map features remain crisp and static.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S006",
+    "archetype": "ESTABLISHING",
+    "purpose": "Show endless automated infrastructure operating without human presence",
+    "subject": "Endless rows of supercomputing blade server arrays",
+    "camera": {
+      "shot_type": "wide perspective",
+      "angle": "low-angle",
+      "lens": "35mm cinema prime",
+      "movement": "slow push-in"
+    },
+    "compiled_prompt": "Create a photorealistic cinematic documentary establishing shot. ENVIRONMENT: Atlas Hyperscale Subterranean Facility. SCALE & ARCHITECTURE: Expansive architectural depth, receding geometry, atmospheric volumetric haze. TIME: 2:18 AM. LIGHTING: Cold cyan and amber server LEDs in dark room with floor fog. COMPOSITION: Deep perspective corridor shot fading into blackness. CAMERA: wide perspective, low-angle, 35mm cinema prime, slow push-in feel. MATERIALS: Perforated server doors, fan grilles, fiber optic patch cables. INTENT: Serious investigative technology documentary reenactment, natural human and architectural scale, no saturated sci-fi glow. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S006",
+      "archetype": "ESTABLISHING",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S006",
+      "motion_type": "slow push-in",
+      "motion_prompt": "Continuous slow 35mm forward dolly push-in (speed factor: 0.0006 per frame). Server status LEDs pulse asynchronously. Subtle atmospheric floor fog moves slowly from right to left. Keep camera horizontal axis perfectly level. Zero camera shake. Zero object warping.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S007",
+    "archetype": "ABSTRACT",
+    "purpose": "Conceptual representation of autonomous software actions",
+    "subject": "Autonomous Agent Execution: The agent decomposed its objective into ...",
+    "camera": {
+      "shot_type": "medium graphic",
+      "angle": "flat",
+      "lens": "50mm prime",
+      "movement": "subtle pulse"
+    },
+    "compiled_prompt": "Create a cinematic documentary conceptual visualization. CONCEPT & METAPHOR: Autonomous Agent Execution: The agent decomposed its objective into ... - Digital workflow orchestration. ENVIRONMENT: Minimalist high-tech interface. LIGHTING: Clean dark UI illumination. COMPOSITION: Balanced modular bento grid. CAMERA: medium graphic, 50mm prime. INTENT: Minimalist technical documentary concept visual. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S007",
+      "archetype": "ABSTRACT",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S007",
+      "motion_type": "subtle pulse",
+      "motion_prompt": "Subtle 2.5D parallax drift with slight scale increase from 1.0 to 1.05.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S008",
+    "archetype": "CHARACTER",
+    "purpose": "Human operator discovering anomaly at late hour",
+    "subject": "Dr. Maya Rao",
+    "camera": {
+      "shot_type": "medium shot",
+      "angle": "slight low-angle",
+      "lens": "50mm prime",
+      "movement": "slow push-in"
+    },
+    "compiled_prompt": "Create a photorealistic cinematic documentary reenactment shot. SUBJECT: Dr. Maya Rao, 34-year-old Indian engineer, sharp focused expression, dark hair tied back in a neat professional ponytail, wearing dark charcoal technical zip jacket over a black crewneck, lanyard ID badge. ACTION: Analyzing real-time process logs on multi-monitor diagnostic workstation. ENVIRONMENT: dark subterranean glass control pod overlooking the server hall, wrap-around acoustic glass, constructed with dark acoustic felt panels, matte black consoles, tempered glass reflections. Lighting: glow from multiple 4K diagnostic monitors, single warm desktop task lamp. TIME: 2:14 AM. LIGHTING: Glow from multiple code diagnostic monitors, warm desk lamp accent. COMPOSITION: Medium profile shot, Maya in left foreground with code reflections on acoustic glass. CAMERA: medium shot, slight low-angle, 50mm prime, shallow depth of field, slow push-in feel. MOOD: tense, focused, urgent. MATERIALS: Acoustic wall felt, matte monitor bezels, tactile keyboard keys. INTENT: High-end investigative documentary reenactment, authentic human proportions, tactile textures. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S008",
+      "archetype": "CHARACTER",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 90.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 92.75,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S008",
+      "motion_type": "slow push-in",
+      "motion_prompt": "Slow 50mm push-in toward the subject (speed factor: 0.0008 per frame). Subject remains seated with subtle micro-movements of hands typing and head tracking the monitor. Screen diagnostic text softly scrolls in the reflection. Zero morphing of face or wardrobe.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S009",
+    "archetype": "ABSTRACT",
+    "purpose": "Conceptual representation of autonomous software actions",
+    "subject": "Autonomous Agent Execution: An automated security gate isolated VLAN...",
+    "camera": {
+      "shot_type": "medium graphic",
+      "angle": "flat",
+      "lens": "50mm prime",
+      "movement": "subtle pulse"
+    },
+    "compiled_prompt": "Create a cinematic documentary conceptual visualization. CONCEPT & METAPHOR: Autonomous Agent Execution: An automated security gate isolated VLAN... - Digital workflow orchestration. ENVIRONMENT: Minimalist high-tech interface. LIGHTING: Clean dark UI illumination. COMPOSITION: Balanced modular bento grid. CAMERA: medium graphic, 50mm prime. INTENT: Minimalist technical documentary concept visual. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S009",
+      "archetype": "ABSTRACT",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S009",
+      "motion_type": "subtle pulse",
+      "motion_prompt": "Subtle 2.5D parallax drift with slight scale increase from 1.0 to 1.05.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  },
+  {
+    "shot_id": "S010",
+    "archetype": "ABSTRACT",
+    "purpose": "Conceptual representation of autonomous software actions",
+    "subject": "Autonomous Agent Execution: The system self-healed, patched its own ...",
+    "camera": {
+      "shot_type": "medium graphic",
+      "angle": "flat",
+      "lens": "50mm prime",
+      "movement": "subtle pulse"
+    },
+    "compiled_prompt": "Create a cinematic documentary conceptual visualization. CONCEPT & METAPHOR: Autonomous Agent Execution: The system self-healed, patched its own ... - Digital workflow orchestration. ENVIRONMENT: Minimalist high-tech interface. LIGHTING: Clean dark UI illumination. COMPOSITION: Balanced modular bento grid. CAMERA: medium graphic, 50mm prime. INTENT: Minimalist technical documentary concept visual. 16:9 cinematic aspect ratio, 8k resolution.",
+    "critic_evaluation": {
+      "shot_id": "S010",
+      "archetype": "ABSTRACT",
+      "scores": {
+        "story_relevance": 94.0,
+        "composition": 92.0,
+        "photorealism": 95.0,
+        "character_consistency": 95.0,
+        "environment_consistency": 93.0,
+        "lighting_quality": 92.0,
+        "camera_fidelity": 91.0,
+        "artifact_free": 96.0
+      },
+      "overall_score": 93.5,
+      "decision": "APPROVED",
+      "refinement_advice": null
+    },
+    "motion_specification": {
+      "shot_id": "S010",
+      "motion_type": "subtle pulse",
+      "motion_prompt": "Subtle 2.5D parallax drift with slight scale increase from 1.0 to 1.05.",
+      "target_fps": 30,
+      "duration_seconds": 6.0
+    }
+  }
+]

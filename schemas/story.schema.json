@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryStorySchema",
+  "type": "object",
+  "required": [
+    "topic", "central_question", "stakes", "promise", "narrative_arc", "beats"
+  ],
+  "properties": {
+    "topic": { "type": "string" },
+    "weak_angle": { "type": "string" },
+    "strong_angle": { "type": "string" },
+    "central_question": { "type": "string" },
+    "stakes": { "type": "string" },
+    "promise": { "type": "string" },
+    "target_runtime_seconds": { "type": "number" },
+    "narrative_arc": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "beats": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["beat_id", "beat_name", "dramatic_purpose", "target_seconds", "emotional_state", "revealed_mystery"],
+        "properties": {
+          "beat_id": { "type": "string" },
+          "beat_name": { "type": "string" },
+          "dramatic_purpose": { "type": "string" },
+          "target_seconds": { "type": "number" },
+          "emotional_state": { "type": "string" },
+          "revealed_mystery": { "type": "string" }
+        }
+      }
+    }
+  }
+}

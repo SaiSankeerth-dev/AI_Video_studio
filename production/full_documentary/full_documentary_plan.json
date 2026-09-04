@@ -1,0 +1,71 @@
+{
+  "project_id": "video-003-astra-full",
+  "title": "GPT-6 Astra: The AI That Can Take Over Your Computer",
+  "runtime_seconds": 870,
+  "runtime_formatted": "14:30",
+  "total_chapters": 8,
+  "chapters": [
+    {
+      "chapter_id": "CH-00",
+      "title": "Cold Open: The Autonomous Workstation",
+      "time_range": "0:00 - 0:40",
+      "duration_seconds": 40
+    },
+    {
+      "chapter_id": "CH-01",
+      "title": "What is Astra? The Agentic Foundation",
+      "time_range": "0:40 - 2:30",
+      "duration_seconds": 110
+    },
+    {
+      "chapter_id": "CH-02",
+      "title": "The Computer-Use Leap: Action vs Generation",
+      "time_range": "2:30 - 5:00",
+      "duration_seconds": 150
+    },
+    {
+      "chapter_id": "CH-03",
+      "title": "The Benchmark Battle: OSWorld 2.0 (72.6%)",
+      "time_range": "5:00 - 7:30",
+      "duration_seconds": 150
+    },
+    {
+      "chapter_id": "CH-04",
+      "title": "The Scale: 1.05M Context & Stateful RAM",
+      "time_range": "7:30 - 9:00",
+      "duration_seconds": 90
+    },
+    {
+      "chapter_id": "CH-05",
+      "title": "Where It Breaks: Cascading CLI Failures",
+      "time_range": "9:00 - 10:45",
+      "duration_seconds": 105
+    },
+    {
+      "chapter_id": "CH-06",
+      "title": "The Cyber Threshold: Tier 4 Preparedness Risk",
+      "time_range": "10:45 - 12:30",
+      "duration_seconds": 105
+    },
+    {
+      "chapter_id": "CH-07",
+      "title": "The Unanswered Question: The Environment",
+      "time_range": "12:30 - 14:30",
+      "duration_seconds": 120
+    }
+  ],
+  "narrative_arc": [
+    "HOOK",
+    "QUESTION",
+    "CONTEXT",
+    "FIRST REVEAL",
+    "ESCALATION",
+    "COMPLICATION",
+    "DEEPER DISCOVERY",
+    "CLIMAX",
+    "ANSWER",
+    "IMPLICATION"
+  ],
+  "total_planned_shots": 118,
+  "status": "PRODUCTION_PLAN_COMPILED"
+}

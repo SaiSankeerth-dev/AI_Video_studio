@@ -1,0 +1,74 @@
+{
+  "project_id": "video-003",
+  "chapters": [
+    {
+      "chapter_id": "CH-00",
+      "title": "Cold Open",
+      "start_time": "0:00",
+      "end_time": "0:40",
+      "duration_seconds": 40,
+      "core_concept": "Start with capability, not OpenAI announcement. An agent interacting with a desktop.",
+      "narration_summary": "A computer is sitting in front of you. A browser is open. A terminal is waiting... you ask it to do it."
+    },
+    {
+      "chapter_id": "CH-01",
+      "title": "What is Astra?",
+      "start_time": "0:40",
+      "end_time": "2:30",
+      "duration_seconds": 110,
+      "core_concept": "What it is, who it is for, capabilities claimed, how it differs from earlier models.",
+      "visual_sequence": "AI model visualization -> browser -> terminal -> code editor -> data analysis -> professional workflow."
+    },
+    {
+      "chapter_id": "CH-02",
+      "title": "The Computer-Use Leap",
+      "start_time": "2:30",
+      "end_time": "5:00",
+      "duration_seconds": 150,
+      "core_concept": "Traditional chatbot vs Agentic system. Concrete fictional demonstration: Find bug -> inspect -> run test -> observe failure -> patch -> verify.",
+      "labeling_requirement": "Must be explicitly labeled as dramatized/illustrative reconstruction."
+    },
+    {
+      "chapter_id": "CH-03",
+      "title": "The Benchmark Battle",
+      "start_time": "5:00",
+      "end_time": "7:30",
+      "duration_seconds": 150,
+      "core_concept": "How do we know the model is actually better? AutomationBench, ScreenSpot Pro, Agents Last Exam, FrontierMath, ARC-AGI, TerminalBench.",
+      "graphics_flow": "Benchmark -> what it measures -> Astra -> previous model -> what the difference means."
+    },
+    {
+      "chapter_id": "CH-04",
+      "title": "The Scale",
+      "start_time": "7:30",
+      "end_time": "9:00",
+      "duration_seconds": 90,
+      "core_concept": "1,050,000-token context, 128,000-token max output, $10/$50 pricing. Visualized as books, codebases, logs, research.",
+      "verification_notice": "Independently check against official model card before publishing."
+    },
+    {
+      "chapter_id": "CH-05",
+      "title": "Where It Becomes Useful",
+      "start_time": "9:00",
+      "end_time": "11:30",
+      "duration_seconds": 150,
+      "core_concept": "Reconstruct real workflows: Software engineering, defensive cybersecurity, scientific inquiry, professional decision support."
+    },
+    {
+      "chapter_id": "CH-06",
+      "title": "The Uncomfortable Question",
+      "start_time": "11:30",
+      "end_time": "13:30",
+      "duration_seconds": 120,
+      "core_concept": "Challenge launch claims: Benchmark performance vs reliability, error recovery, tool failure, human supervision, safety boundaries."
+    },
+    {
+      "chapter_id": "CH-07",
+      "title": "Ending: The Goal is the Output",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "duration_seconds": 60,
+      "core_concept": "Bring it back to the central question. The paragraph is no longer the final output; the goal is the output. Cut to black."
+    }
+  ]
+}

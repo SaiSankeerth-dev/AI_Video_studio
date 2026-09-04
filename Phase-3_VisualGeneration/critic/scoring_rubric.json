@@ -1,0 +1,32 @@
+{
+  "rubric_title": "10-Factor Cinematic Image Critic Rubric v1.0",
+  "criteria": [
+    "story_alignment",
+    "composition",
+    "photorealism",
+    "cinematography",
+    "character_consistency",
+    "environment_consistency",
+    "technical_accuracy",
+    "lighting",
+    "visual_clarity",
+    "video_motion_potential"
+  ],
+  "weights": {
+    "story_alignment": 0.15,
+    "composition": 0.12,
+    "photorealism": 0.15,
+    "cinematography": 0.1,
+    "character_consistency": 0.12,
+    "environment_consistency": 0.1,
+    "technical_accuracy": 0.1,
+    "lighting": 0.06,
+    "visual_clarity": 0.05,
+    "video_motion_potential": 0.05
+  },
+  "thresholds": {
+    "approve": 9.0,
+    "refine": 8.0,
+    "regenerate": 7.0
+  }
+}

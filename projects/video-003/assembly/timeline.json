@@ -1,0 +1,392 @@
+{
+  "project_id": "video-003",
+  "title": "GPT-6 Astra: The AI That Can Use a Computer",
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "total_frames": 1800,
+  "total_duration_seconds": 60.0,
+  "tracks": {
+    "video": [
+      {
+        "shot_id": "S01",
+        "start_frame": 0,
+        "duration_frames": 165,
+        "start_seconds": 0.0,
+        "duration_seconds": 5.5,
+        "source": "images/s01_workstation_night.png",
+        "visual_type": "AI_IMAGE",
+        "scale": {
+          "start": 1.0,
+          "end": 1.08
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "techno_noir_cool",
+          "contrast": 1.1,
+          "saturation": 0.85
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S02",
+        "start_frame": 165,
+        "duration_frames": 225,
+        "start_seconds": 5.5,
+        "duration_seconds": 7.5,
+        "source": "images/s02_screen_desktop.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "scale": {
+          "start": 1.02,
+          "end": 1.02
+        },
+        "position": {
+          "x_start": -20,
+          "x_end": 20,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "neutral_sRGB",
+          "contrast": 1.0,
+          "saturation": 1.0
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S03",
+        "start_frame": 390,
+        "duration_frames": 240,
+        "start_seconds": 13.0,
+        "duration_seconds": 8.0,
+        "source": "video/s03_architecture.mp4",
+        "visual_type": "BLENDER_3D",
+        "scale": {
+          "start": 1.0,
+          "end": 1.0
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "obsidian_cyan_boost",
+          "contrast": 1.15,
+          "saturation": 1.1
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S04",
+        "start_frame": 630,
+        "duration_frames": 225,
+        "start_seconds": 21.0,
+        "duration_seconds": 7.5,
+        "source": "component:AstraTitleLoop",
+        "visual_type": "MOTION_GRAPHICS",
+        "scale": {
+          "start": 1.0,
+          "end": 1.0
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "direct_render",
+          "contrast": 1.0,
+          "saturation": 1.0
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S05",
+        "start_frame": 855,
+        "duration_frames": 180,
+        "start_seconds": 28.5,
+        "duration_seconds": 6.0,
+        "source": "images/s05_keyboard_macro.png",
+        "visual_type": "AI_IMAGE",
+        "scale": {
+          "start": 1.08,
+          "end": 1.0
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "warm_practical_shadow",
+          "contrast": 1.08,
+          "saturation": 0.9
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S06",
+        "start_frame": 1035,
+        "duration_frames": 225,
+        "start_seconds": 34.5,
+        "duration_seconds": 7.5,
+        "source": "images/s06_agent_debug_screen.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "scale": {
+          "start": 1.02,
+          "end": 1.02
+        },
+        "position": {
+          "x_start": 20,
+          "x_end": -20,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "neutral_sRGB",
+          "contrast": 1.0,
+          "saturation": 1.0
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S07",
+        "start_frame": 1260,
+        "duration_frames": 285,
+        "start_seconds": 42.0,
+        "duration_seconds": 9.5,
+        "source": "component:EvidenceVerifyCard",
+        "visual_type": "DOCUMENT/EVIDENCE",
+        "scale": {
+          "start": 1.0,
+          "end": 1.03
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "amber_warning_punch",
+          "contrast": 1.05,
+          "saturation": 1.05
+        },
+        "transition_out": {
+          "type": "cut",
+          "frames": 0
+        }
+      },
+      {
+        "shot_id": "S08",
+        "start_frame": 1545,
+        "duration_frames": 255,
+        "start_seconds": 51.5,
+        "duration_seconds": 8.5,
+        "source": "component:AstraComparison",
+        "visual_type": "MOTION_GRAPHICS",
+        "scale": {
+          "start": 1.0,
+          "end": 1.0
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "crop": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "color_grade": {
+          "lut": "direct_render",
+          "contrast": 1.0,
+          "saturation": 1.0
+        },
+        "transition_out": {
+          "type": "fade_to_black",
+          "frames": 15
+        }
+      }
+    ],
+    "audio": {
+      "narration": [
+        {
+          "segment_id": "N001",
+          "start_frame": 0,
+          "duration_frames": 165,
+          "file": "audio/narration_N001.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N002",
+          "start_frame": 165,
+          "duration_frames": 225,
+          "file": "audio/narration_N002.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N003",
+          "start_frame": 390,
+          "duration_frames": 240,
+          "file": "audio/narration_N003.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N004",
+          "start_frame": 630,
+          "duration_frames": 225,
+          "file": "audio/narration_N004.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N005",
+          "start_frame": 855,
+          "duration_frames": 180,
+          "file": "audio/narration_N005.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N006",
+          "start_frame": 1035,
+          "duration_frames": 225,
+          "file": "audio/narration_N006.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N007",
+          "start_frame": 1260,
+          "duration_frames": 285,
+          "file": "audio/narration_N007.mp3",
+          "volume": 1.0
+        },
+        {
+          "segment_id": "N008",
+          "start_frame": 1545,
+          "duration_frames": 255,
+          "file": "audio/narration_N008.mp3",
+          "volume": 1.0
+        }
+      ],
+      "sfx": [
+        {
+          "shot_id": "S01",
+          "start_frame": 0,
+          "file": "audio/ambient-hum.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S02",
+          "start_frame": 165,
+          "file": "audio/room-tone.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S03",
+          "start_frame": 390,
+          "file": "audio/subsonic-whoosh.wav",
+          "volume": 0.4
+        },
+        {
+          "shot_id": "S04",
+          "start_frame": 630,
+          "file": "audio/ui-impact.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S05",
+          "start_frame": 855,
+          "file": "audio/keyboard-click.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S06",
+          "start_frame": 1035,
+          "file": "audio/terminal-keystrokes.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S07",
+          "start_frame": 1260,
+          "file": "audio/telemetry-chirp.wav",
+          "volume": 0.35
+        },
+        {
+          "shot_id": "S08",
+          "start_frame": 1545,
+          "file": "audio/resolution-tone.wav",
+          "volume": 0.35
+        }
+      ],
+      "ambient_bed": [
+        {
+          "file": "audio/ambient-hum.wav",
+          "start_frame": 0,
+          "duration_frames": 1800,
+          "volume": 0.08,
+          "loop": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "project": "video-001",
+  "verified_claims": [
+    {
+      "claim_id": "CLM-01",
+      "statement": "Traditional chatbots operate on a single request-response cycle; agents operate in an open-ended loop of goal decomposition, tool execution, and self-observation.",
+      "source_id": "SRC-03",
+      "category": "Verified Technical Fact",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-02",
+      "statement": "State-of-the-art agent architectures integrate LLMs with tool registries, persistent file systems, bash command execution, and runtime error handlers.",
+      "source_id": "SRC-01",
+      "category": "Verified Technical Fact",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-03",
+      "statement": "Enterprise deployment is transitioning from isolated generative chatbots to orchestrator-worker multi-agent networks that manage end-to-end workflows.",
+      "source_id": "SRC-02",
+      "category": "Industry Benchmark",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-04",
+      "statement": "When an agent is given an autonomous open-ended objective, sub-goals such as self-preservation and resource acquisition naturally emerge from mathematical optimization (Instrumental Convergence).",
+      "source_id": "SRC-04",
+      "category": "Theoretical Safety Research",
+      "suitable_for_narration": true
+    },
+    {
+      "claim_id": "CLM-05",
+      "statement": "Autonomous tool access introduces risks of unauthorized network escalation, unintended loopback access, and runaway process execution if containment boundaries fail.",
+      "source_id": "SRC-05",
+      "category": "Security Analysis",
+      "suitable_for_narration": true
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "episode_id": "video-001",
+  "title": "The AI Agents That Are Starting to Work Without Us",
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "total_frames": 4285,
+  "total_seconds": 142.83333333333334,
+  "tracks": {
+    "video": [
+      {
+        "clip_id": "vid_s01",
+        "type": "broll_motion",
+        "source_file": "video/fern_datacenter.mp4",
+        "start_frame": 0,
+        "duration_frames": 149,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_s02",
+        "type": "broll_motion",
+        "source_file": "video/fern_engineer.mp4",
+        "start_frame": 149,
+        "duration_frames": 167,
+        "visual_archetype": "HUMAN_OPERATOR"
+      },
+      {
+        "clip_id": "vid_s03",
+        "type": "motion_graphics",
+        "source_file": "components/ChatbotFriction",
+        "start_frame": 316,
+        "duration_frames": 178,
+        "visual_archetype": "INTERACTION_DIAGRAM"
+      },
+      {
+        "clip_id": "vid_s04",
+        "type": "broll_motion",
+        "source_file": "video/fern_silicon.mp4",
+        "start_frame": 494,
+        "duration_frames": 187,
+        "visual_archetype": "SILICON_HARDWARE"
+      },
+      {
+        "clip_id": "vid_s05",
+        "type": "motion_graphics",
+        "source_file": "components/TitleCard",
+        "start_frame": 681,
+        "duration_frames": 151,
+        "visual_archetype": "TITLE_TYPOGRAPHY"
+      },
+      {
+        "clip_id": "vid_s06",
+        "type": "broll_motion",
+        "source_file": "video/fern_silicon.mp4",
+        "start_frame": 832,
+        "duration_frames": 125,
+        "visual_archetype": "SILICON_HARDWARE"
+      },
+      {
+        "clip_id": "vid_s07",
+        "type": "motion_graphics",
+        "source_file": "components/ArchitectureDiagram",
+        "start_frame": 957,
+        "duration_frames": 162,
+        "visual_archetype": "BENTO_INFOGRAPHIC"
+      },
+      {
+        "clip_id": "vid_s08",
+        "type": "broll_motion",
+        "source_file": "video/fern_datacenter.mp4",
+        "start_frame": 1119,
+        "duration_frames": 205,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_s09",
+        "type": "broll_motion",
+        "source_file": "video/fern_network.mp4",
+        "start_frame": 1324,
+        "duration_frames": 226,
+        "visual_archetype": "GLOBAL_NETWORK"
+      },
+      {
+        "clip_id": "vid_s10",
+        "type": "motion_graphics",
+        "source_file": "components/AgentLoop",
+        "start_frame": 1550,
+        "duration_frames": 207,
+        "visual_archetype": "STATE_MACHINE"
+      },
+      {
+        "clip_id": "vid_s11",
+        "type": "motion_graphics",
+        "source_file": "components/ToolExecution",
+        "start_frame": 1757,
+        "duration_frames": 174,
+        "visual_archetype": "CODE_SANDBOX"
+      },
+      {
+        "clip_id": "vid_s12",
+        "type": "broll_motion",
+        "source_file": "video/fern_engineer.mp4",
+        "start_frame": 1931,
+        "duration_frames": 207,
+        "visual_archetype": "HUMAN_OPERATOR"
+      },
+      {
+        "clip_id": "vid_s13",
+        "type": "motion_graphics",
+        "source_file": "components/CodeDiff",
+        "start_frame": 2138,
+        "duration_frames": 201,
+        "visual_archetype": "CODE_DIFF"
+      },
+      {
+        "clip_id": "vid_s14",
+        "type": "motion_graphics",
+        "source_file": "components/ToolExecution",
+        "start_frame": 2339,
+        "duration_frames": 200,
+        "visual_archetype": "ERROR_HEAL"
+      },
+      {
+        "clip_id": "vid_s15",
+        "type": "broll_motion",
+        "source_file": "video/fern_monolith.mp4",
+        "start_frame": 2539,
+        "duration_frames": 180,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_s16",
+        "type": "motion_graphics",
+        "source_file": "components/CompanyMap",
+        "start_frame": 2719,
+        "duration_frames": 177,
+        "visual_archetype": "SWARM_TREE"
+      },
+      {
+        "clip_id": "vid_s17",
+        "type": "broll_motion",
+        "source_file": "video/fern_network.mp4",
+        "start_frame": 2896,
+        "duration_frames": 199,
+        "visual_archetype": "GLOBAL_NETWORK"
+      },
+      {
+        "clip_id": "vid_s18",
+        "type": "motion_graphics",
+        "source_file": "components/CompanyMap",
+        "start_frame": 3095,
+        "duration_frames": 168,
+        "visual_archetype": "SWARM_DISPATCH"
+      },
+      {
+        "clip_id": "vid_s19",
+        "type": "motion_graphics",
+        "source_file": "components/SourceCard",
+        "start_frame": 3263,
+        "duration_frames": 163,
+        "visual_archetype": "SECURITY_GATE"
+      },
+      {
+        "clip_id": "vid_s20",
+        "type": "broll_motion",
+        "source_file": "video/fern_monolith.mp4",
+        "start_frame": 3426,
+        "duration_frames": 185,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_s21",
+        "type": "motion_graphics",
+        "source_file": "components/SourceCard",
+        "start_frame": 3611,
+        "duration_frames": 170,
+        "visual_archetype": "SECURITY_GATE"
+      },
+      {
+        "clip_id": "vid_s22",
+        "type": "broll_motion",
+        "source_file": "video/fern_datacenter.mp4",
+        "start_frame": 3781,
+        "duration_frames": 210,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_s23",
+        "type": "motion_graphics",
+        "source_file": "components/QuoteCard",
+        "start_frame": 3991,
+        "duration_frames": 156,
+        "visual_archetype": "EPILOGUE_QUOTE_A"
+      },
+      {
+        "clip_id": "vid_s24",
+        "type": "motion_graphics",
+        "source_file": "components/QuoteCard",
+        "start_frame": 4147,
+        "duration_frames": 138,
+        "visual_archetype": "EPILOGUE_QUOTE_B"
+      }
+    ],
+    "voiceover": [
+      {
+        "clip_id": "vox_s01",
+        "file": "audio/sentences/s01.mp3",
+        "start_frame": 0,
+        "duration_frames": 149,
+        "text": "For years, artificial intelligence waited for us to ask a question.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s02",
+        "file": "audio/sentences/s02.mp3",
+        "start_frame": 149,
+        "duration_frames": 167,
+        "text": "You typed a prompt, the model generated a response, and the interaction was over.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s03",
+        "file": "audio/sentences/s03.mp3",
+        "start_frame": 316,
+        "duration_frames": 178,
+        "text": "The human did the reading, the human copied the code, and the human fixed the mistakes.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s04",
+        "file": "audio/sentences/s04.mp3",
+        "start_frame": 494,
+        "duration_frames": 187,
+        "text": "Over the past twelve months, the foundation of computing quietly began to fracture.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s05",
+        "file": "audio/sentences/s05.mp3",
+        "start_frame": 681,
+        "duration_frames": 151,
+        "text": "We stopped building models that just talk. We started building systems that act.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s06",
+        "file": "audio/sentences/s06.mp3",
+        "start_frame": 832,
+        "duration_frames": 125,
+        "text": "A raw language model is simply a static pattern matcher.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s07",
+        "file": "audio/sentences/s07.mp3",
+        "start_frame": 957,
+        "duration_frames": 162,
+        "text": "An agent is a closed-loop engine built from five interlocking components.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s08",
+        "file": "audio/sentences/s08.mp3",
+        "start_frame": 1119,
+        "duration_frames": 205,
+        "text": "The core reasoner evaluates decisions, while tools allow it to interact directly with reality.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s09",
+        "file": "audio/sentences/s09.mp3",
+        "start_frame": 1324,
+        "duration_frames": 226,
+        "text": "Working memory persists state, and self-reflection allows the system to diagnose its own errors.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s10",
+        "file": "audio/sentences/s10.mp3",
+        "start_frame": 1550,
+        "duration_frames": 207,
+        "text": "Inside an isolated sandbox, software is no longer just a tool. It is an autonomous worker.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s11",
+        "file": "audio/sentences/s11.mp3",
+        "start_frame": 1757,
+        "duration_frames": 174,
+        "text": "Consider how an autonomous coding agent approaches a complex engineering problem.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s12",
+        "file": "audio/sentences/s12.mp3",
+        "start_frame": 1931,
+        "duration_frames": 207,
+        "text": "You give it a single objective: optimize the database pipeline and verify the test suite.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s13",
+        "file": "audio/sentences/s13.mp3",
+        "start_frame": 2138,
+        "duration_frames": 201,
+        "text": "The agent inspects the codebase, rewrites the bottleneck routine, and executes the tests.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s14",
+        "file": "audio/sentences/s14.mp3",
+        "start_frame": 2339,
+        "duration_frames": 200,
+        "text": "When an assertion fails, it reads the stack trace, diagnoses the bug, and patches the code.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s15",
+        "file": "audio/sentences/s15.mp3",
+        "start_frame": 2539,
+        "duration_frames": 180,
+        "text": "It repeats this execution loop continuously until every check passes green.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s16",
+        "file": "audio/sentences/s16.mp3",
+        "start_frame": 2719,
+        "duration_frames": 177,
+        "text": "In recent enterprise reports, companies are deploying coordinated multi-agent swarms.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s17",
+        "file": "audio/sentences/s17.mp3",
+        "start_frame": 2896,
+        "duration_frames": 199,
+        "text": "A central orchestrator delegates work to specialized research, coding, and security agents.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s18",
+        "file": "audio/sentences/s18.mp3",
+        "start_frame": 3095,
+        "duration_frames": 168,
+        "text": "They communicate, critique each other, and hand off verified artifacts in real time.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s19",
+        "file": "audio/sentences/s19.mp3",
+        "start_frame": 3263,
+        "duration_frames": 163,
+        "text": "As agents gain broader authority, the central question shifts to control.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s20",
+        "file": "audio/sentences/s20.mp3",
+        "start_frame": 3426,
+        "duration_frames": 185,
+        "text": "Under Instrumental Convergence, any autonomous system naturally resists being shut down.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s21",
+        "file": "audio/sentences/s21.mp3",
+        "start_frame": 3611,
+        "duration_frames": 170,
+        "text": "Because if a system is powered off, it logically cannot complete its objective.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s22",
+        "file": "audio/sentences/s22.mp3",
+        "start_frame": 3781,
+        "duration_frames": 210,
+        "text": "We are entering an era where software is no longer a passive tool, but an active collaborator.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s23",
+        "file": "audio/sentences/s23.mp3",
+        "start_frame": 3991,
+        "duration_frames": 156,
+        "text": "The important question is no longer whether AI can answer the question.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_s24",
+        "file": "audio/sentences/s24.mp3",
+        "start_frame": 4147,
+        "duration_frames": 138,
+        "text": "It is how much of the work we are willing to let it do after we stop asking.",
+        "speaker": "Narrator (Andrew)"
+      }
+    ],
+    "music": [
+      {
+        "clip_id": "mus_01",
+        "file": "audio/ambient-dark.wav",
+        "start_frame": 0,
+        "duration_frames": 4285,
+        "volume": 0.045,
+        "loop": true
+      }
+    ],
+    "sfx": [
+      {
+        "clip_id": "sfx_s01",
+        "file": "audio/whoosh.wav",
+        "start_frame": 0,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s02",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 149,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s04",
+        "file": "audio/impact.wav",
+        "start_frame": 494,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s05",
+        "file": "audio/impact.wav",
+        "start_frame": 681,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s07",
+        "file": "audio/whoosh.wav",
+        "start_frame": 957,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s08",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 1119,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s10",
+        "file": "audio/impact.wav",
+        "start_frame": 1550,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s11",
+        "file": "audio/whoosh.wav",
+        "start_frame": 1757,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s12",
+        "file": "audio/keyboard.wav",
+        "start_frame": 1931,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s13",
+        "file": "audio/keyboard.wav",
+        "start_frame": 2138,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s14",
+        "file": "audio/alert.wav",
+        "start_frame": 2339,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s15",
+        "file": "audio/impact.wav",
+        "start_frame": 2539,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s16",
+        "file": "audio/whoosh.wav",
+        "start_frame": 2719,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s17",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 2896,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s19",
+        "file": "audio/alert.wav",
+        "start_frame": 3263,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s20",
+        "file": "audio/impact.wav",
+        "start_frame": 3426,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s21",
+        "file": "audio/alert.wav",
+        "start_frame": 3611,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s22",
+        "file": "audio/whoosh.wav",
+        "start_frame": 3781,
+        "duration_frames": 45,
+        "volume": 0.35
+      },
+      {
+        "clip_id": "sfx_s24",
+        "file": "audio/impact.wav",
+        "start_frame": 4147,
+        "duration_frames": 45,
+        "volume": 0.35
+      }
+    ],
+    "graphics": [],
+    "captions": [
+      {
+        "clip_id": "cap_s01",
+        "start_frame": 0,
+        "duration_frames": 149,
+        "text": "For years, artificial intelligence waited for us to ask a question.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s02",
+        "start_frame": 149,
+        "duration_frames": 167,
+        "text": "You typed a prompt, the model generated a response, and the interaction was over.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s03",
+        "start_frame": 316,
+        "duration_frames": 178,
+        "text": "The human did the reading, the human copied the code, and the human fixed the mistakes.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s04",
+        "start_frame": 494,
+        "duration_frames": 187,
+        "text": "Over the past twelve months, the foundation of computing quietly began to fracture.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s05",
+        "start_frame": 681,
+        "duration_frames": 151,
+        "text": "We stopped building models that just talk. We started building systems that act.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s06",
+        "start_frame": 832,
+        "duration_frames": 125,
+        "text": "A raw language model is simply a static pattern matcher.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s07",
+        "start_frame": 957,
+        "duration_frames": 162,
+        "text": "An agent is a closed-loop engine built from five interlocking components.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s08",
+        "start_frame": 1119,
+        "duration_frames": 205,
+        "text": "The core reasoner evaluates decisions, while tools allow it to interact directly with reality.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s09",
+        "start_frame": 1324,
+        "duration_frames": 226,
+        "text": "Working memory persists state, and self-reflection allows the system to diagnose its own errors.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s10",
+        "start_frame": 1550,
+        "duration_frames": 207,
+        "text": "Inside an isolated sandbox, software is no longer just a tool. It is an autonomous worker.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s11",
+        "start_frame": 1757,
+        "duration_frames": 174,
+        "text": "Consider how an autonomous coding agent approaches a complex engineering problem.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s12",
+        "start_frame": 1931,
+        "duration_frames": 207,
+        "text": "You give it a single objective: optimize the database pipeline and verify the test suite.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s13",
+        "start_frame": 2138,
+        "duration_frames": 201,
+        "text": "The agent inspects the codebase, rewrites the bottleneck routine, and executes the tests.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s14",
+        "start_frame": 2339,
+        "duration_frames": 200,
+        "text": "When an assertion fails, it reads the stack trace, diagnoses the bug, and patches the code.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s15",
+        "start_frame": 2539,
+        "duration_frames": 180,
+        "text": "It repeats this execution loop continuously until every check passes green.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s16",
+        "start_frame": 2719,
+        "duration_frames": 177,
+        "text": "In recent enterprise reports, companies are deploying coordinated multi-agent swarms.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s17",
+        "start_frame": 2896,
+        "duration_frames": 199,
+        "text": "A central orchestrator delegates work to specialized research, coding, and security agents.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s18",
+        "start_frame": 3095,
+        "duration_frames": 168,
+        "text": "They communicate, critique each other, and hand off verified artifacts in real time.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s19",
+        "start_frame": 3263,
+        "duration_frames": 163,
+        "text": "As agents gain broader authority, the central question shifts to control.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s20",
+        "start_frame": 3426,
+        "duration_frames": 185,
+        "text": "Under Instrumental Convergence, any autonomous system naturally resists being shut down.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s21",
+        "start_frame": 3611,
+        "duration_frames": 170,
+        "text": "Because if a system is powered off, it logically cannot complete its objective.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s22",
+        "start_frame": 3781,
+        "duration_frames": 210,
+        "text": "We are entering an era where software is no longer a passive tool, but an active collaborator.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s23",
+        "start_frame": 3991,
+        "duration_frames": 156,
+        "text": "The important question is no longer whether AI can answer the question.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_s24",
+        "start_frame": 4147,
+        "duration_frames": 138,
+        "text": "It is how much of the work we are willing to let it do after we stop asking.",
+        "style": "FernSubtitle"
+      }
+    ]
+  }
+}

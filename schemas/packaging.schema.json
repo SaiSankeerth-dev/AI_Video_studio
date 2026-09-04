@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryPackagingSchema",
+  "type": "object",
+  "required": ["project_id", "packages", "selected_package_id"],
+  "properties": {
+    "project_id": { "type": "string" },
+    "packages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "package_id", "title", "thumbnail_file", "thumbnail_text",
+          "description", "chapters", "tags", "ctr_potential_score"
+        ],
+        "properties": {
+          "package_id": { "type": "string" },
+          "title": { "type": "string" },
+          "thumbnail_file": { "type": "string" },
+          "thumbnail_text": { "type": "string" },
+          "description": { "type": "string" },
+          "chapters": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["timestamp", "title"],
+              "properties": {
+                "timestamp": { "type": "string" },
+                "title": { "type": "string" }
+              }
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "ctr_potential_score": { "type": "number" }
+        }
+      }
+    },
+    "selected_package_id": { "type": "string" }
+  }
+}

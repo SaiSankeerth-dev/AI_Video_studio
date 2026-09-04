@@ -1,0 +1,24 @@
+v01: A corporate security team had done everything right.
+v02: Hardened firewalls, complex passwords, and round-the-clock intrusion monitoring.
+v03: And yet, an unauthorized intruder still walked away with proprietary source code.
+v04: The strange part was that the attacker never wrote an exploit to breach their defenses.
+v05: He didn't attack the machine. He simply picked up a telephone.
+v06: This is the story of Kevin Mitnick and the revolution of social engineering.
+v07: While security engineers spent millions fortifying software, Mitnick discovered an uncomfortable truth.
+v08: Computers execute logic deterministically, but humans are driven by trust, urgency, and helpfulness.
+v09: An attacker with the right pretext could convince an employee to hand over the keys voluntarily.
+v10: Mitnick's methodology relied on a disciplined four-step cascading loop.
+v11: First came information gathering: learning internal jargon, employee names, and department codes.
+v12: Next came pretexting: calling a target under the guise of an IT engineer facing an urgent deadline.
+v13: By projecting calm authority and manufacturing time pressure, he bypassed critical suspicion.
+v14: Once inside one department, he leveraged that initial credential to escalate access across the enterprise.
+v15: Using nothing more than a telephone and social engineering, he compromised telecommunications titans.
+v16: At Motorola, he obtained the core microcode for next-generation wireless communications.
+v17: At Digital Equipment Corporation, he acquired the crown-jewel operating system source code.
+v18: By the early nineteen-nineties, Mitnick was the most wanted cyber fugitive in American history.
+v19: On February fifteenth, nineteen ninety-five, federal agents raided his apartment in Raleigh, North Carolina.
+v20: His capture triggered intense national debate over the boundaries of digital defense and human psychology.
+v21: After serving five years in prison, Mitnick redirected his expertise toward defensive security.
+v22: His seminal work, The Art of Deception, transformed enterprise security training forever.
+v23: Today, multi-factor authentication and zero-trust architectures exist because of these hard-learned lessons.
+v24: The greatest lesson of Kevin Mitnick remains clear: the password was never the real target—trust was.

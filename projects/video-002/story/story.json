@@ -1,0 +1,175 @@
+{
+  "title": "The Hacker Who Didn't Need Your Password",
+  "episode_id": "video-002",
+  "fps": 30,
+  "sentences": [
+    {
+      "id": "v01",
+      "chapter": 1,
+      "text": "A corporate security team had done everything right.",
+      "visual_mode": "SOC_OPERATIONS",
+      "sfx": "ambient-hum"
+    },
+    {
+      "id": "v02",
+      "chapter": 1,
+      "text": "Hardened firewalls, complex passwords, and round-the-clock intrusion monitoring.",
+      "visual_mode": "SECURITY_DASHBOARD",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v03",
+      "chapter": 1,
+      "text": "And yet, an unauthorized intruder still walked away with proprietary source code.",
+      "visual_mode": "CODE_EXFILTRATION",
+      "sfx": "alert"
+    },
+    {
+      "id": "v04",
+      "chapter": 1,
+      "text": "The strange part was that the attacker never wrote an exploit to breach their defenses.",
+      "visual_mode": "TERMINAL_PROMPT",
+      "sfx": null
+    },
+    {
+      "id": "v05",
+      "chapter": 1,
+      "text": "He didn't attack the machine. He simply picked up a telephone.",
+      "visual_mode": "PHONE_CLOSEUP",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "v06",
+      "chapter": 2,
+      "text": "This is the story of Kevin Mitnick and the revolution of social engineering.",
+      "visual_mode": "TITLE_CARD",
+      "sfx": "impact"
+    },
+    {
+      "id": "v07",
+      "chapter": 2,
+      "text": "While security engineers spent millions fortifying software, Mitnick discovered an uncomfortable truth.",
+      "visual_mode": "ARCHITECTURE_MAP",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v08",
+      "chapter": 2,
+      "text": "Computers execute logic deterministically, but humans are driven by trust, urgency, and helpfulness.",
+      "visual_mode": "HUMAN_DIAGRAM",
+      "sfx": null
+    },
+    {
+      "id": "v09",
+      "chapter": 2,
+      "text": "An attacker with the right pretext could convince an employee to hand over the keys voluntarily.",
+      "visual_mode": "OFFICE_DESK_NIGHT",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v10",
+      "chapter": 3,
+      "text": "Mitnick's methodology relied on a disciplined four-step cascading loop.",
+      "visual_mode": "PRETEXT_FOUR_PILLARS",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v11",
+      "chapter": 3,
+      "text": "First came information gathering: learning internal jargon, employee names, and department codes.",
+      "visual_mode": "NOTEBOOK_RESEARCH",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "v12",
+      "chapter": 3,
+      "text": "Next came pretexting: calling a target under the guise of an IT engineer facing an urgent deadline.",
+      "visual_mode": "TELEPHONE_CALL_REENACTMENT",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "v13",
+      "chapter": 3,
+      "text": "By projecting calm authority and manufacturing time pressure, he bypassed critical suspicion.",
+      "visual_mode": "OPERATOR_CONVERSATION",
+      "sfx": null
+    },
+    {
+      "id": "v14",
+      "chapter": 3,
+      "text": "Once inside one department, he leveraged that initial credential to escalate access across the enterprise.",
+      "visual_mode": "NETWORK_CASCADE_MAP",
+      "sfx": "impact"
+    },
+    {
+      "id": "v15",
+      "chapter": 4,
+      "text": "Using nothing more than a telephone and social engineering, he compromised telecommunications titans.",
+      "visual_mode": "PACIFIC_BELL_VAULT",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v16",
+      "chapter": 4,
+      "text": "At Motorola, he obtained the core microcode for next-generation wireless communications.",
+      "visual_mode": "SILICON_MICROCODE",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v17",
+      "chapter": 4,
+      "text": "At Digital Equipment Corporation, he acquired the crown-jewel operating system source code.",
+      "visual_mode": "DEC_MAINFRAME",
+      "sfx": "impact"
+    },
+    {
+      "id": "v18",
+      "chapter": 5,
+      "text": "By the early nineteen-nineties, Mitnick was the most wanted cyber fugitive in American history.",
+      "visual_mode": "FBI_MANHUNT_DOSSIER",
+      "sfx": "alert"
+    },
+    {
+      "id": "v19",
+      "chapter": 5,
+      "text": "On February fifteenth, nineteen ninety-five, federal agents raided his apartment in Raleigh, North Carolina.",
+      "visual_mode": "ARREST_RECONSTRUCTION",
+      "sfx": "impact"
+    },
+    {
+      "id": "v20",
+      "chapter": 5,
+      "text": "His capture triggered intense national debate over the boundaries of digital defense and human psychology.",
+      "visual_mode": "DOCUMENT_EVIDENCE_DOJ",
+      "sfx": null
+    },
+    {
+      "id": "v21",
+      "chapter": 6,
+      "text": "After serving five years in prison, Mitnick redirected his expertise toward defensive security.",
+      "visual_mode": "CONSULTING_DEFCON",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v22",
+      "chapter": 6,
+      "text": "His seminal work, The Art of Deception, transformed enterprise security training forever.",
+      "visual_mode": "BOOK_ART_OF_DECEPTION",
+      "sfx": "impact"
+    },
+    {
+      "id": "v23",
+      "chapter": 6,
+      "text": "Today, multi-factor authentication and zero-trust architectures exist because of these hard-learned lessons.",
+      "visual_mode": "ZERO_TRUST_DIAGRAM",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v24",
+      "chapter": 6,
+      "text": "The greatest lesson of Kevin Mitnick remains clear: the password was never the real target\u2014trust was.",
+      "visual_mode": "FINAL_EPILOGUE_QUOTE",
+      "sfx": "impact"
+    }
+  ]
+}

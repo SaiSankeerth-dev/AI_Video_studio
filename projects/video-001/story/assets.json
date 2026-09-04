@@ -1,0 +1,20 @@
+{
+  "images": [
+    "atlas_wide.jpg",
+    "terminal_alert.jpg",
+    "fiber_optics.jpg"
+  ],
+  "audio": [
+    "ambient-dark.wav",
+    "server-hum.wav",
+    "terminal-beep.wav",
+    "alert.wav",
+    "impact.wav",
+    "whoosh.wav",
+    "master_narration.mp3"
+  ],
+  "models_3d": [
+    "atlas_datacenter.blend",
+    "control_room_terminal.blend"
+  ]
+}

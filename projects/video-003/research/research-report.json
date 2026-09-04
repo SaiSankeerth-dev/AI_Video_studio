@@ -1,0 +1,14 @@
+{
+  "project_id": "video-003",
+  "topic": "GPT-6 Astra: The AI That Can Use a Computer",
+  "verdict": "PASS_WITH_VERIFY_CONSTRAINTS",
+  "sources_count": 12,
+  "claims_count": 10,
+  "evidence_count": 5,
+  "benchmarks_count": 6,
+  "editorial_guidelines": [
+    "Strictly avoid unverified marketing claims: all Community post specs (1.05M context, 128k output, / pricing, SOTA numbers) must bear visual and spoken VERIFY labels.",
+    "Demonstration in Chapter 2 must be explicitly marked as DRAMATIZED / ILLUSTRATIVE RECONSTRUCTION.",
+    "Do not show generic sci-fi robots or neon AI brains. Visuals must be grounded in realistic engineering workstations, terminal sessions, and clean Remotion telemetry."
+  ]
+}

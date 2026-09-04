@@ -1,0 +1,272 @@
+{
+  "SH-01": {
+    "shot_id": "SH-01",
+    "duration_seconds": 5.5,
+    "total_frames": 165,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-02": {
+    "shot_id": "SH-02",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "MACRO_DRIFT",
+      "scale_start": 1.02,
+      "scale_end": 1.08,
+      "pan_x_start": -10.0,
+      "pan_x_end": 10.0,
+      "easing": "ease-out"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-03": {
+    "shot_id": "SH-03",
+    "duration_seconds": 4.5,
+    "total_frames": 135,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-04": {
+    "shot_id": "SH-04",
+    "duration_seconds": 4.5,
+    "total_frames": 135,
+    "transform": {
+      "type": "PAN_RIGHT",
+      "scale_start": 1.03,
+      "scale_end": 1.03,
+      "pan_x_start": -20.0,
+      "pan_x_end": 20.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-05": {
+    "shot_id": "SH-05",
+    "duration_seconds": 5.5,
+    "total_frames": 165,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-06": {
+    "shot_id": "SH-06",
+    "duration_seconds": 6.0,
+    "total_frames": 180,
+    "transform": {
+      "type": "MICRO_DRIFT",
+      "scale_start": 1.0,
+      "scale_end": 1.015,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-07": {
+    "shot_id": "SH-07",
+    "duration_seconds": 4.5,
+    "total_frames": 135,
+    "transform": {
+      "type": "MICRO_DRIFT",
+      "scale_start": 1.0,
+      "scale_end": 1.015,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-08": {
+    "shot_id": "SH-08",
+    "duration_seconds": 4.5,
+    "total_frames": 135,
+    "transform": {
+      "type": "MICRO_DRIFT",
+      "scale_start": 1.0,
+      "scale_end": 1.015,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-09": {
+    "shot_id": "SH-09",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-10": {
+    "shot_id": "SH-10",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "MACRO_DRIFT",
+      "scale_start": 1.02,
+      "scale_end": 1.08,
+      "pan_x_start": -10.0,
+      "pan_x_end": 10.0,
+      "easing": "ease-out"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-11": {
+    "shot_id": "SH-11",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "PAN_RIGHT",
+      "scale_start": 1.03,
+      "scale_end": 1.03,
+      "pan_x_start": -20.0,
+      "pan_x_end": 20.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-12": {
+    "shot_id": "SH-12",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-13": {
+    "shot_id": "SH-13",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "PAN_RIGHT",
+      "scale_start": 1.03,
+      "scale_end": 1.03,
+      "pan_x_start": -20.0,
+      "pan_x_end": 20.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-14": {
+    "shot_id": "SH-14",
+    "duration_seconds": 5.0,
+    "total_frames": 150,
+    "transform": {
+      "type": "ZOOM_OUT",
+      "scale_start": 1.06,
+      "scale_end": 1.0,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-15": {
+    "shot_id": "SH-15",
+    "duration_seconds": 6.0,
+    "total_frames": 180,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-16": {
+    "shot_id": "SH-16",
+    "duration_seconds": 6.0,
+    "total_frames": 180,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-17": {
+    "shot_id": "SH-17",
+    "duration_seconds": 4.5,
+    "total_frames": 135,
+    "transform": {
+      "type": "ZOOM_IN",
+      "scale_start": 1.0,
+      "scale_end": 1.06,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "cubic-bezier(0.25, 1, 0.5, 1)"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  },
+  "SH-18": {
+    "shot_id": "SH-18",
+    "duration_seconds": 3.5,
+    "total_frames": 105,
+    "transform": {
+      "type": "MICRO_DRIFT",
+      "scale_start": 1.0,
+      "scale_end": 1.015,
+      "pan_x_start": 0.0,
+      "pan_x_end": 0.0,
+      "easing": "linear"
+    },
+    "grain_intensity": 0.04,
+    "vignette": 0.25
+  }
+}

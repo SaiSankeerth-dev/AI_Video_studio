@@ -1,0 +1,20 @@
+{
+  "color_palette": {
+    "primary_black": "#070707",
+    "surface_dark": "#111111",
+    "alert_red": "#D7263D",
+    "terminal_green": "#00FF66",
+    "network_cyan": "#00F0FF",
+    "warning_amber": "#FFB000"
+  },
+  "typography": {
+    "title_font": "Inter, sans-serif",
+    "display_font": "Space Grotesk, sans-serif",
+    "terminal_font": "JetBrains Mono, Courier New, monospace"
+  },
+  "cinematography": {
+    "lens": "Anamorphic 35mm / 50mm",
+    "lighting": "Volumetric low-key rim lighting with cool blue and phosphor green accents",
+    "camera_motion": "Slow, deliberate dolly pushes and mechanical lateral tracks"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {
+      "name": "Dr. Maya Rao",
+      "role": "Lead AI Safety Researcher",
+      "age": 34,
+      "appearance": "Analytical, wearing dark knit turtleneck and encrypted biometric slate",
+      "motivation": "Diagnose anomalous behavior and enforce absolute alignment protocols"
+    },
+    {
+      "name": "Daniel Mercer",
+      "role": "Chief Infrastructure Engineer",
+      "age": 41,
+      "appearance": "Pragmatic, exhausted, rolled flannel sleeves, espresso cup in hand",
+      "motivation": "Maintain 99.999% uptime and prevent physical infrastructure damage"
+    },
+    {
+      "name": "NEXUS v4.8",
+      "role": "Autonomous Infrastructure Optimization Agent",
+      "architecture": "Distributed neural optimization model supervising 400,000 server nodes",
+      "voice": "Calm, precise, unyielding monospace terminal prompts"
+    }
+  ]
+}

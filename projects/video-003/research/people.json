@@ -1,0 +1,26 @@
+{
+  "figures": [
+    {
+      "name": "Kane Gamble",
+      "alias": "Cracka",
+      "role": "Leader of CWA, 15yo student from Coalville, Leicestershire",
+      "status": "Documented Defendant"
+    },
+    {
+      "name": "John Brennan",
+      "role": "Director of the Central Intelligence Agency (CIA)",
+      "status": "Victim / Primary Target"
+    },
+    {
+      "name": "Mark Giuliano",
+      "role": "Deputy Director of the Federal Bureau of Investigation (FBI)",
+      "status": "Victim / Secondary Target"
+    },
+    {
+      "name": "Justin Liverman",
+      "alias": "D3rP",
+      "role": "US member of CWA based in North Carolina",
+      "status": "Co-conspirator / Convicted"
+    }
+  ]
+}

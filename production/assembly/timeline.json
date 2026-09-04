@@ -1,0 +1,248 @@
+{
+  "project_id": "astra_benchmark_90s",
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "total_frames": 2700,
+  "total_seconds": 90.0,
+  "tracks": {
+    "video": [
+      {
+        "shot_id": "SH-01",
+        "start_frame": 0,
+        "end_frame": 165,
+        "duration_frames": 165,
+        "duration_seconds": 5.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-01_dark_workstation_office.png",
+        "visual_type": "AI_CINEMATIC_IMAGE",
+        "camera_motion": "slow_push",
+        "transition_in": "fade_from_black",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-02",
+        "start_frame": 165,
+        "end_frame": 315,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-02_exhausted_engineer_hands.png",
+        "visual_type": "HUMAN_SCENE",
+        "camera_motion": "macro_focus",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-03",
+        "start_frame": 315,
+        "end_frame": 450,
+        "duration_frames": 135,
+        "duration_seconds": 4.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-03_desktop_monitor_cursor.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "camera_motion": "slow_push",
+        "transition_in": "hard_cut",
+        "transition_out": "sound_bridge_cut"
+      },
+      {
+        "shot_id": "SH-04",
+        "start_frame": 450,
+        "end_frame": 585,
+        "duration_frames": 135,
+        "duration_seconds": 4.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-04_browser_application.png",
+        "visual_type": "SCREEN_RECORDING",
+        "camera_motion": "horizontal_drift",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-05",
+        "start_frame": 585,
+        "end_frame": 750,
+        "duration_frames": 165,
+        "duration_seconds": 5.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-05_multi-window_OS_desktop.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "camera_motion": "slow_push",
+        "transition_in": "match_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-06",
+        "start_frame": 750,
+        "end_frame": 930,
+        "duration_frames": 180,
+        "duration_seconds": 6.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-06_spatial_desktop_window_l.png",
+        "visual_type": "3D_BLENDER",
+        "camera_motion": "parallactic_orbit",
+        "transition_in": "match_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-07",
+        "start_frame": 930,
+        "end_frame": 1065,
+        "duration_frames": 135,
+        "duration_seconds": 4.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-07_black_screen_typography.png",
+        "visual_type": "KINETIC_TYPOGRAPHY",
+        "camera_motion": "locked_off",
+        "transition_in": "cut_to_black",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-08",
+        "start_frame": 1065,
+        "end_frame": 1200,
+        "duration_frames": 135,
+        "duration_seconds": 4.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-08_cyan_accented_kinetic_te.png",
+        "visual_type": "KINETIC_TYPOGRAPHY",
+        "camera_motion": "locked_off",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-09",
+        "start_frame": 1200,
+        "end_frame": 1350,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-09_OSWorld_2.0_Technical_Re.png",
+        "visual_type": "DOCUMENT",
+        "camera_motion": "slow_push",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-10",
+        "start_frame": 1350,
+        "end_frame": 1500,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-10_benchmark_data_row_zoom.png",
+        "visual_type": "EVIDENCE_CARD",
+        "camera_motion": "macro_focus",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-11",
+        "start_frame": 1500,
+        "end_frame": 1650,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-11_dynamic_comparative_bar_.png",
+        "visual_type": "DATA_VISUALIZATION",
+        "camera_motion": "horizontal_drift",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-12",
+        "start_frame": 1650,
+        "end_frame": 1800,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-12_terminal_pytest_executio.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "camera_motion": "slow_push",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-13",
+        "start_frame": 1800,
+        "end_frame": 1950,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-13_code_editor_patch_synthe.png",
+        "visual_type": "SCREEN_RECORDING",
+        "camera_motion": "horizontal_drift",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-14",
+        "start_frame": 1950,
+        "end_frame": 2100,
+        "duration_frames": 150,
+        "duration_seconds": 5.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-14_terminal_test_pass.png",
+        "visual_type": "SCREEN_RECONSTRUCTION",
+        "camera_motion": "slow_pull",
+        "transition_in": "match_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-15",
+        "start_frame": 2100,
+        "end_frame": 2280,
+        "duration_frames": 180,
+        "duration_seconds": 6.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-15_OpenAI_Preparedness_Safe.png",
+        "visual_type": "DOCUMENT",
+        "camera_motion": "slow_push",
+        "transition_in": "hard_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-16",
+        "start_frame": 2280,
+        "end_frame": 2460,
+        "duration_frames": 180,
+        "duration_seconds": 6.0,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-16_server_facility_network_.png",
+        "visual_type": "3D_BLENDER",
+        "camera_motion": "slow_push",
+        "transition_in": "match_cut",
+        "transition_out": "hard_cut"
+      },
+      {
+        "shot_id": "SH-17",
+        "start_frame": 2460,
+        "end_frame": 2595,
+        "duration_frames": 135,
+        "duration_seconds": 4.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-17_engineer_reflection_in_m.png",
+        "visual_type": "HUMAN_SCENE",
+        "camera_motion": "slow_push",
+        "transition_in": "hard_cut",
+        "transition_out": "sound_bridge_cut"
+      },
+      {
+        "shot_id": "SH-18",
+        "start_frame": 2595,
+        "end_frame": 2700,
+        "duration_frames": 105,
+        "duration_seconds": 3.5,
+        "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-18_solitary_blinking_cursor.png",
+        "visual_type": "OBJECT_MACRO",
+        "camera_motion": "locked_off",
+        "transition_in": "hard_cut",
+        "transition_out": "cut_to_black"
+      }
+    ],
+    "audio": [
+      {
+        "track_name": "voice",
+        "clips": []
+      },
+      {
+        "track_name": "music",
+        "clips": []
+      },
+      {
+        "track_name": "sfx",
+        "clips": []
+      },
+      {
+        "track_name": "room_tone",
+        "clips": []
+      }
+    ]
+  }
+}

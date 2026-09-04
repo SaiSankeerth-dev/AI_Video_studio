@@ -1,0 +1,121 @@
+{
+  "characters": [
+    {
+      "character_id": "CHAR-01",
+      "name": "Dr. Maya Rao",
+      "role": "Lead AI Safety & Systems Architect",
+      "age": 34,
+      "appearance": "Sharp focused analytical expression, dark hair tied back in a neat professional ponytail, minimal makeup, intense concentrated gaze",
+      "wardrobe": "Dark charcoal technical zip jacket over a black crewneck shirt, lanyard ID badge with biometric chip",
+      "identity_rules": "Maintain consistent facial bone structure, skin tone, hair parting, and dark technical wardrobe across all reenactments"
+    },
+    {
+      "character_id": "CHAR-02",
+      "name": "Daniel Mercer",
+      "role": "Chief Infrastructure & Reliability Engineer",
+      "age": 41,
+      "appearance": "Tired analytical expression, wire-rim rectangular glasses, short graying dark hair, five o'clock shadow",
+      "wardrobe": "Navy fleece vest over a rolled-up gray Oxford shirt, smartwatch, holding ceramic espresso mug",
+      "identity_rules": "Always wears wire-rim glasses; worn infrastructure veteran demeanor; never dressed casually"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "LOC-01",
+      "name": "Atlas Subterranean Hyperscale Facility",
+      "architecture": "Brutalist reinforced concrete pillars, infinite dark server corridors, overhead yellow cable trays, acoustic wall baffling",
+      "materials": "Matte concrete, brushed anodized black server racks, perforated raised floor tiles, optical fiber conduits",
+      "lighting": "Cold overhead fluorescent strips with low floor mist reflections, pulsating cyan server status LEDs, isolated emergency amber indicators",
+      "continuity_rules": "Floor tiles are 60x60cm perforated gray steel; cable trays always overhead in safety yellow; server racks have matte black finish"
+    },
+    {
+      "location_id": "LOC-02",
+      "name": "Atlas Glass Observation & Monitoring Room",
+      "architecture": "Dark subterranean glass control pod overlooking the server hall, wrap-around acoustic glass",
+      "materials": "Dark acoustic felt panels, matte black consoles, tempered glass reflections",
+      "lighting": "Glow from multiple 4K diagnostic monitors, single warm desktop task lamp (3200K)",
+      "continuity_rules": "Control room always looks down at server hall floor through double-paned acoustic glass; monitors show real-time telemetry"
+    },
+    {
+      "location_id": "LOC-03",
+      "name": "Helix Dynamics Corporate Research Campus",
+      "architecture": "High-ceiling modern enterprise architecture, floor-to-ceiling glass, polished dark terrazzo flooring, exposed timber and concrete",
+      "materials": "Polished concrete, architectural glass, dark oak, brushed aluminum",
+      "lighting": "Balanced natural dusk light through panoramic windows with warm recessed ceiling architectural coves",
+      "continuity_rules": "Refined corporate research aesthetic, minimalist, overlooking rainy urban tech campus"
+    }
+  ],
+  "objects": [
+    {
+      "object_id": "OBJ-01",
+      "name": "Biometric Hardware Security Key",
+      "appearance": "Anodized matte black titanium physical YubiKey style with glowing amber status ring",
+      "purpose": "Hardware root-of-trust for air-gap override"
+    },
+    {
+      "object_id": "OBJ-02",
+      "name": "Atlas Telemetry Console",
+      "appearance": "Triple portrait-oriented 32-inch matte OLED displays rendering real-time kernel cgroup thread monitors and terminal streams",
+      "purpose": "Observability window into agent execution"
+    },
+    {
+      "object_id": "OBJ-03",
+      "name": "Air-Gapped Hardware Kill Switch",
+      "appearance": "Heavy industrial steel keylock switch with amber warning LED installed directly into server rack power distribution unit",
+      "purpose": "Physical power interruption gate"
+    }
+  ],
+  "architecture": {
+    "subterranean_hyperscale": "Brutalist reinforced concrete pillars, infinite matte black server rack aisles, overhead yellow fiber cable trays, 60x60cm perforated steel floor tiles",
+    "observation_pod": "Acoustic fabric felt paneling, triple portrait OLED diagnostic monitors, wrap-around tempered double-paned acoustic glass overlooking datacenter hall",
+    "corporate_campus": "Modern glass-and-timber research pavilion, floor-to-ceiling glass looking out at rainy campus, polished dark terrazzo flooring"
+  },
+  "time_period": {
+    "primary_era": "Modern 2026 (State-of-the-Art Autonomous Agent Deployments)",
+    "nocturnal_window": "02:13 AM (Unattended autonomous cron and CI/CD remediation window)",
+    "diurnal_window": "Dawn to mid-day operational shifts and enterprise monitoring"
+  },
+  "weather": {
+    "datacenter_interior": "Strict climate-controlled HVAC cleanroom environment (18\u00b0C, 45% humidity), sterile airflow",
+    "exterior_environment": "Overcast rainy night transitioning to pale overcast dawn daylight"
+  },
+  "lighting": {
+    "key_philosophy": "100% motivated practical lighting only",
+    "sources": "Terminal phosphor glow (green/cyan), 5000K overhead industrial fluorescent strips at 20% night-cycle, 480nm cyan telemetry LEDs, 3200K tungsten task lamps, natural dusk/dawn window light"
+  },
+  "camera_language": {
+    "style": "Disciplined investigative cinema (David Fincher / Laura Poitras emulation)",
+    "lenses": "35mm and 50mm anamorphic cinema primes, controlled shallow depth of field (f/1.8 to f/4.0)",
+    "motion_rules": "Deliberate motivated camera movement only: slow forward dolly for increasing tension, locked-off static for analytical authority, smooth crane for spatial scale; zero arbitrary handheld jitter"
+  },
+  "visual_style": {
+    "aesthetic": "High-contrast photorealistic investigative technology documentary",
+    "color_grading": "Cool industrial shadow palette (#0B0F19, #1F2937) punctuated by sharp practical emitters (#00FF66 terminal phosphor, #00D4FF telemetry cyan, #F59E0B alert amber)",
+    "pacing_rhythm": "Rapid cognitive cuts for multi-agent RPC loops, deliberate expansive shots for architectural scale"
+  },
+  "colors": {
+    "background_dark": "#0B0F19",
+    "panel_surface": "#1F2937",
+    "accent_cyan": "#00D4FF",
+    "accent_green": "#00FF66",
+    "warning_amber": "#F59E0B",
+    "critical_red": "#EF4444"
+  },
+  "clothing": {
+    "dr_maya_rao": "Dark charcoal technical zip jacket over black crewneck shirt, biometric chip lanyard",
+    "daniel_mercer": "Navy fleece vest over rolled-up gray Oxford shirt, rectangular titanium wire-rim spectacles"
+  },
+  "technology": {
+    "runtime_environment": "Linux kernel cgroups, unshare namespaces, Docker/Kata microVM sandboxes",
+    "hardware_security": "Titanium biometric YubiKeys, PDU industrial keylock switches",
+    "telemetry": "Real-time kernel thread monitors, terminal streaming interfaces, Remotion SVG vector diagrams"
+  },
+  "visual_rules": [
+    "Photorealistic investigative documentary aesthetic only",
+    "No fantasy sci-fi or cyberpunk neon cliches",
+    "Motivated lighting only (screen glow, fluorescent utility, status LEDs, natural daylight/dusk)",
+    "Aspect ratio 16:9, anamorphic 35mm / 50mm cinema prime emulation",
+    "Pacing matches cognitive intensity: rapid for execution loops, slow for architectural scale",
+    "Max 2 consecutive shots of any visual archetype (QA strict compliance rule)"
+  ]
+}

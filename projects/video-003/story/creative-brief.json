@@ -1,0 +1,18 @@
+{
+  "project_id": "video-003",
+  "working_title": "GPT-6 Astra: The AI That Can Use a Computer",
+  "alternative_title": "GPT-6 Astra: What Changed?",
+  "format": "Investigative Technology Documentary",
+  "aspect_ratio": "16:9",
+  "target_runtime_range": "12-15 minutes",
+  "pilot_test_target": "Chapter 0 + First 60 seconds benchmark",
+  "target_word_count": "1800-2200 words (full) / 130-160 words (60s benchmark)",
+  "central_question": "Is GPT-6 Astra simply a better chatbot, or does it represent a change toward AI that can actually carry out computer-based work?",
+  "stakes": "If AI systems transition from answering prompts to autonomously operating developer workstations and operating systems, the fundamental relationship between software and human knowledge work transforms permanently.",
+  "promise": "By the end of this documentary, the viewer will understand the exact mechanics behind computer-use agents, how Astra benchmarks compare against historical systems, where the technology actually works, and the critical reliability questions that remain unresolved.",
+  "tone_and_style": {
+    "cinematic_style": "Restrained, investigative, documentary realism. No neon cyberpunk slop, no floating holographic brains.",
+    "voice_pacing": "Calm, authoritative, deliberate cadence at 135-145 WPM with purposeful silence pauses.",
+    "graphic_standard": "High-precision Remotion telemetry, monospace terminal outputs, and clear verification badges."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "topic": "GPT-6 Astra: The AI That Can Take Over Your Computer",
+  "weak_angle": "How GPT-6 Astra's new features work.",
+  "strong_angle": "The moment AI stopped waiting for humans to click the buttons and started operating the computer itself.",
+  "central_question": "What changes when AI stops merely generating answers and starts operating the digital world itself?",
+  "stakes": "If models can reliably navigate live software environments, the foundation of knowledge work and cybersecurity fundamentally changes.",
+  "promise": "By the end of this documentary, the viewer will see exactly what Astra can do, where it breaks, and what its autonomous agency means for the future.",
+  "runtime_mode": "benchmark_90s",
+  "target_runtime_seconds": 90.0,
+  "narrative_arc": [
+    "WOW",
+    "HOW?",
+    "PROOF",
+    "SCALE",
+    "DANGER",
+    "CONSEQUENCE"
+  ],
+  "beats": [
+    {
+      "beat_id": "BEAT-01",
+      "beat_name": "THE COLD HOOK",
+      "dramatic_purpose": "Disorient the viewer with an uncanny event: an autonomous cursor moving at 2:13 AM with hands off the keyboard.",
+      "target_seconds": 15.0,
+      "emotional_state": "TENSE",
+      "revealed_mystery": "Computers have waited for humans for decades. Now the computer is listening to an AI instead."
+    },
+    {
+      "beat_id": "BEAT-02",
+      "beat_name": "ACTIVE DESKTOP TAKEOVER",
+      "dramatic_purpose": "Demonstrate the capability physically on screen: browser opening, navigation, terminal, multi-app montage.",
+      "target_seconds": 16.0,
+      "emotional_state": "INTRIGUED",
+      "revealed_mystery": "Astra doesn't just generate text; it navigates the digital environment directly."
+    },
+    {
+      "beat_id": "BEAT-03",
+      "beat_name": "THE PARADIGM BLACKOUT",
+      "dramatic_purpose": "Hard cut to black with thesis typography: THE COMPUTER IS NO LONGER THE TOOL. IT'S THE ENVIRONMENT.",
+      "target_seconds": 9.0,
+      "emotional_state": "REFLECTIVE",
+      "revealed_mystery": "Software shifts from being an instrument for human hands to an ecosystem for autonomous agents."
+    },
+    {
+      "beat_id": "BEAT-04",
+      "beat_name": "HARD EMPIRICAL EVIDENCE",
+      "dramatic_purpose": "Zoom into official documentation and OSWorld 2.0 benchmark results (72.6% vs 65.7%).",
+      "target_seconds": 15.0,
+      "emotional_state": "CURIOUS",
+      "revealed_mystery": "Verified numbers confirm a 6.9% leap over previous state-of-the-art across live operating systems."
+    },
+    {
+      "beat_id": "BEAT-05",
+      "beat_name": "THE MINI-STORY FAILURE & RECOVERY",
+      "dramatic_purpose": "Show real developer workflow: command execution, test failure, error inspection, patch adaptation, success.",
+      "target_seconds": 15.0,
+      "emotional_state": "TENSE",
+      "revealed_mystery": "The breakthrough is not flawless execution\u2014it is closed-loop self-correction."
+    },
+    {
+      "beat_id": "BEAT-06",
+      "beat_name": "THE CYBERSECURITY ESCALATION",
+      "dramatic_purpose": "Expose OpenAI's Safety Overview marking Astra as reaching the Critical Cybersecurity threshold.",
+      "target_seconds": 12.0,
+      "emotional_state": "CONCERNED",
+      "revealed_mystery": "The same agentic agency that debugs software can autonomously exploit systems."
+    },
+    {
+      "beat_id": "BEAT-07",
+      "beat_name": "THE UNCOMFORTABLE QUESTION",
+      "dramatic_purpose": "Final blackout beat: When the machine can operate the machine, who is actually in control?",
+      "target_seconds": 8.0,
+      "emotional_state": "URGENT",
+      "revealed_mystery": "The boundary between human labor and autonomous infrastructure has permanently shifted."
+    }
+  ]
+}

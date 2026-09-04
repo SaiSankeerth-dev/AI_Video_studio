@@ -1,0 +1,76 @@
+{
+  "camera_language": {
+    "primary_sensor": "ARRI Alexa Mini LF / Large Format 35mm",
+    "focal_lengths": {
+      "establishing": "24mm f/2.8 Prime",
+      "character_medium": "50mm f/1.8 Prime",
+      "detail_macro": "85mm or 100mm f/2.8 Macro",
+      "spatial_overview": "18mm Ultra-Wide"
+    },
+    "movement_grammar": "Slow deliberate dollies, mechanical lateral slides, subtle atmospheric push-ins, zero jerky handheld shakes",
+    "aspect_ratio": "16:9 Cinema Widescreen",
+    "framing_principles": "Strong central perspective vanishing lines, architectural rule of thirds, deep foreground framing"
+  },
+  "lighting": {
+    "primary_key": "Cool industrial fluorescents (4500K-5000K)",
+    "accent_practical": "Cyan server status LEDs (480nm) and isolated warning amber LEDs (590nm)",
+    "office_observation": "Warm tungsten task lamp (3200K) contrasting cold monitor glow",
+    "contrast_ratio": "High contrast chiaroscuro with clean shadow detail, zero crushed blacks or blown-out highlights"
+  },
+  "environment": {
+    "primary_facility": "Atlas Subterranean Hyperscale Facility Sub-Level 3",
+    "atmosphere": "Sterile cleanroom airflow, slight floor mist reflections, realistic suspended dust particles",
+    "surfaces": "Perforated 60x60cm steel floor tiles, acoustic wall panels, overhead safety-yellow fiber cable raceways"
+  },
+  "materials": {
+    "metals": "Matte powder-coated dark steel, brushed aluminum server chassis, copper busbars",
+    "polymers": "Anti-static matte black rack baffles, braided nylon cabling, high-density fiber jacketing",
+    "minerals": "Reinforced raw structural concrete with visible formwork seams"
+  },
+  "color_behavior": {
+    "palette_name": "Forensic Industrial Noir",
+    "primary_black": "#070709",
+    "concrete_gray": "#2A2D34",
+    "server_steel": "#16181D",
+    "network_cyan": "#00F0FF",
+    "alert_amber": "#FFB000",
+    "terminal_green": "#00FF66",
+    "color_grading_lut": "Cool shadow matrix with warm skin tones and desaturated ambient highlights"
+  },
+  "architecture": {
+    "style": "Subterranean Brutalist Infrastructure",
+    "proportions": "Monolithic concrete pillars every 6 meters, 4.5-meter clear ceiling height",
+    "spatial_organization": "Symmetrical server rack aisles with centralized human observation corridor"
+  },
+  "character_rules": {
+    "dr_maya_rao": {
+      "identity": "Lead AI Safety Researcher, 34 years old, sharp analytical gaze, dark hair in sleek professional ponytail",
+      "wardrobe": "Charcoal technical zip jacket over black crewneck, biometric security lanyard",
+      "invariants": "Must maintain exact facial bone structure, skin tone, hair parting, and dark technical jacket across all shots"
+    },
+    "daniel_mercer": {
+      "identity": "Chief Infrastructure Engineer, 41 years old, wire-rim rectangular glasses, short graying dark hair, five o'clock shadow",
+      "wardrobe": "Navy fleece vest over rolled-up Oxford shirt, smartwatch, holding ceramic mug",
+      "invariants": "Always wears wire-rim glasses; worn infrastructure veteran demeanor; never casual streetwear"
+    }
+  },
+  "historical_accuracy": {
+    "era": "2024-2026 Agentic Transition",
+    "ui_fidelity": "Authentic terminal sessions (zsh, bash, python, docker, kubernetes, json-rpc)",
+    "no_fantasy_elements": "No floating holograms, no glowing brain meshes, no blue laser forcefields"
+  },
+  "image_realism": {
+    "fidelity_standard": "Photorealistic cinematic production still",
+    "human_rendering": "Subsurface scattering on skin, natural skin pores, realistic hair flyaways, accurate eye reflections",
+    "surface_wear": "Micro-scratches on server handles, subtle fingerprints on monitor bevels, cable tension sag"
+  },
+  "graphic_language": {
+    "design_system": "HyperFrames Technical Documentary",
+    "typography": {
+      "headings": "Space Grotesk, Semi-Bold",
+      "body": "Inter, Regular",
+      "code_telemetry": "JetBrains Mono, Medium"
+    },
+    "animation_style": "Precision spring physics (damping: 18, stiffness: 120), crisp SVG line draws, forensic zoom callouts"
+  }
+}

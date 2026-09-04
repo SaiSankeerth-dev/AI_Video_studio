@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AudioPlanSchema",
+  "type": "object",
+  "required": ["project_id", "layers", "cues"],
+  "properties": {
+    "project_id": { "type": "string" },
+    "layers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["layer_name", "base_volume_db", "ducking_db"],
+        "properties": {
+          "layer_name": { "type": "string" },
+          "base_volume_db": { "type": "number" },
+          "ducking_db": { "type": "number" }
+        }
+      }
+    },
+    "cues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["cue_id", "timestamp_seconds", "type", "asset", "duration_seconds"],
+        "properties": {
+          "cue_id": { "type": "string" },
+          "timestamp_seconds": { "type": "number" },
+          "type": { "enum": ["VOICE", "MUSIC_THEME", "ROOM_TONE", "SFX", "SILENCE", "IMPACT"] },
+          "asset": { "type": "string" },
+          "duration_seconds": { "type": "number" },
+          "volume_db": { "type": "number" }
+        }
+      }
+    }
+  }
+}

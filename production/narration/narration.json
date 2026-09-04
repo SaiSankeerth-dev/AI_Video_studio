@@ -1,0 +1,126 @@
+[
+  {
+    "id": "N01",
+    "scene_id": "SCN-01",
+    "shot_id": "SH-01",
+    "text": "For decades, computers have waited for us to tell them what to do.",
+    "spoken_text": "For decades, computers have waited for us to tell them what to do.",
+    "purpose": "cold_open_hook",
+    "claims": [],
+    "wpm": 140.0,
+    "estimated_duration_seconds": 5.5
+  },
+  {
+    "id": "N02",
+    "scene_id": "SCN-01",
+    "shot_id": "SH-02",
+    "text": "A cursor sits still in the dark. But what happens when the computer starts listening to the AI instead?",
+    "spoken_text": "A cursor sits still in the dark. But what happens when the computer starts listening to the AI instead?",
+    "purpose": "human_action_disconnect",
+    "claims": [
+      "CLM-004"
+    ],
+    "wpm": 138.0,
+    "estimated_duration_seconds": 6.8
+  },
+  {
+    "id": "N03",
+    "scene_id": "SCN-02",
+    "shot_id": "SH-03",
+    "text": "GPT-6 Astra isn't just generating an answer.",
+    "spoken_text": "GPT-6 Astra isn't just generating an answer.",
+    "purpose": "paradigm_distinction",
+    "claims": [
+      "CLM-001"
+    ],
+    "wpm": 135.0,
+    "estimated_duration_seconds": 4.2
+  },
+  {
+    "id": "N04",
+    "scene_id": "SCN-02",
+    "shot_id": "SH-04",
+    "text": "It starts interacting with the computer. It opens the browser, searches, and navigates the software itself.",
+    "spoken_text": "It starts interacting with the computer. It opens the browser, searches, and navigates the software itself.",
+    "purpose": "desktop_action_reconstruction",
+    "claims": [
+      "CLM-004"
+    ],
+    "wpm": 146.0,
+    "estimated_duration_seconds": 7.5
+  },
+  {
+    "id": "N05",
+    "scene_id": "SCN-03",
+    "shot_id": "SH-05",
+    "text": "The computer is no longer the tool. It's the environment.",
+    "spoken_text": "The computer is no longer the tool. It's the environment.",
+    "purpose": "philosophical_blackout_thesis",
+    "claims": [],
+    "wpm": 120.0,
+    "estimated_duration_seconds": 5.8
+  },
+  {
+    "id": "N06",
+    "scene_id": "SCN-04",
+    "shot_id": "SH-06",
+    "text": "OpenAI reports that Astra completes 72.6% of diverse desktop workflows on OSWorld 2.0. That's nearly seven points ahead of GPT-5.6 Sol.",
+    "spoken_text": "OpenAI reports that Astra completes 72.6% of diverse desktop workflows on OSWorld 2.0. That's nearly seven points ahead of GPT-5.6 Sol.",
+    "purpose": "empirical_evidence_zoom",
+    "claims": [
+      "CLM-002"
+    ],
+    "wpm": 142.0,
+    "estimated_duration_seconds": 9.2
+  },
+  {
+    "id": "N07",
+    "scene_id": "SCN-05",
+    "shot_id": "SH-07",
+    "text": "Watch what happens in a live terminal. Astra encounters an error.",
+    "spoken_text": "Watch what happens in a live terminal. Astra encounters an error.",
+    "purpose": "mini_story_conflict",
+    "claims": [
+      "CLM-005"
+    ],
+    "wpm": 135.0,
+    "estimated_duration_seconds": 4.8
+  },
+  {
+    "id": "N08",
+    "scene_id": "SCN-05",
+    "shot_id": "SH-08",
+    "text": "It doesn't quit. It reads the stack trace, switches strategy, rewrites the file, and runs the test suite again.",
+    "spoken_text": "It doesn't quit. It reads the stack trace, switches strategy, rewrites the file, and runs the test suite again.",
+    "purpose": "mini_story_adaptation",
+    "claims": [
+      "CLM-005"
+    ],
+    "wpm": 145.0,
+    "estimated_duration_seconds": 8.0
+  },
+  {
+    "id": "N09",
+    "scene_id": "SCN-06",
+    "shot_id": "SH-09",
+    "text": "And that agency has a darker side. OpenAI's safety overview confirms Astra is the first model to reach their Critical cybersecurity capability threshold.",
+    "spoken_text": "And that agency has a darker side. OpenAI's safety overview confirms Astra is the first model to reach their Critical cybersecurity capability threshold.",
+    "purpose": "danger_escalation",
+    "claims": [
+      "CLM-003"
+    ],
+    "wpm": 140.0,
+    "estimated_duration_seconds": 10.0
+  },
+  {
+    "id": "N10",
+    "scene_id": "SCN-07",
+    "shot_id": "SH-10",
+    "text": "When software doesn't need you at the keyboard anymore... who's actually in control?",
+    "spoken_text": "When software doesn't need you at the keyboard anymore... who's actually in control?",
+    "purpose": "closing_cliffhanger_hook",
+    "claims": [],
+    "wpm": 125.0,
+    "estimated_duration_seconds": 6.5
+  }
+]

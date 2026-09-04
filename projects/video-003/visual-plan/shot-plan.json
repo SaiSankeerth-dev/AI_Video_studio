@@ -1,0 +1,2254 @@
+{
+  "project_id": "video-003",
+  "total_shots": 115,
+  "total_duration_seconds": 870.0,
+  "distribution_targets": {
+    "AI_IMAGE": "20%",
+    "BLENDER_3D": "15%",
+    "SCREEN_RECONSTRUCTION": "15%",
+    "MOTION_GRAPHICS": "20%",
+    "REAL/ARCHIVE": "15%",
+    "DOCUMENT/EVIDENCE": "10%",
+    "ABSTRACT": "5%"
+  },
+  "actual_distribution": {
+    "AI_IMAGE": 20,
+    "SCREEN_RECONSTRUCTION": 19,
+    "BLENDER_3D": 14,
+    "MOTION_GRAPHICS": 21,
+    "DOCUMENT/EVIDENCE": 15,
+    "REAL/ARCHIVE": 21,
+    "ABSTRACT": 5
+  },
+  "streak_limit": 2,
+  "shots": [
+    {
+      "shot_id": "S001",
+      "scene_id": "SC-001",
+      "chapter_id": "CH-00",
+      "start_time": 0.0,
+      "end_time": 5.5,
+      "duration_seconds": 5.5,
+      "start_frame": 0,
+      "duration_frames": 165,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "Quiet modern software engineering workspace late at night. Single high-end workstation sits on a dark desk in a realistic office. Monitor illuminates desk with cool restrained light.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SILENT MACHINE",
+      "audio": {
+        "voice": "audio/narration_S001.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "image_path": "images/s01_workstation_night.png"
+    },
+    {
+      "shot_id": "S002",
+      "scene_id": "SC-001",
+      "chapter_id": "CH-00",
+      "start_time": 5.5,
+      "end_time": 13.0,
+      "duration_seconds": 7.5,
+      "start_frame": 165,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "Clean developer desktop interface: browser window open with technical docs, terminal window with blinking cursor awaiting execution command, project files on desktop.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SILENT MACHINE",
+      "audio": {
+        "voice": "audio/narration_S002.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "image_path": "images/s02_screen_desktop.png"
+    },
+    {
+      "shot_id": "S003",
+      "scene_id": "SC-001",
+      "chapter_id": "CH-00",
+      "start_time": 13.0,
+      "end_time": 21.0,
+      "duration_seconds": 8.0,
+      "start_frame": 390,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial camera traveling from the physical workstation display into neural execution architecture and memory lattice.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SILENT MACHINE",
+      "audio": {
+        "voice": "audio/narration_S003.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "render_path": "blender/renders/s03_architecture.mp4"
+    },
+    {
+      "shot_id": "S004",
+      "scene_id": "SC-002",
+      "chapter_id": "CH-00",
+      "start_time": 21.0,
+      "end_time": 28.5,
+      "duration_seconds": 7.5,
+      "start_frame": 630,
+      "duration_frames": 225,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Remotion title card introducing GPT-6 Astra with dynamic agent loop telemetry: GOAL -> PLAN -> ACT -> OBSERVE -> ADAPT.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CORE QUESTION",
+      "audio": {
+        "voice": "audio/narration_S004.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      },
+      "remotion_component": "AstraTitleLoop"
+    },
+    {
+      "shot_id": "S005",
+      "scene_id": "SC-002",
+      "chapter_id": "CH-00",
+      "start_time": 28.5,
+      "end_time": 34.5,
+      "duration_seconds": 6.0,
+      "start_frame": 855,
+      "duration_frames": 180,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "Cinematic macro shot of mechanical keyboard, human hands poised above keycaps in contemplation, monitor screen reflecting in dark polished desk glass.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CORE QUESTION",
+      "audio": {
+        "voice": "audio/narration_S005.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "image_path": "images/s05_keyboard_macro.png"
+    },
+    {
+      "shot_id": "S006",
+      "scene_id": "SC-002",
+      "chapter_id": "CH-00",
+      "start_time": 34.5,
+      "end_time": 42.0,
+      "duration_seconds": 7.5,
+      "start_frame": 1035,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "Illustrative reconstruction of Astra operating an IDE: inspecting repository files, running automated test suite, capturing failure log, and patching code.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CORE QUESTION",
+      "audio": {
+        "voice": "audio/narration_S006.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "image_path": "images/s06_agent_debug_screen.png"
+    },
+    {
+      "shot_id": "S007",
+      "scene_id": "SC-003",
+      "chapter_id": "CH-00",
+      "start_time": 42.0,
+      "end_time": 51.5,
+      "duration_seconds": 9.5,
+      "start_frame": 1260,
+      "duration_frames": 285,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "Evidence document card showing OpenAI Astra Announcement dated September 3, 2026, highlighting reported context window (1,050,000) and pricing, prominently badged with VERIFY status.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SEPT 3 ANNOUNCEMENT",
+      "audio": {
+        "voice": "audio/narration_S007.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "remotion_component": "EvidenceVerifyCard"
+    },
+    {
+      "shot_id": "S008",
+      "scene_id": "SC-003",
+      "chapter_id": "CH-00",
+      "start_time": 51.5,
+      "end_time": 60.0,
+      "duration_seconds": 8.5,
+      "start_frame": 1545,
+      "duration_frames": 255,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "High-impact comparison graphic: Chatbot Paradigm (Prompt -> Answer) versus Agentic Paradigm (Goal -> Plan -> Tool -> Act -> Observe -> Complete).",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SEPT 3 ANNOUNCEMENT",
+      "audio": {
+        "voice": "audio/narration_S008.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      },
+      "remotion_component": "AstraComparison"
+    },
+    {
+      "shot_id": "S009",
+      "scene_id": "SC-003",
+      "chapter_id": "CH-00",
+      "start_time": 60.0,
+      "end_time": 67.5,
+      "duration_seconds": 7.5,
+      "start_frame": 1800,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The Sept 3 Announcement: Anchor announcement date and primary claims.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE SEPT 3 ANNOUNCEMENT",
+      "audio": {
+        "voice": "audio/narration_S009.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S010",
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "start_time": 67.5,
+      "end_time": 74.5,
+      "duration_seconds": 7.0,
+      "start_frame": 2025,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Beyond the Prompt Box: Contrast chat history with direct OS access.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE PROMPT BOX",
+      "audio": {
+        "voice": "audio/narration_S010.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S011",
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "start_time": 74.5,
+      "end_time": 82.0,
+      "duration_seconds": 7.5,
+      "start_frame": 2235,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Beyond the Prompt Box: Contrast chat history with direct OS access.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE PROMPT BOX",
+      "audio": {
+        "voice": "audio/narration_S011.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S012",
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "start_time": 82.0,
+      "end_time": 90.5,
+      "duration_seconds": 8.5,
+      "start_frame": 2460,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Beyond the Prompt Box: Contrast chat history with direct OS access.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE PROMPT BOX",
+      "audio": {
+        "voice": "audio/narration_S012.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S013",
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "start_time": 90.5,
+      "end_time": 98.5,
+      "duration_seconds": 8.0,
+      "start_frame": 2715,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Beyond the Prompt Box: Contrast chat history with direct OS access.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE PROMPT BOX",
+      "audio": {
+        "voice": "audio/narration_S013.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S014",
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "start_time": 98.5,
+      "end_time": 106.0,
+      "duration_seconds": 7.5,
+      "start_frame": 2955,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Beyond the Prompt Box: Contrast chat history with direct OS access.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE PROMPT BOX",
+      "audio": {
+        "voice": "audio/narration_S014.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S015",
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "start_time": 106.0,
+      "end_time": 113.0,
+      "duration_seconds": 7.0,
+      "start_frame": 3180,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Target Knowledge Domains: Detail SWE, cyber, science, and operations.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TARGET KNOWLEDGE DOMAINS",
+      "audio": {
+        "voice": "audio/narration_S015.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S016",
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "start_time": 113.0,
+      "end_time": 120.5,
+      "duration_seconds": 7.5,
+      "start_frame": 3390,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Target Knowledge Domains: Detail SWE, cyber, science, and operations.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TARGET KNOWLEDGE DOMAINS",
+      "audio": {
+        "voice": "audio/narration_S016.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S017",
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "start_time": 120.5,
+      "end_time": 129.0,
+      "duration_seconds": 8.5,
+      "start_frame": 3615,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Target Knowledge Domains: Detail SWE, cyber, science, and operations.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TARGET KNOWLEDGE DOMAINS",
+      "audio": {
+        "voice": "audio/narration_S017.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S018",
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "start_time": 129.0,
+      "end_time": 136.5,
+      "duration_seconds": 7.5,
+      "start_frame": 3870,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Target Knowledge Domains: Detail SWE, cyber, science, and operations.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TARGET KNOWLEDGE DOMAINS",
+      "audio": {
+        "voice": "audio/narration_S018.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S019",
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "start_time": 136.5,
+      "end_time": 142.0,
+      "duration_seconds": 5.5,
+      "start_frame": 4095,
+      "duration_frames": 165,
+      "shot_type": "ABSTRACT",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "ABSTRACT shot illustrating Target Knowledge Domains: Detail SWE, cyber, science, and operations.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TARGET KNOWLEDGE DOMAINS",
+      "audio": {
+        "voice": "audio/narration_S019.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S020",
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "start_time": 142.0,
+      "end_time": 150.0,
+      "duration_seconds": 8.0,
+      "start_frame": 4260,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial reconstruction: AI system architecture. 3D spatial neural architecture showing multimodal sensory integration and OS syscall pipeline.",
+      "source_badge": "SPATIAL RECONSTRUCTION // AI SYSTEM ARCHITECTURE",
+      "audio": {
+        "voice": "audio/narration_S020.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "blender_spec": {
+        "scene": "scenes/s020_AI_system_architecture.blend",
+        "camera": "orbital_3d_flythrough",
+        "lighting": "motivated_phosphor_glow",
+        "animation": "smooth_cinematic_camera_path",
+        "render_duration_frames": 240
+      }
+    },
+    {
+      "shot_id": "S021",
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "start_time": 150.0,
+      "end_time": 158.0,
+      "duration_seconds": 8.0,
+      "start_frame": 4500,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Perception & Reasoning-Time Compute: Explain 30fps visual perception and syscall dispatch.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PERCEPTION & REASONING-TIME COMPUTE",
+      "audio": {
+        "voice": "audio/narration_S021.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S022",
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "start_time": 158.0,
+      "end_time": 165.0,
+      "duration_seconds": 7.0,
+      "start_frame": 4740,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Perception & Reasoning-Time Compute: Explain 30fps visual perception and syscall dispatch.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PERCEPTION & REASONING-TIME COMPUTE",
+      "audio": {
+        "voice": "audio/narration_S022.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S023",
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "start_time": 165.0,
+      "end_time": 172.5,
+      "duration_seconds": 7.5,
+      "start_frame": 4950,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Perception & Reasoning-Time Compute: Explain 30fps visual perception and syscall dispatch.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PERCEPTION & REASONING-TIME COMPUTE",
+      "audio": {
+        "voice": "audio/narration_S023.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S024",
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "start_time": 172.5,
+      "end_time": 180.0,
+      "duration_seconds": 7.5,
+      "start_frame": 5175,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Perception & Reasoning-Time Compute: Explain 30fps visual perception and syscall dispatch.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PERCEPTION & REASONING-TIME COMPUTE",
+      "audio": {
+        "voice": "audio/narration_S024.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S025",
+      "scene_id": "SC-007",
+      "chapter_id": "CH-02",
+      "start_time": 180.0,
+      "end_time": 188.0,
+      "duration_seconds": 8.0,
+      "start_frame": 5400,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating The Closed Loop Paradigm: Compare chatbot open loop with agent closed loop.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CLOSED LOOP PARADIGM",
+      "audio": {
+        "voice": "audio/narration_S025.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S026",
+      "scene_id": "SC-007",
+      "chapter_id": "CH-02",
+      "start_time": 188.0,
+      "end_time": 195.0,
+      "duration_seconds": 7.0,
+      "start_frame": 5640,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating The Closed Loop Paradigm: Compare chatbot open loop with agent closed loop.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CLOSED LOOP PARADIGM",
+      "audio": {
+        "voice": "audio/narration_S026.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S027",
+      "scene_id": "SC-007",
+      "chapter_id": "CH-02",
+      "start_time": 195.0,
+      "end_time": 202.5,
+      "duration_seconds": 7.5,
+      "start_frame": 5850,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating The Closed Loop Paradigm: Compare chatbot open loop with agent closed loop.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CLOSED LOOP PARADIGM",
+      "audio": {
+        "voice": "audio/narration_S027.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S028",
+      "scene_id": "SC-007",
+      "chapter_id": "CH-02",
+      "start_time": 202.5,
+      "end_time": 210.5,
+      "duration_seconds": 8.0,
+      "start_frame": 6075,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating The Closed Loop Paradigm: Compare chatbot open loop with agent closed loop.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE CLOSED LOOP PARADIGM",
+      "audio": {
+        "voice": "audio/narration_S028.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S029",
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "start_time": 210.5,
+      "end_time": 219.0,
+      "duration_seconds": 8.5,
+      "start_frame": 6315,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Illustrative Code Patch Demo: Trace pytest failure to AST inspection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ILLUSTRATIVE CODE PATCH DEMO",
+      "audio": {
+        "voice": "audio/narration_S029.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S030",
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "start_time": 219.0,
+      "end_time": 226.5,
+      "duration_seconds": 7.5,
+      "start_frame": 6570,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Illustrative Code Patch Demo: Trace pytest failure to AST inspection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ILLUSTRATIVE CODE PATCH DEMO",
+      "audio": {
+        "voice": "audio/narration_S030.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S031",
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "start_time": 226.5,
+      "end_time": 234.5,
+      "duration_seconds": 8.0,
+      "start_frame": 6795,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Illustrative Code Patch Demo: Trace pytest failure to AST inspection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ILLUSTRATIVE CODE PATCH DEMO",
+      "audio": {
+        "voice": "audio/narration_S031.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S032",
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "start_time": 234.5,
+      "end_time": 242.0,
+      "duration_seconds": 7.5,
+      "start_frame": 7035,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Illustrative Code Patch Demo: Trace pytest failure to AST inspection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ILLUSTRATIVE CODE PATCH DEMO",
+      "audio": {
+        "voice": "audio/narration_S032.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S033",
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "start_time": 242.0,
+      "end_time": 249.0,
+      "duration_seconds": 7.0,
+      "start_frame": 7260,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Illustrative Code Patch Demo: Trace pytest failure to AST inspection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ILLUSTRATIVE CODE PATCH DEMO",
+      "audio": {
+        "voice": "audio/narration_S033.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S034",
+      "scene_id": "SC-009",
+      "chapter_id": "CH-02",
+      "start_time": 249.0,
+      "end_time": 257.5,
+      "duration_seconds": 8.5,
+      "start_frame": 7470,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Autonomous Iteration & Adaptation: Demonstrate automated replanning upon failure.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS ITERATION & ADAPTATION",
+      "audio": {
+        "voice": "audio/narration_S034.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S035",
+      "scene_id": "SC-009",
+      "chapter_id": "CH-02",
+      "start_time": 257.5,
+      "end_time": 265.0,
+      "duration_seconds": 7.5,
+      "start_frame": 7725,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Autonomous Iteration & Adaptation: Demonstrate automated replanning upon failure.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS ITERATION & ADAPTATION",
+      "audio": {
+        "voice": "audio/narration_S035.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S036",
+      "scene_id": "SC-009",
+      "chapter_id": "CH-02",
+      "start_time": 265.0,
+      "end_time": 273.0,
+      "duration_seconds": 8.0,
+      "start_frame": 7950,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Autonomous Iteration & Adaptation: Demonstrate automated replanning upon failure.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS ITERATION & ADAPTATION",
+      "audio": {
+        "voice": "audio/narration_S036.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S037",
+      "scene_id": "SC-009",
+      "chapter_id": "CH-02",
+      "start_time": 273.0,
+      "end_time": 281.0,
+      "duration_seconds": 8.0,
+      "start_frame": 8190,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial reconstruction: computer-use workflow. Volumetric 3D workflow lattice tracing goal decomposition, tool dispatch, and state feedback.",
+      "source_badge": "SPATIAL RECONSTRUCTION // COMPUTER-USE WORKFLOW",
+      "audio": {
+        "voice": "audio/narration_S037.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "blender_spec": {
+        "scene": "scenes/s037_computer-use_workflow.blend",
+        "camera": "macro_isometric_tracking",
+        "lighting": "motivated_phosphor_glow",
+        "animation": "smooth_cinematic_camera_path",
+        "render_duration_frames": 240
+      }
+    },
+    {
+      "shot_id": "S038",
+      "scene_id": "SC-010",
+      "chapter_id": "CH-02",
+      "start_time": 281.0,
+      "end_time": 288.5,
+      "duration_seconds": 7.5,
+      "start_frame": 8430,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating The New Definition of Software Labor: Analyze macro transformation of engineering roles.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEW DEFINITION OF SOFTWARE LABOR",
+      "audio": {
+        "voice": "audio/narration_S038.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S039",
+      "scene_id": "SC-010",
+      "chapter_id": "CH-02",
+      "start_time": 288.5,
+      "end_time": 296.0,
+      "duration_seconds": 7.5,
+      "start_frame": 8655,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The New Definition of Software Labor: Analyze macro transformation of engineering roles.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEW DEFINITION OF SOFTWARE LABOR",
+      "audio": {
+        "voice": "audio/narration_S039.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S040",
+      "scene_id": "SC-010",
+      "chapter_id": "CH-02",
+      "start_time": 296.0,
+      "end_time": 304.0,
+      "duration_seconds": 8.0,
+      "start_frame": 8880,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating The New Definition of Software Labor: Analyze macro transformation of engineering roles.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEW DEFINITION OF SOFTWARE LABOR",
+      "audio": {
+        "voice": "audio/narration_S040.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S041",
+      "scene_id": "SC-010",
+      "chapter_id": "CH-02",
+      "start_time": 304.0,
+      "end_time": 312.5,
+      "duration_seconds": 8.5,
+      "start_frame": 9120,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating The New Definition of Software Labor: Analyze macro transformation of engineering roles.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEW DEFINITION OF SOFTWARE LABOR",
+      "audio": {
+        "voice": "audio/narration_S041.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S042",
+      "scene_id": "SC-011",
+      "chapter_id": "CH-03",
+      "start_time": 312.5,
+      "end_time": 319.5,
+      "duration_seconds": 7.0,
+      "start_frame": 9375,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Evaluating Agent Agency: Frame difficulty of evaluating desktop interactions.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // EVALUATING AGENT AGENCY",
+      "audio": {
+        "voice": "audio/narration_S042.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S043",
+      "scene_id": "SC-011",
+      "chapter_id": "CH-03",
+      "start_time": 319.5,
+      "end_time": 327.0,
+      "duration_seconds": 7.5,
+      "start_frame": 9585,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Evaluating Agent Agency: Frame difficulty of evaluating desktop interactions.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // EVALUATING AGENT AGENCY",
+      "audio": {
+        "voice": "audio/narration_S043.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S044",
+      "scene_id": "SC-011",
+      "chapter_id": "CH-03",
+      "start_time": 327.0,
+      "end_time": 334.5,
+      "duration_seconds": 7.5,
+      "start_frame": 9810,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Evaluating Agent Agency: Frame difficulty of evaluating desktop interactions.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // EVALUATING AGENT AGENCY",
+      "audio": {
+        "voice": "audio/narration_S044.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S045",
+      "scene_id": "SC-011",
+      "chapter_id": "CH-03",
+      "start_time": 334.5,
+      "end_time": 342.5,
+      "duration_seconds": 8.0,
+      "start_frame": 10035,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Evaluating Agent Agency: Frame difficulty of evaluating desktop interactions.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // EVALUATING AGENT AGENCY",
+      "audio": {
+        "voice": "audio/narration_S045.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S046",
+      "scene_id": "SC-012",
+      "chapter_id": "CH-03",
+      "start_time": 342.5,
+      "end_time": 351.0,
+      "duration_seconds": 8.5,
+      "start_frame": 10275,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating AutomationBench & ScreenSpot Pro: Detail GUI navigation and coordinate precision scores.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTOMATIONBENCH & SCREENSPOT PRO",
+      "audio": {
+        "voice": "audio/narration_S046.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S047",
+      "scene_id": "SC-012",
+      "chapter_id": "CH-03",
+      "start_time": 351.0,
+      "end_time": 358.0,
+      "duration_seconds": 7.0,
+      "start_frame": 10530,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating AutomationBench & ScreenSpot Pro: Detail GUI navigation and coordinate precision scores.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTOMATIONBENCH & SCREENSPOT PRO",
+      "audio": {
+        "voice": "audio/narration_S047.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S048",
+      "scene_id": "SC-012",
+      "chapter_id": "CH-03",
+      "start_time": 358.0,
+      "end_time": 366.0,
+      "duration_seconds": 8.0,
+      "start_frame": 10740,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating AutomationBench & ScreenSpot Pro: Detail GUI navigation and coordinate precision scores.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTOMATIONBENCH & SCREENSPOT PRO",
+      "audio": {
+        "voice": "audio/narration_S048.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S049",
+      "scene_id": "SC-012",
+      "chapter_id": "CH-03",
+      "start_time": 366.0,
+      "end_time": 373.5,
+      "duration_seconds": 7.5,
+      "start_frame": 10980,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating AutomationBench & ScreenSpot Pro: Detail GUI navigation and coordinate precision scores.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTOMATIONBENCH & SCREENSPOT PRO",
+      "audio": {
+        "voice": "audio/narration_S049.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S050",
+      "scene_id": "SC-013",
+      "chapter_id": "CH-03",
+      "start_time": 373.5,
+      "end_time": 381.5,
+      "duration_seconds": 8.0,
+      "start_frame": 11205,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating TerminalBench & Shell Mastery: Audit Linux command line and package build metrics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TERMINALBENCH & SHELL MASTERY",
+      "audio": {
+        "voice": "audio/narration_S050.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S051",
+      "scene_id": "SC-013",
+      "chapter_id": "CH-03",
+      "start_time": 381.5,
+      "end_time": 389.5,
+      "duration_seconds": 8.0,
+      "start_frame": 11445,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial reconstruction: context-window visualization. Infinite geometric memory stack visualizing 1.05M tokens as stratified layers of source code and telemetry.",
+      "source_badge": "SPATIAL RECONSTRUCTION // CONTEXT-WINDOW VISUALIZATION",
+      "audio": {
+        "voice": "audio/narration_S051.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "blender_spec": {
+        "scene": "scenes/s051_context-window_visualization.blend",
+        "camera": "dramatic_pull_back_wide",
+        "lighting": "motivated_phosphor_glow",
+        "animation": "smooth_cinematic_camera_path",
+        "render_duration_frames": 240
+      }
+    },
+    {
+      "shot_id": "S052",
+      "scene_id": "SC-013",
+      "chapter_id": "CH-03",
+      "start_time": 389.5,
+      "end_time": 398.0,
+      "duration_seconds": 8.5,
+      "start_frame": 11685,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating TerminalBench & Shell Mastery: Audit Linux command line and package build metrics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TERMINALBENCH & SHELL MASTERY",
+      "audio": {
+        "voice": "audio/narration_S052.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S053",
+      "scene_id": "SC-013",
+      "chapter_id": "CH-03",
+      "start_time": 398.0,
+      "end_time": 405.0,
+      "duration_seconds": 7.0,
+      "start_frame": 11940,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating TerminalBench & Shell Mastery: Audit Linux command line and package build metrics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // TERMINALBENCH & SHELL MASTERY",
+      "audio": {
+        "voice": "audio/narration_S053.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S054",
+      "scene_id": "SC-014",
+      "chapter_id": "CH-03",
+      "start_time": 405.0,
+      "end_time": 412.5,
+      "duration_seconds": 7.5,
+      "start_frame": 12150,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating FrontierMath & Spatial ARC-AGI: Examine original mathematics and visual induction.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // FRONTIERMATH & SPATIAL ARC-AGI",
+      "audio": {
+        "voice": "audio/narration_S054.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S055",
+      "scene_id": "SC-014",
+      "chapter_id": "CH-03",
+      "start_time": 412.5,
+      "end_time": 420.0,
+      "duration_seconds": 7.5,
+      "start_frame": 12375,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating FrontierMath & Spatial ARC-AGI: Examine original mathematics and visual induction.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // FRONTIERMATH & SPATIAL ARC-AGI",
+      "audio": {
+        "voice": "audio/narration_S055.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S056",
+      "scene_id": "SC-014",
+      "chapter_id": "CH-03",
+      "start_time": 420.0,
+      "end_time": 428.0,
+      "duration_seconds": 8.0,
+      "start_frame": 12600,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating FrontierMath & Spatial ARC-AGI: Examine original mathematics and visual induction.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // FRONTIERMATH & SPATIAL ARC-AGI",
+      "audio": {
+        "voice": "audio/narration_S056.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S057",
+      "scene_id": "SC-014",
+      "chapter_id": "CH-03",
+      "start_time": 428.0,
+      "end_time": 435.0,
+      "duration_seconds": 7.0,
+      "start_frame": 12840,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating FrontierMath & Spatial ARC-AGI: Examine original mathematics and visual induction.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // FRONTIERMATH & SPATIAL ARC-AGI",
+      "audio": {
+        "voice": "audio/narration_S057.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S058",
+      "scene_id": "SC-015",
+      "chapter_id": "CH-04",
+      "start_time": 435.0,
+      "end_time": 443.0,
+      "duration_seconds": 8.0,
+      "start_frame": 13050,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating The Need for Infinite Working Memory: Explain why agent workflows require massive contexts.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEED FOR INFINITE WORKING MEMORY",
+      "audio": {
+        "voice": "audio/narration_S058.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S059",
+      "scene_id": "SC-015",
+      "chapter_id": "CH-04",
+      "start_time": 443.0,
+      "end_time": 450.5,
+      "duration_seconds": 7.5,
+      "start_frame": 13290,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating The Need for Infinite Working Memory: Explain why agent workflows require massive contexts.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEED FOR INFINITE WORKING MEMORY",
+      "audio": {
+        "voice": "audio/narration_S059.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S060",
+      "scene_id": "SC-015",
+      "chapter_id": "CH-04",
+      "start_time": 450.5,
+      "end_time": 458.0,
+      "duration_seconds": 7.5,
+      "start_frame": 13515,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The Need for Infinite Working Memory: Explain why agent workflows require massive contexts.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEED FOR INFINITE WORKING MEMORY",
+      "audio": {
+        "voice": "audio/narration_S060.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S061",
+      "scene_id": "SC-015",
+      "chapter_id": "CH-04",
+      "start_time": 458.0,
+      "end_time": 466.5,
+      "duration_seconds": 8.5,
+      "start_frame": 13740,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating The Need for Infinite Working Memory: Explain why agent workflows require massive contexts.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE NEED FOR INFINITE WORKING MEMORY",
+      "audio": {
+        "voice": "audio/narration_S061.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S062",
+      "scene_id": "SC-016",
+      "chapter_id": "CH-04",
+      "start_time": 466.5,
+      "end_time": 474.5,
+      "duration_seconds": 8.0,
+      "start_frame": 13995,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating The 1.05M Working Memory Scale: Contextualize 1M tokens in repos, books, and logs.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE 1.05M WORKING MEMORY SCALE",
+      "audio": {
+        "voice": "audio/narration_S062.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S063",
+      "scene_id": "SC-016",
+      "chapter_id": "CH-04",
+      "start_time": 474.5,
+      "end_time": 481.5,
+      "duration_seconds": 7.0,
+      "start_frame": 14235,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating The 1.05M Working Memory Scale: Contextualize 1M tokens in repos, books, and logs.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE 1.05M WORKING MEMORY SCALE",
+      "audio": {
+        "voice": "audio/narration_S063.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S064",
+      "scene_id": "SC-016",
+      "chapter_id": "CH-04",
+      "start_time": 481.5,
+      "end_time": 489.0,
+      "duration_seconds": 7.5,
+      "start_frame": 14445,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The 1.05M Working Memory Scale: Contextualize 1M tokens in repos, books, and logs.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE 1.05M WORKING MEMORY SCALE",
+      "audio": {
+        "voice": "audio/narration_S064.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S065",
+      "scene_id": "SC-016",
+      "chapter_id": "CH-04",
+      "start_time": 489.0,
+      "end_time": 496.5,
+      "duration_seconds": 7.5,
+      "start_frame": 14670,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating The 1.05M Working Memory Scale: Contextualize 1M tokens in repos, books, and logs.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE 1.05M WORKING MEMORY SCALE",
+      "audio": {
+        "voice": "audio/narration_S065.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S066",
+      "scene_id": "SC-017",
+      "chapter_id": "CH-04",
+      "start_time": 496.5,
+      "end_time": 502.0,
+      "duration_seconds": 5.5,
+      "start_frame": 14895,
+      "duration_frames": 165,
+      "shot_type": "ABSTRACT",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "ABSTRACT shot illustrating 128k Generation & Enterprise Pricing: Analyze output window and $10/$50 token economics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // 128K GENERATION & ENTERPRISE PRICING",
+      "audio": {
+        "voice": "audio/narration_S066.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S067",
+      "scene_id": "SC-017",
+      "chapter_id": "CH-04",
+      "start_time": 502.0,
+      "end_time": 510.5,
+      "duration_seconds": 8.5,
+      "start_frame": 15060,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating 128k Generation & Enterprise Pricing: Analyze output window and $10/$50 token economics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // 128K GENERATION & ENTERPRISE PRICING",
+      "audio": {
+        "voice": "audio/narration_S067.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S068",
+      "scene_id": "SC-017",
+      "chapter_id": "CH-04",
+      "start_time": 510.5,
+      "end_time": 518.5,
+      "duration_seconds": 8.0,
+      "start_frame": 15315,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial reconstruction: agent tool chain. 3D mechanical linkage visualizing PTY bash, Chromium DevTools, and virtual input actuators.",
+      "source_badge": "SPATIAL RECONSTRUCTION // AGENT TOOL CHAIN",
+      "audio": {
+        "voice": "audio/narration_S068.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "blender_spec": {
+        "scene": "scenes/s068_agent_tool_chain.blend",
+        "camera": "linear_forward_push",
+        "lighting": "motivated_phosphor_glow",
+        "animation": "smooth_cinematic_camera_path",
+        "render_duration_frames": 240
+      }
+    },
+    {
+      "shot_id": "S069",
+      "scene_id": "SC-017",
+      "chapter_id": "CH-04",
+      "start_time": 518.5,
+      "end_time": 526.5,
+      "duration_seconds": 8.0,
+      "start_frame": 15555,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating 128k Generation & Enterprise Pricing: Analyze output window and $10/$50 token economics.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // 128K GENERATION & ENTERPRISE PRICING",
+      "audio": {
+        "voice": "audio/narration_S069.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S070",
+      "scene_id": "SC-018",
+      "chapter_id": "CH-05",
+      "start_time": 526.5,
+      "end_time": 534.0,
+      "duration_seconds": 7.5,
+      "start_frame": 15795,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Production Deployment Reconstructions: Introduce real-world enterprise domain applications.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PRODUCTION DEPLOYMENT RECONSTRUCTIONS",
+      "audio": {
+        "voice": "audio/narration_S070.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S071",
+      "scene_id": "SC-018",
+      "chapter_id": "CH-05",
+      "start_time": 534.0,
+      "end_time": 541.0,
+      "duration_seconds": 7.0,
+      "start_frame": 16020,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Production Deployment Reconstructions: Introduce real-world enterprise domain applications.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PRODUCTION DEPLOYMENT RECONSTRUCTIONS",
+      "audio": {
+        "voice": "audio/narration_S071.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S072",
+      "scene_id": "SC-018",
+      "chapter_id": "CH-05",
+      "start_time": 541.0,
+      "end_time": 548.5,
+      "duration_seconds": 7.5,
+      "start_frame": 16230,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Production Deployment Reconstructions: Introduce real-world enterprise domain applications.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PRODUCTION DEPLOYMENT RECONSTRUCTIONS",
+      "audio": {
+        "voice": "audio/narration_S072.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S073",
+      "scene_id": "SC-018",
+      "chapter_id": "CH-05",
+      "start_time": 548.5,
+      "end_time": 557.0,
+      "duration_seconds": 8.5,
+      "start_frame": 16455,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Production Deployment Reconstructions: Introduce real-world enterprise domain applications.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // PRODUCTION DEPLOYMENT RECONSTRUCTIONS",
+      "audio": {
+        "voice": "audio/narration_S073.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S074",
+      "scene_id": "SC-019",
+      "chapter_id": "CH-05",
+      "start_time": 557.0,
+      "end_time": 564.5,
+      "duration_seconds": 7.5,
+      "start_frame": 16710,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Autonomous Software Engineering: Reconstruct full issue-to-PR automated SWE pipeline.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS SOFTWARE ENGINEERING",
+      "audio": {
+        "voice": "audio/narration_S074.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S075",
+      "scene_id": "SC-019",
+      "chapter_id": "CH-05",
+      "start_time": 564.5,
+      "end_time": 572.5,
+      "duration_seconds": 8.0,
+      "start_frame": 16935,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Autonomous Software Engineering: Reconstruct full issue-to-PR automated SWE pipeline.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS SOFTWARE ENGINEERING",
+      "audio": {
+        "voice": "audio/narration_S075.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S076",
+      "scene_id": "SC-019",
+      "chapter_id": "CH-05",
+      "start_time": 572.5,
+      "end_time": 579.5,
+      "duration_seconds": 7.0,
+      "start_frame": 17175,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Autonomous Software Engineering: Reconstruct full issue-to-PR automated SWE pipeline.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS SOFTWARE ENGINEERING",
+      "audio": {
+        "voice": "audio/narration_S076.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S077",
+      "scene_id": "SC-019",
+      "chapter_id": "CH-05",
+      "start_time": 579.5,
+      "end_time": 587.0,
+      "duration_seconds": 7.5,
+      "start_frame": 17385,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Autonomous Software Engineering: Reconstruct full issue-to-PR automated SWE pipeline.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // AUTONOMOUS SOFTWARE ENGINEERING",
+      "audio": {
+        "voice": "audio/narration_S077.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S078",
+      "scene_id": "SC-020",
+      "chapter_id": "CH-05",
+      "start_time": 587.0,
+      "end_time": 595.0,
+      "duration_seconds": 8.0,
+      "start_frame": 17610,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating Defensive Cybersecurity Triage: Demonstrate SIEM correlation and forensic response.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // DEFENSIVE CYBERSECURITY TRIAGE",
+      "audio": {
+        "voice": "audio/narration_S078.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S079",
+      "scene_id": "SC-020",
+      "chapter_id": "CH-05",
+      "start_time": 595.0,
+      "end_time": 602.5,
+      "duration_seconds": 7.5,
+      "start_frame": 17850,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Defensive Cybersecurity Triage: Demonstrate SIEM correlation and forensic response.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // DEFENSIVE CYBERSECURITY TRIAGE",
+      "audio": {
+        "voice": "audio/narration_S079.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S080",
+      "scene_id": "SC-020",
+      "chapter_id": "CH-05",
+      "start_time": 602.5,
+      "end_time": 610.5,
+      "duration_seconds": 8.0,
+      "start_frame": 18075,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Defensive Cybersecurity Triage: Demonstrate SIEM correlation and forensic response.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // DEFENSIVE CYBERSECURITY TRIAGE",
+      "audio": {
+        "voice": "audio/narration_S080.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S081",
+      "scene_id": "SC-020",
+      "chapter_id": "CH-05",
+      "start_time": 610.5,
+      "end_time": 619.0,
+      "duration_seconds": 8.5,
+      "start_frame": 18315,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Defensive Cybersecurity Triage: Demonstrate SIEM correlation and forensic response.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // DEFENSIVE CYBERSECURITY TRIAGE",
+      "audio": {
+        "voice": "audio/narration_S081.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S082",
+      "scene_id": "SC-021",
+      "chapter_id": "CH-05",
+      "start_time": 619.0,
+      "end_time": 626.0,
+      "duration_seconds": 7.0,
+      "start_frame": 18570,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Scientific Discovery Acceleration: Trace literature ingestion to simulation protocols.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SCIENTIFIC DISCOVERY ACCELERATION",
+      "audio": {
+        "voice": "audio/narration_S082.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S083",
+      "scene_id": "SC-021",
+      "chapter_id": "CH-05",
+      "start_time": 626.0,
+      "end_time": 634.0,
+      "duration_seconds": 8.0,
+      "start_frame": 18780,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "Blender 3D spatial reconstruction: global infrastructure visualization. Planetary data cluster grid illustrating distributed agent workloads across global compute nodes.",
+      "source_badge": "SPATIAL RECONSTRUCTION // GLOBAL INFRASTRUCTURE VISUALIZATION",
+      "audio": {
+        "voice": "audio/narration_S083.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      },
+      "blender_spec": {
+        "scene": "scenes/s083_global_infrastructure_visualization.blend",
+        "camera": "global_orbital_sweep",
+        "lighting": "motivated_phosphor_glow",
+        "animation": "smooth_cinematic_camera_path",
+        "render_duration_frames": 240
+      }
+    },
+    {
+      "shot_id": "S084",
+      "scene_id": "SC-021",
+      "chapter_id": "CH-05",
+      "start_time": 634.0,
+      "end_time": 641.5,
+      "duration_seconds": 7.5,
+      "start_frame": 19020,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Scientific Discovery Acceleration: Trace literature ingestion to simulation protocols.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SCIENTIFIC DISCOVERY ACCELERATION",
+      "audio": {
+        "voice": "audio/narration_S084.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S085",
+      "scene_id": "SC-021",
+      "chapter_id": "CH-05",
+      "start_time": 641.5,
+      "end_time": 649.0,
+      "duration_seconds": 7.5,
+      "start_frame": 19245,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Scientific Discovery Acceleration: Trace literature ingestion to simulation protocols.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SCIENTIFIC DISCOVERY ACCELERATION",
+      "audio": {
+        "voice": "audio/narration_S085.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S086",
+      "scene_id": "SC-022",
+      "chapter_id": "CH-05",
+      "start_time": 649.0,
+      "end_time": 657.0,
+      "duration_seconds": 8.0,
+      "start_frame": 19470,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Enterprise Operations & Glue Work: Automating cross-tool data reconciliation.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ENTERPRISE OPERATIONS & GLUE WORK",
+      "audio": {
+        "voice": "audio/narration_S086.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S087",
+      "scene_id": "SC-022",
+      "chapter_id": "CH-05",
+      "start_time": 657.0,
+      "end_time": 664.0,
+      "duration_seconds": 7.0,
+      "start_frame": 19710,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Enterprise Operations & Glue Work: Automating cross-tool data reconciliation.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ENTERPRISE OPERATIONS & GLUE WORK",
+      "audio": {
+        "voice": "audio/narration_S087.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S088",
+      "scene_id": "SC-022",
+      "chapter_id": "CH-05",
+      "start_time": 664.0,
+      "end_time": 672.5,
+      "duration_seconds": 8.5,
+      "start_frame": 19920,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Enterprise Operations & Glue Work: Automating cross-tool data reconciliation.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ENTERPRISE OPERATIONS & GLUE WORK",
+      "audio": {
+        "voice": "audio/narration_S088.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S089",
+      "scene_id": "SC-022",
+      "chapter_id": "CH-05",
+      "start_time": 672.5,
+      "end_time": 680.0,
+      "duration_seconds": 7.5,
+      "start_frame": 20175,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Enterprise Operations & Glue Work: Automating cross-tool data reconciliation.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // ENTERPRISE OPERATIONS & GLUE WORK",
+      "audio": {
+        "voice": "audio/narration_S089.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S090",
+      "scene_id": "SC-023",
+      "chapter_id": "CH-06",
+      "start_time": 680.0,
+      "end_time": 687.5,
+      "duration_seconds": 7.5,
+      "start_frame": 20400,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The Reliability Crisis: Differentiate curated benchmarks from production chaos.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE RELIABILITY CRISIS",
+      "audio": {
+        "voice": "audio/narration_S090.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S091",
+      "scene_id": "SC-023",
+      "chapter_id": "CH-06",
+      "start_time": 687.5,
+      "end_time": 695.5,
+      "duration_seconds": 8.0,
+      "start_frame": 20625,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating The Reliability Crisis: Differentiate curated benchmarks from production chaos.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE RELIABILITY CRISIS",
+      "audio": {
+        "voice": "audio/narration_S091.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S092",
+      "scene_id": "SC-023",
+      "chapter_id": "CH-06",
+      "start_time": 695.5,
+      "end_time": 703.5,
+      "duration_seconds": 8.0,
+      "start_frame": 20865,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating The Reliability Crisis: Differentiate curated benchmarks from production chaos.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE RELIABILITY CRISIS",
+      "audio": {
+        "voice": "audio/narration_S092.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S093",
+      "scene_id": "SC-023",
+      "chapter_id": "CH-06",
+      "start_time": 703.5,
+      "end_time": 710.5,
+      "duration_seconds": 7.0,
+      "start_frame": 21105,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating The Reliability Crisis: Differentiate curated benchmarks from production chaos.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE RELIABILITY CRISIS",
+      "audio": {
+        "voice": "audio/narration_S093.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S094",
+      "scene_id": "SC-024",
+      "chapter_id": "CH-06",
+      "start_time": 710.5,
+      "end_time": 718.0,
+      "duration_seconds": 7.5,
+      "start_frame": 21315,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Compounding Error Cascades: Analyze silent failures and unhandled exit codes.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // COMPOUNDING ERROR CASCADES",
+      "audio": {
+        "voice": "audio/narration_S094.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S095",
+      "scene_id": "SC-024",
+      "chapter_id": "CH-06",
+      "start_time": 718.0,
+      "end_time": 725.5,
+      "duration_seconds": 7.5,
+      "start_frame": 21540,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Compounding Error Cascades: Analyze silent failures and unhandled exit codes.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // COMPOUNDING ERROR CASCADES",
+      "audio": {
+        "voice": "audio/narration_S095.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S096",
+      "scene_id": "SC-024",
+      "chapter_id": "CH-06",
+      "start_time": 725.5,
+      "end_time": 734.0,
+      "duration_seconds": 8.5,
+      "start_frame": 21765,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating Compounding Error Cascades: Analyze silent failures and unhandled exit codes.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // COMPOUNDING ERROR CASCADES",
+      "audio": {
+        "voice": "audio/narration_S096.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S097",
+      "scene_id": "SC-024",
+      "chapter_id": "CH-06",
+      "start_time": 734.0,
+      "end_time": 742.0,
+      "duration_seconds": 8.0,
+      "start_frame": 22020,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Compounding Error Cascades: Analyze silent failures and unhandled exit codes.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // COMPOUNDING ERROR CASCADES",
+      "audio": {
+        "voice": "audio/narration_S097.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S098",
+      "scene_id": "SC-025",
+      "chapter_id": "CH-06",
+      "start_time": 742.0,
+      "end_time": 750.0,
+      "duration_seconds": 8.0,
+      "start_frame": 22260,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating Catastrophic Permission Risks: Audit elevated privilege risks and partition deletion.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CATASTROPHIC PERMISSION RISKS",
+      "audio": {
+        "voice": "audio/narration_S098.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S099",
+      "scene_id": "SC-025",
+      "chapter_id": "CH-06",
+      "start_time": 750.0,
+      "end_time": 757.5,
+      "duration_seconds": 7.5,
+      "start_frame": 22500,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Catastrophic Permission Risks: Audit elevated privilege risks and partition deletion.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CATASTROPHIC PERMISSION RISKS",
+      "audio": {
+        "voice": "audio/narration_S099.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S100",
+      "scene_id": "SC-025",
+      "chapter_id": "CH-06",
+      "start_time": 757.5,
+      "end_time": 764.5,
+      "duration_seconds": 7.0,
+      "start_frame": 22725,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Catastrophic Permission Risks: Audit elevated privilege risks and partition deletion.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CATASTROPHIC PERMISSION RISKS",
+      "audio": {
+        "voice": "audio/narration_S100.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S101",
+      "scene_id": "SC-025",
+      "chapter_id": "CH-06",
+      "start_time": 764.5,
+      "end_time": 772.0,
+      "duration_seconds": 7.5,
+      "start_frame": 22935,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Catastrophic Permission Risks: Audit elevated privilege risks and partition deletion.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CATASTROPHIC PERMISSION RISKS",
+      "audio": {
+        "voice": "audio/narration_S101.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S102",
+      "scene_id": "SC-026",
+      "chapter_id": "CH-06",
+      "start_time": 772.0,
+      "end_time": 779.5,
+      "duration_seconds": 7.5,
+      "start_frame": 23160,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating The Human Oversight Dilemma: Calculate productivity overhead of line-by-line review.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE HUMAN OVERSIGHT DILEMMA",
+      "audio": {
+        "voice": "audio/narration_S102.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S103",
+      "scene_id": "SC-026",
+      "chapter_id": "CH-06",
+      "start_time": 779.5,
+      "end_time": 787.5,
+      "duration_seconds": 8.0,
+      "start_frame": 23385,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating The Human Oversight Dilemma: Calculate productivity overhead of line-by-line review.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE HUMAN OVERSIGHT DILEMMA",
+      "audio": {
+        "voice": "audio/narration_S103.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S104",
+      "scene_id": "SC-026",
+      "chapter_id": "CH-06",
+      "start_time": 787.5,
+      "end_time": 793.0,
+      "duration_seconds": 5.5,
+      "start_frame": 23625,
+      "duration_frames": 165,
+      "shot_type": "ABSTRACT",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "ABSTRACT shot illustrating The Human Oversight Dilemma: Calculate productivity overhead of line-by-line review.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE HUMAN OVERSIGHT DILEMMA",
+      "audio": {
+        "voice": "audio/narration_S104.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S105",
+      "scene_id": "SC-026",
+      "chapter_id": "CH-06",
+      "start_time": 793.0,
+      "end_time": 801.5,
+      "duration_seconds": 8.5,
+      "start_frame": 23790,
+      "duration_frames": 255,
+      "shot_type": "DOCUMENT/EVIDENCE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "DOCUMENT/EVIDENCE shot illustrating The Human Oversight Dilemma: Calculate productivity overhead of line-by-line review.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE HUMAN OVERSIGHT DILEMMA",
+      "audio": {
+        "voice": "audio/narration_S105.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S106",
+      "scene_id": "SC-027",
+      "chapter_id": "CH-06",
+      "start_time": 801.5,
+      "end_time": 809.5,
+      "duration_seconds": 8.0,
+      "start_frame": 24045,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating Sandboxing Guardrails & Injection Attacks: Critique OpenAI alignment claims vs prompt injection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SANDBOXING GUARDRAILS & INJECTION ATTACKS",
+      "audio": {
+        "voice": "audio/narration_S106.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S107",
+      "scene_id": "SC-027",
+      "chapter_id": "CH-06",
+      "start_time": 809.5,
+      "end_time": 817.0,
+      "duration_seconds": 7.5,
+      "start_frame": 24285,
+      "duration_frames": 225,
+      "shot_type": "REAL/ARCHIVE",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "REAL/ARCHIVE shot illustrating Sandboxing Guardrails & Injection Attacks: Critique OpenAI alignment claims vs prompt injection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SANDBOXING GUARDRAILS & INJECTION ATTACKS",
+      "audio": {
+        "voice": "audio/narration_S107.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S108",
+      "scene_id": "SC-027",
+      "chapter_id": "CH-06",
+      "start_time": 817.0,
+      "end_time": 824.0,
+      "duration_seconds": 7.0,
+      "start_frame": 24510,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating Sandboxing Guardrails & Injection Attacks: Critique OpenAI alignment claims vs prompt injection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SANDBOXING GUARDRAILS & INJECTION ATTACKS",
+      "audio": {
+        "voice": "audio/narration_S108.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S109",
+      "scene_id": "SC-027",
+      "chapter_id": "CH-06",
+      "start_time": 824.0,
+      "end_time": 831.5,
+      "duration_seconds": 7.5,
+      "start_frame": 24720,
+      "duration_frames": 225,
+      "shot_type": "SCREEN_RECONSTRUCTION",
+      "camera_motion": "pan_right",
+      "visual_description": "SCREEN_RECONSTRUCTION shot illustrating Sandboxing Guardrails & Injection Attacks: Critique OpenAI alignment claims vs prompt injection.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // SANDBOXING GUARDRAILS & INJECTION ATTACKS",
+      "audio": {
+        "voice": "audio/narration_S109.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S110",
+      "scene_id": "SC-028",
+      "chapter_id": "CH-07",
+      "start_time": 831.5,
+      "end_time": 839.5,
+      "duration_seconds": 8.0,
+      "start_frame": 24945,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Beyond the Generated Paragraph: Deliver conclusion on the transformed nature of output.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE GENERATED PARAGRAPH",
+      "audio": {
+        "voice": "audio/narration_S110.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S111",
+      "scene_id": "SC-028",
+      "chapter_id": "CH-07",
+      "start_time": 839.5,
+      "end_time": 845.0,
+      "duration_seconds": 5.5,
+      "start_frame": 25185,
+      "duration_frames": 165,
+      "shot_type": "ABSTRACT",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "ABSTRACT shot illustrating Beyond the Generated Paragraph: Deliver conclusion on the transformed nature of output.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // BEYOND THE GENERATED PARAGRAPH",
+      "audio": {
+        "voice": "audio/narration_S111.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S112",
+      "scene_id": "SC-029",
+      "chapter_id": "CH-07",
+      "start_time": 845.0,
+      "end_time": 853.0,
+      "duration_seconds": 8.0,
+      "start_frame": 25350,
+      "duration_frames": 240,
+      "shot_type": "BLENDER_3D",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "BLENDER_3D shot illustrating The Goal is the Output: Synthesize the browser, codebase, files, and tools.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE GOAL IS THE OUTPUT",
+      "audio": {
+        "voice": "audio/narration_S112.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S113",
+      "scene_id": "SC-029",
+      "chapter_id": "CH-07",
+      "start_time": 853.0,
+      "end_time": 860.0,
+      "duration_seconds": 7.0,
+      "start_frame": 25590,
+      "duration_frames": 210,
+      "shot_type": "AI_IMAGE",
+      "camera_motion": "slow_dolly_in",
+      "visual_description": "AI_IMAGE shot illustrating The Goal is the Output: Synthesize the browser, codebase, files, and tools.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // THE GOAL IS THE OUTPUT",
+      "audio": {
+        "voice": "audio/narration_S113.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S114",
+      "scene_id": "SC-030",
+      "chapter_id": "CH-07",
+      "start_time": 860.0,
+      "end_time": 868.0,
+      "duration_seconds": 8.0,
+      "start_frame": 25800,
+      "duration_frames": 240,
+      "shot_type": "MOTION_GRAPHICS",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "MOTION_GRAPHICS shot illustrating Cut to Black: Final thesis statement on what using a computer means.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CUT TO BLACK",
+      "audio": {
+        "voice": "audio/narration_S114.mp3",
+        "sfx": "subtle-whoosh",
+        "silence_pad": 0.5
+      }
+    },
+    {
+      "shot_id": "S115",
+      "scene_id": "SC-030",
+      "chapter_id": "CH-07",
+      "start_time": 868.0,
+      "end_time": 870.0,
+      "duration_seconds": 2.0,
+      "start_frame": 26040,
+      "duration_frames": 60,
+      "shot_type": "ABSTRACT",
+      "camera_motion": "static_with_kinetic_elements",
+      "visual_description": "ABSTRACT shot illustrating Cut to Black: Final thesis statement on what using a computer means.",
+      "source_badge": "INVESTIGATIVE TELEMETRY // CUT TO BLACK",
+      "audio": {
+        "voice": "audio/narration_S115.mp3",
+        "sfx": "terminal-ambient",
+        "silence_pad": 0.5
+      }
+    }
+  ]
+}

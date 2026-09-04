@@ -1,0 +1,22 @@
+{
+  "entity_id": "machine_01",
+  "name": "NEXUS Core Pod Alpha (Autonomous Compute Cluster)",
+  "type": "High-Density GPU Agent Inference Cluster",
+  "dimensions": {
+    "height": "48U standard server rack (2.2m)",
+    "width": "600mm",
+    "depth": "1200mm"
+  },
+  "specifications": {
+    "chassis_finish": "Anodized matte textured black aluminum",
+    "telemetry_display": "Integrated 7-inch portrait OLED diagnostic panel on rack door showing live token velocity and power consumption",
+    "led_array": "8x front-panel cyan activity LEDs per node; central amber safety status beacon at top of rack",
+    "cooling": "Liquid-to-air closed loop with braided stainless steel coolant lines visible at rear",
+    "airgap_switch": "Physical steel rotary keylock switch installed on front distribution rail"
+  },
+  "invariants": [
+    "Rack 01 must show the physical keylock switch on the upper right rail",
+    "Status beacon pulses amber during autonomous execution spikes",
+    "OLED screen displays kernel thread graph and JSON tool call indicators"
+  ]
+}

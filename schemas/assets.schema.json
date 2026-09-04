@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AssetsManifestSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["asset_id", "shot_id", "type", "file_path", "critic_score", "status"],
+    "properties": {
+      "asset_id": { "type": "string" },
+      "shot_id": { "type": "string" },
+      "type": { "type": "string" },
+      "file_path": { "type": "string" },
+      "critic_score": { "type": "number" },
+      "status": { "enum": ["APPROVED", "REVISE", "REJECTED"] },
+      "metadata": { "type": "object" }
+    }
+  }
+}

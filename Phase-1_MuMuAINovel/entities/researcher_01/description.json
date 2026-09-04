@@ -1,0 +1,14 @@
+{
+  "entity_id": "researcher_01",
+  "name": "Dr. Maya Rao",
+  "role": "Lead AI Safety & Systems Architect",
+  "age": 34,
+  "ethnicity": "South Asian",
+  "facial_features": "Sharp concentrated analytical gaze, high cheekbones, dark expressive eyes, hair parted on the left and tied back in a sleek professional low ponytail",
+  "posture": "Controlled, focused, leaning slightly toward terminal displays during diagnostic inspections",
+  "identity_rules": [
+    "Always maintain consistent bone structure and skin tone across all model prompts",
+    "Never render smiling or casual in datacenter or observation room settings",
+    "Preserve biometric ID card clipped to left chest pocket"
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "episode_id": "video-002",
+  "title": "The Hacker Who Didn't Need Your Password",
+  "fps": 30,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "total_frames": 4758,
+  "total_seconds": 158.6,
+  "tracks": {
+    "video": [
+      {
+        "clip_id": "vid_v01",
+        "type": "broll_motion",
+        "source_file": "video/v02_soc_night.mp4",
+        "start_frame": 0,
+        "duration_frames": 113,
+        "visual_archetype": "SOC_OPERATIONS"
+      },
+      {
+        "clip_id": "vid_v02",
+        "type": "motion_graphics",
+        "source_file": "components/SecurityDashboard",
+        "start_frame": 113,
+        "duration_frames": 178,
+        "visual_archetype": "SECURITY_DASHBOARD"
+      },
+      {
+        "clip_id": "vid_v03",
+        "type": "motion_graphics",
+        "source_file": "components/CodeExfiltration",
+        "start_frame": 291,
+        "duration_frames": 182,
+        "visual_archetype": "CODE_EXFILTRATION"
+      },
+      {
+        "clip_id": "vid_v04",
+        "type": "motion_graphics",
+        "source_file": "components/TerminalPrompt",
+        "start_frame": 473,
+        "duration_frames": 200,
+        "visual_archetype": "TERMINAL_PROMPT"
+      },
+      {
+        "clip_id": "vid_v05",
+        "type": "broll_motion",
+        "source_file": "video/v02_telephone.mp4",
+        "start_frame": 673,
+        "duration_frames": 108,
+        "visual_archetype": "TELEPHONE_CLOSEUP"
+      },
+      {
+        "clip_id": "vid_v06",
+        "type": "motion_graphics",
+        "source_file": "components/TitleCardMitnick",
+        "start_frame": 781,
+        "duration_frames": 156,
+        "visual_archetype": "TITLE_TYPOGRAPHY"
+      },
+      {
+        "clip_id": "vid_v07",
+        "type": "broll_motion",
+        "source_file": "video/v02_datacenter.mp4",
+        "start_frame": 937,
+        "duration_frames": 224,
+        "visual_archetype": "DATA_CENTER"
+      },
+      {
+        "clip_id": "vid_v08",
+        "type": "motion_graphics",
+        "source_file": "components/HumanFirewallDiagram",
+        "start_frame": 1161,
+        "duration_frames": 242,
+        "visual_archetype": "HUMAN_DIAGRAM"
+      },
+      {
+        "clip_id": "vid_v09",
+        "type": "broll_motion",
+        "source_file": "video/v02_telephone.mp4",
+        "start_frame": 1403,
+        "duration_frames": 192,
+        "visual_archetype": "TELEPHONE_CLOSEUP"
+      },
+      {
+        "clip_id": "vid_v10",
+        "type": "motion_graphics",
+        "source_file": "components/PretextPillars",
+        "start_frame": 1595,
+        "duration_frames": 160,
+        "visual_archetype": "PRETEXT_DIAGRAM"
+      },
+      {
+        "clip_id": "vid_v11",
+        "type": "broll_motion",
+        "source_file": "video/v02_fbi_dossier.mp4",
+        "start_frame": 1755,
+        "duration_frames": 198,
+        "visual_archetype": "DOCUMENT_EVIDENCE"
+      },
+      {
+        "clip_id": "vid_v12",
+        "type": "broll_motion",
+        "source_file": "video/v02_telephone.mp4",
+        "start_frame": 1953,
+        "duration_frames": 236,
+        "visual_archetype": "TELEPHONE_CLOSEUP"
+      },
+      {
+        "clip_id": "vid_v13",
+        "type": "broll_motion",
+        "source_file": "video/v02_soc_night.mp4",
+        "start_frame": 2189,
+        "duration_frames": 220,
+        "visual_archetype": "HUMAN_OPERATOR"
+      },
+      {
+        "clip_id": "vid_v14",
+        "type": "motion_graphics",
+        "source_file": "components/NetworkCascadeMap",
+        "start_frame": 2409,
+        "duration_frames": 236,
+        "visual_archetype": "NETWORK_CASCADE"
+      },
+      {
+        "clip_id": "vid_v15",
+        "type": "broll_motion",
+        "source_file": "video/v02_pacbell.mp4",
+        "start_frame": 2645,
+        "duration_frames": 200,
+        "visual_archetype": "TELECOM_VAULT"
+      },
+      {
+        "clip_id": "vid_v16",
+        "type": "broll_motion",
+        "source_file": "video/fern_silicon.mp4",
+        "start_frame": 2845,
+        "duration_frames": 194,
+        "visual_archetype": "SILICON_MICROCODE"
+      },
+      {
+        "clip_id": "vid_v17",
+        "type": "broll_motion",
+        "source_file": "video/v02_pacbell.mp4",
+        "start_frame": 3039,
+        "duration_frames": 174,
+        "visual_archetype": "TELECOM_VAULT"
+      },
+      {
+        "clip_id": "vid_v18",
+        "type": "broll_motion",
+        "source_file": "video/v02_fbi_dossier.mp4",
+        "start_frame": 3213,
+        "duration_frames": 187,
+        "visual_archetype": "DOCUMENT_EVIDENCE"
+      },
+      {
+        "clip_id": "vid_v19",
+        "type": "broll_motion",
+        "source_file": "video/v02_fbi_dossier.mp4",
+        "start_frame": 3400,
+        "duration_frames": 241,
+        "visual_archetype": "DOCUMENT_EVIDENCE"
+      },
+      {
+        "clip_id": "vid_v20",
+        "type": "motion_graphics",
+        "source_file": "components/DOJEvidenceCard",
+        "start_frame": 3641,
+        "duration_frames": 230,
+        "visual_archetype": "LEGAL_CASE_EVIDENCE"
+      },
+      {
+        "clip_id": "vid_v21",
+        "type": "broll_motion",
+        "source_file": "video/v02_soc_night.mp4",
+        "start_frame": 3871,
+        "duration_frames": 213,
+        "visual_archetype": "SOC_OPERATIONS"
+      },
+      {
+        "clip_id": "vid_v22",
+        "type": "motion_graphics",
+        "source_file": "components/BookQuoteArtOfDeception",
+        "start_frame": 4084,
+        "duration_frames": 216,
+        "visual_archetype": "BOOK_CITATION"
+      },
+      {
+        "clip_id": "vid_v23",
+        "type": "motion_graphics",
+        "source_file": "components/ZeroTrustDiagram",
+        "start_frame": 4300,
+        "duration_frames": 221,
+        "visual_archetype": "ZERO_TRUST_DIAGRAM"
+      },
+      {
+        "clip_id": "vid_v24",
+        "type": "motion_graphics",
+        "source_file": "components/MitnickEpilogueQuote",
+        "start_frame": 4521,
+        "duration_frames": 237,
+        "visual_archetype": "FINAL_EPILOGUE_QUOTE"
+      }
+    ],
+    "voiceover": [
+      {
+        "clip_id": "vox_v01",
+        "file": "audio/v02_sentences/v01.mp3",
+        "start_frame": 0,
+        "duration_frames": 113,
+        "text": "A corporate security team had done everything right.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v02",
+        "file": "audio/v02_sentences/v02.mp3",
+        "start_frame": 113,
+        "duration_frames": 178,
+        "text": "Hardened firewalls, complex passwords, and round-the-clock intrusion monitoring.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v03",
+        "file": "audio/v02_sentences/v03.mp3",
+        "start_frame": 291,
+        "duration_frames": 182,
+        "text": "And yet, an unauthorized intruder still walked away with proprietary source code.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v04",
+        "file": "audio/v02_sentences/v04.mp3",
+        "start_frame": 473,
+        "duration_frames": 200,
+        "text": "The strange part was that the attacker never wrote an exploit to breach their defenses.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v05",
+        "file": "audio/v02_sentences/v05.mp3",
+        "start_frame": 673,
+        "duration_frames": 108,
+        "text": "He didn't attack the machine. He simply picked up a telephone.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v06",
+        "file": "audio/v02_sentences/v06.mp3",
+        "start_frame": 781,
+        "duration_frames": 156,
+        "text": "This is the story of Kevin Mitnick and the revolution of social engineering.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v07",
+        "file": "audio/v02_sentences/v07.mp3",
+        "start_frame": 937,
+        "duration_frames": 224,
+        "text": "While security engineers spent millions fortifying software, Mitnick discovered an uncomfortable truth.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v08",
+        "file": "audio/v02_sentences/v08.mp3",
+        "start_frame": 1161,
+        "duration_frames": 242,
+        "text": "Computers execute logic deterministically, but humans are driven by trust, urgency, and helpfulness.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v09",
+        "file": "audio/v02_sentences/v09.mp3",
+        "start_frame": 1403,
+        "duration_frames": 192,
+        "text": "An attacker with the right pretext could convince an employee to hand over the keys voluntarily.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v10",
+        "file": "audio/v02_sentences/v10.mp3",
+        "start_frame": 1595,
+        "duration_frames": 160,
+        "text": "Mitnick's methodology relied on a disciplined four-step cascading loop.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v11",
+        "file": "audio/v02_sentences/v11.mp3",
+        "start_frame": 1755,
+        "duration_frames": 198,
+        "text": "First came information gathering: learning internal jargon, employee names, and department codes.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v12",
+        "file": "audio/v02_sentences/v12.mp3",
+        "start_frame": 1953,
+        "duration_frames": 236,
+        "text": "Next came pretexting: calling a target under the guise of an IT engineer facing an urgent deadline.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v13",
+        "file": "audio/v02_sentences/v13.mp3",
+        "start_frame": 2189,
+        "duration_frames": 220,
+        "text": "By projecting calm authority and manufacturing time pressure, he bypassed critical suspicion.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v14",
+        "file": "audio/v02_sentences/v14.mp3",
+        "start_frame": 2409,
+        "duration_frames": 236,
+        "text": "Once inside one department, he leveraged that initial credential to escalate access across the enterprise.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v15",
+        "file": "audio/v02_sentences/v15.mp3",
+        "start_frame": 2645,
+        "duration_frames": 200,
+        "text": "Using nothing more than a telephone and social engineering, he compromised telecommunications titans.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v16",
+        "file": "audio/v02_sentences/v16.mp3",
+        "start_frame": 2845,
+        "duration_frames": 194,
+        "text": "At Motorola, he obtained the core microcode for next-generation wireless communications.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v17",
+        "file": "audio/v02_sentences/v17.mp3",
+        "start_frame": 3039,
+        "duration_frames": 174,
+        "text": "At Digital Equipment Corporation, he acquired the crown-jewel operating system source code.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v18",
+        "file": "audio/v02_sentences/v18.mp3",
+        "start_frame": 3213,
+        "duration_frames": 187,
+        "text": "By the early nineteen-nineties, Mitnick was the most wanted cyber fugitive in American history.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v19",
+        "file": "audio/v02_sentences/v19.mp3",
+        "start_frame": 3400,
+        "duration_frames": 241,
+        "text": "On February fifteenth, nineteen ninety-five, federal agents raided his apartment in Raleigh, North Carolina.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v20",
+        "file": "audio/v02_sentences/v20.mp3",
+        "start_frame": 3641,
+        "duration_frames": 230,
+        "text": "His capture triggered intense national debate over the boundaries of digital defense and human psychology.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v21",
+        "file": "audio/v02_sentences/v21.mp3",
+        "start_frame": 3871,
+        "duration_frames": 213,
+        "text": "After serving five years in prison, Mitnick redirected his expertise toward defensive security.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v22",
+        "file": "audio/v02_sentences/v22.mp3",
+        "start_frame": 4084,
+        "duration_frames": 216,
+        "text": "His seminal work, The Art of Deception, transformed enterprise security training forever.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v23",
+        "file": "audio/v02_sentences/v23.mp3",
+        "start_frame": 4300,
+        "duration_frames": 221,
+        "text": "Today, multi-factor authentication and zero-trust architectures exist because of these hard-learned lessons.",
+        "speaker": "Narrator (Andrew)"
+      },
+      {
+        "clip_id": "vox_v24",
+        "file": "audio/v02_sentences/v24.mp3",
+        "start_frame": 4521,
+        "duration_frames": 237,
+        "text": "The greatest lesson of Kevin Mitnick remains clear: the password was never the real target\u2014trust was.",
+        "speaker": "Narrator (Andrew)"
+      }
+    ],
+    "music": [
+      {
+        "clip_id": "mus_01",
+        "file": "audio/ambient-dark.wav",
+        "start_frame": 0,
+        "duration_frames": 4758,
+        "volume": 0.045,
+        "loop": true
+      }
+    ],
+    "sfx": [
+      {
+        "clip_id": "sfx_v01",
+        "file": "audio/ambient-hum.wav",
+        "start_frame": 0,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v02",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 113,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v03",
+        "file": "audio/alert.wav",
+        "start_frame": 291,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v05",
+        "file": "audio/phone-ring.wav",
+        "start_frame": 673,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v06",
+        "file": "audio/impact.wav",
+        "start_frame": 781,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v07",
+        "file": "audio/whoosh.wav",
+        "start_frame": 937,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v09",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 1403,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v10",
+        "file": "audio/whoosh.wav",
+        "start_frame": 1595,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v11",
+        "file": "audio/keyboard.wav",
+        "start_frame": 1755,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v12",
+        "file": "audio/phone-ring.wav",
+        "start_frame": 1953,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v14",
+        "file": "audio/impact.wav",
+        "start_frame": 2409,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v15",
+        "file": "audio/whoosh.wav",
+        "start_frame": 2645,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v16",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 2845,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v17",
+        "file": "audio/impact.wav",
+        "start_frame": 3039,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v18",
+        "file": "audio/alert.wav",
+        "start_frame": 3213,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v19",
+        "file": "audio/impact.wav",
+        "start_frame": 3400,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v21",
+        "file": "audio/whoosh.wav",
+        "start_frame": 3871,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v22",
+        "file": "audio/impact.wav",
+        "start_frame": 4084,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v23",
+        "file": "audio/terminal-beep.wav",
+        "start_frame": 4300,
+        "duration_frames": 45,
+        "volume": 0.4
+      },
+      {
+        "clip_id": "sfx_v24",
+        "file": "audio/impact.wav",
+        "start_frame": 4521,
+        "duration_frames": 45,
+        "volume": 0.4
+      }
+    ],
+    "graphics": [],
+    "captions": [
+      {
+        "clip_id": "cap_v01",
+        "start_frame": 0,
+        "duration_frames": 113,
+        "text": "A corporate security team had done everything right.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v02",
+        "start_frame": 113,
+        "duration_frames": 178,
+        "text": "Hardened firewalls, complex passwords, and round-the-clock intrusion monitoring.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v03",
+        "start_frame": 291,
+        "duration_frames": 182,
+        "text": "And yet, an unauthorized intruder still walked away with proprietary source code.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v04",
+        "start_frame": 473,
+        "duration_frames": 200,
+        "text": "The strange part was that the attacker never wrote an exploit to breach their defenses.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v05",
+        "start_frame": 673,
+        "duration_frames": 108,
+        "text": "He didn't attack the machine. He simply picked up a telephone.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v06",
+        "start_frame": 781,
+        "duration_frames": 156,
+        "text": "This is the story of Kevin Mitnick and the revolution of social engineering.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v07",
+        "start_frame": 937,
+        "duration_frames": 224,
+        "text": "While security engineers spent millions fortifying software, Mitnick discovered an uncomfortable truth.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v08",
+        "start_frame": 1161,
+        "duration_frames": 242,
+        "text": "Computers execute logic deterministically, but humans are driven by trust, urgency, and helpfulness.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v09",
+        "start_frame": 1403,
+        "duration_frames": 192,
+        "text": "An attacker with the right pretext could convince an employee to hand over the keys voluntarily.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v10",
+        "start_frame": 1595,
+        "duration_frames": 160,
+        "text": "Mitnick's methodology relied on a disciplined four-step cascading loop.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v11",
+        "start_frame": 1755,
+        "duration_frames": 198,
+        "text": "First came information gathering: learning internal jargon, employee names, and department codes.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v12",
+        "start_frame": 1953,
+        "duration_frames": 236,
+        "text": "Next came pretexting: calling a target under the guise of an IT engineer facing an urgent deadline.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v13",
+        "start_frame": 2189,
+        "duration_frames": 220,
+        "text": "By projecting calm authority and manufacturing time pressure, he bypassed critical suspicion.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v14",
+        "start_frame": 2409,
+        "duration_frames": 236,
+        "text": "Once inside one department, he leveraged that initial credential to escalate access across the enterprise.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v15",
+        "start_frame": 2645,
+        "duration_frames": 200,
+        "text": "Using nothing more than a telephone and social engineering, he compromised telecommunications titans.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v16",
+        "start_frame": 2845,
+        "duration_frames": 194,
+        "text": "At Motorola, he obtained the core microcode for next-generation wireless communications.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v17",
+        "start_frame": 3039,
+        "duration_frames": 174,
+        "text": "At Digital Equipment Corporation, he acquired the crown-jewel operating system source code.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v18",
+        "start_frame": 3213,
+        "duration_frames": 187,
+        "text": "By the early nineteen-nineties, Mitnick was the most wanted cyber fugitive in American history.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v19",
+        "start_frame": 3400,
+        "duration_frames": 241,
+        "text": "On February fifteenth, nineteen ninety-five, federal agents raided his apartment in Raleigh, North Carolina.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v20",
+        "start_frame": 3641,
+        "duration_frames": 230,
+        "text": "His capture triggered intense national debate over the boundaries of digital defense and human psychology.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v21",
+        "start_frame": 3871,
+        "duration_frames": 213,
+        "text": "After serving five years in prison, Mitnick redirected his expertise toward defensive security.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v22",
+        "start_frame": 4084,
+        "duration_frames": 216,
+        "text": "His seminal work, The Art of Deception, transformed enterprise security training forever.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v23",
+        "start_frame": 4300,
+        "duration_frames": 221,
+        "text": "Today, multi-factor authentication and zero-trust architectures exist because of these hard-learned lessons.",
+        "style": "FernSubtitle"
+      },
+      {
+        "clip_id": "cap_v24",
+        "start_frame": 4521,
+        "duration_frames": 237,
+        "text": "The greatest lesson of Kevin Mitnick remains clear: the password was never the real target\u2014trust was.",
+        "style": "FernSubtitle"
+      }
+    ]
+  }
+}

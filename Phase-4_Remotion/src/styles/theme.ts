@@ -1,0 +1,16 @@
+export const theme = {
+  background: "#070707",
+  surface: "#111111",
+  surfaceBorder: "#222222",
+  surfaceGlass: "rgba(17, 17, 17, 0.85)",
+  foreground: "#F5F5F5",
+  muted: "#8D8D8D",
+  mutedDark: "#444444",
+  accent: "#D7263D",
+  danger: "#FF3B30",
+  cyan: "#00F0FF",
+  terminalGreen: "#00FF66",
+  terminalAmber: "#FFB000",
+  fontFamily: 'Inter, "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+  monoFontFamily: '"JetBrains Mono", "SF Mono", "Courier New", Courier, monospace',
+};

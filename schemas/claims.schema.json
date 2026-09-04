@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ClaimsDatabaseSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["claim_id", "claim", "source", "source_type", "confidence", "quote", "visual_evidence"],
+    "properties": {
+      "claim_id": { "type": "string" },
+      "claim": { "type": "string" },
+      "source": { "type": "string" },
+      "source_type": { "type": "string" },
+      "confidence": { "enum": ["VERIFIED", "LIKELY", "DISPUTED", "UNKNOWN", "FALSE"] },
+      "quote": { "type": "string" },
+      "visual_evidence": { "type": "string" },
+      "counter_evidence": { "type": ["string", "null"] }
+    }
+  }
+}

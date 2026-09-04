@@ -1,0 +1,132 @@
+{
+  "project_id": "video-003",
+  "topic": "GPT-6 Astra: The AI That Can Use a Computer",
+  "status_convention": "VERIFIED | VERIFY | DISPUTED | UNKNOWN (Strict rule: community post claims remain VERIFY until official model card verification)",
+  "claims": [
+    {
+      "claim_id": "ASTRA-001",
+      "claim": "GPT-6 Astra is a dedicated agentic foundation model optimized for direct computer use, browsing, and OS-level execution.",
+      "importance": "critical",
+      "sources": [
+        "SRC-001",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Described in Sept 3, 2026 Community announcement; awaiting primary model card verification before publication."
+    },
+    {
+      "claim_id": "ASTRA-002",
+      "claim": "GPT-6 Astra supports an active context window of 1,050,000 tokens with a maximum generation output of 128,000 tokens.",
+      "importance": "critical",
+      "sources": [
+        "SRC-003",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Reported in community leak; requires verification against platform.openai.com/docs/models/gpt-6-astra."
+    },
+    {
+      "claim_id": "ASTRA-003",
+      "claim": "Astra API pricing is structured at $10.00 per 1M input tokens and $50.00 per 1M output tokens.",
+      "importance": "high",
+      "sources": [
+        "SRC-003",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Pending confirmation against official OpenAI pricing tier matrix."
+    },
+    {
+      "claim_id": "ASTRA-004",
+      "claim": "Astra sets state-of-the-art benchmarks on AutomationBench (88.4%) and ScreenSpot Pro (81.2%) for high-resolution desktop GUI control.",
+      "importance": "critical",
+      "sources": [
+        "SRC-004",
+        "SRC-008",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Reported in announcement; primary benchmark evaluation methodology requires validation."
+    },
+    {
+      "claim_id": "ASTRA-005",
+      "claim": "On TerminalBench, Astra executes multi-stage shell navigation and sysadmin workflows with 79.6% task completion.",
+      "importance": "high",
+      "sources": [
+        "SRC-004",
+        "SRC-009",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Significant leap over prior terminal agents; pending reproducible harness release."
+    },
+    {
+      "claim_id": "ASTRA-006",
+      "claim": "Astra scores 34.2% on FrontierMath, outperforming all previous frontier models on expert-level original mathematics.",
+      "importance": "high",
+      "sources": [
+        "SRC-004",
+        "SRC-005",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Prior public frontier models scored below 3%; verify whether evaluation included tool-use or python interpreter."
+    },
+    {
+      "claim_id": "ASTRA-007",
+      "claim": "Astra scores 84.5% on ARC-AGI test-public evaluation, demonstrating strong spatial induction.",
+      "importance": "high",
+      "sources": [
+        "SRC-004",
+        "SRC-006",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Verify whether test-time compute scaling or test-private evaluation was utilized."
+    },
+    {
+      "claim_id": "ASTRA-008",
+      "claim": "Traditional LLM chatbots operate on prompt-response loops, whereas computer-use agents execute iterative goal-plan-act-observe-adapt feedback cycles.",
+      "importance": "critical",
+      "sources": [
+        "SRC-011",
+        "SRC-012"
+      ],
+      "confidence": "verified",
+      "status": "VERIFIED",
+      "notes": "Fundamental architectural reality of agentic systems."
+    },
+    {
+      "claim_id": "ASTRA-009",
+      "claim": "In autonomous multi-step software engineering, error propagation in unverified loops remains the primary mode of agent failure in production.",
+      "importance": "critical",
+      "sources": [
+        "SRC-011",
+        "SRC-012"
+      ],
+      "confidence": "verified",
+      "status": "VERIFIED",
+      "notes": "Documented in academic literature and industry deployment post-mortems."
+    },
+    {
+      "claim_id": "ASTRA-010",
+      "claim": "OpenAI positions Astra as incorporating substantial alignment and user-intent guardrails to prevent unintended OS-level destructive actions.",
+      "importance": "high",
+      "sources": [
+        "SRC-001",
+        "SRC-002",
+        "SRC-010"
+      ],
+      "confidence": "medium",
+      "status": "VERIFY",
+      "notes": "Claimed by OpenAI; real-world boundary testing requires independent verification."
+    }
+  ]
+}

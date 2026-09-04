@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "id": "SRC-001",
+      "title": "The Art of Deception: Controlling the Human Element of Security",
+      "author": "Kevin D. Mitnick & William L. Simon",
+      "year": 2002,
+      "type": "Primary Monograph",
+      "publisher": "John Wiley & Sons",
+      "topics": [
+        "Social Engineering",
+        "Pretexting",
+        "Reverse Social Engineering",
+        "Psychological Exploits"
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+      "author": "Kevin Mitnick",
+      "year": 2011,
+      "type": "Autobiography / Primary Account",
+      "publisher": "Little, Brown and Company",
+      "topics": [
+        "Pacific Bell",
+        "Motorola Source Code",
+        "FBI Investigation",
+        "Raleigh Arrest"
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "title": "United States v. Kevin David Mitnick (Criminal Case No. CR 96-389-MRP)",
+      "author": "United States District Court, Central District of California",
+      "year": 1999,
+      "type": "Legal / Court Records",
+      "topics": [
+        "Wire Fraud",
+        "Unauthorized Access",
+        "DEC VAX Incident",
+        "Plea Agreement"
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "title": "Takedown: The Pursuit and Capture of Kevin Mitnick",
+      "author": "Tsutomu Shimomura & John Markoff",
+      "year": 1996,
+      "type": "Investigative Journalism / Primary Witness",
+      "publisher": "Hyperion",
+      "topics": [
+        "IP Spoofing",
+        "Cellular Triangulation",
+        "FBI Raleigh Raid"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "id": "SRC-001",
+      "tier": 1,
+      "title": "United States v. Justin G. Liverman and Andrew Otto Boggs",
+      "citation": "Criminal Case No. 1:16-cr-00227, U.S. District Court for the Eastern District of Virginia",
+      "year": 2016,
+      "type": "Federal Criminal Indictment & Plea Agreements",
+      "topics": [
+        "Crackas With Attitude (CWA)",
+        "Computer Intrusion Conspiracy",
+        "Doxxing",
+        "Harassment"
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "tier": 1,
+      "title": "R v Kane Gamble (Sentencing Remarks of Mr Justice Haddon-Cave)",
+      "citation": "Central Criminal Court (Old Bailey), London",
+      "year": 2018,
+      "type": "Judicial Sentencing Records",
+      "topics": [
+        "Kane Gamble ('Cracka')",
+        "CIA Director John Brennan Breach",
+        "FBI Deputy Director Giuliano Breach",
+        "Sentencing (2 years youth custody)"
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "tier": 2,
+      "title": "How a Teen Hacker Called Verizon and Social-Engineered the CIA Director",
+      "author": "Kim Zetter / Wired Magazine",
+      "year": 2015,
+      "type": "Investigative Journalism",
+      "topics": [
+        "Verizon Customer Support Pretexting",
+        "AOL Email Account Hijacking",
+        "SF-86 Security Clearance Questionnaire"
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "tier": 2,
+      "title": "Hacker Impersonates FBI Director and Breaches Federal Portals",
+      "author": "Lorenzo Franceschi-Bicchierai / Motherboard (Vice)",
+      "year": 2015,
+      "type": "Direct Investigative Reporting",
+      "topics": [
+        "JABS (Joint Automated Booking System)",
+        "Enterprise Law Enforcement Portals",
+        "LEEP"
+      ]
+    }
+  ]
+}

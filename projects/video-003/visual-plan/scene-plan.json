@@ -1,0 +1,483 @@
+{
+  "project_id": "video-003",
+  "title": "GPT-6 Astra: The AI That Can Use a Computer",
+  "total_scenes": 30,
+  "total_duration_seconds": 870.0,
+  "scenes": [
+    {
+      "scene_id": "SC-001",
+      "chapter_id": "CH-00",
+      "title": "The Silent Machine",
+      "purpose": "Establish workstation agency vs passive chatbots",
+      "narration_segment": "Narration covering The Silent Machine",
+      "duration_seconds": 21.0,
+      "start": 0.0,
+      "end": 21.0,
+      "shots": [
+        "S001",
+        "S002",
+        "S003"
+      ]
+    },
+    {
+      "scene_id": "SC-002",
+      "chapter_id": "CH-00",
+      "title": "The Core Question",
+      "purpose": "Introduce central question: operating inside a computer",
+      "narration_segment": "Narration covering The Core Question",
+      "duration_seconds": 21.0,
+      "start": 21.0,
+      "end": 42.0,
+      "shots": [
+        "S004",
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "scene_id": "SC-003",
+      "chapter_id": "CH-00",
+      "title": "The Sept 3 Announcement",
+      "purpose": "Anchor announcement date and primary claims",
+      "narration_segment": "Narration covering The Sept 3 Announcement",
+      "duration_seconds": 25.5,
+      "start": 42.0,
+      "end": 67.5,
+      "shots": [
+        "S007",
+        "S008",
+        "S009"
+      ]
+    },
+    {
+      "scene_id": "SC-004",
+      "chapter_id": "CH-01",
+      "title": "Beyond the Prompt Box",
+      "purpose": "Contrast chat history with direct OS access",
+      "narration_segment": "Narration covering Beyond the Prompt Box",
+      "duration_seconds": 38.5,
+      "start": 67.5,
+      "end": 106.0,
+      "shots": [
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014"
+      ]
+    },
+    {
+      "scene_id": "SC-005",
+      "chapter_id": "CH-01",
+      "title": "Target Knowledge Domains",
+      "purpose": "Detail SWE, cyber, science, and operations",
+      "narration_segment": "Narration covering Target Knowledge Domains",
+      "duration_seconds": 36.0,
+      "start": 106.0,
+      "end": 142.0,
+      "shots": [
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019"
+      ]
+    },
+    {
+      "scene_id": "SC-006",
+      "chapter_id": "CH-01",
+      "title": "Perception & Reasoning-Time Compute",
+      "purpose": "Explain 30fps visual perception and syscall dispatch",
+      "narration_segment": "Narration covering Perception & Reasoning-Time Compute",
+      "duration_seconds": 38.0,
+      "start": 142.0,
+      "end": 180.0,
+      "shots": [
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024"
+      ]
+    },
+    {
+      "scene_id": "SC-007",
+      "chapter_id": "CH-02",
+      "title": "The Closed Loop Paradigm",
+      "purpose": "Compare chatbot open loop with agent closed loop",
+      "narration_segment": "Narration covering The Closed Loop Paradigm",
+      "duration_seconds": 30.5,
+      "start": 180.0,
+      "end": 210.5,
+      "shots": [
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "scene_id": "SC-008",
+      "chapter_id": "CH-02",
+      "title": "Illustrative Code Patch Demo",
+      "purpose": "Trace pytest failure to AST inspection",
+      "narration_segment": "Narration covering Illustrative Code Patch Demo",
+      "duration_seconds": 38.5,
+      "start": 210.5,
+      "end": 249.0,
+      "shots": [
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033"
+      ]
+    },
+    {
+      "scene_id": "SC-009",
+      "chapter_id": "CH-02",
+      "title": "Autonomous Iteration & Adaptation",
+      "purpose": "Demonstrate automated replanning upon failure",
+      "narration_segment": "Narration covering Autonomous Iteration & Adaptation",
+      "duration_seconds": 32.0,
+      "start": 249.0,
+      "end": 281.0,
+      "shots": [
+        "S034",
+        "S035",
+        "S036",
+        "S037"
+      ]
+    },
+    {
+      "scene_id": "SC-010",
+      "chapter_id": "CH-02",
+      "title": "The New Definition of Software Labor",
+      "purpose": "Analyze macro transformation of engineering roles",
+      "narration_segment": "Narration covering The New Definition of Software Labor",
+      "duration_seconds": 31.5,
+      "start": 281.0,
+      "end": 312.5,
+      "shots": [
+        "S038",
+        "S039",
+        "S040",
+        "S041"
+      ]
+    },
+    {
+      "scene_id": "SC-011",
+      "chapter_id": "CH-03",
+      "title": "Evaluating Agent Agency",
+      "purpose": "Frame difficulty of evaluating desktop interactions",
+      "narration_segment": "Narration covering Evaluating Agent Agency",
+      "duration_seconds": 30.0,
+      "start": 312.5,
+      "end": 342.5,
+      "shots": [
+        "S042",
+        "S043",
+        "S044",
+        "S045"
+      ]
+    },
+    {
+      "scene_id": "SC-012",
+      "chapter_id": "CH-03",
+      "title": "AutomationBench & ScreenSpot Pro",
+      "purpose": "Detail GUI navigation and coordinate precision scores",
+      "narration_segment": "Narration covering AutomationBench & ScreenSpot Pro",
+      "duration_seconds": 31.0,
+      "start": 342.5,
+      "end": 373.5,
+      "shots": [
+        "S046",
+        "S047",
+        "S048",
+        "S049"
+      ]
+    },
+    {
+      "scene_id": "SC-013",
+      "chapter_id": "CH-03",
+      "title": "TerminalBench & Shell Mastery",
+      "purpose": "Audit Linux command line and package build metrics",
+      "narration_segment": "Narration covering TerminalBench & Shell Mastery",
+      "duration_seconds": 31.5,
+      "start": 373.5,
+      "end": 405.0,
+      "shots": [
+        "S050",
+        "S051",
+        "S052",
+        "S053"
+      ]
+    },
+    {
+      "scene_id": "SC-014",
+      "chapter_id": "CH-03",
+      "title": "FrontierMath & Spatial ARC-AGI",
+      "purpose": "Examine original mathematics and visual induction",
+      "narration_segment": "Narration covering FrontierMath & Spatial ARC-AGI",
+      "duration_seconds": 30.0,
+      "start": 405.0,
+      "end": 435.0,
+      "shots": [
+        "S054",
+        "S055",
+        "S056",
+        "S057"
+      ]
+    },
+    {
+      "scene_id": "SC-015",
+      "chapter_id": "CH-04",
+      "title": "The Need for Infinite Working Memory",
+      "purpose": "Explain why agent workflows require massive contexts",
+      "narration_segment": "Narration covering The Need for Infinite Working Memory",
+      "duration_seconds": 31.5,
+      "start": 435.0,
+      "end": 466.5,
+      "shots": [
+        "S058",
+        "S059",
+        "S060",
+        "S061"
+      ]
+    },
+    {
+      "scene_id": "SC-016",
+      "chapter_id": "CH-04",
+      "title": "The 1.05M Working Memory Scale",
+      "purpose": "Contextualize 1M tokens in repos, books, and logs",
+      "narration_segment": "Narration covering The 1.05M Working Memory Scale",
+      "duration_seconds": 30.0,
+      "start": 466.5,
+      "end": 496.5,
+      "shots": [
+        "S062",
+        "S063",
+        "S064",
+        "S065"
+      ]
+    },
+    {
+      "scene_id": "SC-017",
+      "chapter_id": "CH-04",
+      "title": "128k Generation & Enterprise Pricing",
+      "purpose": "Analyze output window and $10/$50 token economics",
+      "narration_segment": "Narration covering 128k Generation & Enterprise Pricing",
+      "duration_seconds": 30.0,
+      "start": 496.5,
+      "end": 526.5,
+      "shots": [
+        "S066",
+        "S067",
+        "S068",
+        "S069"
+      ]
+    },
+    {
+      "scene_id": "SC-018",
+      "chapter_id": "CH-05",
+      "title": "Production Deployment Reconstructions",
+      "purpose": "Introduce real-world enterprise domain applications",
+      "narration_segment": "Narration covering Production Deployment Reconstructions",
+      "duration_seconds": 30.5,
+      "start": 526.5,
+      "end": 557.0,
+      "shots": [
+        "S070",
+        "S071",
+        "S072",
+        "S073"
+      ]
+    },
+    {
+      "scene_id": "SC-019",
+      "chapter_id": "CH-05",
+      "title": "Autonomous Software Engineering",
+      "purpose": "Reconstruct full issue-to-PR automated SWE pipeline",
+      "narration_segment": "Narration covering Autonomous Software Engineering",
+      "duration_seconds": 30.0,
+      "start": 557.0,
+      "end": 587.0,
+      "shots": [
+        "S074",
+        "S075",
+        "S076",
+        "S077"
+      ]
+    },
+    {
+      "scene_id": "SC-020",
+      "chapter_id": "CH-05",
+      "title": "Defensive Cybersecurity Triage",
+      "purpose": "Demonstrate SIEM correlation and forensic response",
+      "narration_segment": "Narration covering Defensive Cybersecurity Triage",
+      "duration_seconds": 32.0,
+      "start": 587.0,
+      "end": 619.0,
+      "shots": [
+        "S078",
+        "S079",
+        "S080",
+        "S081"
+      ]
+    },
+    {
+      "scene_id": "SC-021",
+      "chapter_id": "CH-05",
+      "title": "Scientific Discovery Acceleration",
+      "purpose": "Trace literature ingestion to simulation protocols",
+      "narration_segment": "Narration covering Scientific Discovery Acceleration",
+      "duration_seconds": 30.0,
+      "start": 619.0,
+      "end": 649.0,
+      "shots": [
+        "S082",
+        "S083",
+        "S084",
+        "S085"
+      ]
+    },
+    {
+      "scene_id": "SC-022",
+      "chapter_id": "CH-05",
+      "title": "Enterprise Operations & Glue Work",
+      "purpose": "Automating cross-tool data reconciliation",
+      "narration_segment": "Narration covering Enterprise Operations & Glue Work",
+      "duration_seconds": 31.0,
+      "start": 649.0,
+      "end": 680.0,
+      "shots": [
+        "S086",
+        "S087",
+        "S088",
+        "S089"
+      ]
+    },
+    {
+      "scene_id": "SC-023",
+      "chapter_id": "CH-06",
+      "title": "The Reliability Crisis",
+      "purpose": "Differentiate curated benchmarks from production chaos",
+      "narration_segment": "Narration covering The Reliability Crisis",
+      "duration_seconds": 30.5,
+      "start": 680.0,
+      "end": 710.5,
+      "shots": [
+        "S090",
+        "S091",
+        "S092",
+        "S093"
+      ]
+    },
+    {
+      "scene_id": "SC-024",
+      "chapter_id": "CH-06",
+      "title": "Compounding Error Cascades",
+      "purpose": "Analyze silent failures and unhandled exit codes",
+      "narration_segment": "Narration covering Compounding Error Cascades",
+      "duration_seconds": 31.5,
+      "start": 710.5,
+      "end": 742.0,
+      "shots": [
+        "S094",
+        "S095",
+        "S096",
+        "S097"
+      ]
+    },
+    {
+      "scene_id": "SC-025",
+      "chapter_id": "CH-06",
+      "title": "Catastrophic Permission Risks",
+      "purpose": "Audit elevated privilege risks and partition deletion",
+      "narration_segment": "Narration covering Catastrophic Permission Risks",
+      "duration_seconds": 30.0,
+      "start": 742.0,
+      "end": 772.0,
+      "shots": [
+        "S098",
+        "S099",
+        "S100",
+        "S101"
+      ]
+    },
+    {
+      "scene_id": "SC-026",
+      "chapter_id": "CH-06",
+      "title": "The Human Oversight Dilemma",
+      "purpose": "Calculate productivity overhead of line-by-line review",
+      "narration_segment": "Narration covering The Human Oversight Dilemma",
+      "duration_seconds": 29.5,
+      "start": 772.0,
+      "end": 801.5,
+      "shots": [
+        "S102",
+        "S103",
+        "S104",
+        "S105"
+      ]
+    },
+    {
+      "scene_id": "SC-027",
+      "chapter_id": "CH-06",
+      "title": "Sandboxing Guardrails & Injection Attacks",
+      "purpose": "Critique OpenAI alignment claims vs prompt injection",
+      "narration_segment": "Narration covering Sandboxing Guardrails & Injection Attacks",
+      "duration_seconds": 30.0,
+      "start": 801.5,
+      "end": 831.5,
+      "shots": [
+        "S106",
+        "S107",
+        "S108",
+        "S109"
+      ]
+    },
+    {
+      "scene_id": "SC-028",
+      "chapter_id": "CH-07",
+      "title": "Beyond the Generated Paragraph",
+      "purpose": "Deliver conclusion on the transformed nature of output",
+      "narration_segment": "Narration covering Beyond the Generated Paragraph",
+      "duration_seconds": 13.5,
+      "start": 831.5,
+      "end": 845.0,
+      "shots": [
+        "S110",
+        "S111"
+      ]
+    },
+    {
+      "scene_id": "SC-029",
+      "chapter_id": "CH-07",
+      "title": "The Goal is the Output",
+      "purpose": "Synthesize the browser, codebase, files, and tools",
+      "narration_segment": "Narration covering The Goal is the Output",
+      "duration_seconds": 15.0,
+      "start": 845.0,
+      "end": 860.0,
+      "shots": [
+        "S112",
+        "S113"
+      ]
+    },
+    {
+      "scene_id": "SC-030",
+      "chapter_id": "CH-07",
+      "title": "Cut to Black",
+      "purpose": "Final thesis statement on what using a computer means",
+      "narration_segment": "Narration covering Cut to Black",
+      "duration_seconds": 10.0,
+      "start": 860.0,
+      "end": 870.0,
+      "shots": [
+        "S114",
+        "S115"
+      ]
+    }
+  ]
+}

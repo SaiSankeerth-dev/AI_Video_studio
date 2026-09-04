@@ -1,0 +1,71 @@
+[
+  {
+    "concept_id": "CONCEPT_A",
+    "title_hook": "The Autonomous Cursor",
+    "dominant_subject": "Giant Glowing Cyan Cursor",
+    "visual_conflict": "Machine acting with no human present",
+    "curiosity_gap": "How is the computer navigating software by itself?",
+    "overlay_text": "IT CAN USE YOUR PC",
+    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_a.png",
+    "critic_scores": {
+      "immediate_readability": 8.1,
+      "curiosity": 9.5,
+      "emotion": 9.2,
+      "visual_hierarchy": 9.4,
+      "subject_clarity": 9.6,
+      "mobile_readability": 9.5,
+      "originality": 9.1,
+      "topic_relevance": 9.7,
+      "brand_consistency": 9.3,
+      "click_potential": 9.6
+    },
+    "total_score": 93.0,
+    "status": "WINNER_FINALIST"
+  },
+  {
+    "concept_id": "CONCEPT_B",
+    "title_hook": "Human vs AI Control",
+    "dominant_subject": "Divided Workspace: Hand vs Autonomous Cursor",
+    "visual_conflict": "Relinquishing physical control of the operating system",
+    "curiosity_gap": "Who actually operates the infrastructure now?",
+    "overlay_text": "WHO'S IN CONTROL?",
+    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_b.png",
+    "critic_scores": {
+      "immediate_readability": 9.6,
+      "curiosity": 9.5,
+      "emotion": 9.2,
+      "visual_hierarchy": 9.4,
+      "subject_clarity": 9.6,
+      "mobile_readability": 9.5,
+      "originality": 9.1,
+      "topic_relevance": 9.7,
+      "brand_consistency": 9.3,
+      "click_potential": 9.6
+    },
+    "total_score": 94.5,
+    "status": "WINNER_FINALIST"
+  },
+  {
+    "concept_id": "CONCEPT_C",
+    "title_hook": "The Silent Worker",
+    "dominant_subject": "Active desktop terminal & browser storm",
+    "visual_conflict": "Autonomous labor displacing manual execution",
+    "curiosity_gap": "What happens to knowledge work?",
+    "overlay_text": "IT DOES THE WORK",
+    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_c.png",
+    "critic_scores": {
+      "immediate_readability": 9.6,
+      "curiosity": 9.5,
+      "emotion": 9.2,
+      "visual_hierarchy": 9.4,
+      "subject_clarity": 9.6,
+      "mobile_readability": 9.5,
+      "originality": 9.1,
+      "topic_relevance": 9.7,
+      "brand_consistency": 9.3,
+      "click_potential": 9.6
+    },
+    "total_score": 94.5,
+    "status": "WINNER_FINALIST"
+  }
+]

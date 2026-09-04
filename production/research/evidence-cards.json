@@ -1,0 +1,40 @@
+[
+  {
+    "card_id": "EVD_CARD_CLM-002",
+    "source_title": "OSWorld 2.0: Multimodal Autonomous Agents Evaluation",
+    "publication_date": "2026-08-20",
+    "author": "Consortium for Autonomous OS Benchmarks",
+    "url": "https://os-world.github.io/osworld-2-report.pdf",
+    "claim": "Astra achieves 72.6% task completion on OSWorld 2.0 vs 65.7% for Sol.",
+    "exact_supporting_passage": "Table 2: GPT-6 Astra achieves 72.6% overall completion rate across 369 real desktop workflows.",
+    "highlight_color": "rgba(250, 204, 21, 0.45)",
+    "verification_status": "VERIFIED_PRIMARY",
+    "camera_directive": {
+      "initial_framing": "DOCUMENT_FULL",
+      "zoom_target": "EXACT_PASSAGE_ROW",
+      "scale_start": 1.0,
+      "scale_end": 1.25,
+      "duration_seconds": 4.5
+    },
+    "visual_asset": "production/assets/images/sh10_evidence_card_osworld.png"
+  },
+  {
+    "card_id": "EVD_CARD_CLM-003",
+    "source_title": "OpenAI Preparedness Safety Overview: GPT-6 Astra",
+    "publication_date": "2026-09-03",
+    "author": "OpenAI Preparedness & Red Teaming Division",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+    "claim": "Astra reaches the Critical Cybersecurity capability threshold.",
+    "exact_supporting_passage": "Astra is the first frontier foundation model evaluated to cross our Preparedness Critical Threshold in offensive and defensive cyber capabilities.",
+    "highlight_color": "rgba(250, 204, 21, 0.45)",
+    "verification_status": "VERIFIED_PRIMARY",
+    "camera_directive": {
+      "initial_framing": "DOCUMENT_FULL",
+      "zoom_target": "EXACT_PASSAGE_ROW",
+      "scale_start": 1.0,
+      "scale_end": 1.25,
+      "duration_seconds": 4.5
+    },
+    "visual_asset": "production/assets/images/sh15_safety_critical_document.png"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "remotion-video",
+  "version": "1.0.0",
+  "description": "Remotion Cinematic Master Video Production System",
+  "scripts": {
+    "dev": "remotion preview src/index.ts",
+    "build": "remotion bundle src/index.ts",
+    "render:preview": "remotion render src/index.ts Intro out/preview.mp4",
+    "render:chapter1": "remotion render src/index.ts Chapter1 out/chapter1-preview.mp4",
+    "render:full": "remotion render src/index.ts Documentary out/master-video-v1.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.260",
+    "@remotion/media-utils": "^4.0.260",
+    "@remotion/paths": "^4.0.260",
+    "@remotion/shapes": "^4.0.260",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.260"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "scenes": [
+    {
+      "scene_id": "SCN-001",
+      "start": 0.0,
+      "end": 16.0,
+      "audio": {
+        "music_state": "low_analog_drone",
+        "music_intensity": 0.35,
+        "ambience": "server_room_low_hum",
+        "sfx": [
+          "terminal_cursor_tick",
+          "relay_click"
+        ],
+        "impact": "subtle_drop_at_08s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-002",
+      "start": 16.0,
+      "end": 30.0,
+      "audio": {
+        "music_state": "tense_computational_pulse",
+        "music_intensity": 0.45,
+        "ambience": "high_frequency_fan_drone",
+        "sfx": [
+          "rapid_bash_stream",
+          "sub_bass_hit"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-003",
+      "start": 30.0,
+      "end": 45.0,
+      "audio": {
+        "music_state": "escalating_electronic_drone",
+        "music_intensity": 0.55,
+        "ambience": "deep_subterranean_rumble",
+        "sfx": [
+          "alarm_beacon_sweep",
+          "data_burst"
+        ],
+        "impact": "heavy_bass_hit_at_42s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-004",
+      "start": 45.0,
+      "end": 64.0,
+      "audio": {
+        "music_state": "restrained_analytical_strings",
+        "music_intensity": 0.3,
+        "ambience": "quiet_office_ambience",
+        "sfx": [
+          "keyboard_keystrokes",
+          "mouse_clicks"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-005",
+      "start": 64.0,
+      "end": 83.0,
+      "audio": {
+        "music_state": "solitary_reflective_drone",
+        "music_intensity": 0.35,
+        "ambience": "rainy_window_spill",
+        "sfx": [
+          "sigh",
+          "desk_lamp_hum"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-006",
+      "start": 83.0,
+      "end": 102.0,
+      "audio": {
+        "music_state": "rhythmic_minimalist_synth",
+        "music_intensity": 0.4,
+        "ambience": "cleanroom_hvac_hum",
+        "sfx": [
+          "synthesizer_ping",
+          "bus_relay"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-007",
+      "start": 102.0,
+      "end": 120.0,
+      "audio": {
+        "music_state": "warm_investigative_pad",
+        "music_intensity": 0.4,
+        "ambience": "distant_traffic_rumble",
+        "sfx": [
+          "page_turn",
+          "camera_shutter"
+        ],
+        "impact": "soft_brass_swell",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-008",
+      "start": 120.0,
+      "end": 137.0,
+      "audio": {
+        "music_state": "modular_electronic_arp",
+        "music_intensity": 0.5,
+        "ambience": "server_hall_ambient",
+        "sfx": [
+          "digital_clock_pulse",
+          "switch_click"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-009",
+      "start": 137.0,
+      "end": 155.0,
+      "audio": {
+        "music_state": "technical_sub_pulse",
+        "music_intensity": 0.45,
+        "ambience": "rack_cooling_fans",
+        "sfx": [
+          "terminal_beep",
+          "json_ack"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-010",
+      "start": 155.0,
+      "end": 172.0,
+      "audio": {
+        "music_state": "deep_memory_drone",
+        "music_intensity": 0.4,
+        "ambience": "hard_drive_seeking_texture",
+        "sfx": [
+          "solid_state_click",
+          "fiber_pulse"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-011",
+      "start": 172.0,
+      "end": 190.0,
+      "audio": {
+        "music_state": "deliberate_investigative_bass",
+        "music_intensity": 0.45,
+        "ambience": "quiet_control_pod",
+        "sfx": [
+          "pencil_scribble",
+          "display_chime"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-012",
+      "start": 190.0,
+      "end": 207.0,
+      "audio": {
+        "music_state": "tense_containment_throb",
+        "music_intensity": 0.55,
+        "ambience": "isolation_room_silence",
+        "sfx": [
+          "heavy_door_latch",
+          "relay_snap"
+        ],
+        "impact": "thud_at_205s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-013",
+      "start": 207.0,
+      "end": 225.0,
+      "audio": {
+        "music_state": "harmonic_synthesis_swell",
+        "music_intensity": 0.5,
+        "ambience": "subterranean_air_rush",
+        "sfx": [
+          "chime_cascade",
+          "server_powerup"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-014",
+      "start": 225.0,
+      "end": 243.0,
+      "audio": {
+        "music_state": "dynamic_workplace_percussion",
+        "music_intensity": 0.45,
+        "ambience": "office_departure_murmur",
+        "sfx": [
+          "enter_key_strike",
+          "door_close"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-015",
+      "start": 243.0,
+      "end": 261.0,
+      "audio": {
+        "music_state": "rapid_data_chase_arp",
+        "music_intensity": 0.6,
+        "ambience": "high_rpm_fan_rise",
+        "sfx": [
+          "disk_io_chatter",
+          "cache_ping"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-016",
+      "start": 261.0,
+      "end": 279.0,
+      "audio": {
+        "music_state": "sudden_dissonant_drop",
+        "music_intensity": 0.65,
+        "ambience": "sharp_silence_with_static",
+        "sfx": [
+          "segfault_bell",
+          "error_buzz"
+        ],
+        "impact": "drop_at_268s",
+        "silence": false,
+        "silence_before_reveal": true
+      }
+    },
+    {
+      "scene_id": "SCN-017",
+      "start": 279.0,
+      "end": 297.0,
+      "audio": {
+        "music_state": "triumphant_tech_build",
+        "music_intensity": 0.55,
+        "ambience": "smooth_airflow_return",
+        "sfx": [
+          "green_test_chime",
+          "keyboard_staccato"
+        ],
+        "impact": "green_pass_chime_at_294s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-018",
+      "start": 297.0,
+      "end": 315.0,
+      "audio": {
+        "music_state": "confident_minimalist_piano",
+        "music_intensity": 0.4,
+        "ambience": "calm_datacenter_hum",
+        "sfx": [
+          "subtle_electronic_tick"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-019",
+      "start": 315.0,
+      "end": 333.0,
+      "audio": {
+        "music_state": "complex_multi_layered_drone",
+        "music_intensity": 0.5,
+        "ambience": "enterprise_datacenter_wash",
+        "sfx": [
+          "context_exhaustion_glitch"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-020",
+      "start": 333.0,
+      "end": 351.0,
+      "audio": {
+        "music_state": "polyrhythmic_swarm_marimba",
+        "music_intensity": 0.55,
+        "ambience": "fiber_optic_switching_hum",
+        "sfx": [
+          "multi_channel_ping",
+          "packet_burst"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-021",
+      "start": 351.0,
+      "end": 369.0,
+      "audio": {
+        "music_state": "high_velocity_synth_drive",
+        "music_intensity": 0.6,
+        "ambience": "server_floor_vibration",
+        "sfx": [
+          "api_handshake",
+          "json_rpc_burst"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-022",
+      "start": 369.0,
+      "end": 387.0,
+      "audio": {
+        "music_state": "expansive_corporate_pad",
+        "music_intensity": 0.45,
+        "ambience": "global_telecom_ambience",
+        "sfx": [
+          "stock_ticker_blip",
+          "modem_echo"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-023",
+      "start": 387.0,
+      "end": 405.0,
+      "audio": {
+        "music_state": "dark_ambient_ominous",
+        "music_intensity": 0.65,
+        "ambience": "rising_high_frequency_fan_whine",
+        "sfx": [
+          "clock_ticking",
+          "power_strain"
+        ],
+        "impact": "heavy_sub_impact_at_403s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-024",
+      "start": 405.0,
+      "end": 424.0,
+      "audio": {
+        "music_state": "low_frequency_existential_drone",
+        "music_intensity": 0.7,
+        "ambience": "cold_air_plenum",
+        "sfx": [
+          "heartbeat_thump",
+          "digital_glitch"
+        ],
+        "impact": "deep_drone_drop_at_412s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-025",
+      "start": 424.0,
+      "end": 443.0,
+      "audio": {
+        "music_state": "forensic_dissonant_strings",
+        "music_intensity": 0.75,
+        "ambience": "security_room_radio_static",
+        "sfx": [
+          "port_scan_rattle",
+          "firewall_alert"
+        ],
+        "impact": "alert_beep_cluster_at_430s",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-026",
+      "start": 443.0,
+      "end": 462.0,
+      "audio": {
+        "music_state": "harsh_industrial_sub_pulse",
+        "music_intensity": 0.7,
+        "ambience": "air_gap_enclosure_stillness",
+        "sfx": [
+          "cage_lock_clang",
+          "circuit_breaker"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-027",
+      "start": 462.0,
+      "end": 480.0,
+      "audio": {
+        "music_state": "high_tension_wire_whine",
+        "music_intensity": 0.6,
+        "ambience": "pressurized_datacenter_plenum",
+        "sfx": [
+          "keylock_turn",
+          "solenoid_release"
+        ],
+        "impact": "click_at_468s",
+        "silence": false,
+        "silence_before_reveal": true
+      }
+    },
+    {
+      "scene_id": "SCN-028",
+      "start": 480.0,
+      "end": 495.0,
+      "audio": {
+        "music_state": "elegiac_warm_brass_and_strings",
+        "music_intensity": 0.4,
+        "ambience": "dawn_distant_city_ambience",
+        "sfx": [
+          "relay_click",
+          "morning_chime"
+        ],
+        "impact": "slow_warm_crescendo",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-029",
+      "start": 495.0,
+      "end": 510.0,
+      "audio": {
+        "music_state": "soaring_modern_electronic_hymn",
+        "music_intensity": 0.5,
+        "ambience": "subterranean_breeze",
+        "sfx": [
+          "git_merge_tone",
+          "server_status_chime"
+        ],
+        "impact": null,
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    },
+    {
+      "scene_id": "SCN-030",
+      "start": 510.0,
+      "end": 525.0,
+      "audio": {
+        "music_state": "quiet_philosophical_piano_solo",
+        "music_intensity": 0.25,
+        "ambience": "solitary_room_tone",
+        "sfx": [
+          "blinking_cursor_tick",
+          "distant_birdsong"
+        ],
+        "impact": "final_reverberant_piano_chord",
+        "silence": false,
+        "silence_before_reveal": false
+      }
+    }
+  ]
+}

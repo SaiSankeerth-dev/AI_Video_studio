@@ -1,0 +1,108 @@
+"""
+Scene Director Agent (TASK 08)
+Deconstructs spoken narration and story beats into multi-shot cinematic scenes.
+Enforces character motivations, recurring motifs, and mini-narrative escalation.
+"""
+
+import json
+from pathlib import Path
+from typing import Dict, List, Any, Optional
+
+class SceneDirector:
+    def __init__(self, output_dir: Optional[Path] = None):
+        self.output_dir = output_dir or Path(r"D:\gitM\01_ContentFactory\production\shots")
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
+    def generate_90s_benchmark_scenes(self) -> List[Dict[str, Any]]:
+        """
+        Creates the 7 dramatic scenes comprising the 90-second benchmark documentary.
+        """
+        scenes = [
+            {
+                "scene_id": "SCN-01",
+                "chapter_id": "CH-01",
+                "title": "The Silent Workstation (2:13 AM)",
+                "purpose": "Establish atmospheric tension: human hands leaving keyboard, autonomous cursor awakening.",
+                "duration_seconds": 15.0,
+                "start": 0.0,
+                "end": 15.0,
+                "emotional_state": "TENSE",
+                "shots": ["SH-01", "SH-02", "SH-03"]
+            },
+            {
+                "scene_id": "SCN-02",
+                "chapter_id": "CH-02",
+                "title": "Astra Takes the Helm",
+                "purpose": "Demonstrate the core capability physically: browser launches, search executes, multi-app montage.",
+                "duration_seconds": 16.0,
+                "start": 15.0,
+                "end": 31.0,
+                "emotional_state": "INTRIGUED",
+                "shots": ["SH-04", "SH-05", "SH-06"]
+            },
+            {
+                "scene_id": "SCN-03",
+                "chapter_id": "CH-03",
+                "title": "The Paradigm Shift",
+                "purpose": "Hard blackout and kinetic typography thesis: Computer is no longer the tool, it is the environment.",
+                "duration_seconds": 9.0,
+                "start": 31.0,
+                "end": 40.0,
+                "emotional_state": "REFLECTIVE",
+                "shots": ["SH-07", "SH-08"]
+            },
+            {
+                "scene_id": "SCN-04",
+                "chapter_id": "CH-04",
+                "title": "The Empirical Evidence",
+                "purpose": "Rigorous proof: camera pushes into official OSWorld 2.0 benchmark report (72.6% vs 65.7%).",
+                "duration_seconds": 15.0,
+                "start": 40.0,
+                "end": 55.0,
+                "emotional_state": "CURIOUS",
+                "shots": ["SH-09", "SH-10", "SH-11"]
+            },
+            {
+                "scene_id": "SCN-05",
+                "chapter_id": "CH-05",
+                "title": "The Closed-Loop Trial",
+                "purpose": "Mini-story of failure & adaptation: pytest fails with red error -> Astra inspects code -> auto-patches -> green pass.",
+                "duration_seconds": 15.0,
+                "start": 55.0,
+                "end": 70.0,
+                "emotional_state": "TENSE",
+                "shots": ["SH-12", "SH-13", "SH-14"]
+            },
+            {
+                "scene_id": "SCN-06",
+                "chapter_id": "CH-06",
+                "title": "The Critical Risk",
+                "purpose": "Escalate to frontier danger: OpenAI Safety Overview document reveals Critical Cybersecurity Threshold.",
+                "duration_seconds": 12.0,
+                "start": 70.0,
+                "end": 82.0,
+                "emotional_state": "CONCERNED",
+                "shots": ["SH-15", "SH-16"]
+            },
+            {
+                "scene_id": "SCN-07",
+                "chapter_id": "CH-07",
+                "title": "The Unanswered Question",
+                "purpose": "Haunting cliffhanger: macro zoom on cursor blinking alone in empty server hall into blackout.",
+                "duration_seconds": 8.0,
+                "start": 82.0,
+                "end": 90.0,
+                "emotional_state": "URGENT",
+                "shots": ["SH-17", "SH-18"]
+            }
+        ]
+
+        with open(self.output_dir / "scenes.json", "w", encoding="utf-8") as f:
+            json.dump(scenes, f, indent=2)
+
+        return scenes
+
+if __name__ == "__main__":
+    sd = SceneDirector()
+    scns = sd.generate_90s_benchmark_scenes()
+    print(f"Scene Director generated {len(scns)} scenes totaling {sum(s['duration_seconds'] for s in scns)}s.")

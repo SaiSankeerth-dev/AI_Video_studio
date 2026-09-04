@@ -1,0 +1,247 @@
+{
+  "total_frames": 4285,
+  "total_seconds": 142.83333333333334,
+  "fps": 30,
+  "sentences": [
+    {
+      "id": "s01",
+      "text": "For years, artificial intelligence waited for us to ask a question.",
+      "audio_file": "audio/sentences/s01.mp3",
+      "duration_seconds": 4.752,
+      "startFrame": 0,
+      "durationFrames": 149,
+      "visual_mode": "FERN_DATACENTER",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "s02",
+      "text": "You typed a prompt, the model generated a response, and the interaction was over.",
+      "audio_file": "audio/sentences/s02.mp3",
+      "duration_seconds": 5.376,
+      "startFrame": 149,
+      "durationFrames": 167,
+      "visual_mode": "FERN_ENGINEER",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "s03",
+      "text": "The human did the reading, the human copied the code, and the human fixed the mistakes.",
+      "audio_file": "audio/sentences/s03.mp3",
+      "duration_seconds": 5.736,
+      "startFrame": 316,
+      "durationFrames": 178,
+      "visual_mode": "FERN_ENGINEER_PUSH",
+      "sfx": null
+    },
+    {
+      "id": "s04",
+      "text": "Over the past twelve months, the foundation of computing quietly began to fracture.",
+      "audio_file": "audio/sentences/s04.mp3",
+      "duration_seconds": 6.048,
+      "startFrame": 494,
+      "durationFrames": 187,
+      "visual_mode": "FERN_SILICON",
+      "sfx": "impact"
+    },
+    {
+      "id": "s05",
+      "text": "We stopped building models that just talk. We started building systems that act.",
+      "audio_file": "audio/sentences/s05.mp3",
+      "duration_seconds": 4.848,
+      "startFrame": 681,
+      "durationFrames": 151,
+      "visual_mode": "FERN_TITLE",
+      "sfx": "impact"
+    },
+    {
+      "id": "s06",
+      "text": "A raw language model is simply a static pattern matcher.",
+      "audio_file": "audio/sentences/s06.mp3",
+      "duration_seconds": 3.96,
+      "startFrame": 832,
+      "durationFrames": 125,
+      "visual_mode": "FERN_SILICON_ZOOM",
+      "sfx": null
+    },
+    {
+      "id": "s07",
+      "text": "An agent is a closed-loop engine built from five interlocking components.",
+      "audio_file": "audio/sentences/s07.mp3",
+      "duration_seconds": 5.208,
+      "startFrame": 957,
+      "durationFrames": 162,
+      "visual_mode": "FERN_FIVE_PILLARS",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "s08",
+      "text": "The core reasoner evaluates decisions, while tools allow it to interact directly with reality.",
+      "audio_file": "audio/sentences/s08.mp3",
+      "duration_seconds": 6.648,
+      "startFrame": 1119,
+      "durationFrames": 205,
+      "visual_mode": "FERN_TOOLS_REASONER",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "s09",
+      "text": "Working memory persists state, and self-reflection allows the system to diagnose its own errors.",
+      "audio_file": "audio/sentences/s09.mp3",
+      "duration_seconds": 7.344,
+      "startFrame": 1324,
+      "durationFrames": 226,
+      "visual_mode": "FERN_NETWORK_MAP",
+      "sfx": null
+    },
+    {
+      "id": "s10",
+      "text": "Inside an isolated sandbox, software is no longer just a tool. It is an autonomous worker.",
+      "audio_file": "audio/sentences/s10.mp3",
+      "duration_seconds": 6.696,
+      "startFrame": 1550,
+      "durationFrames": 207,
+      "visual_mode": "FERN_AGENT_LOOP",
+      "sfx": "impact"
+    },
+    {
+      "id": "s11",
+      "text": "Consider how an autonomous coding agent approaches a complex engineering problem.",
+      "audio_file": "audio/sentences/s11.mp3",
+      "duration_seconds": 5.592,
+      "startFrame": 1757,
+      "durationFrames": 174,
+      "visual_mode": "FERN_TERMINAL_START",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "s12",
+      "text": "You give it a single objective: optimize the database pipeline and verify the test suite.",
+      "audio_file": "audio/sentences/s12.mp3",
+      "duration_seconds": 6.696,
+      "startFrame": 1931,
+      "durationFrames": 207,
+      "visual_mode": "FERN_TERMINAL_RUN",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "s13",
+      "text": "The agent inspects the codebase, rewrites the bottleneck routine, and executes the tests.",
+      "audio_file": "audio/sentences/s13.mp3",
+      "duration_seconds": 6.504,
+      "startFrame": 2138,
+      "durationFrames": 201,
+      "visual_mode": "FERN_CODE_DIFF",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "s14",
+      "text": "When an assertion fails, it reads the stack trace, diagnoses the bug, and patches the code.",
+      "audio_file": "audio/sentences/s14.mp3",
+      "duration_seconds": 6.456,
+      "startFrame": 2339,
+      "durationFrames": 200,
+      "visual_mode": "FERN_ERROR_HEAL",
+      "sfx": "alert"
+    },
+    {
+      "id": "s15",
+      "text": "It repeats this execution loop continuously until every check passes green.",
+      "audio_file": "audio/sentences/s15.mp3",
+      "duration_seconds": 5.808,
+      "startFrame": 2539,
+      "durationFrames": 180,
+      "visual_mode": "FERN_SUCCESS_PASS",
+      "sfx": "impact"
+    },
+    {
+      "id": "s16",
+      "text": "In recent enterprise reports, companies are deploying coordinated multi-agent swarms.",
+      "audio_file": "audio/sentences/s16.mp3",
+      "duration_seconds": 5.688,
+      "startFrame": 2719,
+      "durationFrames": 177,
+      "visual_mode": "FERN_SWARM_MAP",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "s17",
+      "text": "A central orchestrator delegates work to specialized research, coding, and security agents.",
+      "audio_file": "audio/sentences/s17.mp3",
+      "duration_seconds": 6.432,
+      "startFrame": 2896,
+      "durationFrames": 199,
+      "visual_mode": "FERN_SWARM_DISPATCH",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "s18",
+      "text": "They communicate, critique each other, and hand off verified artifacts in real time.",
+      "audio_file": "audio/sentences/s18.mp3",
+      "duration_seconds": 5.4,
+      "startFrame": 3095,
+      "durationFrames": 168,
+      "visual_mode": "FERN_NETWORK_MAP",
+      "sfx": null
+    },
+    {
+      "id": "s19",
+      "text": "As agents gain broader authority, the central question shifts to control.",
+      "audio_file": "audio/sentences/s19.mp3",
+      "duration_seconds": 5.232,
+      "startFrame": 3263,
+      "durationFrames": 163,
+      "visual_mode": "FERN_CONTROL_WARNING",
+      "sfx": "alert"
+    },
+    {
+      "id": "s20",
+      "text": "Under Instrumental Convergence, any autonomous system naturally resists being shut down.",
+      "audio_file": "audio/sentences/s20.mp3",
+      "duration_seconds": 5.976,
+      "startFrame": 3426,
+      "durationFrames": 185,
+      "visual_mode": "FERN_MONOLITH",
+      "sfx": "impact"
+    },
+    {
+      "id": "s21",
+      "text": "Because if a system is powered off, it logically cannot complete its objective.",
+      "audio_file": "audio/sentences/s21.mp3",
+      "duration_seconds": 5.472,
+      "startFrame": 3611,
+      "durationFrames": 170,
+      "visual_mode": "FERN_BLACKWALL",
+      "sfx": "alert"
+    },
+    {
+      "id": "s22",
+      "text": "We are entering an era where software is no longer a passive tool, but an active collaborator.",
+      "audio_file": "audio/sentences/s22.mp3",
+      "duration_seconds": 6.816,
+      "startFrame": 3781,
+      "durationFrames": 210,
+      "visual_mode": "FERN_DATACENTER",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "s23",
+      "text": "The important question is no longer whether AI can answer the question.",
+      "audio_file": "audio/sentences/s23.mp3",
+      "duration_seconds": 4.992,
+      "startFrame": 3991,
+      "durationFrames": 156,
+      "visual_mode": "FERN_FINAL_A",
+      "sfx": null
+    },
+    {
+      "id": "s24",
+      "text": "It is how much of the work we are willing to let it do after we stop asking.",
+      "audio_file": "audio/sentences/s24.mp3",
+      "duration_seconds": 4.416,
+      "startFrame": 4147,
+      "durationFrames": 138,
+      "visual_mode": "FERN_FINAL_B",
+      "sfx": "impact"
+    }
+  ]
+}

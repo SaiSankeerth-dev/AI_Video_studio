@@ -1,0 +1,1 @@
+Extract discrete cinematic scenes from the master narrative with timestamps, visual prompts, and camera styles.

@@ -1,0 +1,37 @@
+{
+  "project": "video-001",
+  "sequence": "The Hidden Connection",
+  "target_duration_seconds": 30,
+  "shots": [
+    {
+      "shot_id": "shot-001",
+      "name": "Atlas Exterior & Descent",
+      "duration_seconds": 5,
+      "environment": "Atlas Data Center subterranean exterior",
+      "camera_movement": "Slow downward crane tilt past reinforced concrete baffles",
+      "lighting": "Deep blue night shadows with security halogen rim",
+      "focal_length": 35,
+      "render_file": "renders/hidden-connection-01.mp4"
+    },
+    {
+      "shot_id": "shot-002",
+      "name": "Server Hall Monoliths",
+      "duration_seconds": 10,
+      "environment": "Server hall corridor with 400,000 blade arrays",
+      "camera_movement": "Slow forward dolly push down central aisle",
+      "lighting": "Cyan and cobalt rack LEDs with pulsing memory bus lights",
+      "focal_length": 50,
+      "render_file": "renders/hidden-connection-02.mp4"
+    },
+    {
+      "shot_id": "shot-003",
+      "name": "Observation Deck & Terminal Glow",
+      "duration_seconds": 15,
+      "environment": "Sub-Level 3 Observation Deck overlooking servers",
+      "camera_movement": "Lateral tracking shot past acoustic glass towards glowing terminal",
+      "lighting": "Monochrome phosphor green terminal bounce against dark glass",
+      "focal_length": 40,
+      "render_file": "renders/hidden-connection-03.mp4"
+    }
+  ]
+}

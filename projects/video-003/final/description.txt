@@ -1,0 +1,16 @@
+On September 3, 2026, details emerged describing GPT-6 Astra—an autonomous frontier model engineered not to generate conversational prose, but to directly navigate operating systems, terminal environments, and professional software.
+
+In this investigative technical documentary, ContentFactory examines the core architectural question: Is Astra simply an upgraded chatbot, or does it represent a fundamental transition toward software that completes tasks autonomously?
+
+TIMESTAMPS:
+0:00 - Cold Open: The Empty Workstation
+0:40 - Chapter 1: What is Astra?
+2:30 - Chapter 2: The Computer-Use Leap
+5:00 - Chapter 3: The Benchmark Battle (AutomationBench & ScreenSpot Pro)
+7:30 - Chapter 4: The Scale: 1,050,000 Token Working Memory
+9:00 - Chapter 5: Production Deployment Workflows
+11:30 - Chapter 6: The Uncomfortable Reliability Question
+13:30 - Ending: The Goal is the Output
+
+NOTE ON VERIFICATION STATUS:
+Claims regarding context length (1,050,000 tokens), output window (128,000 tokens), pricing ($10/$50), and reported benchmark scores originated from an OpenAI Developer Community launch post and are subject to verification against the official OpenAI system card prior to general availability.

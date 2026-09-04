@@ -1,0 +1,71 @@
+{
+  "project_id": "video-003",
+  "artifacts": [
+    {
+      "evidence_id": "EVD-001",
+      "title": "Community Launch Post Screenshot & Metadata",
+      "type": "screenshot_document",
+      "source_id": "SRC-010",
+      "timestamp": "2026-09-03T08:14:00Z",
+      "visual_asset": "footage/archive/evidence_community_post.png",
+      "claim_ids": [
+        "ASTRA-001",
+        "ASTRA-002",
+        "ASTRA-003",
+        "ASTRA-004"
+      ],
+      "verification_notes": "Shows initial announcement header and parameter claims. Watermarked with VERIFY indicator."
+    },
+    {
+      "evidence_id": "EVD-002",
+      "title": "Computer Use Benchmark Comparative Matrix",
+      "type": "data_table_graphic",
+      "source_id": "SRC-004",
+      "timestamp": "2026-09-03",
+      "visual_asset": "graphics/benchmark_matrix.json",
+      "claim_ids": [
+        "ASTRA-004",
+        "ASTRA-005",
+        "ASTRA-006",
+        "ASTRA-007"
+      ],
+      "verification_notes": "Compares Astra vs Claude 3.5 Sonnet / GPT-4o on ScreenSpot Pro, TerminalBench, and FrontierMath."
+    },
+    {
+      "evidence_id": "EVD-003",
+      "title": "Context Window Scale Comparison Diagram (1.05M Tokens)",
+      "type": "motion_graphic",
+      "source_id": "SRC-003",
+      "timestamp": "2026-09-03",
+      "visual_asset": "graphics/context_scale.json",
+      "claim_ids": [
+        "ASTRA-002"
+      ],
+      "verification_notes": "Visualizes 1.05M tokens as equivalent to 3,500 pages, 150 repository codebases, or 48 hours of server logs."
+    },
+    {
+      "evidence_id": "EVD-004",
+      "title": "Agentic Execution Loop Architecture Blueprint",
+      "type": "flow_diagram",
+      "source_id": "SRC-011",
+      "timestamp": "2026-09-03",
+      "visual_asset": "graphics/agent_loop.json",
+      "claim_ids": [
+        "ASTRA-008"
+      ],
+      "verification_notes": "Differentiates Chatbot (User -> Ask -> Answer) from Agent (User -> Goal -> Plan -> Tool -> Act -> Observe -> Adapt -> Complete)."
+    },
+    {
+      "evidence_id": "EVD-005",
+      "title": "Production Error Cascade Telemetry Log",
+      "type": "terminal_trace",
+      "source_id": "SRC-012",
+      "timestamp": "2026-07-15",
+      "visual_asset": "graphics/error_cascade.json",
+      "claim_ids": [
+        "ASTRA-009"
+      ],
+      "verification_notes": "Shows real-world compounding error cascade when terminal tool encounters unexpected exit code."
+    }
+  ]
+}

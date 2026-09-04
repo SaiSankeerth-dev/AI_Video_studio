@@ -1,0 +1,37 @@
+{
+  "project_id": "video-003",
+  "audit_date": "2026-09-04",
+  "verdict": "PASS_AUDITED",
+  "claim_verification_audit": [
+    {
+      "claim_id": "ASTRA-001",
+      "status": "VERIFY",
+      "notes": "Clearly watermarked as launch claim pending official model card."
+    },
+    {
+      "claim_id": "ASTRA-002",
+      "status": "VERIFY",
+      "notes": "Context window 1.05M explicitly marked with VERIFY status badge in S04 and S07."
+    },
+    {
+      "claim_id": "ASTRA-003",
+      "status": "VERIFY",
+      "notes": "Token pricing $10/$50 displayed with pre-publication verification status."
+    },
+    {
+      "claim_id": "ASTRA-004",
+      "status": "VERIFY",
+      "notes": "AutomationBench (88.4%) and ScreenSpot Pro (81.2%) clearly flagged as reported."
+    },
+    {
+      "claim_id": "ASTRA-008",
+      "status": "VERIFIED",
+      "notes": "Architectural agent loop mechanics grounded in verified computer-use literature."
+    }
+  ],
+  "policy_compliance": {
+    "no_silent_upgrades": true,
+    "reconstructions_labeled": true,
+    "primary_sources_cited": true
+  }
+}

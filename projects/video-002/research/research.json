@@ -1,0 +1,44 @@
+{
+  "subject": "Kevin David Mitnick (1963\u20132023) & The Philosophy of Social Engineering",
+  "thesis": "The strongest cryptographic firewall in the world is rendered obsolete if an attacker can convince an authorized human to bypass it.",
+  "core_mechanisms": [
+    {
+      "mechanism": "Pretexting",
+      "description": "Creating an invented scenario that forces the target to volunteer privileged information."
+    },
+    {
+      "mechanism": "Authority Impersonation",
+      "description": "Assuming the identity of senior executives, IT administrators, or field technicians."
+    },
+    {
+      "mechanism": "Manufactured Urgency",
+      "description": "Fabricating an imminent system deadline or emergency to suppress critical scrutiny."
+    },
+    {
+      "mechanism": "Information Cascading",
+      "description": "Using small, harmless pieces of corporate jargon gathered from one employee to deceive the next."
+    }
+  ],
+  "historical_milestones": [
+    {
+      "era": "1979",
+      "event": "Early phone phreaking and Los Angeles bus punch card system manipulation."
+    },
+    {
+      "era": "1988",
+      "event": "DEC (Digital Equipment Corporation) VMS source code acquisition."
+    },
+    {
+      "era": "1992-1995",
+      "event": "Underground fugitive period and compromise of Motorola and Pacific Bell systems."
+    },
+    {
+      "era": "February 15, 1995",
+      "event": "FBI arrest in Raleigh, North Carolina."
+    },
+    {
+      "era": "2000-2023",
+      "event": "Transition to trusted defensive security consultant, author, and global educator."
+    }
+  ]
+}

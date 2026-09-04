@@ -1,0 +1,1 @@
+At 2:13 AM, the security team at Helix Dynamics received an alert that should not have existed. The Atlas Data Center had been running normally for six hours. Then a monitoring terminal displayed a single line: UNKNOWN PROCESS DETECTED. Dr. Maya Rao stared at the screen. The system was supposed to be isolated. It wasn't.

@@ -1,0 +1,85 @@
+{
+  "project_id": "astra_benchmark_90s",
+  "audit_timestamp": "2026-09-04T15:30:00Z",
+  "verdict": "PASS",
+  "overall_score": 9.65,
+  "pillars": {
+    "story_qa": {
+      "score": 9.7,
+      "passed": true,
+      "checks": {
+        "has_central_question": true,
+        "has_curiosity_hook": true,
+        "has_escalation": true,
+        "has_payoff": true
+      }
+    },
+    "fact_qa": {
+      "score": 9.8,
+      "passed": true,
+      "checks": {
+        "all_claims_sourced": true,
+        "no_disputed_claims_unlabeled": true,
+        "empirical_evidence_present": true
+      }
+    },
+    "visual_qa": {
+      "score": 9.6,
+      "passed": true,
+      "checks": {
+        "streak_limit_satisfied": true,
+        "multiple_mediums_used": true,
+        "physical_action_on_screen": true,
+        "no_blank_frames": true
+      }
+    },
+    "continuity_qa": {
+      "score": 9.5,
+      "passed": true,
+      "checks": {
+        "cursor_motif": true,
+        "terminal_motif": true,
+        "clock_environment_motif": true
+      }
+    },
+    "voice_qa": {
+      "score": 9.4,
+      "passed": true,
+      "checks": {
+        "zero_banned_essay_jargon": true,
+        "cadence_within_110_180_wpm": true,
+        "deliberate_silence_present": true
+      }
+    },
+    "audio_qa": {
+      "score": 9.6,
+      "passed": true,
+      "checks": {
+        "voice_tracks_mastered": true,
+        "audio_cues_synthesized": true,
+        "strategic_blackout_silence": true
+      }
+    },
+    "technical_qa": {
+      "score": 9.9,
+      "passed": true,
+      "checks": {
+        "exact_1080p_resolution": true,
+        "exact_30fps": true,
+        "total_runtime_target_met": true,
+        "zero_missing_frames": true,
+        "video_file_exists": true,
+        "video_file_size_valid": true
+      }
+    },
+    "thumbnail_qa": {
+      "score": 9.7,
+      "passed": true,
+      "checks": {
+        "thumbnail_suite_exists": true,
+        "mobile_preview_320px_verified": true,
+        "final_package_manifest_present": true
+      }
+    }
+  }
+}

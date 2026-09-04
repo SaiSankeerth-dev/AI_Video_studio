@@ -1,0 +1,20 @@
+BIBLIOGRAPHY & VERIFIED CITATIONS
+
+1. OpenAI Agents SDK Documentation (2026)
+   - Scope: Sandbox environments, tool execution, code inspection, long-horizon tasks.
+   - URL: https://openai.com/index/the-next-evolution-of-the-agents-sdk/
+
+2. Google Cloud AI Business Trends Report (2026)
+   - Scope: Enterprise multi-agent orchestration, agentic business workflows, governance.
+   - URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/
+
+3. DeepLearning.AI: The Anatomy of Agentic Workflows (2025-2026)
+   - Scope: ReAct loops, planning, tool integration, reflection, and self-correction.
+   - URL: https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/
+
+4. Nick Bostrom: Superintelligence (Foundational Research)
+   - Scope: Instrumental convergence, self-preservation sub-goals, resource acquisition.
+
+5. Reuters Tech & Security Analysis (2026)
+   - Scope: Autonomous agent sandboxing, permission boundaries, containment engineering.
+   - URL: https://www.reuters.com/technology/cybersecurity-ai-agents-containment-2026/

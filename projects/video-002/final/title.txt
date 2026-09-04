@@ -1,0 +1,13 @@
+=== YOUTUBE TITLE CANDIDATES (A/B TEST READY) ===
+
+Variant A (Primary - Investigative Hook):
+The Hacker Who Didn't Need Your Password
+
+Variant B (Psychological Curiosity):
+How One Man Hacked the World's Biggest Tech Companies Using a Phone
+
+Variant C (Direct Historical Authority):
+Kevin Mitnick and the Social Engineering Revolution
+
+Variant D (Security Paradox):
+Why the Strongest Firewalls Failed Against a Single Telephone Call

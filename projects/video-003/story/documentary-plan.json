@@ -1,0 +1,70 @@
+{
+  "project_id": "video-003",
+  "title": "GPT-6 Astra: The AI That Can Use a Computer",
+  "thesis": "The transition from chatbot prompts to autonomous computer execution is the defining technical inflection of frontier AI.",
+  "total_duration_seconds": 870,
+  "total_chapters": 8,
+  "cold_open_duration": 40,
+  "dramatic_structure_10_beats": [
+    {
+      "beat": 1,
+      "stage": "HOOK",
+      "chapter": "CH-00",
+      "focus": "The empty workstation and the paradigm shift: not asking an AI what to do, but asking it to do it."
+    },
+    {
+      "beat": 2,
+      "stage": "QUESTION",
+      "chapter": "CH-00",
+      "focus": "Central thesis: Is Astra just a better text generator, or can it genuinely operate the world inside a computer?"
+    },
+    {
+      "beat": 3,
+      "stage": "CONTEXT",
+      "chapter": "CH-01",
+      "focus": "The Sept 3 2026 launch announcement and OpenAI positioning for professional engineering and scientific workflows."
+    },
+    {
+      "beat": 4,
+      "stage": "FIRST REVEAL",
+      "chapter": "CH-02",
+      "focus": "The architectural difference: Chatbot (Ask -> Answer) vs Agent (Goal -> Plan -> Act -> Observe -> Adapt)."
+    },
+    {
+      "beat": 5,
+      "stage": "ESCALATION",
+      "chapter": "CH-02",
+      "focus": "Dramatized reconstruction of a bug-hunting workflow: repo inspection, failing test, patch, verification."
+    },
+    {
+      "beat": 6,
+      "stage": "COMPLICATION",
+      "chapter": "CH-03",
+      "focus": "The benchmark gauntlet: AutomationBench, ScreenSpot Pro, TerminalBench, FrontierMath, ARC-AGI."
+    },
+    {
+      "beat": 7,
+      "stage": "DEEPER DISCOVERY",
+      "chapter": "CH-04",
+      "focus": "The scale: 1.05M context window, 128k output, and what 1M tokens actually looks like in codebases and telemetry."
+    },
+    {
+      "beat": 8,
+      "stage": "CLIMAX",
+      "chapter": "CH-05",
+      "focus": "Tangible enterprise workflows: Software engineering, cybersecurity triage, scientific data synthesis, professional productivity."
+    },
+    {
+      "beat": 9,
+      "stage": "ANSWER",
+      "chapter": "CH-06",
+      "focus": "The uncomfortable reality check: Benchmark scores vs production reliability, error propagation, safety boundaries, human oversight."
+    },
+    {
+      "beat": 10,
+      "stage": "IMPLICATION",
+      "chapter": "CH-07",
+      "focus": "Ending resolution: The goal is becoming the output. Software that does not wait for humans."
+    }
+  ]
+}

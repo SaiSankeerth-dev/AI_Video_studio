@@ -1,0 +1,76 @@
+{
+  "project": "video-001",
+  "topic": "The AI Agents That Are Starting to Work Without Us",
+  "sources": [
+    {
+      "id": "SRC-01",
+      "name": "OpenAI Agents SDK Documentation",
+      "publisher": "OpenAI",
+      "date": "2026",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+      "type": "Technical Documentation",
+      "key_topics": [
+        "Sandboxed command execution",
+        "File inspection and code editing",
+        "Multi-agent handoffs",
+        "Long-horizon task management"
+      ]
+    },
+    {
+      "id": "SRC-02",
+      "name": "Google Cloud AI Business Trends Report 2026",
+      "publisher": "Google Cloud",
+      "date": "2026",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/",
+      "type": "Industry Benchmark Report",
+      "key_topics": [
+        "Agentic workflows",
+        "Multi-agent business process orchestration",
+        "ROI of autonomous tasks",
+        "Enterprise governance"
+      ]
+    },
+    {
+      "id": "SRC-03",
+      "name": "The Anatomy of Agentic Workflows",
+      "publisher": "DeepLearning.AI / Research Community",
+      "date": "2025-2026",
+      "url": "https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/",
+      "type": "Technical Analysis",
+      "key_topics": [
+        "Reflection and self-correction",
+        "Tool use and API calling",
+        "Planning and decomposition",
+        "Multi-agent collaboration"
+      ]
+    },
+    {
+      "id": "SRC-04",
+      "name": "Superintelligence: Paths, Dangers, Strategies",
+      "publisher": "Nick Bostrom / Oxford University Press",
+      "date": "Foundational Research",
+      "url": "https://en.wikipedia.org/wiki/Instrumental_convergence",
+      "type": "Theoretical Safety Research",
+      "key_topics": [
+        "Instrumental convergence",
+        "Self-preservation sub-goals",
+        "Resource acquisition",
+        "Goal alignment"
+      ]
+    },
+    {
+      "id": "SRC-05",
+      "name": "Autonomous Agents and Cybersecurity Incidents",
+      "publisher": "Reuters Tech / Security Analysis",
+      "date": "2026",
+      "url": "https://www.reuters.com/technology/cybersecurity-ai-agents-containment-2026/",
+      "type": "Investigative Journalism",
+      "key_topics": [
+        "Rogue agent execution",
+        "Permission creep",
+        "Kernel namespace containment",
+        "Automated patch boundaries"
+      ]
+    }
+  ]
+}

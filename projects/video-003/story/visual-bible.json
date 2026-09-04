@@ -1,0 +1,66 @@
+{
+  "project_id": "video-003",
+  "bible_version": "2.0.0",
+  "dimensions": {
+    "1_color_palette": {
+      "primary_background": "#0a0d14 (Deep Technical Obsidian)",
+      "secondary_surface": "#121824 (Dark Slate Gray)",
+      "terminal_dark": "#06080d (Raw Console Black)",
+      "accent_telemetry": "#00d2ff (Precision Cyan)",
+      "accent_warning": "#ffb020 (Verification Amber)",
+      "accent_danger": "#ff4d4f (Error Crimson)",
+      "text_high_contrast": "#f0f4f8 (Clean Silver White)",
+      "text_muted": "#8899a6 (Subdued Metadata Gray)"
+    },
+    "2_typography": {
+      "display_font": "SF Pro Display, Inter, system-ui, -apple-system",
+      "monospace_font": "JetBrains Mono, Fira Code, Consolas, monospace",
+      "editorial_subtitle_font": "Inter, system-ui",
+      "hierarchy": {
+        "title": "72px, bold, tracking -0.02em",
+        "chapter": "32px, semibold, uppercase, tracking +0.1em",
+        "telemetry_label": "18px, monospace, uppercase, tracking +0.08em",
+        "subtitles": "28px, medium, high legibility on dark scrim"
+      }
+    },
+    "3_camera_grammar": {
+      "lenses": "35mm cinema prime (wide environmental), 50mm (subject focus), 85mm macro (tactile hardware)",
+      "movement": "Slow, restrained linear dolly in/out; slow horizontal tracking; strictly zero shaky-cam or handheld jitter",
+      "framing": "Rule of thirds, deep negative space on terminal displays, motivated screen glow illuminating foreground desk textures"
+    },
+    "4_lighting": {
+      "motivated_source": "Cool 6500K monitor backlight reflecting off matte aluminum desk surfaces and dark glass",
+      "secondary_fill": "Warm 3000K low-intensity practical desk lamp in background out of focus",
+      "shadow_profile": "Deep, soft cinematic shadows, high dynamic range without clipped blacks"
+    },
+    "5_materials_and_textures": {
+      "hardware": "Anodized aluminum, matte PBT keycaps, braided black cables, brushed titanium bezels",
+      "environment": "Acoustic wall panels, polished concrete or dark walnut studio surfaces"
+    },
+    "6_motion_rules": {
+      "transitions": "Clean hard cuts on audio beats, 8-frame linear dissolves, zero 3D page curls or stylized wipes",
+      "easing": "cubic-bezier(0.16, 1, 0.3, 1) for UI overlays, linear smooth drift for camera moves"
+    },
+    "7_motion_graphics_standards": {
+      "tool": "Remotion React components for all charts, stats, tables, timelines, and UI screens",
+      "verification_badge": "All unverified claims explicitly watermarked with [VERIFY // ASTRA LAUNCH CLAIM]",
+      "reconstruction_watermark": "All simulated agent screen interactions watermarked with [ILLUSTRATIVE RECONSTRUCTION]"
+    },
+    "8_audio_grammar": {
+      "voice": "Calm, investigative documentary narrator at 135-145 WPM",
+      "ambience": "Subtle 50Hz electrical transformer hum, low subsonic drone (-24dB)",
+      "foley": "Tactile mechanical keyboard clicks, subtle terminal bell, soft whoosh on graphic transitions",
+      "silence": "Strategic 1.0s - 1.5s silence pauses preceding key conceptual questions"
+    },
+    "9_do_not_render_rules": [
+      "NO glowing robotic humanoids, androids, or Terminator skulls",
+      "NO floating 3D neon brain graphics",
+      "NO hallucinated unreadable alien typography in AI images",
+      "NO aggressive high-tempo EDM or movie-trailer braams"
+    ],
+    "10_entity_tracking": {
+      "system_id": "Astra Core (Node: US-EAST-ACCEL)",
+      "agent_workspace": "Standard developer desktop with Linux bash terminal, VS Code dark theme, Chromium debug browser"
+    }
+  }
+}

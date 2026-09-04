@@ -1,0 +1,82 @@
+{
+  "benchmark_name": "Video 002 \u2014 60-Second Master Historical & Cinematic Benchmark",
+  "video_file": "benchmark-60s/benchmark-mitnick-60s.mp4",
+  "duration_seconds": 60.053333,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "size_bytes": 41595695,
+  "unique_shots_count": 10,
+  "repeated_shots_count": 0,
+  "visual_repetition_rate": "0.0%",
+  "real_historical_archives_included": [
+    "Authentic Photograph of Kevin Mitnick",
+    "Authentic Western Electric / AT&T Model 500 Telephone",
+    "Authentic Telephone Switching Crossbar Relays",
+    "Authentic 1970s Blue Box Multi-Frequency Phreaking Tone Generator",
+    "Authentic DEC VAX 8350 Mainframe System",
+    "Authentic Motorola 68000 Microprocessor Microcode Die"
+  ],
+  "shots_manifest": [
+    {
+      "shot": "01",
+      "class": "Class B: Historical Archive",
+      "subject": "Authentic Kevin Mitnick Photograph & Archival Badge",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "02",
+      "class": "Class E: Environment",
+      "subject": "Enterprise SOC Operations Floor at Night",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "03",
+      "class": "Class D: Object Macro",
+      "subject": "Authentic Western Electric / AT&T Model 500 Phone",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "04",
+      "class": "Class B: Historical Archive",
+      "subject": "Authentic Telephone Switching Crossbar Relays",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "05",
+      "class": "Class D: Historical Artifact",
+      "subject": "Authentic 1970s Blue Box Phreaking Tone Generator",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "06",
+      "class": "Class B: Historical Archive",
+      "subject": "Authentic DEC VAX 8350 Mainframe System",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "07",
+      "class": "Class F: Evidence Document",
+      "subject": "Federal Court Wiretap Transcripts Exhibit A",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "08",
+      "class": "Class D: Historical Artifact",
+      "subject": "Authentic Motorola 68000 Microcode Die",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "09",
+      "class": "Class D: Object Macro",
+      "subject": "Macro Vintage Desk Phone & Extension List",
+      "duration": "6.0s"
+    },
+    {
+      "shot": "10",
+      "class": "Class E: Environment",
+      "subject": "Server Monoliths at Dawn // The Art of Deception",
+      "duration": "6.0s"
+    }
+  ],
+  "verdict": "PASS \u2014 AUTHENTIC DOCUMENTARY MASTER GRADE"
+}

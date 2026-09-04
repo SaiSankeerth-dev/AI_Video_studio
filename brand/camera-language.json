@@ -1,0 +1,45 @@
+{
+  "camera_language": {
+    "movements": {
+      "slow_push": {
+        "description": "Slow, inexorable forward push toward subject (scale 100% -> 105%), building psychological intimacy or mounting tension.",
+        "duration_default": 4.5,
+        "easing": "ease-out"
+      },
+      "slow_pull": {
+        "description": "Gradual pull out revealing broader spatial isolation or overwhelming environmental scale.",
+        "duration_default": 5.0,
+        "easing": "ease-in-out"
+      },
+      "horizontal_drift": {
+        "description": "Lateral translation across workstation, server bay, or document lines.",
+        "duration_default": 4.0,
+        "easing": "linear"
+      },
+      "macro_focus": {
+        "description": "Extreme close-up on physical mechanical switches, single terminal characters, or cursor pixels.",
+        "duration_default": 2.5,
+        "easing": "ease-out"
+      },
+      "locked_off": {
+        "description": "Stationary framing reserved for document scrutiny, terminal failure output, or tension holds.",
+        "duration_default": 3.0,
+        "easing": "none"
+      },
+      "parallactic_orbit": {
+        "description": "Blender 3D spatial orbit around server racks or agent control loops with foreground occlusion.",
+        "duration_default": 6.0,
+        "easing": "ease-in-out"
+      }
+    },
+    "framing_types": [
+      "EXTREME_WIDE",
+      "WIDE_ESTABLISHING",
+      "MEDIUM_SUBJECT",
+      "CLOSE_UP",
+      "EXTREME_MACRO",
+      "TOP_DOWN_DESK",
+      "SCREEN_POV"
+    ]
+  }
+}

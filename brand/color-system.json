@@ -1,0 +1,29 @@
+{
+  "name": "ContentFactory Documentary Color System",
+  "version": "2.0",
+  "philosophy": "Restrained, high-contrast, investigative darkness punctuated by precise clinical accents.",
+  "tokens": {
+    "background_deep": "#07090e",
+    "background_elevated": "#0f131a",
+    "surface_card": "#151b24",
+    "surface_border": "#263040",
+    "text_primary": "#f8fafc",
+    "text_secondary": "#94a3b8",
+    "text_tertiary": "#64748b",
+    "accent_cyan": "#38bdf8",
+    "accent_amber": "#f59e0b",
+    "accent_red": "#ef4444",
+    "accent_green": "#10b981",
+    "evidence_paper": "#f1f5f9",
+    "evidence_highlight": "rgba(250, 204, 21, 0.4)",
+    "terminal_cursor": "#38bdf8",
+    "terminal_bg": "#0a0c10"
+  },
+  "roles": {
+    "cinematic_shadows": "#05070a",
+    "human_skin_warmth": "#f4ede4",
+    "monitor_glow": "#1e293b",
+    "danger_state": "#7f1d1d",
+    "verification_badge": "#065f46"
+  }
+}

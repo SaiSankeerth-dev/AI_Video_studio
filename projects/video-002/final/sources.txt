@@ -1,0 +1,21 @@
+=== PRIMARY BIBLIOGRAPHY & FACT-CHECK EVIDENCE ===
+
+1. The Art of Deception (Mitnick & Simon, 2002)
+   - Verified Claim: Social engineering targets human psychology (authority, helpfulness, urgency) rather than software bugs.
+   - Verification Status: Primary Source
+
+2. Ghost in the Wires (Mitnick, 2011)
+   - Verified Claim: Detailed accounts of Pacific Bell telephone phreaking, Motorola microcode retrieval, and DEC VMS source code acquisition.
+   - Verification Status: Primary Account
+
+3. United States District Court Records (CR 96-389-MRP, 1999)
+   - Verified Claim: Wire fraud, unauthorized access to computer systems, plea agreement details.
+   - Verification Status: Certified Legal Record
+
+4. Takedown (Shimomura & Markoff, 1996)
+   - Verified Claim: IP spoofing telemetry, cellular triangulation, and FBI Raleigh arrest on Feb 15, 1995.
+   - Verification Status: Primary Witness & Journalistic Account
+
+5. NIST SP 800-207: Zero Trust Architecture
+   - Verified Claim: Modern security systems enforce continuous verification and hardware keys due to the vulnerabilities exposed by social engineering.
+   - Verification Status: Official Federal Standard

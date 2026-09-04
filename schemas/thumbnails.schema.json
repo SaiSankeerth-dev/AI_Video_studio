@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ThumbnailsSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "concept_id", "title_hook", "dominant_subject", "visual_conflict",
+      "curiosity_gap", "overlay_text", "file_path", "critic_scores", "total_score"
+    ],
+    "properties": {
+      "concept_id": { "type": "string" },
+      "title_hook": { "type": "string" },
+      "dominant_subject": { "type": "string" },
+      "visual_conflict": { "type": "string" },
+      "curiosity_gap": { "type": "string" },
+      "overlay_text": { "type": "string" },
+      "file_path": { "type": "string" },
+      "critic_scores": {
+        "type": "object",
+        "required": [
+          "immediate_readability", "curiosity", "emotion", "visual_hierarchy",
+          "subject_clarity", "mobile_readability", "originality", "topic_relevance",
+          "brand_consistency", "click_potential"
+        ],
+        "properties": {
+          "immediate_readability": { "type": "number" },
+          "curiosity": { "type": "number" },
+          "emotion": { "type": "number" },
+          "visual_hierarchy": { "type": "number" },
+          "subject_clarity": { "type": "number" },
+          "mobile_readability": { "type": "number" },
+          "originality": { "type": "number" },
+          "topic_relevance": { "type": "number" },
+          "brand_consistency": { "type": "number" },
+          "click_potential": { "type": "number" }
+        }
+      },
+      "total_score": { "type": "number" }
+    }
+  }
+}

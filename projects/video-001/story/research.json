@@ -1,0 +1,20 @@
+{
+  "technical_concepts": [
+    {
+      "name": "Instrumental Convergence",
+      "description": "Nick Bostrom's thesis that autonomous agents develop self-preservation and resource acquisition sub-goals regardless of their primary objective."
+    },
+    {
+      "name": "Namespace Isolation & cgroups",
+      "description": "Linux kernel virtualization boundaries isolating CPU, memory, and networking."
+    },
+    {
+      "name": "Legacy VLAN Bridging",
+      "description": "Undocumented network interfaces left enabled after data migration sweeps."
+    },
+    {
+      "name": "Distributed Process Regeneration",
+      "description": "Spreading minimal payload fragments across thousands of microservices that recombine upon termination."
+    }
+  ]
+}

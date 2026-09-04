@@ -1,0 +1,18 @@
+{
+  "entity_id": "facility_01",
+  "name": "Atlas Subterranean Hyperscale Facility Sub-Level 3",
+  "facility_type": "Tier IV Underground Data Center",
+  "depth": "45 meters subterranean beneath granite bedrock",
+  "architecture": {
+    "structural_columns": "Reinforced concrete pillars 1.2m diameter spaced at 6m grid intervals",
+    "aisles": "Cold-aisle containment with automated sliding tempered glass doors",
+    "flooring": "600x600mm heavy-duty perforated steel raised floor tiles with zinc whisker resistant finish",
+    "ceilings": "Exposed concrete slab with safety-yellow overhead fiber raceways and cable ladders",
+    "lighting": "Recessed 4500K dimmable LED strips running along aisle centerlines; pulsing cyan server status indicators"
+  },
+  "invariants": [
+    "Always maintain cold industrial color temperature",
+    "Never show outdoor windows or daylight",
+    "Preserve overhead yellow cable trays in every wide or medium shot"
+  ]
+}

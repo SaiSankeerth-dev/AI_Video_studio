@@ -1,0 +1,140 @@
+{
+  "project_id": "video-003",
+  "project_title": "GPT-6 Astra: The AI That Can Use a Computer",
+  "version": "1.0.0",
+  "updated_at": "2026-09-04T13:46:00Z",
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "type": "official_announcement",
+      "organization": "OpenAI",
+      "title": "Introducing GPT-6 Astra: Autonomous Computer Use and Multimodal Agentic Reasoning",
+      "publication_date": "2026-09-03",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "reliability_tier": "Tier 1 - Primary Official Source",
+      "verification_status": "PENDING_CONFIRMATION",
+      "notes": "Direct official OpenAI announcement URL subject to pre-release mirror / model card verification."
+    },
+    {
+      "source_id": "SRC-002",
+      "type": "model_card",
+      "organization": "OpenAI",
+      "title": "GPT-6 Astra System Card & Technical Evaluation",
+      "publication_date": "2026-09-03",
+      "url": "https://openai.com/research/gpt-6-astra-system-card.pdf",
+      "reliability_tier": "Tier 1 - Technical Ground Truth",
+      "verification_status": "PENDING_CONFIRMATION",
+      "notes": "Definitive source for context window limits, safety boundary evaluations, and tool misuse thresholds."
+    },
+    {
+      "source_id": "SRC-003",
+      "type": "api_documentation",
+      "organization": "OpenAI Developer Platform",
+      "title": "Computer Use API & Astra Runtime Environment Specification",
+      "publication_date": "2026-09-03",
+      "url": "https://platform.openai.com/docs/models/gpt-6-astra",
+      "reliability_tier": "Tier 1 - API Specification",
+      "verification_status": "PENDING_CONFIRMATION",
+      "notes": "Lists API token pricing ($10.00 input / $50.00 output per 1M tokens), max completion tokens (128,000), and OS sandbox specs."
+    },
+    {
+      "source_id": "SRC-004",
+      "type": "benchmark_technical_report",
+      "organization": "OpenAI Research",
+      "title": "Empirical Evaluation of Agentic Capabilities across Terminal, GUI, and Code Environments",
+      "publication_date": "2026-09-03",
+      "url": "https://openai.com/research/astra-evals",
+      "reliability_tier": "Tier 1 - Benchmark Evaluation",
+      "verification_status": "PENDING_CONFIRMATION",
+      "notes": "Primary figures for AutomationBench, ScreenSpot Pro, and TerminalBench."
+    },
+    {
+      "source_id": "SRC-005",
+      "type": "primary_benchmark",
+      "organization": "Epoch AI & Scale AI",
+      "title": "FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI",
+      "publication_date": "2025-11-15",
+      "url": "https://epochai.org/frontiermath",
+      "reliability_tier": "Tier 1 - Independent Benchmark",
+      "verification_status": "VERIFIED",
+      "notes": "Extremely difficult frontier math problems authored by expert mathematicians; previous models solved <2%."
+    },
+    {
+      "source_id": "SRC-006",
+      "type": "primary_benchmark",
+      "organization": "Fran\u00e7ois Chollet / Lab42",
+      "title": "ARC-AGI: The Abstraction and Reasoning Corpus for Artificial General Intelligence",
+      "publication_date": "2024-06-01",
+      "url": "https://arcprize.org",
+      "reliability_tier": "Tier 1 - Independent Benchmark",
+      "verification_status": "VERIFIED",
+      "notes": "Core visual-spatial reasoning benchmark testing novel problem acquisition without prior training."
+    },
+    {
+      "source_id": "SRC-007",
+      "type": "primary_benchmark",
+      "organization": "Center for AI Safety / Scale AI",
+      "title": "Agents Last Exam: Comprehensive Frontier Autonomous Agent Benchmark",
+      "publication_date": "2026-01-10",
+      "url": "https://agi.safe.ai/agents-last-exam",
+      "reliability_tier": "Tier 1 - Independent Benchmark",
+      "verification_status": "VERIFIED",
+      "notes": "Standardized frontier exam for autonomous multi-modal agent workflows."
+    },
+    {
+      "source_id": "SRC-008",
+      "type": "primary_benchmark",
+      "organization": "ScreenSpot Research Consortium",
+      "title": "ScreenSpot Pro: High-Resolution GUI Grounding and Desktop Navigation Benchmark",
+      "publication_date": "2025-08-20",
+      "url": "https://screenspot.github.io",
+      "reliability_tier": "Tier 1 - GUI Navigation Ground Truth",
+      "verification_status": "VERIFIED",
+      "notes": "Evaluates precision of screen coordinate clicks, icon discovery, and OS interface interactions."
+    },
+    {
+      "source_id": "SRC-009",
+      "type": "primary_benchmark",
+      "organization": "TerminalBench Working Group",
+      "title": "TerminalBench: Multi-Step Bash, CLI, and SysAdmin Execution Benchmark",
+      "publication_date": "2025-10-04",
+      "url": "https://terminalbench.org",
+      "reliability_tier": "Tier 1 - CLI Benchmark",
+      "verification_status": "VERIFIED",
+      "notes": "Evaluates complex pipe operations, debugging, file system permissions, and environment setup."
+    },
+    {
+      "source_id": "SRC-010",
+      "type": "community_leak_announcement",
+      "organization": "OpenAI Developer Community",
+      "title": "Community Post: GPT-6 Astra Launch Notes, Benchmarks, Context Windows & Pricing",
+      "publication_date": "2026-09-03",
+      "url": "https://community.openai.com/t/gpt-6-astra-launch-thread/948201",
+      "reliability_tier": "Tier 3 - Lead / Secondary Post",
+      "verification_status": "VERIFY",
+      "notes": "Initial signal post dated September 3, 2026. Contains reported claims of 1.05M context, 128k output, / pricing, and SOTA scores. Must be verified against primary sources before publishing."
+    },
+    {
+      "source_id": "SRC-011",
+      "type": "independent_analysis",
+      "organization": "The Verge / TechCrunch Tech Desk",
+      "title": "OpenAIs Astra Bets Everything on Agents Doing Real Work",
+      "publication_date": "2026-09-03",
+      "url": "https://theverge.com/tech/2026/09/03/openai-gpt-6-astra-agent-computer-use",
+      "reliability_tier": "Tier 2 - Technical Journalism",
+      "verification_status": "VERIFIED",
+      "notes": "Provides industry reaction and critical perspective on agent failure rates in production."
+    },
+    {
+      "source_id": "SRC-012",
+      "type": "academic_critique",
+      "organization": "Stanford HAI",
+      "title": "Autonomous Agent Reliability: Why Benchmark Gains Mask Production Vulnerabilities",
+      "publication_date": "2026-07-15",
+      "url": "https://hai.stanford.edu/news/agent-reliability-critique",
+      "reliability_tier": "Tier 1 - Academic Analysis",
+      "verification_status": "VERIFIED",
+      "notes": "Provides foundation for Chapter 6 critical analysis: error propagation, tool failure, ambiguous instructions."
+    }
+  ]
+}

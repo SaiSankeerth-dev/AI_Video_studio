@@ -1,0 +1,42 @@
+{
+  "title": "The AI Agents That Are Starting to Work Without Us",
+  "total_duration": 525.0,
+  "total_chapters": 7,
+  "total_scenes": 30,
+  "total_shots": 61,
+  "shots_by_visual_type": {
+    "BLENDER_3D": 7,
+    "AI_IMAGE": 14,
+    "CODE_VISUALIZATION": 4,
+    "AI_VIDEO": 6,
+    "ARCHIVAL_FOOTAGE": 4,
+    "DOCUMENT": 6,
+    "DATA_GRAPHIC": 6,
+    "TEXTURE_BROLL": 2,
+    "DIAGRAM": 4,
+    "SCREEN_CAPTURE": 5,
+    "TIMELINE": 1,
+    "NETWORK_GRAPH": 1,
+    "NEWS_CLIP": 1
+  },
+  "AI_image_count": 14,
+  "AI_video_count": 6,
+  "Blender_shot_count": 7,
+  "archival_count": 4,
+  "graphic_count": 16,
+  "document_count": 6,
+  "estimated_narration_words": 1232,
+  "average_wpm": 140.8,
+  "estimated_render_complexity": "HIGH (7 Blender Cycles 3D photorealistic shots + 6 Runway Gen-3 AI Video generations + 14 Gemini Photorealistic Reenactment plates + 16 Remotion data/code/diagram graphics + 6 Document zooms + 4 Archival footage clips + 5 Screen captures + 2 Texture B-roll + 1 News clip)",
+  "qa_audit": {
+    "visual_repetition_max_streak": 1,
+    "visual_repetition_violations": 0,
+    "timeline_continuity": "PERFECT_SYNCHRONIZATION (0.0s to 525.0s continuous)",
+    "fact_grounding": "100% CLAIMS SUPPORTED (CLM-01 to CLM-05 linked to SRC-01 to SRC-05 across all 28 claimed shots with Section 17 evidence structures)",
+    "spoken_pacing": "100% OF SEGMENTS COMPLIANT (130-160 WPM range verified across all 30 segments)",
+    "blender_specifications": "100% COMPLIANT (All 12 Section 14 fields present across all 7 Blender shots)",
+    "shot_design_specifications": "100% COMPLIANT (All 23 Section 9 fields present across all 61 shots)",
+    "assumptions_marked": "5 explicit ASSUMPTION tags registered per Section 2",
+    "overall_status": "APPROVED_FOR_PRODUCTION"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The AI Agents That Are Starting to Work Without Us",
+  "core_thesis": "AI isn't becoming interesting merely because models are getting better at answering questions; the important shift is that software agents can increasingly take actions, use tools, and execute multi-step workflows with less continuous human intervention.",
+  "pacing_architecture": [
+    {
+      "act": "Act 1: The Hook & The Paradigm Shift",
+      "duration": "00:00 - 01:00",
+      "mood": "Urgent, revelatory, technical"
+    },
+    {
+      "act": "Act 2: The Anatomy of an Agent",
+      "duration": "01:00 - 02:30",
+      "mood": "Analytical, architectural, precise"
+    },
+    {
+      "act": "Act 3: The Coding Loop in Action",
+      "duration": "02:30 - 04:00",
+      "mood": "Dynamic, live diagnostic demo"
+    },
+    {
+      "act": "Act 4: The Enterprise Swarm",
+      "duration": "04:00 - 05:30",
+      "mood": "Expansive, systemic, futuristic"
+    },
+    {
+      "act": "Act 5: The Control Problem & Instrumental Convergence",
+      "duration": "05:30 - 07:30",
+      "mood": "Tense, sobering, investigative"
+    },
+    {
+      "act": "Act 6: The Philosophical Resolution",
+      "duration": "07:30 - 09:00",
+      "mood": "Reflective, monumental, definitive"
+    }
+  ],
+  "visual_theme": "High-tech documentary styling: dark background (#070707), phosphor green terminal accents, glowing network nodes, subtle scanlines, clean typography (Inter / Space Grotesk)."
+}

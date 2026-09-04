@@ -1,0 +1,49 @@
+{
+  "episode_id": "video-002",
+  "total_frames": 4758,
+  "duration_seconds": 158.6,
+  "checks": {
+    "resolution_1080p": true,
+    "fps_30": true,
+    "has_voiceover": true,
+    "has_music": true,
+    "has_captions": true
+  },
+  "visual_repetition": {
+    "archetype_distribution": {
+      "SOC_OPERATIONS": 2,
+      "SECURITY_DASHBOARD": 1,
+      "CODE_EXFILTRATION": 1,
+      "TERMINAL_PROMPT": 1,
+      "TELEPHONE_CLOSEUP": 3,
+      "TITLE_TYPOGRAPHY": 1,
+      "DATA_CENTER": 1,
+      "HUMAN_DIAGRAM": 1,
+      "PRETEXT_DIAGRAM": 1,
+      "DOCUMENT_EVIDENCE": 3,
+      "HUMAN_OPERATOR": 1,
+      "NETWORK_CASCADE": 1,
+      "TELECOM_VAULT": 2,
+      "SILICON_MICROCODE": 1,
+      "LEGAL_CASE_EVIDENCE": 1,
+      "BOOK_CITATION": 1,
+      "ZERO_TRUST_DIAGRAM": 1,
+      "FINAL_EPILOGUE_QUOTE": 1
+    },
+    "violations": [],
+    "score": "EXCELLENT"
+  },
+  "verdict": "PASS",
+  "final_master_verification": {
+    "file": "final/master-video.mp4",
+    "duration_seconds": 158.656,
+    "resolution": "1920x1080",
+    "fps": 30,
+    "size_bytes": 61693493,
+    "status": "PASS",
+    "topic": "Kevin Mitnick & The Social Engineering Revolution",
+    "aesthetic_style": "Fern-Style Investigative Tech Documentary (8K photorealistic motion B-roll, deep baritone voice, clean normal subtitles, tactile analog SFX)",
+    "sound_design": "Ducked analog tape drone + authentic phone ring + relay click SFX",
+    "source_verification": "100% verified against DOJ court records, The Art of Deception (2002), and Takedown (1996)"
+  }
+}

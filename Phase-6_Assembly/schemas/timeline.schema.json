@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MontaraTimelineIR",
+  "type": "object",
+  "properties": {
+    "episode_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "fps": {
+      "type": "integer"
+    },
+    "resolution": {
+      "type": "object",
+      "properties": {
+        "width": {
+          "type": "integer"
+        },
+        "height": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "width",
+        "height"
+      ]
+    },
+    "total_frames": {
+      "type": "integer"
+    },
+    "total_seconds": {
+      "type": "number"
+    },
+    "tracks": {
+      "type": "object",
+      "properties": {
+        "video": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "clip_id": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "real_footage",
+                  "blender_3d",
+                  "motion_graphics",
+                  "broll_motion"
+                ]
+              },
+              "source_file": {
+                "type": "string"
+              },
+              "start_frame": {
+                "type": "integer"
+              },
+              "duration_frames": {
+                "type": "integer"
+              },
+              "visual_archetype": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "clip_id",
+              "type",
+              "start_frame",
+              "duration_frames",
+              "visual_archetype"
+            ]
+          }
+        },
+        "voiceover": {
+          "type": "array"
+        },
+        "music": {
+          "type": "array"
+        },
+        "sfx": {
+          "type": "array"
+        },
+        "graphics": {
+          "type": "array"
+        },
+        "captions": {
+          "type": "array"
+        }
+      },
+      "required": [
+        "video",
+        "voiceover",
+        "music",
+        "sfx",
+        "graphics",
+        "captions"
+      ]
+    }
+  },
+  "required": [
+    "episode_id",
+    "title",
+    "fps",
+    "total_frames",
+    "tracks"
+  ]
+}

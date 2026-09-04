@@ -1,0 +1,12 @@
+SOURCES & EVIDENCE DOSSIER (VIDEO-003):
+1. OpenAI GPT-6 Astra Announcement (SRC-001) - https://openai.com/index/gpt-6-astra [VERIFY]
+2. OpenAI Astra System Card (SRC-002) - https://openai.com/research/gpt-6-astra-system-card.pdf [VERIFY]
+3. OpenAI Computer Use API Spec (SRC-003) - https://platform.openai.com/docs/models/gpt-6-astra [VERIFY]
+4. Empirical Benchmark Evaluations (SRC-004) - https://openai.com/research/astra-evals [VERIFY]
+5. Epoch AI FrontierMath Benchmark (SRC-005) - https://epochai.org/frontiermath [VERIFIED]
+6. François Chollet ARC-AGI Benchmark (SRC-006) - https://arcprize.org [VERIFIED]
+7. Center for AI Safety Agents' Last Exam (SRC-007) - https://agi.safe.ai/agents-last-exam [VERIFIED]
+8. ScreenSpot Pro Desktop Grounding Benchmark (SRC-008) - https://screenspot.github.io [VERIFIED]
+9. TerminalBench Working Group (SRC-009) - https://terminalbench.org [VERIFIED]
+10. OpenAI Developer Community Launch Thread (SRC-010) [VERIFY]
+11. Technical Journalism & Autonomous Agent Post-Mortems (SRC-011, SRC-012) [VERIFIED]

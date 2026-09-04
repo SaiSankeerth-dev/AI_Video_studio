@@ -1,8 +1,46 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
+# Environment & API keys (STRICT - NEVER COMMIT SECRETS)
 .env
+*.env
+.env.*
+**/.env
+**/*.env
+!.env.example
+!**/.env.example
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+**/.pytest_cache/
+.deepeval/
+**/.deepeval/
+venv/
+.venv/
+
+# Node & Remotion
+node_modules/
+**/node_modules/
+out/
+**/out/
+dist/
+**/dist/
+build/
+**/build/
+.remotion/
+**/.remotion/
+.cache/
+**/.cache/
+
+# Heavy Renders & Binary Media (>50MB)
+*.blend1
+*.blend2
 *.zip
-*.bundle
-capcut_build/
+*.tar.gz
+*.mp4
+*.part
+projects/**/remotion/renders/
+production/exports/*.mp4
+projects/**/final/*.mp4

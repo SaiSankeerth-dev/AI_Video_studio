@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryShotPlanSchema",
+  "type": "object",
+  "required": ["project_id", "total_shots", "total_duration_seconds", "shots"],
+  "properties": {
+    "project_id": { "type": "string" },
+    "total_shots": { "type": "integer" },
+    "total_duration_seconds": { "type": "number" },
+    "shots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "shot_id",
+          "start",
+          "duration",
+          "narration",
+          "purpose",
+          "visual_type",
+          "subject",
+          "action",
+          "camera",
+          "transition_in",
+          "transition_out",
+          "audio"
+        ],
+        "properties": {
+          "shot_id": { "type": "string" },
+          "start": { "type": "number" },
+          "duration": { "type": "number" },
+          "narration": { "type": "string" },
+          "purpose": { "type": "string" },
+          "visual_type": {
+            "enum": [
+              "REAL_FOOTAGE",
+              "ARCHIVAL_FOOTAGE",
+              "AI_CINEMATIC_IMAGE",
+              "AI_VIDEO",
+              "SCREEN_RECORDING",
+              "SCREEN_RECONSTRUCTION",
+              "DOCUMENT",
+              "PHOTO",
+              "MAP",
+              "3D_BLENDER",
+              "MOTION_GRAPHICS",
+              "DATA_VISUALIZATION",
+              "UI_ANIMATION",
+              "KINETIC_TYPOGRAPHY",
+              "DIAGRAM",
+              "ENVIRONMENT_SHOT",
+              "HUMAN_SCENE",
+              "OBJECT_MACRO",
+              "ABSTRACT_TRANSITION"
+            ]
+          },
+          "subject": { "type": "string" },
+          "action": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "camera": {
+            "type": "object",
+            "required": ["movement", "framing"],
+            "properties": {
+              "movement": { "type": "string" },
+              "framing": { "type": "string" }
+            }
+          },
+          "transition_in": { "type": "string" },
+          "transition_out": { "type": "string" },
+          "audio": {
+            "type": "object",
+            "required": ["music", "sfx"],
+            "properties": {
+              "music": { "type": "string" },
+              "sfx": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          },
+          "asset_path": { "type": "string" },
+          "remotion_component": { "type": "string" }
+        }
+      }
+    }
+  }
+}

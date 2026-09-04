@@ -1,0 +1,5 @@
+[app]
+llm_provider = "gemini"
+gemini_model_name = "gemini-2.5-flash"
+subtitle_provider = "edge"
+video_codec = "libx264"

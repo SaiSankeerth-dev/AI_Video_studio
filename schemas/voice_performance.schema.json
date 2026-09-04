@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "VoicePerformanceSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "narration_id",
+      "line",
+      "delivery",
+      "pace",
+      "pause_before_ms",
+      "pause_after_ms",
+      "emphasis",
+      "energy",
+      "emotion"
+    ],
+    "properties": {
+      "narration_id": { "type": "string" },
+      "line": { "type": "string" },
+      "delivery": { "type": "string" },
+      "pace": { "type": "number", "minimum": 0.5, "maximum": 1.5 },
+      "pause_before_ms": { "type": "integer", "minimum": 0 },
+      "pause_after_ms": { "type": "integer", "minimum": 0 },
+      "emphasis": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "energy": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+      "emotion": {
+        "enum": [
+          "NEUTRAL", "CURIOUS", "INTRIGUED", "TENSE", "EXCITED",
+          "CONCERNED", "SKEPTICAL", "SHOCKED", "REFLECTIVE", "URGENT"
+        ]
+      },
+      "audio_file": { "type": "string" },
+      "critic_score": { "type": "number" }
+    }
+  }
+}

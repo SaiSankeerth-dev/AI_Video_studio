@@ -1,0 +1,159 @@
+{
+  "project_id": "astra_benchmark_90s",
+  "selected_package_id": "PACKAGE_B",
+  "packages": [
+    {
+      "package_id": "PACKAGE_A",
+      "title": "GPT-6 Astra Changes What a Computer Can Do",
+      "thumbnail_file": "production/packaging/thumbnail_concept_a.png",
+      "thumbnail_text": "IT CAN USE YOUR PC",
+      "pairing_philosophy": "Title provides authoritative technical framing; thumbnail creates immediate personal curiosity.",
+      "description": "What happens when artificial intelligence stops waiting for human instructions and starts navigating operating systems on its own? In this investigative technical documentary, we examine OpenAI's GPT-6 Astra\u2014inspecting primary source documentation, verified OSWorld 2.0 benchmark telemetry (72.6%), live closed-loop terminal debugging, and the critical cybersecurity implications disclosed in OpenAI's safety assessment.\n\n0:00 - The Silent Workstation\n0:15 - Astra Takes the Helm\n0:31 - The Paradigm Shift\n0:40 - The Empirical Evidence\n0:55 - Closed-Loop Self-Correction\n1:10 - Critical Cybersecurity Threshold\n1:22 - Who's Actually in Control?\n\nSources & Primary Evidence:\n- OpenAI GPT-6 Astra Foundation Announcement (Sept 3, 2026)\n- OSWorld 2.0 Benchmark Technical Evaluation Report\n- OpenAI Preparedness Safety Overview: Frontier Risk in Astra",
+      "chapters": [
+        {
+          "timestamp": "0:00",
+          "title": "The Silent Workstation (2:13 AM)"
+        },
+        {
+          "timestamp": "0:15",
+          "title": "Astra Takes the Helm"
+        },
+        {
+          "timestamp": "0:31",
+          "title": "The Paradigm Shift: Tool vs Environment"
+        },
+        {
+          "timestamp": "0:40",
+          "title": "OSWorld 2.0 Hard Evidence (72.6%)"
+        },
+        {
+          "timestamp": "0:55",
+          "title": "Live Terminal Failure & Auto-Patch"
+        },
+        {
+          "timestamp": "1:10",
+          "title": "OpenAI Safety: Critical Cyber Threshold"
+        },
+        {
+          "timestamp": "1:22",
+          "title": "The Unanswered Question"
+        }
+      ],
+      "tags": [
+        "GPT-6 Astra",
+        "OpenAI",
+        "Autonomous Agents",
+        "Computer Use AI",
+        "OSWorld Benchmark",
+        "AI Cybersecurity",
+        "Software Engineering Automation",
+        "Technical Documentary",
+        "Fern Style Documentary",
+        "Investigative Tech"
+      ],
+      "ctr_potential_score": 91.5
+    },
+    {
+      "package_id": "PACKAGE_B",
+      "title": "The AI That Doesn't Need You at the Keyboard",
+      "thumbnail_file": "production/packaging/thumbnail_concept_b.png",
+      "thumbnail_text": "WHO'S IN CONTROL?",
+      "pairing_philosophy": "High dramatic tension pairing: philosophical question in thumbnail backed by chilling reality in title.",
+      "description": "What happens when artificial intelligence stops waiting for human instructions and starts navigating operating systems on its own? In this investigative technical documentary, we examine OpenAI's GPT-6 Astra\u2014inspecting primary source documentation, verified OSWorld 2.0 benchmark telemetry (72.6%), live closed-loop terminal debugging, and the critical cybersecurity implications disclosed in OpenAI's safety assessment.\n\n0:00 - The Silent Workstation\n0:15 - Astra Takes the Helm\n0:31 - The Paradigm Shift\n0:40 - The Empirical Evidence\n0:55 - Closed-Loop Self-Correction\n1:10 - Critical Cybersecurity Threshold\n1:22 - Who's Actually in Control?\n\nSources & Primary Evidence:\n- OpenAI GPT-6 Astra Foundation Announcement (Sept 3, 2026)\n- OSWorld 2.0 Benchmark Technical Evaluation Report\n- OpenAI Preparedness Safety Overview: Frontier Risk in Astra",
+      "chapters": [
+        {
+          "timestamp": "0:00",
+          "title": "The Silent Workstation (2:13 AM)"
+        },
+        {
+          "timestamp": "0:15",
+          "title": "Astra Takes the Helm"
+        },
+        {
+          "timestamp": "0:31",
+          "title": "The Paradigm Shift: Tool vs Environment"
+        },
+        {
+          "timestamp": "0:40",
+          "title": "OSWorld 2.0 Hard Evidence (72.6%)"
+        },
+        {
+          "timestamp": "0:55",
+          "title": "Live Terminal Failure & Auto-Patch"
+        },
+        {
+          "timestamp": "1:10",
+          "title": "OpenAI Safety: Critical Cyber Threshold"
+        },
+        {
+          "timestamp": "1:22",
+          "title": "The Unanswered Question"
+        }
+      ],
+      "tags": [
+        "GPT-6 Astra",
+        "OpenAI",
+        "Autonomous Agents",
+        "Computer Use AI",
+        "OSWorld Benchmark",
+        "AI Cybersecurity",
+        "Software Engineering Automation",
+        "Technical Documentary",
+        "Fern Style Documentary",
+        "Investigative Tech"
+      ],
+      "ctr_potential_score": 96.0
+    },
+    {
+      "package_id": "PACKAGE_C",
+      "title": "Inside OpenAI's Autonomous Computer-Use Model",
+      "thumbnail_file": "production/packaging/thumbnail_concept_c.png",
+      "thumbnail_text": "IT DOES THE WORK",
+      "pairing_philosophy": "Direct journalistic breakdown angle emphasizing insider access.",
+      "description": "What happens when artificial intelligence stops waiting for human instructions and starts navigating operating systems on its own? In this investigative technical documentary, we examine OpenAI's GPT-6 Astra\u2014inspecting primary source documentation, verified OSWorld 2.0 benchmark telemetry (72.6%), live closed-loop terminal debugging, and the critical cybersecurity implications disclosed in OpenAI's safety assessment.\n\n0:00 - The Silent Workstation\n0:15 - Astra Takes the Helm\n0:31 - The Paradigm Shift\n0:40 - The Empirical Evidence\n0:55 - Closed-Loop Self-Correction\n1:10 - Critical Cybersecurity Threshold\n1:22 - Who's Actually in Control?\n\nSources & Primary Evidence:\n- OpenAI GPT-6 Astra Foundation Announcement (Sept 3, 2026)\n- OSWorld 2.0 Benchmark Technical Evaluation Report\n- OpenAI Preparedness Safety Overview: Frontier Risk in Astra",
+      "chapters": [
+        {
+          "timestamp": "0:00",
+          "title": "The Silent Workstation (2:13 AM)"
+        },
+        {
+          "timestamp": "0:15",
+          "title": "Astra Takes the Helm"
+        },
+        {
+          "timestamp": "0:31",
+          "title": "The Paradigm Shift: Tool vs Environment"
+        },
+        {
+          "timestamp": "0:40",
+          "title": "OSWorld 2.0 Hard Evidence (72.6%)"
+        },
+        {
+          "timestamp": "0:55",
+          "title": "Live Terminal Failure & Auto-Patch"
+        },
+        {
+          "timestamp": "1:10",
+          "title": "OpenAI Safety: Critical Cyber Threshold"
+        },
+        {
+          "timestamp": "1:22",
+          "title": "The Unanswered Question"
+        }
+      ],
+      "tags": [
+        "GPT-6 Astra",
+        "OpenAI",
+        "Autonomous Agents",
+        "Computer Use AI",
+        "OSWorld Benchmark",
+        "AI Cybersecurity",
+        "Software Engineering Automation",
+        "Technical Documentary",
+        "Fern Style Documentary",
+        "Investigative Tech"
+      ],
+      "ctr_potential_score": 88.0
+    }
+  ]
+}

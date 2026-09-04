@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryNarrationSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "scene_id", "text", "spoken_text", "shot_id", "purpose", "claims"],
+    "properties": {
+      "id": { "type": "string" },
+      "scene_id": { "type": "string" },
+      "text": { "type": "string" },
+      "spoken_text": { "type": "string" },
+      "shot_id": { "type": "string" },
+      "purpose": { "type": "string" },
+      "claims": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "wpm": { "type": "number" },
+      "estimated_duration_seconds": { "type": "number" }
+    }
+  }
+}

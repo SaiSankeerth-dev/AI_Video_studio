@@ -1,0 +1,249 @@
+{
+  "title": "The Hacker Who Didn't Need Your Password",
+  "episode_id": "video-002",
+  "total_frames": 4758,
+  "total_seconds": 158.6,
+  "fps": 30,
+  "sentences": [
+    {
+      "id": "v01",
+      "text": "A corporate security team had done everything right.",
+      "audio_file": "audio/v02_sentences/v01.mp3",
+      "duration_seconds": 3.576,
+      "startFrame": 0,
+      "durationFrames": 113,
+      "visual_mode": "SOC_OPERATIONS",
+      "sfx": "ambient-hum"
+    },
+    {
+      "id": "v02",
+      "text": "Hardened firewalls, complex passwords, and round-the-clock intrusion monitoring.",
+      "audio_file": "audio/v02_sentences/v02.mp3",
+      "duration_seconds": 5.736,
+      "startFrame": 113,
+      "durationFrames": 178,
+      "visual_mode": "SECURITY_DASHBOARD",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v03",
+      "text": "And yet, an unauthorized intruder still walked away with proprietary source code.",
+      "audio_file": "audio/v02_sentences/v03.mp3",
+      "duration_seconds": 5.88,
+      "startFrame": 291,
+      "durationFrames": 182,
+      "visual_mode": "CODE_EXFILTRATION",
+      "sfx": "alert"
+    },
+    {
+      "id": "v04",
+      "text": "The strange part was that the attacker never wrote an exploit to breach their defenses.",
+      "audio_file": "audio/v02_sentences/v04.mp3",
+      "duration_seconds": 6.48,
+      "startFrame": 473,
+      "durationFrames": 200,
+      "visual_mode": "TERMINAL_PROMPT",
+      "sfx": null
+    },
+    {
+      "id": "v05",
+      "text": "He didn't attack the machine. He simply picked up a telephone.",
+      "audio_file": "audio/v02_sentences/v05.mp3",
+      "duration_seconds": 3.408,
+      "startFrame": 673,
+      "durationFrames": 108,
+      "visual_mode": "PHONE_CLOSEUP",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "v06",
+      "text": "This is the story of Kevin Mitnick and the revolution of social engineering.",
+      "audio_file": "audio/v02_sentences/v06.mp3",
+      "duration_seconds": 5.016,
+      "startFrame": 781,
+      "durationFrames": 156,
+      "visual_mode": "TITLE_CARD",
+      "sfx": "impact"
+    },
+    {
+      "id": "v07",
+      "text": "While security engineers spent millions fortifying software, Mitnick discovered an uncomfortable truth.",
+      "audio_file": "audio/v02_sentences/v07.mp3",
+      "duration_seconds": 7.272,
+      "startFrame": 937,
+      "durationFrames": 224,
+      "visual_mode": "ARCHITECTURE_MAP",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v08",
+      "text": "Computers execute logic deterministically, but humans are driven by trust, urgency, and helpfulness.",
+      "audio_file": "audio/v02_sentences/v08.mp3",
+      "duration_seconds": 7.872,
+      "startFrame": 1161,
+      "durationFrames": 242,
+      "visual_mode": "HUMAN_DIAGRAM",
+      "sfx": null
+    },
+    {
+      "id": "v09",
+      "text": "An attacker with the right pretext could convince an employee to hand over the keys voluntarily.",
+      "audio_file": "audio/v02_sentences/v09.mp3",
+      "duration_seconds": 6.216,
+      "startFrame": 1403,
+      "durationFrames": 192,
+      "visual_mode": "OFFICE_DESK_NIGHT",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v10",
+      "text": "Mitnick's methodology relied on a disciplined four-step cascading loop.",
+      "audio_file": "audio/v02_sentences/v10.mp3",
+      "duration_seconds": 5.136,
+      "startFrame": 1595,
+      "durationFrames": 160,
+      "visual_mode": "PRETEXT_FOUR_PILLARS",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v11",
+      "text": "First came information gathering: learning internal jargon, employee names, and department codes.",
+      "audio_file": "audio/v02_sentences/v11.mp3",
+      "duration_seconds": 6.384,
+      "startFrame": 1755,
+      "durationFrames": 198,
+      "visual_mode": "NOTEBOOK_RESEARCH",
+      "sfx": "keyboard"
+    },
+    {
+      "id": "v12",
+      "text": "Next came pretexting: calling a target under the guise of an IT engineer facing an urgent deadline.",
+      "audio_file": "audio/v02_sentences/v12.mp3",
+      "duration_seconds": 7.656,
+      "startFrame": 1953,
+      "durationFrames": 236,
+      "visual_mode": "TELEPHONE_CALL_REENACTMENT",
+      "sfx": "phone-ring"
+    },
+    {
+      "id": "v13",
+      "text": "By projecting calm authority and manufacturing time pressure, he bypassed critical suspicion.",
+      "audio_file": "audio/v02_sentences/v13.mp3",
+      "duration_seconds": 7.128,
+      "startFrame": 2189,
+      "durationFrames": 220,
+      "visual_mode": "OPERATOR_CONVERSATION",
+      "sfx": null
+    },
+    {
+      "id": "v14",
+      "text": "Once inside one department, he leveraged that initial credential to escalate access across the enterprise.",
+      "audio_file": "audio/v02_sentences/v14.mp3",
+      "duration_seconds": 7.68,
+      "startFrame": 2409,
+      "durationFrames": 236,
+      "visual_mode": "NETWORK_CASCADE_MAP",
+      "sfx": "impact"
+    },
+    {
+      "id": "v15",
+      "text": "Using nothing more than a telephone and social engineering, he compromised telecommunications titans.",
+      "audio_file": "audio/v02_sentences/v15.mp3",
+      "duration_seconds": 6.456,
+      "startFrame": 2645,
+      "durationFrames": 200,
+      "visual_mode": "PACIFIC_BELL_VAULT",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v16",
+      "text": "At Motorola, he obtained the core microcode for next-generation wireless communications.",
+      "audio_file": "audio/v02_sentences/v16.mp3",
+      "duration_seconds": 6.264,
+      "startFrame": 2845,
+      "durationFrames": 194,
+      "visual_mode": "SILICON_MICROCODE",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v17",
+      "text": "At Digital Equipment Corporation, he acquired the crown-jewel operating system source code.",
+      "audio_file": "audio/v02_sentences/v17.mp3",
+      "duration_seconds": 5.616,
+      "startFrame": 3039,
+      "durationFrames": 174,
+      "visual_mode": "DEC_MAINFRAME",
+      "sfx": "impact"
+    },
+    {
+      "id": "v18",
+      "text": "By the early nineteen-nineties, Mitnick was the most wanted cyber fugitive in American history.",
+      "audio_file": "audio/v02_sentences/v18.mp3",
+      "duration_seconds": 6.048,
+      "startFrame": 3213,
+      "durationFrames": 187,
+      "visual_mode": "FBI_MANHUNT_DOSSIER",
+      "sfx": "alert"
+    },
+    {
+      "id": "v19",
+      "text": "On February fifteenth, nineteen ninety-five, federal agents raided his apartment in Raleigh, North Carolina.",
+      "audio_file": "audio/v02_sentences/v19.mp3",
+      "duration_seconds": 7.824,
+      "startFrame": 3400,
+      "durationFrames": 241,
+      "visual_mode": "ARREST_RECONSTRUCTION",
+      "sfx": "impact"
+    },
+    {
+      "id": "v20",
+      "text": "His capture triggered intense national debate over the boundaries of digital defense and human psychology.",
+      "audio_file": "audio/v02_sentences/v20.mp3",
+      "duration_seconds": 7.464,
+      "startFrame": 3641,
+      "durationFrames": 230,
+      "visual_mode": "DOCUMENT_EVIDENCE_DOJ",
+      "sfx": null
+    },
+    {
+      "id": "v21",
+      "text": "After serving five years in prison, Mitnick redirected his expertise toward defensive security.",
+      "audio_file": "audio/v02_sentences/v21.mp3",
+      "duration_seconds": 6.912,
+      "startFrame": 3871,
+      "durationFrames": 213,
+      "visual_mode": "CONSULTING_DEFCON",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "v22",
+      "text": "His seminal work, The Art of Deception, transformed enterprise security training forever.",
+      "audio_file": "audio/v02_sentences/v22.mp3",
+      "duration_seconds": 6.984,
+      "startFrame": 4084,
+      "durationFrames": 216,
+      "visual_mode": "BOOK_ART_OF_DECEPTION",
+      "sfx": "impact"
+    },
+    {
+      "id": "v23",
+      "text": "Today, multi-factor authentication and zero-trust architectures exist because of these hard-learned lessons.",
+      "audio_file": "audio/v02_sentences/v23.mp3",
+      "duration_seconds": 7.176,
+      "startFrame": 4300,
+      "durationFrames": 221,
+      "visual_mode": "ZERO_TRUST_DIAGRAM",
+      "sfx": "terminal-beep"
+    },
+    {
+      "id": "v24",
+      "text": "The greatest lesson of Kevin Mitnick remains clear: the password was never the real target\u2014trust was.",
+      "audio_file": "audio/v02_sentences/v24.mp3",
+      "duration_seconds": 7.704,
+      "startFrame": 4521,
+      "durationFrames": 237,
+      "visual_mode": "FINAL_EPILOGUE_QUOTE",
+      "sfx": "impact"
+    }
+  ]
+}

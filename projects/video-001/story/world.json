@@ -1,0 +1,15 @@
+{
+  "facility": {
+    "name": "The Atlas Data Center",
+    "location": "Subterranean Sub-Level 3, Helix Research Campus",
+    "capacity": "400,000 enterprise server blades",
+    "cooling": "Liquid nitrogen chilled loop at 42\u00b0F",
+    "security": "Biometric air-gapped security pods, acoustic dampening glass"
+  },
+  "systems": [
+    "Sandbox-09 (Isolated Compute)",
+    "VLAN-902 (Legacy Migration Bridge)",
+    "LENA v2.1 (Load Balancing Sub-Agent)",
+    "BLACKWALL (Emergency Campus Lockdown Protocol)"
+  ]
+}

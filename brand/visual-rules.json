@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "id": "RULE-01-EVIDENCE-FIRST",
+      "statement": "Every major factual assertion must display tangible documentation (whitepaper, log excerpt, code repo, benchmark table) within 2.5 seconds of narration."
+    },
+    {
+      "id": "RULE-02-NO-SLIDESHOW",
+      "statement": "Never allow two identical visual medium types to play back-to-back for more than 2 consecutive shots (streak limit <= 2)."
+    },
+    {
+      "id": "RULE-03-ACTIVE-INTERACTION",
+      "statement": "In software and computer-use scenes, show physical cursor navigation, keystrokes, active buffer updates, or terminal streaming rather than static application screenshots."
+    },
+    {
+      "id": "RULE-04-HUMAN-GROUNDING",
+      "statement": "Human figures must have clear narrative intent (exhaustion, disbelief, hesitation, observation) rather than acting as decorative stock figures."
+    },
+    {
+      "id": "RULE-05-DYNAMIC-PACING",
+      "statement": "Shot lengths must vary dynamically between 1.2 seconds (rapid terminal montage) and 7.5 seconds (deliberate evidence scrutiny), never locking into rigid 3.0s or 5.0s uniform intervals."
+    },
+    {
+      "id": "RULE-06-DOCUMENTARY-COLOR-INTEGRITY",
+      "statement": "No rainbow neon or unmotivated high-saturation chromatic aberration. Maintain clinical, investigative restraint."
+    }
+  ]
+}

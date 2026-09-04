@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ShotPlan",
+  "type": "object",
+  "properties": {
+    "project": {
+      "type": "string"
+    },
+    "shots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "shot_id": {
+            "type": "string"
+          },
+          "duration_seconds": {
+            "type": "number"
+          },
+          "environment": {
+            "type": "string"
+          },
+          "camera_movement": {
+            "type": "string"
+          },
+          "lighting": {
+            "type": "string"
+          },
+          "focal_length": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "shot_id",
+          "duration_seconds",
+          "environment",
+          "camera_movement"
+        ]
+      }
+    }
+  }
+}

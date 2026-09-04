@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryResearchSchema",
+  "type": "object",
+  "required": ["topic", "research_date", "investigative_thesis", "sources", "claims", "evidence_artifacts"],
+  "properties": {
+    "topic": { "type": "string" },
+    "research_date": { "type": "string" },
+    "investigative_thesis": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "title", "url", "author", "date", "source_tier"],
+        "properties": {
+          "source_id": { "type": "string" },
+          "title": { "type": "string" },
+          "url": { "type": "string" },
+          "author": { "type": "string" },
+          "date": { "type": "string" },
+          "source_tier": { "enum": ["TIER_1_PRIMARY", "TIER_2_OFFICIAL", "TIER_3_ANALYSIS", "TIER_4_LEAK"] }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim_id", "claim", "source_id", "confidence", "quote", "visual_evidence_type"],
+        "properties": {
+          "claim_id": { "type": "string" },
+          "claim": { "type": "string" },
+          "source_id": { "type": "string" },
+          "confidence": { "enum": ["VERIFIED", "LIKELY", "DISPUTED", "UNKNOWN", "FALSE"] },
+          "quote": { "type": "string" },
+          "visual_evidence_type": { "type": "string" },
+          "counter_evidence": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "evidence_artifacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["artifact_id", "type", "description", "file_path", "source_claim_id"],
+        "properties": {
+          "artifact_id": { "type": "string" },
+          "type": { "enum": ["PDF_PAGE", "SCREENSHOT", "CODE_DIFF", "DATA_TABLE", "TERMINAL_LOG"] },
+          "description": { "type": "string" },
+          "file_path": { "type": "string" },
+          "source_claim_id": { "type": "string" }
+        }
+      }
+    }
+  }
+}

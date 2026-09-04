@@ -1,0 +1,47 @@
+{
+  "footage_clips": [
+    {
+      "clip_id": "FTG-ARCH-01",
+      "category": "ARCHIVE",
+      "filename": "archive/early_llm_chatbot_prompts_2023.mp4",
+      "resolution": "1080p",
+      "fps": 30,
+      "duration_seconds": 12.5,
+      "description": "Historical capture of early 2023 single-turn prompt-response interface",
+      "claim_ids": [
+        "CLM-01"
+      ],
+      "license": "DOCUMENTARY_FAIR_USE",
+      "verified": true
+    },
+    {
+      "clip_id": "FTG-STOCK-01",
+      "category": "STOCK",
+      "filename": "stock/hyperscale_datacenter_corridor_slow_push.mp4",
+      "resolution": "4K_DOWNSCALED_1080P",
+      "fps": 30,
+      "duration_seconds": 18.0,
+      "description": "Tier IV datacenter server rack corridor with cyan status LEDs",
+      "claim_ids": [
+        "CLM-02"
+      ],
+      "license": "COMMERCIAL_UNLIMITED",
+      "verified": true
+    },
+    {
+      "clip_id": "FTG-BROLL-01",
+      "category": "SOURCE_FOOTAGE",
+      "filename": "source-clips/terminal_segfault_remediation.mp4",
+      "resolution": "1080p",
+      "fps": 30,
+      "duration_seconds": 14.2,
+      "description": "Recorded screen capture of autonomous unit test repair in sandboxed container",
+      "claim_ids": [
+        "CLM-02",
+        "CLM-05"
+      ],
+      "license": "ORIGINAL_PRODUCTION",
+      "verified": true
+    }
+  ]
+}

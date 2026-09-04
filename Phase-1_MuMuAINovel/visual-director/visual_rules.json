@@ -1,0 +1,53 @@
+{
+  "max_consecutive_same_visual_type": 2,
+  "visual_mediums": [
+    "ARCHIVAL_FOOTAGE",
+    "REAL_FOOTAGE",
+    "PHOTOGRAPH",
+    "AI_IMAGE",
+    "AI_VIDEO",
+    "BLENDER_3D",
+    "MAP",
+    "SATELLITE_MAP",
+    "DOCUMENT",
+    "SCREEN_CAPTURE",
+    "NEWS_CLIP",
+    "INTERVIEW",
+    "QUOTE_CARD",
+    "DATA_GRAPHIC",
+    "TIMELINE",
+    "DIAGRAM",
+    "CODE_VISUALIZATION",
+    "NETWORK_GRAPH",
+    "UI_RECONSTRUCTION",
+    "MOTION_GRAPHIC",
+    "TEXTURE_BROLL",
+    "ABSTRACT_TRANSITION"
+  ],
+  "pacing_guidelines": {
+    "high_information_density": {"min_seconds": 1.2, "max_seconds": 2.5, "cut_style": "hard_cut"},
+    "major_reveal": {"min_seconds": 4.0, "max_seconds": 6.5, "cut_style": "slow_push"},
+    "evidence_reading": {"min_seconds": 4.5, "max_seconds": 7.0, "cut_style": "forensic_zoom"},
+    "emotional_beat": {"min_seconds": 4.0, "max_seconds": 8.0, "cut_style": "slow_drift"},
+    "transitional_broll": {"min_seconds": 1.5, "max_seconds": 3.0, "cut_style": "motion_blur_cut"}
+  },
+  "camera_standards": {
+    "establishing": {"lens": "24mm f/2.8", "movement": "slow forward dolly push"},
+    "character_observation": {"lens": "50mm f/1.8", "movement": "subtle drift with parallax"},
+    "detail_macro": {"lens": "100mm f/2.8 macro", "movement": "lateral rack focus track"},
+    "architectural_scale": {"lens": "18mm architectural tilt-shift", "movement": "low-angle rising pedestal"}
+  },
+  "lighting_temperatures": {
+    "subterranean_industrial": "4500K fluorescent with 480nm cyan LED indicators",
+    "observation_pod": "3200K tungsten desk task lamp against dark OLED display glow",
+    "corporate_campus": "5600K overcast daylight through floor-to-ceiling glass"
+  },
+  "forbidden_artifacts": [
+    "text artifacts on AI images",
+    "warped keyboard geometry",
+    "extra fingers or floating hands",
+    "oversaturated neon cyber-slop",
+    "impossible architectural vanishing points",
+    "consecutive visual repeats exceeding 2 shots"
+  ]
+}

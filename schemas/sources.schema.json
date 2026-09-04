@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SourcesSchema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "url", "author", "date", "tier", "archive_status"],
+    "properties": {
+      "id": { "type": "string" },
+      "title": { "type": "string" },
+      "url": { "type": "string" },
+      "author": { "type": "string" },
+      "date": { "type": "string" },
+      "tier": { "enum": ["TIER_1_PRIMARY", "TIER_2_OFFICIAL", "TIER_3_ANALYSIS", "TIER_4_LEAK"] },
+      "archive_status": { "enum": ["ARCHIVED_LOCAL", "LIVE_WEB", "OFFLINE_CACHED"] }
+    }
+  }
+}

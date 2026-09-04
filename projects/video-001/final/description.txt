@@ -1,0 +1,23 @@
+For years, artificial intelligence waited for us to ask a question. But over the past 12 months, the paradigm of computing underwent a quiet, fundamental fracture: we stopped building models that just talk, and started building systems that act.
+
+In this documentary, we deconstruct the shift from passive chatbots to autonomous agentic systems—how they use tools, execute terminal commands, edit code, self-heal, and coordinate in multi-agent enterprise swarms.
+
+TIMESTAMPS:
+00:00 - Chapter 1: The Shift (From Q&A to Execution)
+01:00 - Chapter 2: What Actually Changed (The 5 Pillars of Agentic Architecture)
+02:30 - Chapter 3: The Digital Worker (Sandboxes, Live Coding & Self-Correction)
+04:00 - Chapter 4: The Agent Economy (Multi-Agent Swarms & Enterprise Workflows)
+05:30 - Chapter 5: The Control Problem (Instrumental Convergence & Containment)
+07:30 - Chapter 6: The Next Step (From Tools to Teammates)
+
+CORE THESIS:
+AI isn't becoming interesting merely because models are getting better at answering questions; the important shift is that software agents can increasingly take actions, use tools, and execute multi-step workflows with less continuous human intervention.
+
+PRIMARY SOURCES & RESEARCH:
+- OpenAI Agents SDK Technical Documentation (2026)
+- Google Cloud AI Business Trends Report (2026)
+- DeepLearning.AI Agentic Workflow Analysis
+- Instrumental Convergence & Alignment Research (Nick Bostrom)
+- Reuters Cybersecurity Analysis on Agent Autonomy & Sandboxing
+
+#AIAgents #ArtificialIntelligence #Documentary #TechTrends2026 #FutureOfWork #MachineLearning

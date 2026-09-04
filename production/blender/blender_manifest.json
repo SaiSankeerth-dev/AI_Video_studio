@@ -1,0 +1,15 @@
+{
+  "engine": "Blender 4.x / EEVEE Next",
+  "blueprints": [
+    {
+      "shot": "SH-06",
+      "script": "D:\\gitM\\01_ContentFactory\\production\\blender\\render_sh06_neural_lattice.py",
+      "status": "COMPILED"
+    },
+    {
+      "shot": "SH-16",
+      "script": "D:\\gitM\\01_ContentFactory\\production\\blender\\render_sh16_server_infrastructure.py",
+      "status": "COMPILED"
+    }
+  ]
+}

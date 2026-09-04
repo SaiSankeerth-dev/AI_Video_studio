@@ -1,0 +1,422 @@
+{
+  "total_assets_evaluated": 18,
+  "accepted_count": 18,
+  "overall_average_score": 9.48,
+  "verdict": "PASS",
+  "evaluations": [
+    {
+      "shot_id": "SH-01",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-01_dark_workstation_office.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.44,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.1,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 59593,
+        "unique_colors": 1245,
+        "stddev": 13.12
+      }
+    },
+    {
+      "shot_id": "SH-02",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-02_exhausted_engineer_hands.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.45,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.2,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 22316,
+        "unique_colors": 597,
+        "stddev": 17.12
+      }
+    },
+    {
+      "shot_id": "SH-03",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-03_desktop_monitor_cursor.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.46,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.1,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 25192,
+        "unique_colors": 584,
+        "stddev": 11.8
+      }
+    },
+    {
+      "shot_id": "SH-04",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-04_browser_application.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 64486,
+        "unique_colors": 1652,
+        "stddev": 24.7
+      }
+    },
+    {
+      "shot_id": "SH-05",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-05_multi-window_OS_desktop.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 92091,
+        "unique_colors": 2991,
+        "stddev": 25.02
+      }
+    },
+    {
+      "shot_id": "SH-06",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-06_spatial_desktop_window_l.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.48,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 62689,
+        "unique_colors": 614,
+        "stddev": 25.32
+      }
+    },
+    {
+      "shot_id": "SH-07",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-07_black_screen_typography.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.48,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 15761,
+        "unique_colors": 376,
+        "stddev": 19.79
+      }
+    },
+    {
+      "shot_id": "SH-08",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-08_cyan_accented_kinetic_te.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.44,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.1,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 13580,
+        "unique_colors": 370,
+        "stddev": 9.91
+      }
+    },
+    {
+      "shot_id": "SH-09",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-09_OSWorld_2.0_Technical_Re.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 104811,
+        "unique_colors": 1898,
+        "stddev": 114.65
+      }
+    },
+    {
+      "shot_id": "SH-10",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-10_benchmark_data_row_zoom.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 61039,
+        "unique_colors": 1873,
+        "stddev": 49.51
+      }
+    },
+    {
+      "shot_id": "SH-11",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-11_dynamic_comparative_bar_.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.48,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 40147,
+        "unique_colors": 1354,
+        "stddev": 54.88
+      }
+    },
+    {
+      "shot_id": "SH-12",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-12_terminal_pytest_executio.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 59944,
+        "unique_colors": 1290,
+        "stddev": 22.5
+      }
+    },
+    {
+      "shot_id": "SH-13",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-13_code_editor_patch_synthe.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 53685,
+        "unique_colors": 1229,
+        "stddev": 26.54
+      }
+    },
+    {
+      "shot_id": "SH-14",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-14_terminal_test_pass.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 69077,
+        "unique_colors": 1256,
+        "stddev": 24.06
+      }
+    },
+    {
+      "shot_id": "SH-15",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-15_OpenAI_Preparedness_Safe.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.5,
+      "metrics": {
+        "photorealism": 9.4,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 62212,
+        "unique_colors": 1428,
+        "stddev": 28.68
+      }
+    },
+    {
+      "shot_id": "SH-16",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-16_server_facility_network_.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.48,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.5,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 28793,
+        "unique_colors": 373,
+        "stddev": 25.39
+      }
+    },
+    {
+      "shot_id": "SH-17",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-17_engineer_reflection_in_m.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.41,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.1,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.2,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 22254,
+        "unique_colors": 583,
+        "stddev": 10.49
+      }
+    },
+    {
+      "shot_id": "SH-18",
+      "asset_path": "D:\\gitM\\01_ContentFactory\\production\\assets\\images\\sh-18_solitary_blinking_cursor.png",
+      "verdict": "ACCEPT",
+      "total_score": 9.44,
+      "metrics": {
+        "photorealism": 9.2,
+        "composition": 9.1,
+        "story_relevance": 9.7,
+        "continuity": 9.3,
+        "human_realism": 9.5,
+        "lighting": 9.4,
+        "material_realism": 9.3,
+        "camera_realism": 9.5,
+        "documentary_fit": 9.6,
+        "narrative_relevance": 9.8
+      },
+      "telemetry": {
+        "file_size": 18360,
+        "unique_colors": 377,
+        "stddev": 10.48
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "transitions": {
+    "hard_cut": {
+      "usage": "Default cut between complementary shots; instant surprise, prompt action, hard reality check.",
+      "duration_frames": 0
+    },
+    "match_cut": {
+      "usage": "Matching visual geometry or motion direction between disparate realms (e.g. human hand -> mechanical relay; mouse click -> remote cloud execution).",
+      "duration_frames": 0
+    },
+    "sound_bridge_cut": {
+      "usage": "Audio of the upcoming shot (keystroke, terminal bell, server whine) begins 250ms before the visual transition.",
+      "audio_lead_ms": 250
+    },
+    "cut_to_black": {
+      "usage": "Instantaneous blackout punctuating core questions, paradigm shifts, or uncomfortable revelations.",
+      "hold_duration_seconds": [0.6, 1.2]
+    },
+    "cross_dissolve": {
+      "usage": "Restricted strictly to temporal ellipses, historical archival transitions, or deep time shifts.",
+      "duration_frames": 12
+    }
+  }
+}

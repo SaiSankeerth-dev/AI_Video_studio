@@ -1,0 +1,44 @@
+{
+  "project": {
+    "title": "The Hacker Who Didn't Need Your Password",
+    "visual_language": "photorealistic investigative documentary",
+    "aspect_ratio": "16:9",
+    "color_palette": "charcoal black, steel gray, warm telephone amber, muted copper, restrained cyan",
+    "lighting_philosophy": "motivated practical lighting, late-night office fluorescent strips, terminal monitor glows, zero cartoon neon"
+  },
+  "characters": {
+    "mitnick": {
+      "full_name": "Kevin Mitnick",
+      "era": "1990s Reenactment",
+      "appearance": "Man in his early 30s, wire-rim glasses, dark hair, analytical posture",
+      "wardrobe": "dark casual jacket, plain button-down shirt",
+      "key_props": [
+        "rotary/push-button landline telephone",
+        "notebook with phone extensions",
+        "laptop terminal"
+      ]
+    },
+    "soc_analyst": {
+      "role": "Enterprise Security Analyst",
+      "appearance": "Focused professional monitoring multi-screen security consoles at 2 AM",
+      "wardrobe": "charcoal office attire with corporate badge"
+    }
+  },
+  "locations": {
+    "soc_operations": {
+      "name": "Enterprise Security Operations Center (SOC)",
+      "architecture": "dimly lit control room with wall monitoring displays and tiered desks",
+      "lighting": "cool blue monitor glow with overhead low-intensity downlights"
+    },
+    "corporate_office_1990s": {
+      "name": "Mid-1990s Corporate Office Floor",
+      "architecture": "modular acoustic cubicles, CRT monitors, beige desktop telephones, paper filing cabinets",
+      "lighting": "warm overhead fluorescent fixtures, late night quiet ambiance"
+    },
+    "telecom_vault": {
+      "name": "Pacific Bell Telephone Switching Vault",
+      "architecture": "heavy industrial relay racks, punch blocks, multi-colored copper wire bundles",
+      "lighting": "industrial task lights, metallic reflections"
+    }
+  }
+}

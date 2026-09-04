@@ -1,0 +1,8 @@
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N001.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N002.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N003.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N004.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N005.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N006.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N007.wav'
+file 'D:/gitM/01_ContentFactory/projects/video-003/audio/narration_N008.wav'

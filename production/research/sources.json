@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "OpenAI GPT-6 Astra Announcement: The Autonomous Computer-Use Model",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "author": "OpenAI Research & Systems Teams",
+    "date": "2026-09-03",
+    "tier": "TIER_1_PRIMARY",
+    "archive_status": "ARCHIVED_LOCAL",
+    "summary": "Official foundation release specifying Astra as a 1.05M-token context computer-use model with native OS control."
+  },
+  {
+    "id": "SRC-002",
+    "title": "OSWorld 2.0: Benchmarking Multimodal Agents on Complex Real-World Desktop Tasks",
+    "url": "https://os-world.github.io/osworld-2-report.pdf",
+    "author": "OSWorld Consortium & Frontier Benchmarking Labs",
+    "date": "2026-08-20",
+    "tier": "TIER_1_PRIMARY",
+    "archive_status": "ARCHIVED_LOCAL",
+    "summary": "Independent evaluation of multimodal agents on live Ubuntu/macOS/Windows desktop environments."
+  },
+  {
+    "id": "SRC-003",
+    "title": "OpenAI Safety Overview: Frontier Risk and Critical Cybersecurity Capabilities in Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+    "author": "OpenAI Preparedness & Red Teaming Division",
+    "date": "2026-09-03",
+    "tier": "TIER_1_PRIMARY",
+    "archive_status": "ARCHIVED_LOCAL",
+    "summary": "Safety assessment confirming Astra reaches the Critical Threshold for autonomous cybersecurity capabilities."
+  },
+  {
+    "id": "SRC-004",
+    "title": "ScreenSpot Pro & AutomationBench: Pixel Grounding and Multi-Step Desktop Workflow Evaluation",
+    "url": "https://arxiv.org/abs/2608.11492",
+    "author": "Autonomous Agent Evaluation Group",
+    "date": "2026-08-15",
+    "tier": "TIER_2_OFFICIAL",
+    "archive_status": "ARCHIVED_LOCAL",
+    "summary": "Analysis of pixel coordinate navigation vs DOM inspection in modern UI models."
+  },
+  {
+    "id": "SRC-005",
+    "title": "Developer Field Report: Production Failure Modes in Autonomous Agent CLI Loops",
+    "url": "https://github.com/swe-bench/reports/astra-investigation.md",
+    "author": "Open Source Systems Infrastructure Committee",
+    "date": "2026-09-04",
+    "tier": "TIER_3_ANALYSIS",
+    "archive_status": "ARCHIVED_LOCAL",
+    "summary": "Empirical breakdown of agent loops failing during unhandled modal popups and cascade error recoveries."
+  }
+]

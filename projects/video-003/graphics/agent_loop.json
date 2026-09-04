@@ -1,0 +1,36 @@
+{
+  "graphic_id": "GFX-AL01",
+  "title": "Autonomous Computer-Use Feedback Loop Architecture",
+  "stages": [
+    {
+      "step": 1,
+      "name": "GOAL",
+      "detail": "High-level objective specification from user or upstream pipeline"
+    },
+    {
+      "step": 2,
+      "name": "PLAN",
+      "detail": "Hierarchical decomposition into atomic shell, browser, and GUI commands"
+    },
+    {
+      "step": 3,
+      "name": "ACT",
+      "detail": "Direct execution via OS sandbox: PTY bash, Chromium DevTools, virtual mouse/keys"
+    },
+    {
+      "step": 4,
+      "name": "OBSERVE",
+      "detail": "Capture screenshot, DOM tree, stdout/stderr, process exit code"
+    },
+    {
+      "step": 5,
+      "name": "ADAPT",
+      "detail": "Self-correcting error diagnostics; replan upon unexpected output"
+    },
+    {
+      "step": 6,
+      "name": "COMPLETE",
+      "detail": "Deterministic verification of terminal goal state"
+    }
+  ]
+}

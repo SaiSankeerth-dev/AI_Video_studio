@@ -1,0 +1,22 @@
+{
+  "graphic_id": "GFX-EC01",
+  "title": "Unverified Agent Error Cascade Failure Model",
+  "failure_modes": [
+    {
+      "stage": "Misinterpreted UI Coordinate",
+      "risk": "Clicks outside active modal -> hangs awaiting input"
+    },
+    {
+      "stage": "Silent Exit Code 1",
+      "risk": "Agent assumes build passed -> proceeds to deployment with corrupted binary"
+    },
+    {
+      "stage": "Hallucinated Path",
+      "risk": "Emits rm -rf on nonexistent directory -> cascading file system error"
+    },
+    {
+      "stage": "Context Drift",
+      "risk": "At step 40, early constraints forgotten without persistent memory compaction"
+    }
+  ]
+}

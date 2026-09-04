@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DocumentaryQASchema",
+  "type": "object",
+  "required": ["project_id", "audit_timestamp", "verdict", "overall_score", "pillars"],
+  "properties": {
+    "project_id": { "type": "string" },
+    "audit_timestamp": { "type": "string" },
+    "verdict": { "enum": ["PASS", "FAIL", "REVISE"] },
+    "overall_score": { "type": "number" },
+    "pillars": {
+      "type": "object",
+      "required": ["story_qa", "fact_qa", "visual_qa", "voice_qa", "audio_qa", "continuity_qa", "technical_qa", "thumbnail_qa"],
+      "properties": {
+        "story_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "fact_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "visual_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "voice_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "audio_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "continuity_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "technical_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        },
+        "thumbnail_qa": {
+          "type": "object",
+          "required": ["score", "passed", "checks"],
+          "properties": {
+            "score": { "type": "number" },
+            "passed": { "type": "boolean" },
+            "checks": { "type": "object" }
+          }
+        }
+      }
+    }
+  }
+}

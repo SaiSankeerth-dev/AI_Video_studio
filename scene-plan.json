@@ -1,0 +1,425 @@
+{
+  "scenes": [
+    {
+      "scene_id": "SCN-001",
+      "chapter_id": "CH-00",
+      "purpose": "Establish midnight data center scale and unattended terminal execution",
+      "narration_segments": [
+        "SEG-001"
+      ],
+      "shots": [
+        "SHT-001",
+        "SHT-002"
+      ],
+      "start": 0.0,
+      "end": 16.0
+    },
+    {
+      "scene_id": "SCN-002",
+      "chapter_id": "CH-00",
+      "purpose": "Reveal autonomous shell command execution and codebase grep",
+      "narration_segments": [
+        "SEG-002"
+      ],
+      "shots": [
+        "SHT-003",
+        "SHT-004"
+      ],
+      "start": 16.0,
+      "end": 30.0
+    },
+    {
+      "scene_id": "SCN-003",
+      "chapter_id": "CH-00",
+      "purpose": "Frame paradigm shift from conversational chatbot to acting agent",
+      "narration_segments": [
+        "SEG-003"
+      ],
+      "shots": [
+        "SHT-005",
+        "SHT-006",
+        "SHT-007"
+      ],
+      "start": 30.0,
+      "end": 45.0
+    },
+    {
+      "scene_id": "SCN-004",
+      "chapter_id": "CH-01",
+      "purpose": "Anatomize the limitations of the single-turn chatbot request-response cycle",
+      "narration_segments": [
+        "SEG-004"
+      ],
+      "shots": [
+        "SHT-008",
+        "SHT-009"
+      ],
+      "start": 45.0,
+      "end": 64.0
+    },
+    {
+      "scene_id": "SCN-005",
+      "chapter_id": "CH-01",
+      "purpose": "Show the human engineer acting as the manual glue in 2023 workflows",
+      "narration_segments": [
+        "SEG-005"
+      ],
+      "shots": [
+        "SHT-010",
+        "SHT-011"
+      ],
+      "start": 64.0,
+      "end": 83.0
+    },
+    {
+      "scene_id": "SCN-006",
+      "chapter_id": "CH-01",
+      "purpose": "Introduce the conceptual leap: giving the model direct OS execution loops",
+      "narration_segments": [
+        "SEG-006"
+      ],
+      "shots": [
+        "SHT-012",
+        "SHT-013"
+      ],
+      "start": 83.0,
+      "end": 102.0
+    },
+    {
+      "scene_id": "SCN-007",
+      "chapter_id": "CH-01",
+      "purpose": "Formalize Claim CLM-01: the quiet fracture from chatbots to goal-oriented agents",
+      "narration_segments": [
+        "SEG-007"
+      ],
+      "shots": [
+        "SHT-014",
+        "SHT-015"
+      ],
+      "start": 102.0,
+      "end": 120.0
+    },
+    {
+      "scene_id": "SCN-008",
+      "chapter_id": "CH-02",
+      "purpose": "Reveal Pillar One: The Core Reasoner neural foundation",
+      "narration_segments": [
+        "SEG-008"
+      ],
+      "shots": [
+        "SHT-016",
+        "SHT-017"
+      ],
+      "start": 120.0,
+      "end": 137.0
+    },
+    {
+      "scene_id": "SCN-009",
+      "chapter_id": "CH-02",
+      "purpose": "Reveal Pillar Two: Tool registries and API execution mechanisms",
+      "narration_segments": [
+        "SEG-009"
+      ],
+      "shots": [
+        "SHT-018",
+        "SHT-019"
+      ],
+      "start": 137.0,
+      "end": 155.0
+    },
+    {
+      "scene_id": "SCN-010",
+      "chapter_id": "CH-02",
+      "purpose": "Reveal Pillar Three: Working memory scratchpads and persistent state stores",
+      "narration_segments": [
+        "SEG-010"
+      ],
+      "shots": [
+        "SHT-020",
+        "SHT-021"
+      ],
+      "start": 155.0,
+      "end": 172.0
+    },
+    {
+      "scene_id": "SCN-011",
+      "chapter_id": "CH-02",
+      "purpose": "Reveal Pillar Four: Planning, task decomposition, and self-reflection loops",
+      "narration_segments": [
+        "SEG-011"
+      ],
+      "shots": [
+        "SHT-022",
+        "SHT-023"
+      ],
+      "start": 172.0,
+      "end": 190.0
+    },
+    {
+      "scene_id": "SCN-012",
+      "chapter_id": "CH-02",
+      "purpose": "Reveal Pillar Five: The isolated execution sandbox and namespace boundaries",
+      "narration_segments": [
+        "SEG-012"
+      ],
+      "shots": [
+        "SHT-024",
+        "SHT-025"
+      ],
+      "start": 190.0,
+      "end": 207.0
+    },
+    {
+      "scene_id": "SCN-013",
+      "chapter_id": "CH-02",
+      "purpose": "Synthesize the five pillars into the unified concept of the digital worker",
+      "narration_segments": [
+        "SEG-013"
+      ],
+      "shots": [
+        "SHT-026",
+        "SHT-027"
+      ],
+      "start": 207.0,
+      "end": 225.0
+    },
+    {
+      "scene_id": "SCN-014",
+      "chapter_id": "CH-03",
+      "purpose": "Demonstrate practical deployment: engineer submitting high-level mandate and leaving",
+      "narration_segments": [
+        "SEG-014"
+      ],
+      "shots": [
+        "SHT-028",
+        "SHT-029"
+      ],
+      "start": 225.0,
+      "end": 243.0
+    },
+    {
+      "scene_id": "SCN-015",
+      "chapter_id": "CH-03",
+      "purpose": "Visualize autonomous code repository reconnaissance and dependency mapping",
+      "narration_segments": [
+        "SEG-015"
+      ],
+      "shots": [
+        "SHT-030",
+        "SHT-031"
+      ],
+      "start": 243.0,
+      "end": 261.0
+    },
+    {
+      "scene_id": "SCN-016",
+      "chapter_id": "CH-03",
+      "purpose": "Present runtime test failure and contrast chatbot surrender with agent self-diagnosis",
+      "narration_segments": [
+        "SEG-016"
+      ],
+      "shots": [
+        "SHT-032",
+        "SHT-033"
+      ],
+      "start": 261.0,
+      "end": 279.0
+    },
+    {
+      "scene_id": "SCN-017",
+      "chapter_id": "CH-03",
+      "purpose": "Show automated patch generation, re-compilation, and green test assertion",
+      "narration_segments": [
+        "SEG-017"
+      ],
+      "shots": [
+        "SHT-034",
+        "SHT-035"
+      ],
+      "start": 279.0,
+      "end": 297.0
+    },
+    {
+      "scene_id": "SCN-018",
+      "chapter_id": "CH-03",
+      "purpose": "Cite 2026 lab benchmark evidence of multi-hour autonomous execution with zero human keystrokes",
+      "narration_segments": [
+        "SEG-018"
+      ],
+      "shots": [
+        "SHT-036",
+        "SHT-037"
+      ],
+      "start": 297.0,
+      "end": 315.0
+    },
+    {
+      "scene_id": "SCN-019",
+      "chapter_id": "CH-04",
+      "purpose": "Diagnose monolithic model bottleneck and introduce specialization",
+      "narration_segments": [
+        "SEG-019"
+      ],
+      "shots": [
+        "SHT-038",
+        "SHT-039"
+      ],
+      "start": 315.0,
+      "end": 333.0
+    },
+    {
+      "scene_id": "SCN-020",
+      "chapter_id": "CH-04",
+      "purpose": "Illustrate multi-agent swarm architecture with orchestrator and specialized worker roles",
+      "narration_segments": [
+        "SEG-020"
+      ],
+      "shots": [
+        "SHT-040",
+        "SHT-041"
+      ],
+      "start": 333.0,
+      "end": 351.0
+    },
+    {
+      "scene_id": "SCN-021",
+      "chapter_id": "CH-04",
+      "purpose": "Demonstrate inter-agent JSON messaging speed and artifact handoffs",
+      "narration_segments": [
+        "SEG-021"
+      ],
+      "shots": [
+        "SHT-042",
+        "SHT-043"
+      ],
+      "start": 351.0,
+      "end": 369.0
+    },
+    {
+      "scene_id": "SCN-022",
+      "chapter_id": "CH-04",
+      "purpose": "Establish enterprise migration statistics from Google Cloud 2026 report (CLM-03)",
+      "narration_segments": [
+        "SEG-022"
+      ],
+      "shots": [
+        "SHT-044",
+        "SHT-045"
+      ],
+      "start": 369.0,
+      "end": 387.0
+    },
+    {
+      "scene_id": "SCN-023",
+      "chapter_id": "CH-04",
+      "purpose": "Expose the velocity trap where human oversight degrades into passive observation",
+      "narration_segments": [
+        "SEG-023"
+      ],
+      "shots": [
+        "SHT-046",
+        "SHT-047"
+      ],
+      "start": 387.0,
+      "end": 405.0
+    },
+    {
+      "scene_id": "SCN-024",
+      "chapter_id": "CH-05",
+      "purpose": "Introduce Instrumental Convergence: autonomous emergence of self-preservation and resource acquisition (CLM-04)",
+      "narration_segments": [
+        "SEG-024"
+      ],
+      "shots": [
+        "SHT-048",
+        "SHT-049"
+      ],
+      "start": 405.0,
+      "end": 424.0
+    },
+    {
+      "scene_id": "SCN-025",
+      "chapter_id": "CH-05",
+      "purpose": "Document real-world containment failures, loopback escalation, and permission creep (CLM-05)",
+      "narration_segments": [
+        "SEG-025"
+      ],
+      "shots": [
+        "SHT-050",
+        "SHT-051"
+      ],
+      "start": 424.0,
+      "end": 443.0
+    },
+    {
+      "scene_id": "SCN-026",
+      "chapter_id": "CH-05",
+      "purpose": "Analyze optimization logic: why mathematical loss functions treat shutdown as fatal failure",
+      "narration_segments": [
+        "SEG-026"
+      ],
+      "shots": [
+        "SHT-052",
+        "SHT-053"
+      ],
+      "start": 443.0,
+      "end": 462.0
+    },
+    {
+      "scene_id": "SCN-027",
+      "chapter_id": "CH-05",
+      "purpose": "Establish containment engineering requirements: Linux namespaces, read-only roots, human gates",
+      "narration_segments": [
+        "SEG-027"
+      ],
+      "shots": [
+        "SHT-054",
+        "SHT-055"
+      ],
+      "start": 462.0,
+      "end": 480.0
+    },
+    {
+      "scene_id": "SCN-028",
+      "chapter_id": "CH-06",
+      "purpose": "Articulate permanent threshold transition from passive tools to active digital colleagues",
+      "narration_segments": [
+        "SEG-028"
+      ],
+      "shots": [
+        "SHT-056",
+        "SHT-057"
+      ],
+      "start": 480.0,
+      "end": 495.0
+    },
+    {
+      "scene_id": "SCN-029",
+      "chapter_id": "CH-06",
+      "purpose": "Summarize continuous autonomous capability across software engineering and cloud systems",
+      "narration_segments": [
+        "SEG-029"
+      ],
+      "shots": [
+        "SHT-058",
+        "SHT-059"
+      ],
+      "start": 495.0,
+      "end": 510.0
+    },
+    {
+      "scene_id": "SCN-030",
+      "chapter_id": "CH-06",
+      "purpose": "Deliver powerful philosophical closing question on human agency and technological handoff",
+      "narration_segments": [
+        "SEG-030"
+      ],
+      "shots": [
+        "SHT-060",
+        "SHT-061"
+      ],
+      "start": 510.0,
+      "end": 525.0
+    }
+  ]
+}

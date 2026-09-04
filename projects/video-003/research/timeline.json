@@ -1,0 +1,41 @@
+{
+  "project_id": "video-003",
+  "title": "Evolution from Chatbots to Autonomous Computer Use",
+  "milestones": [
+    {
+      "year": "2022",
+      "date": "2022-11-30",
+      "event": "ChatGPT Launch",
+      "paradigm": "Conversational AI",
+      "interaction_model": "Text in, text out. The model answers questions inside a web box."
+    },
+    {
+      "year": "2023",
+      "date": "2023-06-13",
+      "event": "Function Calling & Tool APIs",
+      "paradigm": "Assisted Tool Integration",
+      "interaction_model": "The model emits JSON payloads to call external APIs, but requires human developer orchestration."
+    },
+    {
+      "year": "2024",
+      "date": "2024-10-22",
+      "event": "Anthropic Computer Use API (Beta)",
+      "paradigm": "Direct GUI Interaction",
+      "interaction_model": "First mainstream model taking screenshots and sending virtual mouse clicks and keypresses."
+    },
+    {
+      "year": "2025",
+      "date": "2025-09-12",
+      "event": "o1 Reasoning & Test-Time Compute",
+      "paradigm": "Autonomous Planning",
+      "interaction_model": "Internal chain of thought enables extended deliberation before action."
+    },
+    {
+      "year": "2026",
+      "date": "2026-09-03",
+      "event": "OpenAI GPT-6 Astra Announcement",
+      "paradigm": "Full Autonomous Computer Agent",
+      "interaction_model": "Integrated 1.05M context, native terminal/GUI grounding, multi-step autonomous execution without human in the loop."
+    }
+  ]
+}

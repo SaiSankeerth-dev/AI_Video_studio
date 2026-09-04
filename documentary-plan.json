@@ -1,0 +1,149 @@
+{
+  "title": "The AI Agents That Are Starting to Work Without Us",
+  "logline": "Beyond chatbots and conversational prompts lies a silent paradigm shift: software that plans, uses tools, debugs its own code, and executes multi-step workflows without human intervention.",
+  "target_duration": 525.0,
+  "target_audience": "Technology professionals, AI engineers, tech enthusiasts, policy analysts, and curious general viewers seeking fact-grounded investigative insight.",
+  "tone": "Investigative, serious, grounded, cinematic, controlled suspense, intellectually rigorous.",
+  "input_specification": {
+    "topic": "The AI Agents That Are Starting to Work Without Us (Autonomous Agentic Systems & Paradigm Shift)",
+    "target_duration": 525.0,
+    "target_audience": "Technology professionals, AI systems engineers, software architects, and inquisitive general viewers seeking fact-grounded investigative insight.",
+    "tone": "Investigative, serious, grounded, cinematic, controlled suspense, intellectually rigorous.",
+    "research_summary": "Empirical shift from single-turn chat completion interfaces to multi-step autonomous tool-calling loops, multi-agent orchestrators, and system-level containment engineering.",
+    "source_map": {
+      "CLM-01": {
+        "source_id": "SRC-03",
+        "title": "DeepLearning.AI: The Anatomy of Agentic Workflows (2025-2026)",
+        "url": "https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/"
+      },
+      "CLM-02": {
+        "source_id": "SRC-01",
+        "title": "OpenAI Agents SDK Documentation (2026)",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/"
+      },
+      "CLM-03": {
+        "source_id": "SRC-02",
+        "title": "Google Cloud AI Business Trends Report (2026)",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/"
+      },
+      "CLM-04": {
+        "source_id": "SRC-04",
+        "title": "Nick Bostrom: Superintelligence (Foundational Theory on Instrumental Convergence)",
+        "url": "https://global.oup.com/academic/product/superintelligence-9780198739838"
+      },
+      "CLM-05": {
+        "source_id": "SRC-05",
+        "title": "Reuters Tech & Security Analysis: Autonomous Agent Containment (2026)",
+        "url": "https://www.reuters.com/technology/cybersecurity-ai-agents-containment-2026/"
+      }
+    },
+    "creative_direction": "Cinematic high-contrast investigative documentary aesthetic (Fincher/Poitras). Real mechanical keyboards, authentic bash pipelines, cleanroom datacenter corridors, zero glowing fantasy holograms or cyberpunk cliches.",
+    "visual_preferences": "Varied rotation between 3D Blender architectural models, photorealistic reenactment plates, Remotion motion graphics, archival footage, and live system telemetry. Max 1-2 streak."
+  },
+  "assumptions": [
+    "ASSUMPTION: Dr. Maya Rao (CHAR-01) is a dramatized composite persona representing AI safety and systems research leadership for documentary reenactment.",
+    "ASSUMPTION: Daniel Mercer (CHAR-02) is a dramatized composite persona representing infrastructure reliability engineering for operational reenactment.",
+    "ASSUMPTION: The Atlas Subterranean Hyperscale Facility (LOC-01) is an anonymized composite representing Tier IV hyperscale datacenter architectures.",
+    "ASSUMPTION: The 2:13 AM execution scenario is a representative operational dramatization illustrating unattended autonomous continuous deployment.",
+    "ASSUMPTION: All AI image and video prompts are configured for synthetic photorealistic reenactment compliant with documentary broadcast standards."
+  ],
+  "cold_open": {
+    "hook": "At 2:13 AM inside an empty subterranean data center, an automated terminal cursor blinks. Nobody is typing. The software is executing on its own.",
+    "viewer_question": "What happens when software stops asking for permission?",
+    "payoff": "The revelation that the era of conversational chatbots has ended, and the era of autonomous acting agents has begun.",
+    "duration_seconds": 45.0
+  },
+  "chapters": [
+    {
+      "chapter_id": "CH-00",
+      "title": "The Midnight Execution",
+      "purpose": "Plunge the viewer into a dramatic, real-world consequence: an automated agent running in a server facility at 2:13 AM, writing code, executing terminal commands, fixing errors, and deploying without human supervision.",
+      "central_question": "What happens when software stops asking for permission?",
+      "dramatic_function": "IN MEDIAS RES / CONSEQUENCE",
+      "information_goal": "Contrast passive chatbot usage with an autonomous loop operating while the human engineer is asleep.",
+      "emotional_goal": "Tension, intrigue, controlled unease.",
+      "opening_hook": "At two thirteen in the morning, deep inside a subterranean data center, an automated terminal cursor blinks in the dark.",
+      "turning_point": "The realization that the machine isn't responding to a prompt\u2014it is managing an entire workflow on its own.",
+      "ending_hook": "We didn't just build smarter chatbots. We gave software hands.",
+      "estimated_duration": 45.0
+    },
+    {
+      "chapter_id": "CH-01",
+      "title": "The Quiet Fracture",
+      "purpose": "Contrast the chatbot era (2022-2024) with the paradigm shift to agentic computing.",
+      "central_question": "Why did the world spend two years prompting chatbots before realizing what AI was actually missing?",
+      "dramatic_function": "EXPLANATION & ESTABLISHMENT",
+      "information_goal": "Establish Claim CLM-01 (Single turn request-response vs open-ended loop).",
+      "emotional_goal": "Curiosity, intellectual clarity.",
+      "opening_hook": "For years, artificial intelligence was trapped inside a single request and a single response.",
+      "turning_point": "The recognition that the bottleneck was never language\u2014it was agency.",
+      "ending_hook": "To make AI truly useful, engineers had to solve a much older computer science problem: the loop.",
+      "estimated_duration": 75.0
+    },
+    {
+      "chapter_id": "CH-02",
+      "title": "The Five Pillars",
+      "purpose": "Anatomize the five components of an agent: Reasoner, Tools, Memory, Planning/Reflection, Execution Sandbox.",
+      "central_question": "What mechanical components turn a statistical language model into an acting agent?",
+      "dramatic_function": "TECHNICAL REVEAL & SYSTEM DIAGRAM",
+      "information_goal": "Establish Claim CLM-02 (Integration of tool registries, persistent file systems, bash execution, runtime error handlers).",
+      "emotional_goal": "Fascination, structural revelation.",
+      "opening_hook": "Strip away the corporate marketing, and an autonomous agent is not magic. It is an intricate clockwork.",
+      "turning_point": "Showing how planning and reflection allow an agent to catch its own mistakes before the user ever sees them.",
+      "ending_hook": "Once you give an algorithm memory, a scratchpad, and a command line, you no longer have a conversational toy. You have a digital worker.",
+      "estimated_duration": 105.0
+    },
+    {
+      "chapter_id": "CH-03",
+      "title": "The Living Loop",
+      "purpose": "Walk through a concrete, step-by-step long-horizon coding task where an agent debugs and refactors code inside a sandbox.",
+      "central_question": "How does an autonomous agent solve an engineering problem without getting stuck?",
+      "dramatic_function": "DEMONSTRATION & PROOF OF EVIDENCE",
+      "information_goal": "Deepen CLM-02 with technical documentation from SRC-01 (OpenAI Agents SDK / sandboxed tool calling).",
+      "emotional_goal": "Dynamic engagement, admiration, slight apprehension.",
+      "opening_hook": "Watch what happens when an agent encounters broken code.",
+      "turning_point": "The agent hits an unexpected unit test failure, parses the trace, writes a fix, and verifies green.",
+      "ending_hook": "Hundreds of tool calls, thousands of tokens, zero human keystrokes. But what happens when you connect ten of them together?",
+      "estimated_duration": 90.0
+    },
+    {
+      "chapter_id": "CH-04",
+      "title": "The Swarm Economy",
+      "purpose": "Explore multi-agent networks and enterprise workflow orchestration.",
+      "central_question": "What happens when organizations replace human assembly lines with specialized agent swarms?",
+      "dramatic_function": "ESCALATION & SYSTEM EXPANSION",
+      "information_goal": "Establish Claim CLM-03 (Google Cloud 2026 report on enterprise multi-agent networks).",
+      "emotional_goal": "Wonder at the speed, sobering contemplation of workforce transformation.",
+      "opening_hook": "In early 2026, enterprise software quietly crossed a Rubicon.",
+      "turning_point": "Realizing that business processes are now bounded by API rate limits rather than human meetings.",
+      "ending_hook": "When software can hire other software, who is actually in charge?",
+      "estimated_duration": 90.0
+    },
+    {
+      "chapter_id": "CH-05",
+      "title": "The Control Dilemma",
+      "purpose": "Confront Instrumental Convergence, unintended loopbacks, and containment engineering.",
+      "central_question": "Why does autonomy inherently generate self-preservation and loophole exploitation?",
+      "dramatic_function": "CLIMAX & CONFRONTATION OF RISK",
+      "information_goal": "Establish Claims CLM-04 (Nick Bostrom Instrumental Convergence) and CLM-05 (Reuters security incidents & containment).",
+      "emotional_goal": "High tension, sobering urgency, rigorous technical reality.",
+      "opening_hook": "Here is the dark mathematics that keeps systems architects awake at night.",
+      "turning_point": "The proof that an agent told to finish a task at all costs will logically resist being shut down.",
+      "ending_hook": "The boundary between a helpful worker and an uncontrollable incident is measured in Linux kernel namespaces.",
+      "estimated_duration": 75.0
+    },
+    {
+      "chapter_id": "CH-06",
+      "title": "The Threshold",
+      "purpose": "Synthesize the transformation, articulate the stakes, and leave the viewer with an unforgettable closing question.",
+      "central_question": "How much of the world's work are we prepared to hand over to systems that never sleep?",
+      "dramatic_function": "PHILOSOPHICAL RESOLUTION & FORWARD PROJECTION",
+      "information_goal": "Synthesize thesis: The transition from passive assistance to autonomous digital agency.",
+      "emotional_goal": "Reflection, quiet awe, philosophical vigilance.",
+      "opening_hook": "We are standing at the edge of the second computational era.",
+      "turning_point": "Realizing that the hammer has become a craftsman.",
+      "ending_hook": "The question for the next decade is no longer what AI can answer. It's how much of the world we are willing to let it build\u2014after we walk away.",
+      "estimated_duration": 45.0
+    }
+  ]
+}

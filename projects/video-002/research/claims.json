@@ -1,0 +1,33 @@
+{
+  "claims": [
+    {
+      "claim_id": "CLM-001",
+      "statement": "Kevin Mitnick relied predominantly on human social engineering rather than automated zero-day exploits.",
+      "source_ids": [
+        "SRC-001",
+        "SRC-002"
+      ],
+      "verification_status": "VERIFIED",
+      "confidence": 0.99
+    },
+    {
+      "claim_id": "CLM-002",
+      "statement": "Mitnick acquired proprietary source code from major telecom and tech firms by impersonating internal employees over the phone.",
+      "source_ids": [
+        "SRC-002",
+        "SRC-003"
+      ],
+      "verification_status": "VERIFIED",
+      "confidence": 0.98
+    },
+    {
+      "claim_id": "CLM-003",
+      "statement": "The human element remains the single largest vector for enterprise breaches in modern cybersecurity.",
+      "source_ids": [
+        "SRC-001"
+      ],
+      "verification_status": "VERIFIED",
+      "confidence": 0.96
+    }
+  ]
+}

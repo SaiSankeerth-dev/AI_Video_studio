@@ -1,0 +1,176 @@
+[
+  {
+    "narration_id": "N01",
+    "line": "For decades, computers have waited for us to tell them what to do.",
+    "delivery": "quiet, reflective, ominous",
+    "pace": 0.95,
+    "sapi_rate": 0,
+    "pause_before_ms": 400,
+    "pause_after_ms": 500,
+    "max_duration_seconds": 5.0,
+    "emphasis": [
+      "waited",
+      "decades"
+    ],
+    "energy": 0.4,
+    "emotion": "TENSE",
+    "raw_wav": "raw_n01.wav",
+    "processed_mp3": "voice_n01.mp3"
+  },
+  {
+    "narration_id": "N02",
+    "line": "A cursor sits still in the dark. But what happens when the computer starts listening to the AI instead?",
+    "delivery": "deliberate hesitation, mounting realization",
+    "pace": 1.0,
+    "sapi_rate": 1,
+    "pause_before_ms": 300,
+    "pause_after_ms": 500,
+    "max_duration_seconds": 8.8,
+    "emphasis": [
+      "listening",
+      "AI"
+    ],
+    "energy": 0.45,
+    "emotion": "TENSE",
+    "raw_wav": "raw_n02.wav",
+    "processed_mp3": "voice_n02.mp3"
+  },
+  {
+    "narration_id": "N03",
+    "line": "GPT-6 Astra isn't just generating an answer.",
+    "delivery": "measured, calm, investigative",
+    "pace": 1.0,
+    "sapi_rate": 1,
+    "pause_before_ms": 250,
+    "pause_after_ms": 400,
+    "max_duration_seconds": 4.0,
+    "emphasis": [],
+    "energy": 0.5,
+    "emotion": "CURIOUS",
+    "raw_wav": "raw_n03.wav",
+    "processed_mp3": "voice_n03.mp3"
+  },
+  {
+    "narration_id": "N04",
+    "line": "It starts interacting with the computer. It opens the browser, searches, and navigates the software itself.",
+    "delivery": "measured, calm, investigative",
+    "pace": 1.0,
+    "sapi_rate": 1,
+    "pause_before_ms": 250,
+    "pause_after_ms": 400,
+    "max_duration_seconds": 10.0,
+    "emphasis": [],
+    "energy": 0.5,
+    "emotion": "CURIOUS",
+    "raw_wav": "raw_n04.wav",
+    "processed_mp3": "voice_n04.mp3"
+  },
+  {
+    "narration_id": "N05",
+    "line": "The computer is no longer the tool. It's the environment.",
+    "delivery": "deadpan, low-frequency impact, profound shift",
+    "pace": 0.85,
+    "sapi_rate": 0,
+    "pause_before_ms": 1000,
+    "pause_after_ms": 1000,
+    "max_duration_seconds": 7.5,
+    "emphasis": [
+      "tool",
+      "environment"
+    ],
+    "energy": 0.6,
+    "emotion": "REFLECTIVE",
+    "raw_wav": "raw_n05.wav",
+    "processed_mp3": "voice_n05.mp3"
+  },
+  {
+    "narration_id": "N06",
+    "line": "OpenAI reports that Astra completes 72.6% of diverse desktop workflows on OSWorld 2.0. That's nearly seven points ahead of GPT-5.6 Sol.",
+    "delivery": "crisp, journalistic, grounded in hard numbers",
+    "pace": 1.2,
+    "sapi_rate": 2,
+    "pause_before_ms": 250,
+    "pause_after_ms": 400,
+    "max_duration_seconds": 9.2,
+    "emphasis": [
+      "72.6%",
+      "Sol"
+    ],
+    "energy": 0.55,
+    "emotion": "INTRIGUED",
+    "raw_wav": "raw_n06.wav",
+    "processed_mp3": "voice_n06.mp3"
+  },
+  {
+    "narration_id": "N07",
+    "line": "Watch what happens in a live terminal. Astra encounters an error.",
+    "delivery": "staccato, active observation, clinical",
+    "pace": 1.05,
+    "sapi_rate": 1,
+    "pause_before_ms": 250,
+    "pause_after_ms": 400,
+    "max_duration_seconds": 6.0,
+    "emphasis": [
+      "error",
+      "fails"
+    ],
+    "energy": 0.65,
+    "emotion": "CONCERNED",
+    "raw_wav": "raw_n07.wav",
+    "processed_mp3": "voice_n07.mp3"
+  },
+  {
+    "narration_id": "N08",
+    "line": "It doesn't quit. It reads the stack trace, switches strategy, rewrites the file, and runs the test suite again.",
+    "delivery": "accelerating momentum, rhythmic problem solving",
+    "pace": 1.15,
+    "sapi_rate": 2,
+    "pause_before_ms": 250,
+    "pause_after_ms": 400,
+    "max_duration_seconds": 8.5,
+    "emphasis": [
+      "rewrites",
+      "again"
+    ],
+    "energy": 0.7,
+    "emotion": "EXCITED",
+    "raw_wav": "raw_n08.wav",
+    "processed_mp3": "voice_n08.mp3"
+  },
+  {
+    "narration_id": "N09",
+    "line": "And that agency has a darker side. OpenAI's safety overview confirms Astra is the first model to reach their Critical cybersecurity capability threshold.",
+    "delivery": "sober, cautionary, sharp clarity",
+    "pace": 1.05,
+    "sapi_rate": 1,
+    "pause_before_ms": 350,
+    "pause_after_ms": 500,
+    "max_duration_seconds": 10.5,
+    "emphasis": [
+      "Critical",
+      "cybersecurity"
+    ],
+    "energy": 0.6,
+    "emotion": "URGENT",
+    "raw_wav": "raw_n09.wav",
+    "processed_mp3": "voice_n09.mp3"
+  },
+  {
+    "narration_id": "N10",
+    "line": "When software doesn't need you at the keyboard anymore... who's actually in control?",
+    "delivery": "quiet, reflective, ominous",
+    "pace": 0.95,
+    "sapi_rate": 0,
+    "pause_before_ms": 400,
+    "pause_after_ms": 500,
+    "max_duration_seconds": 4.2,
+    "emphasis": [
+      "waited",
+      "decades"
+    ],
+    "energy": 0.4,
+    "emotion": "TENSE",
+    "raw_wav": "raw_n10.wav",
+    "processed_mp3": "voice_n10.mp3"
+  }
+]
