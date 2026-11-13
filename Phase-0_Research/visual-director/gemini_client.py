@@ -9,7 +9,7 @@ class GeminiDirectorClient:
         self.api_key = os.getenv("GEMINI_API_KEY")
         if not self.api_key:
             raise RuntimeError(
-                "GEMINI_API_KEY not found. Please add your Google AI Studio API key to D:\\gitM\\01_ContentFactory\\.env"
+                "GEMINI_API_KEY not found. Please add your Google AI Studio API key to .env"
             )
         self.client = genai.Client(api_key=self.api_key)
 

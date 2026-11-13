@@ -170,9 +170,10 @@ class TimelineAssemblyEngine:
             with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(timeline_ir, f, indent=2)
 
-            root_timeline = Path(__file__).parents[2] / "timeline.json"
-            with open(root_timeline, "w", encoding="utf-8") as f:
-                json.dump(timeline_ir, f, indent=2)
+            fixtures_timeline = Path(__file__).parents[2] / "tests" / "fixtures" / "master_documentary" / "timeline.json"
+            if fixtures_timeline.parent.exists():
+                with open(fixtures_timeline, "w", encoding="utf-8") as f:
+                    json.dump(timeline_ir, f, indent=2)
         except Exception:
             pass
 

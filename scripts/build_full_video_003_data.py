@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 def generate_full_contracts():
-    proj_dir = Path(r"D:\gitM\01_ContentFactory\projects\video-003")
+    proj_dir = Path(__file__).resolve().parent.parent / "projects" / "video-003" if Path(__file__).resolve().parent.name == "scripts" else Path(__file__).resolve().parent / "projects" / "video-003"
 
     # Complete 14.5-minute investigative documentary script (~2,020 words)
     # Target 135-145 WPM per segment

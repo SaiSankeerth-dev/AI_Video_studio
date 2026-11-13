@@ -76,23 +76,16 @@ flowchart TD
 
 ---
 
-## Core Subsystems
+## Production Tracks & Implementation Status
 
-### 1. Instagram Reels & Short-Form Studio (`Instagram/`)
-Autonomous vertical video generator engineered for high-retention technical and developer storytelling under the **Agent Talk** (`@agent.talk`) brand identity:
-* **Episodic Productions:**
-  * `01-one-small-fix/`: Indie developer vs rogue coding agent refactoring 200 files.
-  * `02-four-hundred-messages/`: Mascot relationship dynamics and coding assistant confessions.
-  * `03-claude-on-phone/`: Mobile agent deployment and remote developer debugging.
-  * `04-openshorts-gta6/`: AI stream-clipping and automated short generation analysis.
-* **Social SEO & Growth Automation:** 23 integrated agent skills covering hook generation, semantic keyword dictionaries, competitor analysis, and multi-platform publishing packages.
-* **Computer Vision & Audio Profiling:** `scripts/analyze_video.py` utilizes `faster-whisper` and `PySceneDetect` to evaluate pacing, cut frequency, and speech clarity.
-
-### 2. Long-Form Documentary Studio (`Youtube/`)
-Multi-phase documentary architecture built for deep-dive technical explorations:
-* Automated narration planning (`narration.json`) and continuity bible generation.
-* Blender 3D scene direction and ShotDirector camera automation.
-* Remotion composition trees for chapter markers and data visualizations.
+| Track / Subsystem | Status | Description |
+| :--- | :--- | :--- |
+| **Short-Form Studio (`Instagram/`)** | **Implemented** | 9:16 vertical pipeline with 3D terracotta mascot Claude & developer Tariq Vance, 4 released episodes, and 23 SEO agent skills. |
+| **Modular V2 Engine (`v2_pipeline_orchestrator.py`)** | **Implemented** | 15 specialized director agents (`agents/`) and 5 headless engines (`engines/`) validating across Tasks 01–23. |
+| **Documentary Blueprint (`master_pipeline.py`)** | **Implemented** | 19-section production logic benchmark integrating research, 7-layer audio, Remotion, and 7-pillar QA. |
+| **Remotion React Suite (`Phase-4_Remotion/`)** | **Implemented** | 16 broadcast React Remotion components (EvidenceCard, DocumentZoom, DataChart, Terminal, Timeline). |
+| **YouTube Investigation (`Youtube/youtube_project/`)** | **Implemented** | Investigative forensic documentary pipeline on the $3.5M fake Pokémon box scam. |
+| **Automated Direct Uploaders** | *Planned* | Headless API publishing to YouTube Data API v3 and Instagram Graph API. |
 
 ---
 
@@ -101,7 +94,7 @@ Multi-phase documentary architecture built for deep-dive technical explorations:
 ### Claude (Recurring Mascot)
 * **Geometry:** Cute low-poly 3D rectangular body with rounded bevels, 2 tilted rectangular black eyes, dual compact arms, and 4 block legs.
 * **Emblems:** Central illuminated orange starburst chest insignia and glowing side AI badge.
-* **Lighting:** Dark navy/purple moody environments (#0B0F19) accented with warm amber/terracotta highlights (#D97757 / #FF9F43).
+* **Lighting:** Dark navy/purple moody environments (`#0B0F19`) accented with warm amber/terracotta highlights (`#D97757` / `#FF9F43`).
 
 ### Tariq Vance (Developer Protagonist)
 * **Role:** Practical, highly experienced software engineer acting as Claude's collaborator and conversational foil.
@@ -109,96 +102,66 @@ Multi-phase documentary architecture built for deep-dive technical explorations:
 
 ---
 
-## Directory Layout
+## Clean Directory Layout
 
 ```text
 AI_Video_studio/
 ├── docs/
 │   └── assets/                     # Demo video (demo.mp4) & preview animation (demo_preview.gif)
-├── Instagram/
-│   ├── agent-talk-content-system/  # 23 Social media skills & brand guidelines
-│   │   ├── .agents/brand/          # Voice guides, audience profiles, keyword dictionaries
-│   │   └── .agents/skills/         # Foundation, writing, SEO, video, and analytics skills
-│   ├── projects/                   # Short-form video project directories
-│   │   ├── 01-one-small-fix/
-│   │   ├── 02-four-hundred-messages/
-│   │   ├── 03-claude-on-phone/
-│   │   └── 04-openshorts-gta6/
-│   ├── scripts/
-│   │   ├── analyze_video.py        # Video analysis via PySceneDetect & faster-whisper
-│   │   └── download-video.ps1      # High-performance reference ingestion script
+├── Instagram/                      # Autonomous short-form (9:16) production track
+│   ├── agent-talk-content-system/  # 23 Social media growth skills & brand guidelines
+│   ├── projects/                   # Short-form video projects (01 to 04)
+│   ├── scripts/                    # Video analysis (analyze_video.py) & ingestion scripts
 │   └── exports/                    # Master rendered releases
-├── Youtube/
-│   └── youtube_project/            # Full-length documentary pipelines & assets
-├── Phase-0_Research/               # Research ingestion modules
-├── Phase-1_MuMuAINovel/            # Narrative ideation & plot orchestration
-├── Phase-2_ShotDirector/           # Camera direction & storyboard planning
-├── Phase-3_Blender/                # 3D assets & environmental setup
-├── Phase-4_Remotion/               # React-based programmatic video rendering
-├── Phase-5_Footage/                # B-roll & historical visual libraries
-├── Phase-6_Assembly/               # Final timeline conformance
-├── Phase-7_QA/                     # Automated QA & continuity auditing
+├── Youtube/                        # Long-form video essay track
+│   └── youtube_project/            # Full-length forensic documentary pipelines & assets
+├── agents/                         # 15 Discrete director agents (V2 architecture)
+├── engines/                        # Headless execution engines (Blender, Gemini, Remotion, FFmpeg, Evidence)
+├── brand/                          # Brand style bibles, typography, and color systems
+├── schemas/                        # 14 Formal JSON schemas validating every production step
+├── production/                     # Production assets, scripts, graphics, narration, and QA outputs
+├── projects/                       # Documentary projects repository (video-001, video-002, video-003)
+├── qa/                             # Quality assurance report data
+├── research/                       # Canonical factual claim and source grounding repositories
+├── scripts/                        # Utility scripts (build_full_video_003_data.py)
+├── tests/                          # Automated verification test suites
+│   ├── fixtures/                   # Canonical reference fixtures (master_documentary contracts)
+│   ├── test_production_logic_spec.py
+│   ├── test_v2_documentary_architecture.py
+│   ├── test_video_003_astra.py
+│   └── test_gemini.py
+├── Phase-0_Research/ ... Phase-7_QA/ # Specification prototype modules & Remotion React app
+├── .env.example                    # Template environment configuration
 ├── .gitignore                      # Strict privacy & large binary exclusion rules
-└── README.md                       # Repository master documentation
+├── CONTRIBUTING.md                 # Developer contribution guidelines
+├── LICENSE                         # MIT License
+├── REPOSITORY_AUDIT.md             # Complete file-by-file audit & architectural report
+└── README.md                       # Master repository documentation
 ```
 
 ---
 
-## Getting Started
+## Testing & Verification
 
-### Prerequisites
-* **Python 3.10+** (with virtual environment support)
-* **Node.js 20+** & **npm**
-* **FFmpeg 7.0+** (must be available on system `$PATH`)
-
-### 1. Installation
-
-Clone the repository and install dependencies:
+All test suites validate cleanly without regression:
 
 ```bash
-git clone https://github.com/SaiSankeerth-dev/AI_Video_studio.git
-cd AI_Video_studio
+# 1. Test Modular V2 Multi-Agent Architecture (Tasks 01 to 23)
+python tests/test_v2_documentary_architecture.py
 
-# Install Python analysis dependencies
-python -m venv .venv
-source .venv/bin/activate  # Or on Windows: .venv\Scripts\Activate.ps1
-pip install faster-whisper scenedetect[opencv] click tabulate
-```
+# 2. Test 19-Section Production Logic Specification
+python tests/test_production_logic_spec.py
 
-### 2. Video Analysis CLI
-
-Analyze any reference video for pacing, cuts, speech, and viral hook efficiency:
-
-```bash
-python Instagram/scripts/analyze_video.py path/to/reference_video.mp4 --out-dir reports/
-```
-
-### 3. Generate Speech & Dialogue Stems
-
-Synthesize multi-character dialogue using the neural speech toolchain:
-
-```bash
-cd Instagram/projects/04-openshorts-gta6
-node scripts/generate_dialogue.mjs
-```
-
-### 4. Render Master Composition
-
-Trigger hardware-accelerated video rendering:
-
-```bash
-ffmpeg -y -i assets/audio/master_audio.wav -i project/video_stream.mp4 \
-  -c:v libx264 -crf 22 -preset medium \
-  -c:a aac -b:a 192k -movflags +faststart \
-  exports/final_render.mp4
+# 3. Test Video-003 Data Contracts & Integrity
+python tests/test_video_003_astra.py
 ```
 
 ---
 
 ## Engineering Standards & Privacy
 
-* **Zero Hardcoded Environment Secrets:** All local machine paths, credentials, and API keys are strictly loaded via `.env` or dynamic runtime discovery (`process.env.APPDATA`, `import.meta.url`).
-* **Clean Git Hygiene:** Intermediate raw frames, temporary download caches (`downloads/`), and uncompressed binary beds are explicitly omitted via `.gitignore`.
+* **Zero Hardcoded Machine Paths:** All local paths, credentials, and API keys are strictly dynamically discovered (`Path(__file__).resolve()` in Python, `import.meta.url` in Node.js).
+* **Enterprise Git Hygiene:** Intermediate raw frames, temporary download caches (`downloads/`), and uncompressed binary beds are explicitly omitted via `.gitignore`.
 * **Deterministic Builds:** Pinned package lockfiles and isolated virtual environments ensure repeatable render pipelines across Linux and Windows developer machines.
 
 ---

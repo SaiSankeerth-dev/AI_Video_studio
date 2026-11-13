@@ -6,7 +6,7 @@
     "visual_conflict": "Machine acting with no human present",
     "curiosity_gap": "How is the computer navigating software by itself?",
     "overlay_text": "IT CAN USE YOUR PC",
-    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_a.png",
+    "file_path": "production/packaging/thumbnail_concept_a.png",
     "critic_scores": {
       "immediate_readability": 8.1,
       "curiosity": 9.5,
@@ -29,7 +29,7 @@
     "visual_conflict": "Relinquishing physical control of the operating system",
     "curiosity_gap": "Who actually operates the infrastructure now?",
     "overlay_text": "WHO'S IN CONTROL?",
-    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_b.png",
+    "file_path": "production/packaging/thumbnail_concept_b.png",
     "critic_scores": {
       "immediate_readability": 9.6,
       "curiosity": 9.5,
@@ -52,7 +52,7 @@
     "visual_conflict": "Autonomous labor displacing manual execution",
     "curiosity_gap": "What happens to knowledge work?",
     "overlay_text": "IT DOES THE WORK",
-    "file_path": "D:\\gitM\\01_ContentFactory\\production\\packaging\\thumbnail_concept_c.png",
+    "file_path": "production/packaging/thumbnail_concept_c.png",
     "critic_scores": {
       "immediate_readability": 9.6,
       "curiosity": 9.5,

@@ -7,8 +7,8 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 if not api_key:
-    print("WARNING: GEMINI_API_KEY is not set in D:\\gitM\\01_ContentFactory\\.env")
-    print("Please open D:\\gitM\\01_ContentFactory\\.env and paste your API key from https://aistudio.google.com/")
+    print("WARNING: GEMINI_API_KEY is not set in .env")
+    print("Please open .env and paste your API key from https://aistudio.google.com/")
 else:
     try:
         client = genai.Client(api_key=api_key)

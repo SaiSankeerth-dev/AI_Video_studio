@@ -16,7 +16,9 @@ from pathlib import Path
 
 def test_master_documentary(base_dir=None):
     if base_dir is None:
-        base_dir = Path(__file__).resolve().parent.parent.parent
+        root = Path(__file__).resolve().parent.parent.parent
+        fixture_dir = root / "tests" / "fixtures" / "master_documentary"
+        base_dir = fixture_dir if fixture_dir.exists() else root
     base = Path(base_dir)
     print(f"\n==========================================")
     print(f"RUNNING MASTER DOCUMENTARY QA AUDIT ON: {base}")

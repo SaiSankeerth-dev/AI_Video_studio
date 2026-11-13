@@ -28,7 +28,8 @@ import json
 import importlib.util
 from pathlib import Path
 
-ROOT = Path(__file__).parent.resolve()
+ROOT = Path(__file__).resolve().parent.parent if Path(__file__).resolve().parent.name == "tests" else Path(__file__).resolve().parent
+FIXTURES = ROOT / "tests" / "fixtures" / "master_documentary" if (ROOT / "tests" / "fixtures" / "master_documentary").exists() else ROOT
 
 def load_mod(name, rel_path):
     p = (ROOT / rel_path).resolve()
@@ -115,7 +116,7 @@ def test_all_19_sections():
     assert 130.0 <= sample_seg["wpm"] <= 160.0
 
     # Also verify production narration.json has Section 4 schema across 100% of segments
-    with open(ROOT / "narration.json", "r", encoding="utf-8") as f:
+    with open(FIXTURES / "narration.json", "r", encoding="utf-8") as f:
         prod_narr = json.load(f)
     assert len(prod_narr) == 30, f"Expected 30 narration segments, got {len(prod_narr)}"
     for s in prod_narr:
@@ -172,7 +173,7 @@ def test_all_19_sections():
     history = ["AI_IMAGE", "AI_IMAGE"]
     next_medium = selector.select_medium("The document was verified.", "show document", None, history)
     assert next_medium != "AI_IMAGE", "Streak <= 2 was violated!"
-    with open(ROOT / "shot-plan.json", "r", encoding="utf-8") as f:
+    with open(FIXTURES / "shot-plan.json", "r", encoding="utf-8") as f:
         sp_data = json.load(f)
     dist = selector.calculate_distribution(sp_data)
     assert dist["is_balanced"], f"Visual distribution not balanced: {dist}"
@@ -276,20 +277,20 @@ def test_all_19_sections():
     v_item = ir["tracks"]["video"][0]
     for sec17_key in ["source", "start", "duration", "transition", "crop", "scale", "position", "color", "audio"]:
         assert sec17_key in v_item, f"Missing Section 17 video item key: {sec17_key}"
-    assert (ROOT / "timeline.json").exists(), "timeline.json was not persisted to disk"
+    assert (FIXTURES / "timeline.json").exists() or (ROOT / "Phase-6_Assembly" / "timeline.json").exists(), "timeline.json was not persisted to disk"
     print(f"  [PASS] Section 14-17 verified: 7 audio layers ({len(radio['tracks']['silence'])} silence cues, {len(radio['tracks']['transitions'])} transitions) & Section 17 timeline IR conformant.")
 
     # SECTION 18: 7-Pillar Documentary QA
     print("\n[TEST 18] 7-Pillar Documentary QA Suite...")
     qa_mod = load_mod("documentary_qa", "Phase-7_QA/engine/documentary_qa.py")
-    doc_qa = qa_mod.DocumentaryQAEngine()
-    with open(ROOT / "narration.json", "r", encoding="utf-8") as f:
+    doc_qa = qa_mod.DocumentaryQAEngine(ROOT)
+    with open(FIXTURES / "narration.json", "r", encoding="utf-8") as f:
         narr = json.load(f)
-    with open(ROOT / "shot-plan.json", "r", encoding="utf-8") as f:
+    with open(FIXTURES / "shot-plan.json", "r", encoding="utf-8") as f:
         sp = json.load(f)
-    with open(ROOT / "audio-plan.json", "r", encoding="utf-8") as f:
+    with open(FIXTURES / "audio-plan.json", "r", encoding="utf-8") as f:
         ap = json.load(f)
-    with open(ROOT / "continuity-bible.json", "r", encoding="utf-8") as f:
+    with open(FIXTURES / "continuity-bible.json", "r", encoding="utf-8") as f:
         cb = json.load(f)
     with open(ROOT / "Phase-0_Research" / "claims" / "claims.json", "r", encoding="utf-8") as f:
         cl = json.load(f)["claims"]

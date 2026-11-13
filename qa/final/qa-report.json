@@ -67,9 +67,7 @@
         "exact_1080p_resolution": true,
         "exact_30fps": true,
         "total_runtime_target_met": true,
-        "zero_missing_frames": true,
-        "video_file_exists": true,
-        "video_file_size_valid": true
+        "zero_missing_frames": true
       }
     },
     "thumbnail_qa": {

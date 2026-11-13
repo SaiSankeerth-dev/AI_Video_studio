@@ -128,14 +128,18 @@ class ContentFactoryPipeline:
         print(f"  [OK] Built 10-beat dramatic structure: HOOK -> QUESTION -> ... -> IMPLICATION")
         print(f"  [OK] Cold open validated: {doc_plan['cold_open']['duration_seconds']}s (Within 20-60s rule)")
 
-        # Load production files
-        with open(self.root_dir / "narration.json", "r", encoding="utf-8") as f:
+        # Load production files (support tests/fixtures/master_documentary or root)
+        fixtures_dir = self.root_dir / "tests" / "fixtures" / "master_documentary"
+        if not fixtures_dir.exists():
+            fixtures_dir = self.root_dir
+
+        with open(fixtures_dir / "narration.json", "r", encoding="utf-8") as f:
             narration_data = json.load(f)
-        with open(self.root_dir / "shot-plan.json", "r", encoding="utf-8") as f:
+        with open(fixtures_dir / "shot-plan.json", "r", encoding="utf-8") as f:
             shot_plan = json.load(f)
-        with open(self.root_dir / "continuity-bible.json", "r", encoding="utf-8") as f:
+        with open(fixtures_dir / "continuity-bible.json", "r", encoding="utf-8") as f:
             bible = json.load(f)
-        with open(self.root_dir / "audio-plan.json", "r", encoding="utf-8") as f:
+        with open(fixtures_dir / "audio-plan.json", "r", encoding="utf-8") as f:
             audio_plan = json.load(f)
 
         # -------------------------------------------------------------

@@ -8,10 +8,12 @@ import json
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+
 class RemotionGraphicsEngine:
     def __init__(self, remotion_root: Optional[Path] = None):
-        self.remotion_root = remotion_root or Path(r"D:\gitM\01_ContentFactory\Phase-4_Remotion")
-        self.output_dir = Path(r"D:\gitM\01_ContentFactory\production\graphics")
+        self.remotion_root = remotion_root or (REPO_ROOT / "Phase-4_Remotion")
+        self.output_dir = REPO_ROOT / "production" / "graphics"
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
     def verify_remotion_components(self) -> Dict[str, Any]:
