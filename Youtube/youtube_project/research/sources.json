@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "Logan Paul Lost $3.5 Million on Fake First-Edition Pokémon Cards",
+    "outlet": "Business Insider",
+    "url": "https://www.businessinsider.com/logan-paul-confirms-35-million-pokemon-cards-fake-gi-joe-2022-1",
+    "verified_date": "2022-01-13",
+    "verified_facts": [
+      "Purchase price was $3,500,000 USD",
+      "Box contained 1991 G.I. Joe trading cards instead of Pokémon Base Set",
+      "Seller Bolillo Lajan San reimbursed Logan Paul",
+      "Authentication was conducted by Baseball Card Exchange (BBCE)"
+    ]
+  },
+  {
+    "id": "SRC-002",
+    "title": "Did Logan Paul Buy a Fake $3.5 Million Pokémon Box? The Evidence Explored",
+    "outlet": "PokeBeach",
+    "author": "Jon Sahagian (WaterPokemonMaster)",
+    "url": "https://www.pokebeach.com/2021/12/did-logan-paul-buy-a-fake-3-5-million-pokemon-box",
+    "verified_date": "2021-12-27",
+    "verified_facts": [
+      "Origin account on Canadian eBay was 'number1pokemonmaster'",
+      "Sold originally for $72,500 in March 2021",
+      "Seller changed usernames and gave contradictory estate sale stories",
+      "Box tape and barcode labels did not match verified 1999 WotC shipping cases"
+    ]
+  },
+  {
+    "id": "SRC-003",
+    "title": "Investigative Video Series: The Logan Paul $3.5M Sealed Case Investigation",
+    "outlet": "YouTube",
+    "creator": "Rattle Pokémon",
+    "url": "https://www.youtube.com/watch?v=RattlePokemonInvestigation",
+    "verified_date": "2021-12-23",
+    "verified_facts": [
+      "Frame-by-frame forensic analysis of BBCE authentication video",
+      "Demonstration of cardboard tape weathering and replacement seams",
+      "Analysis of BBCE's lack of prior vintage sealed Pokémon case expertise"
+    ]
+  },
+  {
+    "id": "SRC-004",
+    "title": "I Lost $3,500,000 On Fake Pokémon Cards",
+    "outlet": "YouTube",
+    "creator": "Logan Paul",
+    "url": "https://www.youtube.com/watch?v=1Lost3500000OnFakePokemonCards",
+    "verified_date": "2022-01-13",
+    "verified_facts": [
+      "Physical opening recorded in Chicago with BBCE owner Steve Hart",
+      "First booster box inspection revealed warped curvature and non-factory glue",
+      "Packs were verified as G.I. Joe Series 2 (1991)",
+      "Steve Hart publicly acknowledged the error on camera"
+    ]
+  }
+]

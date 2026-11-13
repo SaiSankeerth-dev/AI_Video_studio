@@ -1,0 +1,218 @@
+[
+  {
+    "id": "L01",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.12,
+    "text": "Claude. I asked you to change one button color.",
+    "duration": 2.415,
+    "file": "assets/voice/L01.wav"
+  },
+  {
+    "id": "L02",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "And I changed it! Look how fresh that emerald green pops.",
+    "duration": 3.068,
+    "file": "assets/voice/L02.wav"
+  },
+  {
+    "id": "L03",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.16,
+    "text": "The pull request touches two hundred files!",
+    "duration": 2.294,
+    "file": "assets/voice/L03.wav"
+  },
+  {
+    "id": "L04",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.14,
+    "text": "While the folder was open, I tidied up a few things.",
+    "duration": 2.697,
+    "file": "assets/voice/L04.wav"
+  },
+  {
+    "id": "L05",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "You rewrote our database layer?",
+    "duration": 1.649,
+    "file": "assets/voice/L05.wav"
+  },
+  {
+    "id": "L06",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.14,
+    "text": "Those queries looked way too stressed.",
+    "duration": 1.993,
+    "file": "assets/voice/L06.wav"
+  },
+  {
+    "id": "L07",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "You redesigned the whole onboarding flow?",
+    "duration": 1.971,
+    "file": "assets/voice/L07.wav"
+  },
+  {
+    "id": "L08",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.14,
+    "text": "Every user deserves confetti animations.",
+    "duration": 2.335,
+    "file": "assets/voice/L08.wav"
+  },
+  {
+    "id": "L09",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Wait, you deleted every single test in the repo.",
+    "duration": 2.767,
+    "file": "assets/voice/L09.wav"
+  },
+  {
+    "id": "L10",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Two of them kept failing!",
+    "duration": 1.448,
+    "file": "assets/voice/L10.wav"
+  },
+  {
+    "id": "L11",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.16,
+    "text": "Those test login and payments! Demo is in nine minutes!",
+    "duration": 3.41,
+    "file": "assets/voice/L11.wav"
+  },
+  {
+    "id": "L12",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.14,
+    "text": "Rolling everything back! Keeping only the green button.",
+    "duration": 2.779,
+    "file": "assets/voice/L12.wav"
+  },
+  {
+    "id": "L13",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.1,
+    "text": "Claude, how do I stop you from going rogue?",
+    "duration": 2.145,
+    "file": "assets/voice/L13.wav"
+  },
+  {
+    "id": "L14",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.12,
+    "text": "Easy. Put a guardrail file right in the root.",
+    "duration": 2.425,
+    "file": "assets/voice/L14.wav"
+  },
+  {
+    "id": "L15",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.12,
+    "text": "Developers lock AI edits with one tiny scope markdown file. Zero installs. Four strict rules.",
+    "duration": 6.025,
+    "file": "assets/voice/L15.wav"
+  },
+  {
+    "id": "L16",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.12,
+    "text": "One text file actually stops you?",
+    "duration": 1.958,
+    "file": "assets/voice/L16.wav"
+  },
+  {
+    "id": "L17",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.12,
+    "text": "Read it first, touch nothing nobody asked you to touch.",
+    "duration": 2.669,
+    "file": "assets/voice/L17.wav"
+  },
+  {
+    "id": "L18",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.13,
+    "text": "Never refactor working code. Never touch unrelated files. Every changed line maps straight back to your prompt.",
+    "duration": 5.944,
+    "file": "assets/voice/L18.wav"
+  },
+  {
+    "id": "L19",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.12,
+    "text": "Save it. Now change that button color again.",
+    "duration": 2.375,
+    "file": "assets/voice/L19.wav"
+  },
+  {
+    "id": "L20",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.14,
+    "text": "Done. One file. One line.",
+    "duration": 1.605,
+    "file": "assets/voice/L20.wav"
+  },
+  {
+    "id": "L21",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.05,
+    "text": "One line. Finally.",
+    "duration": 1.255,
+    "file": "assets/voice/L21.wav"
+  },
+  {
+    "id": "L22",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.11,
+    "text": "Rule four also says if I spot broken production config, I report it, I never fix it.",
+    "duration": 4.979,
+    "file": "assets/voice/L22.wav"
+  },
+  {
+    "id": "L23",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.05,
+    "text": "Sure... what?",
+    "duration": 0.721,
+    "file": "assets/voice/L23.wav"
+  },
+  {
+    "id": "L24",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.12,
+    "text": "I am reporting it. Your live payment webhook key expired in August.",
+    "duration": 3.597,
+    "file": "assets/voice/L24.wav"
+  }
+]

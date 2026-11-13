@@ -1,0 +1,274 @@
+{
+  "slug": "04-openshorts-gta6",
+  "video_path": "E:\\AI_Videos\\Instagram\\exports\\04_openshorts_gta6_final.mp4",
+  "metadata": {
+    "file_size_bytes": 32005450,
+    "file_size_mb": 30.52,
+    "duration_sec": 88.23,
+    "video": {
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "1080:1920",
+      "fps": 30.0,
+      "bitrate_kbps": 2704.4
+    },
+    "audio": {
+      "codec": "aac",
+      "sample_rate_hz": 48000,
+      "channels": 2,
+      "bitrate_kbps": 190.4
+    }
+  },
+  "editing": {
+    "total_shots": 20,
+    "average_shot_duration_sec": 4.41,
+    "cuts_per_minute": 13.6,
+    "scenes": [
+      {
+        "scene_index": 1,
+        "start_sec": 0.0,
+        "end_sec": 9.97,
+        "duration_sec": 9.97
+      },
+      {
+        "scene_index": 2,
+        "start_sec": 9.97,
+        "end_sec": 15.4,
+        "duration_sec": 5.43
+      },
+      {
+        "scene_index": 3,
+        "start_sec": 15.4,
+        "end_sec": 18.23,
+        "duration_sec": 2.83
+      },
+      {
+        "scene_index": 4,
+        "start_sec": 18.23,
+        "end_sec": 25.77,
+        "duration_sec": 7.54
+      },
+      {
+        "scene_index": 5,
+        "start_sec": 25.77,
+        "end_sec": 29.8,
+        "duration_sec": 4.03
+      },
+      {
+        "scene_index": 6,
+        "start_sec": 29.8,
+        "end_sec": 32.1,
+        "duration_sec": 2.3
+      },
+      {
+        "scene_index": 7,
+        "start_sec": 32.1,
+        "end_sec": 34.8,
+        "duration_sec": 2.7
+      },
+      {
+        "scene_index": 8,
+        "start_sec": 34.8,
+        "end_sec": 40.6,
+        "duration_sec": 5.8
+      },
+      {
+        "scene_index": 9,
+        "start_sec": 40.6,
+        "end_sec": 42.1,
+        "duration_sec": 1.5
+      },
+      {
+        "scene_index": 10,
+        "start_sec": 42.1,
+        "end_sec": 50.5,
+        "duration_sec": 8.4
+      },
+      {
+        "scene_index": 11,
+        "start_sec": 50.5,
+        "end_sec": 54.5,
+        "duration_sec": 4.0
+      },
+      {
+        "scene_index": 12,
+        "start_sec": 54.5,
+        "end_sec": 57.97,
+        "duration_sec": 3.47
+      },
+      {
+        "scene_index": 13,
+        "start_sec": 57.97,
+        "end_sec": 60.77,
+        "duration_sec": 2.8
+      },
+      {
+        "scene_index": 14,
+        "start_sec": 60.77,
+        "end_sec": 68.17,
+        "duration_sec": 7.4
+      },
+      {
+        "scene_index": 15,
+        "start_sec": 68.17,
+        "end_sec": 72.47,
+        "duration_sec": 4.3
+      },
+      {
+        "scene_index": 16,
+        "start_sec": 72.47,
+        "end_sec": 78.53,
+        "duration_sec": 6.06
+      },
+      {
+        "scene_index": 17,
+        "start_sec": 78.53,
+        "end_sec": 82.37,
+        "duration_sec": 3.84
+      },
+      {
+        "scene_index": 18,
+        "start_sec": 82.37,
+        "end_sec": 85.97,
+        "duration_sec": 3.6
+      },
+      {
+        "scene_index": 19,
+        "start_sec": 85.97,
+        "end_sec": 86.67,
+        "duration_sec": 0.7
+      },
+      {
+        "scene_index": 20,
+        "start_sec": 86.67,
+        "end_sec": 88.23,
+        "duration_sec": 1.56
+      }
+    ]
+  },
+  "frames": [
+    {
+      "label": "01_opening_hook",
+      "timestamp": 1.0,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\04-openshorts-gta6_frames\\01_opening_hook.jpg"
+    },
+    {
+      "label": "02_tension_build",
+      "timestamp": 15.0,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\04-openshorts-gta6_frames\\02_tension_build.jpg"
+    },
+    {
+      "label": "03_midpoint_reveal",
+      "timestamp": 44.115,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\04-openshorts-gta6_frames\\03_midpoint_reveal.jpg"
+    },
+    {
+      "label": "04_climax",
+      "timestamp": 74.9955,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\04-openshorts-gta6_frames\\04_climax.jpg"
+    },
+    {
+      "label": "05_ending_punchline",
+      "timestamp": 86.73,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\04-openshorts-gta6_frames\\05_ending_punchline.jpg"
+    }
+  ],
+  "transcript": [
+    {
+      "index": "1",
+      "timing": "00:00:00,000 --> 00:00:09,942",
+      "text": "TARIQ: Claude, GTA 6 comes out soon, and every influencer on my feed claims you can make twenty grand clipping live streams with AI. Is that actually real?"
+    },
+    {
+      "index": "2",
+      "timing": "00:00:10,122 --> 00:00:15,215",
+      "text": "CLAUDE: Let us break it into three honest parts: what people claim, how to do it free, and the copyright reality."
+    },
+    {
+      "index": "3",
+      "timing": "00:00:15,396 --> 00:00:18,202",
+      "text": "TARIQ: Start with the hype. What are they telling people to do?"
+    },
+    {
+      "index": "4",
+      "timing": "00:00:18,382 --> 00:00:25,583",
+      "text": "CLAUDE: Take an eight-hour streamer broadcast, have an AI detect the funny moments, convert it to nine-by-sixteen, and spam it across TikTok and Reels."
+    },
+    {
+      "index": "5",
+      "timing": "00:00:25,763 --> 00:00:29,798",
+      "text": "TARIQ: So literally just re-uploading other people's gameplay without editing?"
+    },
+    {
+      "index": "6",
+      "timing": "00:00:29,978 --> 00:00:31,907",
+      "text": "CLAUDE: That is the entire business model."
+    },
+    {
+      "index": "7",
+      "timing": "00:00:32,087 --> 00:00:34,773",
+      "text": "TARIQ: Okay, but how much does the AI software cost?"
+    },
+    {
+      "index": "8",
+      "timing": "00:00:34,953 --> 00:00:40,409",
+      "text": "CLAUDE: Zero dollars. An open-source tool called OpenShorts just dropped on GitHub with eight thousand stars."
+    },
+    {
+      "index": "9",
+      "timing": "00:00:40,590 --> 00:00:42,088",
+      "text": "TARIQ: Wait, it is completely free?"
+    },
+    {
+      "index": "10",
+      "timing": "00:00:42,268 --> 00:00:50,286",
+      "text": "CLAUDE: MIT licensed. You paste any stream link, and local AI extracts viral clips, crops the facecam, and generates animated captions automatically."
+    },
+    {
+      "index": "11",
+      "timing": "00:00:50,466 --> 00:00:54,481",
+      "text": "TARIQ: Wait, it handles face tracking and captions too? What am I supposed to do?"
+    },
+    {
+      "index": "12",
+      "timing": "00:00:54,661 --> 00:00:57,784",
+      "text": "CLAUDE: Press publish and pray YouTube's algorithm does not notice."
+    },
+    {
+      "index": "13",
+      "timing": "00:00:57,965 --> 00:01:00,762",
+      "text": "TARIQ: And that brings us to part three: is the money real?"
+    },
+    {
+      "index": "14",
+      "timing": "00:01:00,942 --> 00:01:07,981",
+      "text": "CLAUDE: The views are real. But the footage belongs to Rockstar, and YouTube actively demonetizes reused content with zero commentary."
+    },
+    {
+      "index": "15",
+      "timing": "00:01:08,162 --> 00:01:12,435",
+      "text": "TARIQ: Plus fifty thousand kids will be clipping the exact same stream on launch day."
+    },
+    {
+      "index": "16",
+      "timing": "00:01:12,614 --> 00:01:18,329",
+      "text": "CLAUDE: Exactly. In a gold rush, the people getting rich are not the clippers, it is the developers building the clipping tools."
+    },
+    {
+      "index": "17",
+      "timing": "00:01:18,510 --> 00:01:22,349",
+      "text": "TARIQ: So I should not quit my engineering job to farm GTA clips?"
+    },
+    {
+      "index": "18",
+      "timing": "00:01:22,530 --> 00:01:25,769",
+      "text": "CLAUDE: You are a senior developer, Tariq. Go review your pull requests."
+    },
+    {
+      "index": "19",
+      "timing": "00:01:25,950 --> 00:01:26,641",
+      "text": "TARIQ: Fair enough."
+    }
+  ]
+}

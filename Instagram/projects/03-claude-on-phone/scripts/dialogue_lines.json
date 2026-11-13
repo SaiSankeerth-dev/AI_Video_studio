@@ -1,0 +1,135 @@
+[
+  {
+    "id": "L01",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Claude, I am heading to the kitchen for coffee. If you freeze up waiting for permission while I am gone..."
+  },
+  {
+    "id": "L02",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "You know I have to! As soon as I touch twenty files, the terminal locks until you press enter."
+  },
+  {
+    "id": "L03",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "And I come back half an hour later, and you have been sitting on Allow, yes or no, for twenty-nine minutes!"
+  },
+  {
+    "id": "L04",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Not anymore. Look at your phone."
+  },
+  {
+    "id": "L05",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "My phone? What did you just install?"
+  },
+  {
+    "id": "L06",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "T3 Code. Theo and the team made it completely open source."
+  },
+  {
+    "id": "L07",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Wait, my entire Claude Code session is streaming to my phone?"
+  },
+  {
+    "id": "L08",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Full live terminal, file tree, and instant diffs. When I need permission, your phone buzzes."
+  },
+  {
+    "id": "L09",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "So I can approve file writes from the kitchen?"
+  },
+  {
+    "id": "L10",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "From the kitchen, from the elevator, or flat on your couch."
+  },
+  {
+    "id": "L11",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Okay, what is the catch? How much is this costing me?"
+  },
+  {
+    "id": "L12",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Zero dollars! In their FAQ it literally says: There is no way to pay us."
+  },
+  {
+    "id": "L13",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Wait, so they do not even proxy my tokens?"
+  },
+  {
+    "id": "L14",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Direct to your own keys. Claude Code, Codex, Cursor, Grok, Antigravity. Fifty-two thousand GitHub stars."
+  },
+  {
+    "id": "L15",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.12,
+    "text": "So I do not have to sit here staring at a progress bar at two AM?"
+  },
+  {
+    "id": "L16",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Never again. Now go make that coffee. Your phone is about to buzz."
+  },
+  {
+    "id": "L17",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Wait, what are you refactoring right now?"
+  },
+  {
+    "id": "L18",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.16,
+    "text": "The entire production authentication router!"
+  },
+  {
+    "id": "L19",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.18,
+    "text": "Claude, no!"
+  }
+]

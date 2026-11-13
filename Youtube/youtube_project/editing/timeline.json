@@ -1,0 +1,207 @@
+{
+  "project": "The $3,500,000 Cardboard Box",
+  "total_duration": 303.09999999999997,
+  "clip_count": 20,
+  "timeline": [
+    {
+      "shot_id": "SHOT-01",
+      "scene_id": "SCENE-01",
+      "start_time": 0.0,
+      "end_time": 16.6,
+      "duration": 16.6,
+      "clip_file": "shot-01.mp4",
+      "sfx": "sfx_sub_boom.wav",
+      "voice_file": "shot-01_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-02",
+      "scene_id": "SCENE-01",
+      "start_time": 16.6,
+      "end_time": 31.96666666666667,
+      "duration": 15.366666666666667,
+      "clip_file": "shot-02.mp4",
+      "sfx": null,
+      "voice_file": "shot-02_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-03",
+      "scene_id": "SCENE-02",
+      "start_time": 31.96666666666667,
+      "end_time": 48.2,
+      "duration": 16.233333333333334,
+      "clip_file": "shot-03.mp4",
+      "sfx": "sfx_shutter_click.wav",
+      "voice_file": "shot-03_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-04",
+      "scene_id": "SCENE-02",
+      "start_time": 48.2,
+      "end_time": 63.13333333333334,
+      "duration": 14.933333333333334,
+      "clip_file": "shot-04.mp4",
+      "sfx": "sfx_scanner_chirp.wav",
+      "voice_file": "shot-04_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-05",
+      "scene_id": "SCENE-03",
+      "start_time": 63.13333333333334,
+      "end_time": 80.9,
+      "duration": 17.766666666666666,
+      "clip_file": "shot-05.mp4",
+      "sfx": "sfx_scanner_chirp.wav",
+      "voice_file": "shot-05_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-06",
+      "scene_id": "SCENE-03",
+      "start_time": 80.9,
+      "end_time": 102.13333333333334,
+      "duration": 21.233333333333334,
+      "clip_file": "shot-06.mp4",
+      "sfx": "sfx_paper_slide.wav",
+      "voice_file": "shot-06_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-07",
+      "scene_id": "SCENE-04",
+      "start_time": 102.13333333333334,
+      "end_time": 117.9,
+      "duration": 15.766666666666667,
+      "clip_file": "shot-07.mp4",
+      "sfx": "sfx_cash_chime.wav",
+      "voice_file": "shot-07_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-08",
+      "scene_id": "SCENE-04",
+      "start_time": 117.9,
+      "end_time": 139.23333333333335,
+      "duration": 21.333333333333332,
+      "clip_file": "shot-08.mp4",
+      "sfx": null,
+      "voice_file": "shot-08_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-09",
+      "scene_id": "SCENE-05",
+      "start_time": 139.23333333333335,
+      "end_time": 150.26666666666668,
+      "duration": 11.033333333333333,
+      "clip_file": "shot-09.mp4",
+      "sfx": "sfx_cash_chime.wav",
+      "voice_file": "shot-09_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-10",
+      "scene_id": "SCENE-05",
+      "start_time": 150.26666666666668,
+      "end_time": 169.66666666666669,
+      "duration": 19.4,
+      "clip_file": "shot-10.mp4",
+      "sfx": "sfx_knife_slice.wav",
+      "voice_file": "shot-10_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-11",
+      "scene_id": "SCENE-06",
+      "start_time": 169.66666666666669,
+      "end_time": 196.03333333333336,
+      "duration": 26.366666666666667,
+      "clip_file": "shot-11.mp4",
+      "sfx": "sfx_scanner_chirp.wav",
+      "voice_file": "shot-11_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-12",
+      "scene_id": "SCENE-06",
+      "start_time": 196.03333333333336,
+      "end_time": 212.03333333333336,
+      "duration": 16.0,
+      "clip_file": "shot-12.mp4",
+      "sfx": "sfx_scanner_chirp.wav",
+      "voice_file": "shot-12_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-13",
+      "scene_id": "SCENE-07",
+      "start_time": 212.03333333333336,
+      "end_time": 220.20000000000002,
+      "duration": 8.166666666666666,
+      "clip_file": "shot-13.mp4",
+      "sfx": null,
+      "voice_file": "shot-13_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-14",
+      "scene_id": "SCENE-07",
+      "start_time": 220.20000000000002,
+      "end_time": 233.8,
+      "duration": 13.6,
+      "clip_file": "shot-14.mp4",
+      "sfx": "sfx_knife_slice.wav",
+      "voice_file": "shot-14_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-15",
+      "scene_id": "SCENE-08",
+      "start_time": 233.8,
+      "end_time": 242.53333333333333,
+      "duration": 8.733333333333333,
+      "clip_file": "shot-15.mp4",
+      "sfx": "sfx_paper_slide.wav",
+      "voice_file": "shot-15_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-16",
+      "scene_id": "SCENE-08",
+      "start_time": 242.53333333333333,
+      "end_time": 254.86666666666667,
+      "duration": 12.333333333333334,
+      "clip_file": "shot-16.mp4",
+      "sfx": "sfx_sub_boom.wav",
+      "voice_file": "shot-16_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-17",
+      "scene_id": "SCENE-09",
+      "start_time": 254.86666666666667,
+      "end_time": 262.8333333333333,
+      "duration": 7.966666666666667,
+      "clip_file": "shot-17.mp4",
+      "sfx": "sfx_sub_boom.wav",
+      "voice_file": "shot-17_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-18",
+      "scene_id": "SCENE-09",
+      "start_time": 262.8333333333333,
+      "end_time": 275.09999999999997,
+      "duration": 12.266666666666667,
+      "clip_file": "shot-18.mp4",
+      "sfx": "sfx_scanner_chirp.wav",
+      "voice_file": "shot-18_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-19",
+      "scene_id": "SCENE-10",
+      "start_time": 275.09999999999997,
+      "end_time": 282.5333333333333,
+      "duration": 7.433333333333334,
+      "clip_file": "shot-19.mp4",
+      "sfx": null,
+      "voice_file": "shot-19_voice.wav"
+    },
+    {
+      "shot_id": "SHOT-20",
+      "scene_id": "SCENE-10",
+      "start_time": 282.5333333333333,
+      "end_time": 303.09999999999997,
+      "duration": 20.566666666666666,
+      "clip_file": "shot-20.mp4",
+      "sfx": "sfx_sub_boom.wav",
+      "voice_file": "shot-20_voice.wav"
+    }
+  ]
+}

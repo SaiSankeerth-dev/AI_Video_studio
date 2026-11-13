@@ -1,0 +1,195 @@
+{
+  "totalDuration": 88.22,
+  "cues": [
+    {
+      "id": "L01",
+      "speaker": "tariq",
+      "start": 0,
+      "duration": 9.943,
+      "end": 9.943,
+      "shot": "tariq_cu",
+      "text": "Claude, GTA 6 comes out soon, and every influencer on my feed claims you can make twenty grand clipping live streams with AI. Is that actually real?",
+      "file": "assets/voice/L01.wav"
+    },
+    {
+      "id": "L02",
+      "speaker": "claude",
+      "start": 10.123,
+      "duration": 5.093,
+      "end": 15.216,
+      "shot": "claude_cu",
+      "text": "Let us break it into three honest parts: what people claim, how to do it free, and the copyright reality.",
+      "file": "assets/voice/L02.wav"
+    },
+    {
+      "id": "L03",
+      "speaker": "tariq",
+      "start": 15.396,
+      "duration": 2.806,
+      "end": 18.202,
+      "shot": "tariq_cu",
+      "text": "Start with the hype. What are they telling people to do?",
+      "file": "assets/voice/L03.wav"
+    },
+    {
+      "id": "L04",
+      "speaker": "claude",
+      "start": 18.382,
+      "duration": 7.202,
+      "end": 25.584,
+      "shot": "claude_cu",
+      "text": "Take an eight-hour streamer broadcast, have an AI detect the funny moments, convert it to nine-by-sixteen, and spam it across TikTok and Reels.",
+      "file": "assets/voice/L04.wav"
+    },
+    {
+      "id": "L05",
+      "speaker": "tariq",
+      "start": 25.764,
+      "duration": 4.035,
+      "end": 29.799,
+      "shot": "two_shot",
+      "text": "So literally just re-uploading other people's gameplay without editing?",
+      "file": "assets/voice/L05.wav"
+    },
+    {
+      "id": "L06",
+      "speaker": "claude",
+      "start": 29.979,
+      "duration": 1.928,
+      "end": 31.907,
+      "shot": "claude_cu",
+      "text": "That is the entire business model.",
+      "file": "assets/voice/L06.wav"
+    },
+    {
+      "id": "L07",
+      "speaker": "tariq",
+      "start": 32.087,
+      "duration": 2.686,
+      "end": 34.773,
+      "shot": "tariq_cu",
+      "text": "Okay, but how much does the AI software cost?",
+      "file": "assets/voice/L07.wav"
+    },
+    {
+      "id": "L08",
+      "speaker": "claude",
+      "start": 34.953,
+      "duration": 5.457,
+      "end": 40.41,
+      "shot": "claude_cu",
+      "text": "Zero dollars. An open-source tool called OpenShorts just dropped on GitHub with eight thousand stars.",
+      "file": "assets/voice/L08.wav"
+    },
+    {
+      "id": "L09",
+      "speaker": "tariq",
+      "start": 40.59,
+      "duration": 1.499,
+      "end": 42.089,
+      "shot": "tariq_cu",
+      "text": "Wait, it is completely free?",
+      "file": "assets/voice/L09.wav"
+    },
+    {
+      "id": "L10",
+      "speaker": "claude",
+      "start": 42.269,
+      "duration": 8.018,
+      "end": 50.287,
+      "shot": "claude_cu",
+      "text": "MIT licensed. You paste any stream link, and local AI extracts viral clips, crops the facecam, and generates animated captions automatically.",
+      "file": "assets/voice/L10.wav"
+    },
+    {
+      "id": "L11",
+      "speaker": "tariq",
+      "start": 50.467,
+      "duration": 4.014,
+      "end": 54.481,
+      "shot": "tariq_cu",
+      "text": "Wait, it handles face tracking and captions too? What am I supposed to do?",
+      "file": "assets/voice/L11.wav"
+    },
+    {
+      "id": "L12",
+      "speaker": "claude",
+      "start": 54.661,
+      "duration": 3.124,
+      "end": 57.785,
+      "shot": "claude_cu",
+      "text": "Press publish and pray YouTube's algorithm does not notice.",
+      "file": "assets/voice/L12.wav"
+    },
+    {
+      "id": "L13",
+      "speaker": "tariq",
+      "start": 57.965,
+      "duration": 2.797,
+      "end": 60.762,
+      "shot": "tariq_cu",
+      "text": "And that brings us to part three: is the money real?",
+      "file": "assets/voice/L13.wav"
+    },
+    {
+      "id": "L14",
+      "speaker": "claude",
+      "start": 60.942,
+      "duration": 7.04,
+      "end": 67.982,
+      "shot": "claude_cu",
+      "text": "The views are real. But the footage belongs to Rockstar, and YouTube actively demonetizes reused content with zero commentary.",
+      "file": "assets/voice/L14.wav"
+    },
+    {
+      "id": "L15",
+      "speaker": "tariq",
+      "start": 68.162,
+      "duration": 4.273,
+      "end": 72.435,
+      "shot": "tariq_cu",
+      "text": "Plus fifty thousand kids will be clipping the exact same stream on launch day.",
+      "file": "assets/voice/L15.wav"
+    },
+    {
+      "id": "L16",
+      "speaker": "claude",
+      "start": 72.615,
+      "duration": 5.715,
+      "end": 78.33,
+      "shot": "two_shot",
+      "text": "Exactly. In a gold rush, the people getting rich are not the clippers, it is the developers building the clipping tools.",
+      "file": "assets/voice/L16.wav"
+    },
+    {
+      "id": "L17",
+      "speaker": "tariq",
+      "start": 78.51,
+      "duration": 3.84,
+      "end": 82.35,
+      "shot": "tariq_cu",
+      "text": "So I should not quit my engineering job to farm GTA clips?",
+      "file": "assets/voice/L17.wav"
+    },
+    {
+      "id": "L18",
+      "speaker": "claude",
+      "start": 82.53,
+      "duration": 3.24,
+      "end": 85.77,
+      "shot": "claude_cu",
+      "text": "You are a senior developer, Tariq. Go review your pull requests.",
+      "file": "assets/voice/L18.wav"
+    },
+    {
+      "id": "L19",
+      "speaker": "tariq",
+      "start": 85.95,
+      "duration": 0.692,
+      "end": 86.642,
+      "shot": "two_shot",
+      "text": "Fair enough.",
+      "file": "assets/voice/L19.wav"
+    }
+  ]
+}

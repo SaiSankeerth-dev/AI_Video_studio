@@ -1,0 +1,202 @@
+[
+  {
+    "shot_id": "SHOT-01",
+    "scene_id": "SCENE-01",
+    "duration": 8.5,
+    "visual": "A battered vintage brown cardboard box floating in an atmospheric dark void with warm amber rim lighting and kinetic ticker counting up to $3,500,000.",
+    "image_prompt": "Cinematic studio shot of a vintage 1999 cardboard shipping box with aged tape, suspended in dark void, volumetric dust particles, dramatic amber rim lighting, hyper-realistic texture, 8k resolution, photorealistic, 16:9 aspect ratio --no distortion, cartoon, blurry",
+    "video_prompt": "Slow cinematic orbit around a vintage cardboard box floating in dark studio space, soft volumetric lighting and dust particles drifting, high frame rate, smooth 4k camera motion",
+    "voiceover": "In late December 2021, Logan Paul announced he had just purchased the single most valuable artifact in modern collectibles history. Three point five million dollars in cash for a weathered, unassuming brown cardboard box.",
+    "sfx": "Deep sub-bass rumble (50Hz), tactile cardboard creak, faint clockwork ticking"
+  },
+  {
+    "shot_id": "SHOT-02",
+    "scene_id": "SCENE-01",
+    "duration": 7.5,
+    "visual": "Ghostly holographic silhouette of six sealed 1st Edition Pok\u00e9mon booster boxes glowing faintly inside the cardboard case.",
+    "image_prompt": "Six vintage 1st edition Pokemon booster boxes glowing with holographic foil reflections inside an acrylic display case, cinematic dark background, 8k, photorealistic --no CGI look, plastic artifacts",
+    "video_prompt": "Downward camera crane move hovering above glowing vintage booster boxes, iridescent foil shimmering under moving studio light",
+    "voiceover": "Inside were supposedly six untouched, factory-sealed first edition Pok\u00e9mon booster boxes from 1999. The holy grail. A time capsule that hadn't seen daylight in over twenty-two years.",
+    "sfx": "Holographic hum, soft electric chime, paper flutter"
+  },
+  {
+    "shot_id": "SHOT-03",
+    "scene_id": "SCENE-02",
+    "duration": 7.0,
+    "visual": "A thick archival acrylic vault case clamps shut around the cardboard box; a glowing holographic BBCE tamper-evident security seal locks into place.",
+    "image_prompt": "Heavy archival acrylic vault case locking around vintage cardboard box, security holographic tamper-proof tape with BBCE logo, laboratory setting, cinematic macro, 8k resolution --no blur",
+    "video_prompt": "Mechanical clamp of clear acrylic case snapping shut around vintage box, holographic seal shimmering under studio strobe, high speed slow motion",
+    "voiceover": "And this wasn't an unverified gamble. It was certified, authenticated, and sealed inside tamper-proof acrylic by Baseball Card Exchange\u2014the single most respected vintage card authentication authority on planet Earth.",
+    "sfx": "Heavy pneumatic clamp sound, metallic latch click, holographic foil sparkle"
+  },
+  {
+    "shot_id": "SHOT-04",
+    "scene_id": "SCENE-02",
+    "duration": 8.0,
+    "visual": "Darkened room with a lone computer monitor illuminating an investigator's face with cold blue light; forum threads and waveform graphics scroll across the screen.",
+    "image_prompt": "Cinematic shot over the shoulder of an internet investigator looking at computer screens analyzing vintage auction archives at night, dark room, blue monitor glow, photorealistic, 8k --no messy cartoon",
+    "video_prompt": "Slow pan across glowing dual computer monitors showing forum discussions and forensic image zoom in a dark studio room",
+    "voiceover": "The transaction was complete. The case was closed. But three days later, five thousand miles away, an anonymous YouTuber sitting in front of a laptop noticed something that the world's top experts had completely missed.",
+    "sfx": "Mouse click, mechanical keyboard clatter, electric hum"
+  },
+  {
+    "shot_id": "SHOT-05",
+    "scene_id": "SCENE-03",
+    "duration": 8.5,
+    "visual": "Kinetic timeline interface zooming into a retro-styled March 2021 Canadian eBay listing page; serial numbers highlight with yellow forensic markers.",
+    "image_prompt": "Detailed retro eBay auction interface mockup on computer screen, showing listing from March 2021 for sealed vintage box, user number1pokemonmaster highlighted with red forensic line, 8k --no distortion",
+    "video_prompt": "Digital camera zooming smoothly into auction screenshot, glowing red highlight animating over seller username and feedback score",
+    "voiceover": "Investigative creator Rattle Pok\u00e9mon began digging into the digital provenance of the box. By cross-referencing serial numbers, he traced the exact same cardboard case back to its very first public appearance on Canadian eBay just nine months earlier.",
+    "sfx": "Digital dial-up chirp, UI whoosh, marker squeak"
+  },
+  {
+    "shot_id": "SHOT-06",
+    "scene_id": "SCENE-03",
+    "duration": 8.5,
+    "visual": "Split screen comparing conflicting chat logs and listing descriptions: 'Estate sale in Ontario' vs 'Birthday gift in attic'.",
+    "image_prompt": "Split screen forensic dossier showing contradictory vintage estate sale receipts and typed notes with red warning stamps, cinematic dark desktop, 8k --no messy text",
+    "video_prompt": "Smooth lateral camera pan across split-screen documents with animated red underline highlighting contradictory statements",
+    "voiceover": "The listing had been posted by a brand new account called 'number1pokemonmaster'\u2014zero seller feedback, broken grammar, and an origin story that kept changing every time someone asked. First, the seller claimed it was found at a local estate sale. Then, that it was a childhood birthday gift sitting in an attic.",
+    "sfx": "Typewriter key clatter, stamp thud, paper rustle"
+  },
+  {
+    "shot_id": "SHOT-07",
+    "scene_id": "SCENE-04",
+    "duration": 8.5,
+    "visual": "3D volumetric bar chart: a towering crimson pillar at $2,500,000 dwarfs a miniature green pillar at $72,500. A giant question mark burns above.",
+    "image_prompt": "Monumental 3D bar chart in dark reflective museum hall, huge red column labeled 2.5 Million dollars next to tiny green column labeled 72 Thousand dollars, photorealistic 8k --no cartoonish graphics",
+    "video_prompt": "Smooth crane tilt rising up beside a glowing crimson 3D data column showing financial disparity, polished floor reflections",
+    "voiceover": "And here was the first massive red flag. In a market where seasoned collectors were paying two hundred thousand dollars for a single booster box, this entire six-box case sold for just seventy-two thousand five hundred dollars.",
+    "sfx": "Rising pitch riser, sudden silence drop on green pillar"
+  },
+  {
+    "shot_id": "SHOT-08",
+    "scene_id": "SCENE-04",
+    "duration": 8.5,
+    "visual": "Silhouetted elite collectors inspecting the box through glass and walking away, leaving the box isolated on a pedestal.",
+    "image_prompt": "Moody cinematic shot of a vintage cardboard box on a spotlighted museum pedestal, dark shadowy figures walking away into darkness, high contrast noir aesthetic, 8k --no blurry faces",
+    "video_prompt": "Slow dolly backwards from illuminated pedestal in dark auction gallery as dark figures step into shadow",
+    "voiceover": "Why would someone holding two and a half million dollars in legendary vintage cardboard sell it for three cents on the dollar, refuse to let buyers inspect it in person, and rush to offload it? The answer was obvious: the serious collectors in the community knew it was a fake. But what happened next was pure financial laundering.",
+    "sfx": "Footsteps echoing on marble, door click shut, ambient air hiss"
+  },
+  {
+    "shot_id": "SHOT-09",
+    "scene_id": "SCENE-05",
+    "duration": 9.0,
+    "visual": "Isometric 3D timeline showing the cardboard box traveling along an ascending glass conveyor belt: $72.5K -> $1.2M -> $2.7M -> $3.5M.",
+    "image_prompt": "Isometric 3D motion graphic diagram showing a cardboard box ascending a glowing glass staircase with financial milestones 72K, 1.2M, 2.7M, 3.5M in glowing gold type, clean aesthetic, 8k --no messy lines",
+    "video_prompt": "Smooth diagonal tracking shot along an ascending glass platform following a cardboard box past glowing financial milestone figures",
+    "voiceover": "The box entered a speculative chain of custody. It changed hands from broker to broker, doubling in price with every sale, yet nobody dared break the seal.",
+    "sfx": "Cash register sound effects, mechanical belt hum, whoosh accents"
+  },
+  {
+    "shot_id": "SHOT-10",
+    "scene_id": "SCENE-05",
+    "duration": 9.0,
+    "visual": "An exacto knife hovering millimetres above the box tape. The tape glows red like a tripwire, with a warning HUD displaying: 'SEAL BROKEN = -50% VALUE'.",
+    "image_prompt": "Extreme macro shot of an exacto knife hovering over vintage packaging tape, futuristic red HUD overlay showing warning text, cinematic lighting, ultra-sharp detail, 8k --no CGI flaws",
+    "video_prompt": "Extreme slow motion macro shot of razor blade hesitating directly above aged cardboard tape, subtle red glow pulsing along the seam",
+    "voiceover": "Because in vintage collectibles, you face a terrifying paradox: the moment you cut the factory tape to verify what is inside, you instantly destroy half its market value. The fraud depended entirely on this silence. As long as the box remained sealed, it was worth millions.",
+    "sfx": "High-pitched metallic ring, tense heartbeat, blade sheathing click"
+  },
+  {
+    "shot_id": "SHOT-11",
+    "scene_id": "SCENE-06",
+    "duration": 9.0,
+    "visual": "Side-by-side microscopic comparison. Left: Authentic 1999 WotC water-activated kraft tape with embedded fiberglass cross-threads. Right: Logan Paul's box with cheap yellowed plastic tape.",
+    "image_prompt": "Scientific split-screen microscope view comparing authentic fibrous kraft paper tape with embedded fiberglass strands against fake smooth yellowed plastic packing tape, forensic UI, 8k --no blur",
+    "video_prompt": "Dual microscope view with scanning laser line highlighting fiber weave on authentic tape and smooth acrylic on fake tape, laboratory optics",
+    "voiceover": "That's when PokeBeach and community sleuths brought out the forensic evidence. In 1999, Wizards of the Coast shipped 1st Edition cases using water-activated kraft paper tape reinforced with embedded fiberglass fibers. But high-resolution stills of Logan Paul's box showed generic, modern plastic packing tape\u2014artificially aged and yellowed to simulate twenty years of dust.",
+    "sfx": "Microscope magnification zoom motor, digital scanner beeps, data clicks"
+  },
+  {
+    "shot_id": "SHOT-12",
+    "scene_id": "SCENE-06",
+    "duration": 9.0,
+    "visual": "High-resolution thermal shipping label overlay; a magnifying loupe moves over the product code, highlighting modern digital vector curves that did not exist in 1999.",
+    "image_prompt": "Macro forensic analysis of a shipping barcode label, magnifying glass revealing digital font kerning and vector anomalies with cyan measurement lines, 8k photorealistic --no distortion",
+    "video_prompt": "Smooth motion of a magnifying glass sliding across a vintage shipping label, digital typography overlay illuminating modern font discrepancies",
+    "voiceover": "Next came the barcode label. The thermal typeface used on the serial sticker had digital font kerning that didn't even exist in printing software in 1999. The evidence was overwhelming: the box was a forgery.",
+    "sfx": "Digital scanner chirp, optical lens whoosh, confirmation chime"
+  },
+  {
+    "shot_id": "SHOT-13",
+    "scene_id": "SCENE-07",
+    "duration": 8.0,
+    "visual": "Moody, cold winter establishing shot of the Chicago skyline shrouded in icy mist, cutting inside to an empty hotel conference room with a polished mahogany table.",
+    "image_prompt": "Cinematic establishing shot of Chicago skyline in winter mist, cutting to high-end private boardroom with mahogany table, atmospheric cold mood, 8k --no messy CGI",
+    "video_prompt": "Slow cinematic drone flight through cold winter clouds above Chicago skyline, smooth transition to still boardroom table",
+    "voiceover": "Faced with mounting public evidence, on January 8, 2022, Logan Paul flew to Chicago.",
+    "sfx": "Winter wind howl, distant city sirens, heavy door closing latch"
+  },
+  {
+    "shot_id": "SHOT-14",
+    "scene_id": "SCENE-07",
+    "duration": 8.0,
+    "visual": "The sealed box sits on the boardroom table under bright video lights. A hand holding a utility knife extends the blade. The blade pierces the outer BBCE security wrap.",
+    "image_prompt": "Dramatic close-up of a razor knife slicing through thick plastic tamper-evident seal on a vintage cardboard box, studio lighting reflections, 8k resolution --no fake looking hands",
+    "video_prompt": "Slow motion close-up of sharp utility blade slicing through clear security wrap on a cardboard box, plastic peeling open cleanly",
+    "voiceover": "Inside a private room alongside the owner of Baseball Card Exchange, the moment of truth arrived. The tamper-evident wrapping was removed. The utility knife sliced through the outer cardboard.",
+    "sfx": "Sharp plastic slicing sound, blade click, deep bass thud"
+  },
+  {
+    "shot_id": "SHOT-15",
+    "scene_id": "SCENE-08",
+    "duration": 8.5,
+    "visual": "Cardboard flaps open. Hands lift out the first vintage Pok\u00e9mon booster box. Macro camera reveals warped, curvy cardboard and messy hot-melt glue residue.",
+    "image_prompt": "Macro shot of hands inspecting a counterfeit vintage Pokemon booster box, showing warped curved cardboard and sloppy glue residue under bright studio lights, 8k --no cartoon look",
+    "video_prompt": "Close-up shot of hands lifting warped vintage trading card box from cardboard case, inspecting curvy edges under bright lights",
+    "voiceover": "The first tell was immediate. The booster boxes inside were puffy, warped, and sealed with modern hot-melt craft glue.",
+    "sfx": "Cardboard flap creak, plastic crinkle, subtle gasp in room tone"
+  },
+  {
+    "shot_id": "SHOT-16",
+    "scene_id": "SCENE-08",
+    "duration": 8.5,
+    "visual": "The lid of the booster box is pulled open in slow motion. Inside, instead of silver-foil Charizard and Blastoise wrappers, dull red and blue wax paper packs appear.",
+    "image_prompt": "Top-down view into an open vintage booster box revealing 1991 GI Joe wax paper trading card packs instead of Pokemon cards, stunning cinematic clarity, 8k --no blur",
+    "video_prompt": "Top-down camera zooming in as vintage card box opens, revealing completely wrong vintage wax packs inside, dramatic lighting",
+    "voiceover": "And when the lid was peeled back, there was no Charizard. There was no Blastoise. Instead, staring back at the room... were wax packs of 1991 G.I. Joe.",
+    "sfx": "Cardboard rip, dramatic sub-bass drop, heavy impact thud"
+  },
+  {
+    "shot_id": "SHOT-17",
+    "scene_id": "SCENE-09",
+    "duration": 8.5,
+    "visual": "Single 1991 G.I. Joe wax pack resting alone on the polished mahogany table under harsh spotlight. Kinetic quote animates in giant bold typography: 'G.I. JOE?! IT COULD HAVE BEEN ANYTHING ELSE!'",
+    "image_prompt": "Dramatic spotlight on a single 1991 vintage GI Joe trading card pack resting on a dark wood table, cinematic quote typography floating in air, 8k resolution --no comic style",
+    "video_prompt": "Slow dramatic camera orbit around a single wax card pack on dark table, harsh theatrical spotlight, dust particles drifting",
+    "voiceover": "Three point five million dollars for packs of G.I. Joe trading cards worth barely five bucks a piece.",
+    "sfx": "Echoing room laugh/sigh, wooden desk thud, typewriter punch on quote"
+  },
+  {
+    "shot_id": "SHOT-18",
+    "scene_id": "SCENE-09",
+    "duration": 8.5,
+    "visual": "Digital forensic balance scale. A G.I. Joe pack placed on the left platform balances perfectly against an authentic 1st Edition Pok\u00e9mon pack on the right platform.",
+    "image_prompt": "Precision scientific laboratory scale balancing a vintage Pokemon foil pack against an old GI Joe wax pack, digital green readout showing exact identical weight, 8k photorealistic --no distortion",
+    "video_prompt": "Slow zoom in on precision balance scale settling to a dead center balance between two card packs, green LED digits stabilizing",
+    "voiceover": "The counterfeiters hadn't just faked the booster boxes\u2014they had weighted the packs with old discount warehouse wax cards to match the exact physical gram weight of a Pok\u00e9mon case.",
+    "sfx": "Scale beep, mechanical balance click, digital confirmation tone"
+  },
+  {
+    "shot_id": "SHOT-19",
+    "scene_id": "SCENE-10",
+    "duration": 9.0,
+    "visual": "Official wire transfer receipt and public apology statement scrolling past in 3D space, dissolving into digital static and fading away.",
+    "image_prompt": "Floating translucent bank wire transfer documents and legal apology letters fading into digital particles in a dark abstract space, cinematic 8k --no messy graphics",
+    "video_prompt": "Camera drifting backwards through floating translucent financial documents as they gently dissolve into glowing particles",
+    "voiceover": "Logan Paul was fully refunded by the seller, and the Canadian scammer vanished into the shadows of the internet.",
+    "sfx": "Soft paper drift, digital static fade, gentle chime"
+  },
+  {
+    "shot_id": "SHOT-20",
+    "scene_id": "SCENE-10",
+    "duration": 10.0,
+    "visual": "The original $3.5M cardboard box slowly disintegrates into millions of glowing amber dust particles floating into an infinite star-filled cosmos; a final question mark glows softly.",
+    "image_prompt": "Cinematic wide shot of a cardboard box dissolving into millions of glowing golden embers floating into an infinite dark void, philosophical and poetic, 8k resolution --no cartoon",
+    "video_prompt": "Slow continuous pull-back camera motion as a cardboard box gently disintegrates into floating golden particles that disperse into darkness",
+    "voiceover": "But this story isn't just about three and a half million dollars. It's about the illusion of authority. When an industry begins trading prestige, hype, and certificates instead of the objects themselves, all it takes is a roll of fake tape and a group of curious people on the internet to expose the house of cards.",
+    "sfx": "Deep sub-bass dissipation, wind sweep, solitary piano note decaying"
+  }
+]

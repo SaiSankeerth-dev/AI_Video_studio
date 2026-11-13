@@ -1,0 +1,176 @@
+{
+  "totalDuration": 68.468,
+  "cues": [
+    {
+      "id": "L01",
+      "speaker": "tariq",
+      "start": 0,
+      "end": 5.54,
+      "duration": 5.54,
+      "text": "Claude, I am heading to the kitchen for coffee. If you freeze up waiting for permission while I am gone...",
+      "file": "assets/voice/L01.wav"
+    },
+    {
+      "id": "L02",
+      "speaker": "claude",
+      "start": 5.72,
+      "end": 10.263,
+      "duration": 4.543,
+      "text": "You know I have to! As soon as I touch twenty files, the terminal locks until you press enter.",
+      "file": "assets/voice/L02.wav"
+    },
+    {
+      "id": "L03",
+      "speaker": "tariq",
+      "start": 10.443,
+      "end": 16.297,
+      "duration": 5.854,
+      "text": "And I come back half an hour later, and you have been sitting on Allow, yes or no, for twenty-nine minutes!",
+      "file": "assets/voice/L03.wav"
+    },
+    {
+      "id": "L04",
+      "speaker": "claude",
+      "start": 16.477,
+      "end": 17.99,
+      "duration": 1.513,
+      "text": "Not anymore. Look at your phone.",
+      "file": "assets/voice/L04.wav"
+    },
+    {
+      "id": "L05",
+      "speaker": "tariq",
+      "start": 18.17,
+      "end": 20.177,
+      "duration": 2.007,
+      "text": "My phone? What did you just install?",
+      "file": "assets/voice/L05.wav"
+    },
+    {
+      "id": "L06",
+      "speaker": "claude",
+      "start": 20.357,
+      "end": 23.836,
+      "duration": 3.479,
+      "text": "T3 Code. Theo and the team made it completely open source.",
+      "file": "assets/voice/L06.wav"
+    },
+    {
+      "id": "L07",
+      "speaker": "tariq",
+      "start": 24.016,
+      "end": 27.46,
+      "duration": 3.444,
+      "text": "Wait, my entire Claude Code session is streaming to my phone?",
+      "file": "assets/voice/L07.wav"
+    },
+    {
+      "id": "L08",
+      "speaker": "claude",
+      "start": 27.64,
+      "end": 32.34,
+      "duration": 4.7,
+      "text": "Full live terminal, file tree, and instant diffs. When I need permission, your phone buzzes.",
+      "file": "assets/voice/L08.wav"
+    },
+    {
+      "id": "L09",
+      "speaker": "tariq",
+      "start": 32.52,
+      "end": 34.753,
+      "duration": 2.233,
+      "text": "So I can approve file writes from the kitchen?",
+      "file": "assets/voice/L09.wav"
+    },
+    {
+      "id": "L10",
+      "speaker": "claude",
+      "start": 34.933,
+      "end": 37.799,
+      "duration": 2.866,
+      "text": "From the kitchen, from the elevator, or flat on your couch.",
+      "file": "assets/voice/L10.wav"
+    },
+    {
+      "id": "L11",
+      "speaker": "tariq",
+      "start": 37.979,
+      "end": 40.972,
+      "duration": 2.993,
+      "text": "Okay, what is the catch? How much is this costing me?",
+      "file": "assets/voice/L11.wav"
+    },
+    {
+      "id": "L12",
+      "speaker": "claude",
+      "start": 41.152,
+      "end": 45.081,
+      "duration": 3.929,
+      "text": "Zero dollars! In their FAQ it literally says: There is no way to pay us.",
+      "file": "assets/voice/L12.wav"
+    },
+    {
+      "id": "L13",
+      "speaker": "tariq",
+      "start": 45.261,
+      "end": 47.752,
+      "duration": 2.491,
+      "text": "Wait, so they do not even proxy my tokens?",
+      "file": "assets/voice/L13.wav"
+    },
+    {
+      "id": "L14",
+      "speaker": "claude",
+      "start": 47.932,
+      "end": 54.039,
+      "duration": 6.107,
+      "text": "Direct to your own keys. Claude Code, Codex, Cursor, Grok, Antigravity. Fifty-two thousand GitHub stars.",
+      "file": "assets/voice/L14.wav"
+    },
+    {
+      "id": "L15",
+      "speaker": "tariq",
+      "start": 54.219,
+      "end": 57.758,
+      "duration": 3.539,
+      "text": "So I do not have to sit here staring at a progress bar at two AM?",
+      "file": "assets/voice/L15.wav"
+    },
+    {
+      "id": "L16",
+      "speaker": "claude",
+      "start": 57.938,
+      "end": 61.288,
+      "duration": 3.35,
+      "text": "Never again. Now go make that coffee. Your phone is about to buzz.",
+      "file": "assets/voice/L16.wav"
+    },
+    {
+      "id": "L17",
+      "speaker": "tariq",
+      "start": 61.468,
+      "end": 63.444,
+      "duration": 1.976,
+      "text": "Wait, what are you refactoring right now?",
+      "file": "assets/voice/L17.wav"
+    },
+    {
+      "id": "L18",
+      "speaker": "claude",
+      "start": 63.624,
+      "end": 66.136,
+      "duration": 2.512,
+      "text": "The entire production authentication router!",
+      "file": "assets/voice/L18.wav"
+    },
+    {
+      "id": "L19",
+      "speaker": "tariq",
+      "start": 66.316,
+      "end": 67.088,
+      "duration": 0.772,
+      "text": "Claude, no!",
+      "file": "assets/voice/L19.wav"
+    }
+  ]
+}

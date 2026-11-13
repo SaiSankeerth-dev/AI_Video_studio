@@ -1,0 +1,274 @@
+{
+  "slug": "03-claude-on-phone",
+  "video_path": "E:\\AI_Videos\\Instagram\\exports\\03_claude_on_phone_final.mp4",
+  "metadata": {
+    "file_size_bytes": 24810528,
+    "file_size_mb": 23.66,
+    "duration_sec": 68.5,
+    "video": {
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "1080:1920",
+      "fps": 30.0,
+      "bitrate_kbps": 2693.9
+    },
+    "audio": {
+      "codec": "aac",
+      "sample_rate_hz": 48000,
+      "channels": 2,
+      "bitrate_kbps": 196.5
+    }
+  },
+  "editing": {
+    "total_shots": 20,
+    "average_shot_duration_sec": 3.42,
+    "cuts_per_minute": 17.5,
+    "scenes": [
+      {
+        "scene_index": 1,
+        "start_sec": 0.0,
+        "end_sec": 5.57,
+        "duration_sec": 5.57
+      },
+      {
+        "scene_index": 2,
+        "start_sec": 5.57,
+        "end_sec": 10.47,
+        "duration_sec": 4.9
+      },
+      {
+        "scene_index": 3,
+        "start_sec": 10.47,
+        "end_sec": 16.3,
+        "duration_sec": 5.83
+      },
+      {
+        "scene_index": 4,
+        "start_sec": 16.3,
+        "end_sec": 18.2,
+        "duration_sec": 1.9
+      },
+      {
+        "scene_index": 5,
+        "start_sec": 18.2,
+        "end_sec": 20.2,
+        "duration_sec": 2.0
+      },
+      {
+        "scene_index": 6,
+        "start_sec": 20.2,
+        "end_sec": 23.87,
+        "duration_sec": 3.67
+      },
+      {
+        "scene_index": 7,
+        "start_sec": 23.87,
+        "end_sec": 27.67,
+        "duration_sec": 3.8
+      },
+      {
+        "scene_index": 8,
+        "start_sec": 27.67,
+        "end_sec": 32.37,
+        "duration_sec": 4.7
+      },
+      {
+        "scene_index": 9,
+        "start_sec": 32.37,
+        "end_sec": 34.93,
+        "duration_sec": 2.56
+      },
+      {
+        "scene_index": 10,
+        "start_sec": 34.93,
+        "end_sec": 37.8,
+        "duration_sec": 2.87
+      },
+      {
+        "scene_index": 11,
+        "start_sec": 37.8,
+        "end_sec": 41.17,
+        "duration_sec": 3.37
+      },
+      {
+        "scene_index": 12,
+        "start_sec": 41.17,
+        "end_sec": 45.1,
+        "duration_sec": 3.93
+      },
+      {
+        "scene_index": 13,
+        "start_sec": 45.1,
+        "end_sec": 47.77,
+        "duration_sec": 2.67
+      },
+      {
+        "scene_index": 14,
+        "start_sec": 47.77,
+        "end_sec": 54.23,
+        "duration_sec": 6.46
+      },
+      {
+        "scene_index": 15,
+        "start_sec": 54.23,
+        "end_sec": 57.77,
+        "duration_sec": 3.54
+      },
+      {
+        "scene_index": 16,
+        "start_sec": 57.77,
+        "end_sec": 61.5,
+        "duration_sec": 3.73
+      },
+      {
+        "scene_index": 17,
+        "start_sec": 61.5,
+        "end_sec": 63.47,
+        "duration_sec": 1.97
+      },
+      {
+        "scene_index": 18,
+        "start_sec": 63.47,
+        "end_sec": 66.33,
+        "duration_sec": 2.86
+      },
+      {
+        "scene_index": 19,
+        "start_sec": 66.33,
+        "end_sec": 67.1,
+        "duration_sec": 0.77
+      },
+      {
+        "scene_index": 20,
+        "start_sec": 67.1,
+        "end_sec": 68.5,
+        "duration_sec": 1.4
+      }
+    ]
+  },
+  "frames": [
+    {
+      "label": "01_opening_hook",
+      "timestamp": 1.0,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\03-claude-on-phone_frames\\01_opening_hook.jpg"
+    },
+    {
+      "label": "02_tension_build",
+      "timestamp": 15.0,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\03-claude-on-phone_frames\\02_tension_build.jpg"
+    },
+    {
+      "label": "03_midpoint_reveal",
+      "timestamp": 34.25,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\03-claude-on-phone_frames\\03_midpoint_reveal.jpg"
+    },
+    {
+      "label": "04_climax",
+      "timestamp": 58.225,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\03-claude-on-phone_frames\\04_climax.jpg"
+    },
+    {
+      "label": "05_ending_punchline",
+      "timestamp": 67.0,
+      "path": "E:\\AI_Videos\\Instagram\\agent-talk-content-system\\analysis\\video-analysis\\03-claude-on-phone_frames\\05_ending_punchline.jpg"
+    }
+  ],
+  "transcript": [
+    {
+      "index": "1",
+      "timing": "00:00:00,000 --> 00:00:05,540",
+      "text": "[TARIQ]: Claude, I am heading to the kitchen for coffee. If you freeze up waiting for permission while I am gone..."
+    },
+    {
+      "index": "2",
+      "timing": "00:00:05,719 --> 00:00:10,262",
+      "text": "[CLAUDE]: You know I have to! As soon as I touch twenty files, the terminal locks until you press enter."
+    },
+    {
+      "index": "3",
+      "timing": "00:00:10,442 --> 00:00:16,297",
+      "text": "[TARIQ]: And I come back half an hour later, and you have been sitting on Allow, yes or no, for twenty-nine minutes!"
+    },
+    {
+      "index": "4",
+      "timing": "00:00:16,477 --> 00:00:17,989",
+      "text": "[CLAUDE]: Not anymore. Look at your phone."
+    },
+    {
+      "index": "5",
+      "timing": "00:00:18,170 --> 00:00:20,176",
+      "text": "[TARIQ]: My phone? What did you just install?"
+    },
+    {
+      "index": "6",
+      "timing": "00:00:20,356 --> 00:00:23,835",
+      "text": "[CLAUDE]: T3 Code. Theo and the team made it completely open source."
+    },
+    {
+      "index": "7",
+      "timing": "00:00:24,015 --> 00:00:27,460",
+      "text": "[TARIQ]: Wait, my entire Claude Code session is streaming to my phone?"
+    },
+    {
+      "index": "8",
+      "timing": "00:00:27,640 --> 00:00:32,340",
+      "text": "[CLAUDE]: Full live terminal, file tree, and instant diffs. When I need permission, your phone buzzes."
+    },
+    {
+      "index": "9",
+      "timing": "00:00:32,520 --> 00:00:34,753",
+      "text": "[TARIQ]: So I can approve file writes from the kitchen?"
+    },
+    {
+      "index": "10",
+      "timing": "00:00:34,932 --> 00:00:37,798",
+      "text": "[CLAUDE]: From the kitchen, from the elevator, or flat on your couch."
+    },
+    {
+      "index": "11",
+      "timing": "00:00:37,978 --> 00:00:40,972",
+      "text": "[TARIQ]: Okay, what is the catch? How much is this costing me?"
+    },
+    {
+      "index": "12",
+      "timing": "00:00:41,152 --> 00:00:45,081",
+      "text": "[CLAUDE]: Zero dollars! In their FAQ it literally says: There is no way to pay us."
+    },
+    {
+      "index": "13",
+      "timing": "00:00:45,261 --> 00:00:47,752",
+      "text": "[TARIQ]: Wait, so they do not even proxy my tokens?"
+    },
+    {
+      "index": "14",
+      "timing": "00:00:47,932 --> 00:00:54,039",
+      "text": "[CLAUDE]: Direct to your own keys. Claude Code, Codex, Cursor, Grok, Antigravity. Fifty-two thousand GitHub stars."
+    },
+    {
+      "index": "15",
+      "timing": "00:00:54,219 --> 00:00:57,758",
+      "text": "[TARIQ]: So I do not have to sit here staring at a progress bar at two AM?"
+    },
+    {
+      "index": "16",
+      "timing": "00:00:57,938 --> 00:01:01,287",
+      "text": "[CLAUDE]: Never again. Now go make that coffee. Your phone is about to buzz."
+    },
+    {
+      "index": "17",
+      "timing": "00:01:01,468 --> 00:01:03,444",
+      "text": "[TARIQ]: Wait, what are you refactoring right now?"
+    },
+    {
+      "index": "18",
+      "timing": "00:01:03,624 --> 00:01:06,135",
+      "text": "[CLAUDE]: The entire production authentication router!"
+    },
+    {
+      "index": "19",
+      "timing": "00:01:06,316 --> 00:01:07,087",
+      "text": "[TARIQ]: Claude, no!"
+    }
+  ]
+}

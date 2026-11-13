@@ -1,0 +1,173 @@
+[
+  {
+    "id": "L01",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "Claude, GTA 6 comes out soon, and every influencer on my feed claims you can make twenty grand clipping live streams with AI. Is that actually real?",
+    "duration": 9.943,
+    "file": "assets/voice/L01.wav"
+  },
+  {
+    "id": "L02",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Let us break it into three honest parts: what people claim, how to do it free, and the copyright reality.",
+    "duration": 5.093,
+    "file": "assets/voice/L02.wav"
+  },
+  {
+    "id": "L03",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Start with the hype. What are they telling people to do?",
+    "duration": 2.806,
+    "file": "assets/voice/L03.wav"
+  },
+  {
+    "id": "L04",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.16,
+    "text": "Take an eight-hour streamer broadcast, have an AI detect the funny moments, convert it to nine-by-sixteen, and spam it across TikTok and Reels.",
+    "duration": 7.202,
+    "file": "assets/voice/L04.wav"
+  },
+  {
+    "id": "L05",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "So literally just re-uploading other people's gameplay without editing?",
+    "duration": 4.035,
+    "file": "assets/voice/L05.wav"
+  },
+  {
+    "id": "L06",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "That is the entire business model.",
+    "duration": 1.928,
+    "file": "assets/voice/L06.wav"
+  },
+  {
+    "id": "L07",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Okay, but how much does the AI software cost?",
+    "duration": 2.686,
+    "file": "assets/voice/L07.wav"
+  },
+  {
+    "id": "L08",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.16,
+    "text": "Zero dollars. An open-source tool called OpenShorts just dropped on GitHub with eight thousand stars.",
+    "duration": 5.457,
+    "file": "assets/voice/L08.wav"
+  },
+  {
+    "id": "L09",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Wait, it is completely free?",
+    "duration": 1.499,
+    "file": "assets/voice/L09.wav"
+  },
+  {
+    "id": "L10",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.16,
+    "text": "MIT licensed. You paste any stream link, and local AI extracts viral clips, crops the facecam, and generates animated captions automatically.",
+    "duration": 8.018,
+    "file": "assets/voice/L10.wav"
+  },
+  {
+    "id": "L11",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "Wait, it handles face tracking and captions too? What am I supposed to do?",
+    "duration": 4.014,
+    "file": "assets/voice/L11.wav"
+  },
+  {
+    "id": "L12",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Press publish and pray YouTube's algorithm does not notice.",
+    "duration": 3.124,
+    "file": "assets/voice/L12.wav"
+  },
+  {
+    "id": "L13",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "And that brings us to part three: is the money real?",
+    "duration": 2.797,
+    "file": "assets/voice/L13.wav"
+  },
+  {
+    "id": "L14",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "The views are real. But the footage belongs to Rockstar, and YouTube actively demonetizes reused content with zero commentary.",
+    "duration": 7.04,
+    "file": "assets/voice/L14.wav"
+  },
+  {
+    "id": "L15",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "Plus fifty thousand kids will be clipping the exact same stream on launch day.",
+    "duration": 4.273,
+    "file": "assets/voice/L15.wav"
+  },
+  {
+    "id": "L16",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "Exactly. In a gold rush, the people getting rich are not the clippers, it is the developers building the clipping tools.",
+    "duration": 5.715,
+    "file": "assets/voice/L16.wav"
+  },
+  {
+    "id": "L17",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.14,
+    "text": "So I should not quit my engineering job to farm GTA clips?",
+    "duration": 3.84,
+    "file": "assets/voice/L17.wav"
+  },
+  {
+    "id": "L18",
+    "speaker": "claude",
+    "voice": "af_nova",
+    "speed": 1.15,
+    "text": "You are a senior developer, Tariq. Go review your pull requests.",
+    "duration": 3.24,
+    "file": "assets/voice/L18.wav"
+  },
+  {
+    "id": "L19",
+    "speaker": "tariq",
+    "voice": "am_michael",
+    "speed": 1.15,
+    "text": "Fair enough.",
+    "duration": 0.692,
+    "file": "assets/voice/L19.wav"
+  }
+]

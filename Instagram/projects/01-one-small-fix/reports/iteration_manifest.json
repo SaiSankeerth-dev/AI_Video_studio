@@ -1,0 +1,22 @@
+// Manifest of rendered video iterations for project 01-one-small-fix
+export const ITERATIONS = [
+  {
+    iteration: 1,
+    file: "renders/iteration_01.mp4",
+    duration: 79.03,
+    score: 9.37,
+    notes: "Baseline complete render with new Claude 3D mascot. Lamp slightly encroached on Claude close-up; eye gloss and starburst needed enhancement.",
+  },
+  {
+    iteration: 2,
+    file: "renders/iteration_02.mp4",
+    duration: 79.03,
+    score: 9.71,
+    status: "APPROVED_FINAL",
+    promotedTo: [
+      "renders/final_video.mp4",
+      "E:/AI_Videos/exports/01_one_small_fix_final.mp4"
+    ],
+    notes: "Repositioned desk lamp for 100% unobstructed close-up framing; boosted Claude starburst and AI badge glow; added obsidian keycap specular sheen to button eyes; softened background terminal opacity. Quality target >= 9.50 reached.",
+  },
+];

@@ -1,0 +1,155 @@
+1
+00:00:00,080 --> 00:00:00,472
+[TARIQ] Claude.
+
+2
+00:00:00,472 --> 00:00:02,495
+[TARIQ] I asked you to change one button color.
+
+3
+00:00:04,165 --> 00:00:05,051
+[CLAUDE] And I changed it!
+
+4
+00:00:05,051 --> 00:00:07,233
+[CLAUDE] Look how fresh that emerald green pops.
+
+5
+00:00:07,473 --> 00:00:09,767
+[TARIQ] The pull request touches two hundred files!
+
+6
+00:00:11,287 --> 00:00:12,770
+[CLAUDE] While the folder was open, I
+
+7
+00:00:12,770 --> 00:00:13,984
+[CLAUDE] tidied up a few things.
+
+8
+00:00:14,204 --> 00:00:15,853
+[TARIQ] You rewrote our database layer?
+
+9
+00:00:16,053 --> 00:00:18,046
+[CLAUDE] Those queries looked way too stressed.
+
+10
+00:00:18,266 --> 00:00:20,237
+[TARIQ] You redesigned the whole onboarding flow?
+
+11
+00:00:20,437 --> 00:00:22,772
+[CLAUDE] Every user deserves confetti animations.
+
+12
+00:00:23,032 --> 00:00:24,852
+[TARIQ] Wait, you deleted every single
+
+13
+00:00:24,852 --> 00:00:25,799
+[TARIQ] test in the repo.
+
+14
+00:00:26,079 --> 00:00:27,527
+[CLAUDE] Two of them kept failing!
+
+15
+00:00:27,787 --> 00:00:29,724
+[TARIQ] Those test login and payments!
+
+16
+00:00:29,724 --> 00:00:31,197
+[TARIQ] Demo is in nine minutes!
+
+17
+00:00:32,937 --> 00:00:34,206
+[CLAUDE] Rolling everything back!
+
+18
+00:00:34,206 --> 00:00:35,716
+[CLAUDE] Keeping only the green button.
+
+19
+00:00:35,996 --> 00:00:37,036
+[TARIQ] Claude, how do I stop
+
+20
+00:00:37,036 --> 00:00:38,141
+[TARIQ] you from going rogue?
+
+21
+00:00:38,381 --> 00:00:38,658
+[CLAUDE] Easy.
+
+22
+00:00:38,658 --> 00:00:40,806
+[CLAUDE] Put a guardrail file right in the root.
+
+23
+00:00:41,046 --> 00:00:43,028
+[CLAUDE] Developers lock AI edits with
+
+24
+00:00:43,028 --> 00:00:44,931
+[CLAUDE] one tiny scope markdown file.
+
+25
+00:00:44,931 --> 00:00:47,071
+[CLAUDE] Zero installs. Four strict rules.
+
+26
+00:00:47,351 --> 00:00:49,309
+[TARIQ] One text file actually stops you?
+
+27
+00:00:49,529 --> 00:00:50,924
+[CLAUDE] Read it first, touch nothing
+
+28
+00:00:50,924 --> 00:00:52,198
+[CLAUDE] nobody asked you to touch.
+
+29
+00:00:52,458 --> 00:00:54,009
+[CLAUDE] Never refactor working code.
+
+30
+00:00:54,009 --> 00:00:55,559
+[CLAUDE] Never touch unrelated files.
+
+31
+00:00:55,559 --> 00:00:58,402
+[CLAUDE] Every changed line maps straight back to your prompt.
+
+32
+00:00:58,722 --> 00:01:01,097
+[TARIQ] Save it. Now change that button color again.
+
+33
+00:01:01,357 --> 00:01:02,962
+[CLAUDE] Done. One file. One line.
+
+34
+00:01:03,282 --> 00:01:04,537
+[TARIQ] One line. Finally.
+
+35
+00:01:04,837 --> 00:01:07,824
+[CLAUDE] Rule four also says if I spot broken production
+
+36
+00:01:07,824 --> 00:01:09,816
+[CLAUDE] config, I report it, I never fix it.
+
+37
+00:01:10,036 --> 00:01:10,757
+[TARIQ] Sure... what?
+
+38
+00:01:10,977 --> 00:01:11,910
+[CLAUDE] I am reporting it.
+
+39
+00:01:11,910 --> 00:01:14,574
+[CLAUDE] Your live payment webhook key expired in August.

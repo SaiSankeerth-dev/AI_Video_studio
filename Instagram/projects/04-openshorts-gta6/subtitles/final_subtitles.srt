@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:09,942
+TARIQ: Claude, GTA 6 comes out soon, and every influencer on my feed claims you can make twenty grand clipping live streams with AI. Is that actually real?
+
+2
+00:00:10,122 --> 00:00:15,215
+CLAUDE: Let us break it into three honest parts: what people claim, how to do it free, and the copyright reality.
+
+3
+00:00:15,396 --> 00:00:18,202
+TARIQ: Start with the hype. What are they telling people to do?
+
+4
+00:00:18,382 --> 00:00:25,583
+CLAUDE: Take an eight-hour streamer broadcast, have an AI detect the funny moments, convert it to nine-by-sixteen, and spam it across TikTok and Reels.
+
+5
+00:00:25,763 --> 00:00:29,798
+TARIQ: So literally just re-uploading other people's gameplay without editing?
+
+6
+00:00:29,978 --> 00:00:31,907
+CLAUDE: That is the entire business model.
+
+7
+00:00:32,087 --> 00:00:34,773
+TARIQ: Okay, but how much does the AI software cost?
+
+8
+00:00:34,953 --> 00:00:40,409
+CLAUDE: Zero dollars. An open-source tool called OpenShorts just dropped on GitHub with eight thousand stars.
+
+9
+00:00:40,590 --> 00:00:42,088
+TARIQ: Wait, it is completely free?
+
+10
+00:00:42,268 --> 00:00:50,286
+CLAUDE: MIT licensed. You paste any stream link, and local AI extracts viral clips, crops the facecam, and generates animated captions automatically.
+
+11
+00:00:50,466 --> 00:00:54,481
+TARIQ: Wait, it handles face tracking and captions too? What am I supposed to do?
+
+12
+00:00:54,661 --> 00:00:57,784
+CLAUDE: Press publish and pray YouTube's algorithm does not notice.
+
+13
+00:00:57,965 --> 00:01:00,762
+TARIQ: And that brings us to part three: is the money real?
+
+14
+00:01:00,942 --> 00:01:07,981
+CLAUDE: The views are real. But the footage belongs to Rockstar, and YouTube actively demonetizes reused content with zero commentary.
+
+15
+00:01:08,162 --> 00:01:12,435
+TARIQ: Plus fifty thousand kids will be clipping the exact same stream on launch day.
+
+16
+00:01:12,614 --> 00:01:18,329
+CLAUDE: Exactly. In a gold rush, the people getting rich are not the clippers, it is the developers building the clipping tools.
+
+17
+00:01:18,510 --> 00:01:22,349
+TARIQ: So I should not quit my engineering job to farm GTA clips?
+
+18
+00:01:22,530 --> 00:01:25,769
+CLAUDE: You are a senior developer, Tariq. Go review your pull requests.
+
+19
+00:01:25,950 --> 00:01:26,641
+TARIQ: Fair enough.

@@ -20,7 +20,7 @@ __pycache__/
 venv/
 .venv/
 
-# Node & Remotion
+# Node & Remotion & HyperFrames
 node_modules/
 **/node_modules/
 out/
@@ -31,16 +31,53 @@ build/
 **/build/
 .remotion/
 **/.remotion/
+.hyperframes/
+**/.hyperframes/
 .cache/
 **/.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Heavy Renders & Binary Media (>50MB)
+# Heavy Renders & Temporary Intermediate Media (>50MB)
 *.blend1
 *.blend2
 *.zip
 *.tar.gz
-*.mp4
 *.part
+*.tmp
+*.temp
+**/assets/music/*.wav
+**/soundtrack_bed.wav
+
+# Ignore raw download scrapes and intermediate render scratchpads
+downloads/
+**/downloads/
+**/dialogue_raw/
 projects/**/remotion/renders/
 production/exports/*.mp4
 projects/**/final/*.mp4
+
+# General binary video ignores (keep repos lean)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Whitelist documentation demo media
+!docs/assets/*.mp4
+!**/docs/assets/*.mp4
+!docs/assets/*.gif
+!**/docs/assets/*.gif
+!docs/assets/*.png
+!**/docs/assets/*.png
+!docs/assets/*.jpg
+!**/docs/assets/*.jpg
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
